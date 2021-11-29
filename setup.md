@@ -16,7 +16,7 @@
 
 You should install Fallout: New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), .ini file (**Morrowind.ini**), and **Data** folder will be found.
+Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), .ini file (**FalloutNewVegas.ini**), and **Data** folder will be found.
 
 For the purpose of this guide, this will be our **Root** folder and where you should install Fallout: New Vegas:
 ```
@@ -53,38 +53,23 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 
 > From now on, run the game through the **New Vegas** option in Mod Organizer 2, rather than the **NVSE** option.
 
-# xNVSE
-
-[**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
-New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click the **nvse_6_2_4.7z** under **Assets** to download it.
-- Extract the contents of the archive to the game's **Root** folder.
-
-[**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
-Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
-- Manually download the **NVHR** main file.
-- Run **cpu_info.exe**. It will determine which file you need to install.
-- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) into your game's **Root** folder.
-
-> This mod is not compatible with [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
-
 # Mod Organizer 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
-**Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process. The most popular alternative is **Wrye Mash**. However, I’ve found that it isn’t anywhere near as intuitive as Mod Organizer 2 is, which is why we will only use it for the features Mod Organizer 2 lacks.
+**Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
 
 > Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
 
 - Manually download the **Mod Organizer 2** main file.
 - Run the **Mod Organizer 2.exe**.
-- When prompted to choose an install location, choose your Morrowind **Mods** folder (**C:\Games\Morrowind Mods\MO2**).
+- When prompted to choose an install location, choose your Fallout: New Vegas **Mods** folder (**C:\Games\Fallout New Vegas Mods\MO2**).
 - When installation has finished, uncheck the option and click **Finish**.
 
 ## Configuration
 
 ### Administrator privileges
 
-- Navigate to Mod Organizer 2's directory (**C:\Games\Morrowind Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
+- Navigate to Mod Organizer 2's directory (**C:\Games\Fallout New Vegas Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
 - In the **Compatibility** tab, check **Run this program as an administrator** and click **Apply**.
 - Click **Accept** to close this window.
 
@@ -92,56 +77,66 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 
 - Run **ModOrganizer.exe**.
 - Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
-- You will be asked to select a game to manage. Click **Browse...** and select your Morrowind **Root** folder.
+- You will be asked to select a game to manage. Click **Browse...** and select your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 - From the pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
 > If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
 
+> If at any point you get a pop-up called **INI file is read-only**, select **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
+
 ### Adjusting mod and load order
 
-Your installed mods are listed on the pane to the left. This is the order in which Morrowind loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
+Your installed mods are listed on the pane to the left. This is the order in which Fallout: New Vegas loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
+
+Your plugins are listed on the pane to the right. This is the order in which Fallout: New Vegas loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
 Reorganize it to read as follows using drag and drop.
 ```
-DLC: Tribunal
-DLC: Bloodmoon
-Unmanaged: XE Sky Variations
-```
-Your plugins are listed on the pane to the right. This is the order in which Morrowind loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
-
-Reorganize it to read as follows using drag and drop.
-```
-Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
-XE Sky Variations.esp
+FalloutNV.esm
+DeadMoney.esm
+HonestHearts.esm
+OldWorldBlues.esm
+LonesomeRoad.esm
+GunRunnersArsenal.esm
+ClassicPack.esm
+MercenaryPack.esm
+TribalPack.esm
+CaravanPack.esm
 ```
 
-> **XE Sky Variations** is an optional mod included in MGE XE that will randomize the sky colour and sunrise/sunset every day. It requires high quality sky scattering enabled (more on that later), and MWSE installed.
+> If there is a plugin called **FalloutNV_lang.esp**, delete it from the game's **Data** folder.
 
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
-### Adjusting Morrowind.ini
+### Adjusting FalloutCustom.ini
 
-One of the patches we installed with the Morrowind Code Patch, **Rain/snow collision**, requires a few .ini edits to work properly.
-
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. **morrowind.ini** will now open.
-- Use CTRL+F to input the section names and edit the respective entries to use these values. Note that **Weather Snow** may be found much further down below than the others, just below the **Archives** section.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
+- Paste in the following.
 
 ```
-[Weather Rain]
-Rain Diameter=1200
-Max Raindrops=1500
+[General]
+bUseThreadedAI=1
+iNumHWThreads=2
+bPreemptivelyUnloadCells=1
 
-[Weather Thunderstorm]
-Rain Diameter=1200
-Max Raindrops=3000
+[BackgroundLoad]
+bSelectivePurgeUnusedOnFastTravel=1
 
-[Weather Snow]
-Snow Diameter=1600
-Max Snowflakes=1500
+[Display]
+bFull Screen=1
+iTexMipMapSkip=0
+
+[Controls]
+fForegroundMouseAccelBase=0
+fForegroundMouseAccelTop=0
+fForegroundMouseBase=0
+fForegroundMouseMult=0
+
+[Audio]
+iAudioCacheSize=8192
+iMaxSizeForCachedSound=1024
 ```
 
 - Click **Save** and close the window.
@@ -155,12 +150,27 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [ ] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Morrowind#** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Morrowind#** profile.
+- With the **Default** profile selected, click **Copy**. Type in **Fallout: New Vegas Sharp** and click **OK**. Close the window.
+- On the **Profile** tab, select the **Fallout: New Vegas Sharp** profile.
 
-Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+Fallout: New Vegas Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-# NVSE Plugins
+# xNVSE
+
+[**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
+New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
+- Click the **nvse_6_2_4.7z** under **Assets** to download it.
+- Extract the contents of the archive to the game's **Root** folder.
+
+## xNVSE Plugins
+
+[**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
+Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
+- Manually download the **NVHR** main file.
+- Run **cpu_info.exe**. It will determine which file you need to install.
+- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) into your game's **Root** folder.
+
+> This mod is not compatible with [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
@@ -207,15 +217,19 @@ Extension of the New Vegas Script Extender that almost completely fixes the exte
 
 # FNVEdit
 
-Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
+Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing **FNVEdit** to help us troubleshoot and get rid of these issues.
+
+[**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
+An advanced graphical module viewer/editor and conflict detector.
+- Manually download the **FNVEdit 4.0.4** main file.
 
 ## Registering FNVEdit in Mod Organizer 2
 
-For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
+For FNVEdit to work in Mod Organizer 2, we need to register and configure it.
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to the folder of the tool you want to install (each found inside **C:\Games\Morrowind Mods**) and double click its .exe file.
+- Navigate to FNVEdit's folder (**C:\Games\Morrowind Mods**) and double click its .exe file.
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
