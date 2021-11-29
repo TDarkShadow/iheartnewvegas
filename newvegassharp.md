@@ -95,7 +95,7 @@ Mod Organizer 2 lets you hide specific files from your installed mods, like asse
 
 There will be times you'll be greeted with the following message when installing a mod through Mod Organizer 2.
 
-> **The content of data files does not look valid.**
+> **The content of data does not look valid.**
 
 In lieu of mod authors not fixing their mods themselves, there are two ways to fix this.
 
@@ -109,8 +109,8 @@ The concept of a mod package is simple: if Mod Organizer 2 recognizes *anything*
 In this case, the mod contains a **Data** folder and a loose **.txt** file acting as the mod's documentation.
 
 - Right-click on **Data**.
-- Click **Set as data files directory**.
-- The message will tell you the content of data files looks valid.
+- Click **Set as data directory**.
+- The message will tell you the content of data looks valid.
 
 Whenever you encounter this scenario, just do as I've shown above.
 
@@ -123,7 +123,7 @@ Right-clicking on **data** and clicking **Create directory...** will let you cre
 - Right-click on **data**.
 - Click **Create directory...**.
 - Enter the name of the folder you want to create, and click **OK**.
-- The message will tell you the content of data files looks valid.
+- The message will tell you the content of data looks valid.
 
 Whenever you encounter this scenario, I'll tell you which folders you have to create and what files you have to move.
 
@@ -243,8 +243,6 @@ Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensio
 - Check the following options in the BAIN installer:
   - [ ] 01 Journal and Scroll - 1K
   - [X] 01 Journal and Scroll - 2K
-  - [ ] 01 Journal and Scroll - 4K
-  - [ ] 02 Daedric Alphabet Scroll
 
 # FINISHING TOUCHES
 
@@ -259,12 +257,7 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 
 ```
 DLC: Tribunal
-DLC: Bloodmoon
     Drop Light
-    Light Decay
-    No Beds for the Diseased
-    Realistic Movement Speeds
-    Wading in Water MW
 ```
 </details>
 
@@ -277,8 +270,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 
 ```
 Morrowind.esm
-Tribunal.esm
-Bloodmoon.esm
 ```
 </details>
 
@@ -286,37 +277,16 @@ Bloodmoon.esm
 
 > This section includes plugins from the optional sections of the guide.
 
-Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**TESAME**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
+Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**FNVEdit**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
 
-- Run TESAME in Mod Organizer 2.
-- Delete the following record from **Services Restored.ESP**:
-  - NPC **hecerinde**
-- Save the plugin as **Services Restored.ESP**, overwriting the original.
-
-> This omits the restoration of Hecerinde's Secret Master tools from [**Services Restored**](https://www.nexusmods.com/morrowind/mods/47068), for consistency with the rest of the Secret Master tools unavailable in the game.
-
-- Run TESAME in Mod Organizer 2.
+- Run FNVEdit in Mod Organizer 2.
 - Delete the following records from **Alex's Better Fitted Female Armors.ESP**:
   - Armor **netch_leather_cuirass**
-  - Armor **imperial_chain_cuirass**
-  - Armor **steel_cuirass**
-  - Armor **imperial cuirass_armor**
 - Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
 
 > This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
-## CONFLICT RESOLUTION
-
-**tes3cmd** also allows us to solve conflicts in leveled lists, generating a **multipatch.esp** file which will be placed at the end of our load order. This is very useful when, for example, you have a mod that adds new weapons to a leveled list while another removes items from a leveled list (such as Daedric equipment).
-
-- Run Wrye Mash (**mash64**) in Mod Organizer 2.
-- In the **Mods** tab, click the **Misc** header and go to **TES3cmd** -> **Create MultiPatch**. Click **Yes** on the prompt.
-- tes3cmd will now generate the multipatch. After the process is over, click **OK**.
-- **multipatch.esp** will now be present at the end of your load order.
-
 ## MOD CONFIG
-
-> This section includes mods from the optional sections of the guide.
 
 The following mods need to be configured using the in-game **Mod Config** menu.
 
@@ -324,16 +294,6 @@ The following mods need to be configured using the in-game **Mod Config** menu.
 
 - Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
 - Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
-
-### abot's Tooltip
-
-- Disable **Show item Value/Weight Ratio in tooltip**.
-
-### Ashfall
-
-- Enable **Hunger/Thirst can Kill**.
-- Disable **Potion Hydrate**.
-- Under **Mod values**, set **Tiredness Rate** to 45.
 
 # MOD KEYBINDINGS
 
@@ -347,19 +307,10 @@ Y | Fast forward time | Pass the Time
 K | Orders followers to attack the current target | Kill Command
 L | Equips lockpicks | Security Enhanced
 P | Equips probes | Security Enhanced
-B | Opens/closes books and scrolls | Switchable Scriptures
-C | Equips light sources | Torch Hotkey
-Ctrl+Y | Turbo fast forward time | Pass the Time
-Ctrl+Left Click | Select individual item in stack in inventory | Morrowind Code Patch
-Shift+Left Click | Select entire stack in inventory | Morrowind Code Patch
-Alt+Left Click | Transfer entire stack | Morrowind Code Patch
-Shift+E | Equips/unequips item in inventory | Quick Equip
-Shift+E | Use potion/ingredient in inventory | Quick Equip
-Shift+Activate | Activates/deactivates placed/static light sources | The Midnight Oil
 
 # ACKNOWLEDGMENTS
 
-I want to thank the following people for their support. Not only for their kind comments towards me and the guide, but also for having gone the extra length and financially supporting me!
+This guide wouldn't be possible without Qolore's excellent work at [**Viva New New Vegas**](https://vivanewvegas.github.io/index.html). I'm just standing in the shoulders of giants.
 
 # CHANGELOG
 
