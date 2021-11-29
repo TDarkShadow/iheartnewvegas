@@ -204,20 +204,77 @@ Greatly improves the user interface without compromising the original style.
   - [ ] No Font Tweaks
   - [X] Plugin
   - [X] WASD Compatible 
+- Right-click on the installed file and click **Open in Explorer**.
+- Open **Menus\Prefabs\VUI++\settings.xml** using a text editor.
+- Set **VUI+NumberedTopics** to 1.
+- Save your changes.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
+- Check the following options in the FOMOD installer.
+  - All minus Clean Fonts for Darn.
+
+[**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
+Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
+- Install the **1. Consistent Pip-boy Icons** main file.
+- Also install the **6. Vanilla UI Plus Patch** optional file.
+
+[**Faction Map Icon Overhaul**](https://www.nexusmods.com/newvegas/mods/72181)  
+Replaces the icons of several locations with Faction-appropriate ones.
+
+[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
+High-res satellite map for the Mojave Wasteland.
+- Install the **Satellite World Map** main file.
+- Also install [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
 
 # QUALITY OF LIFE IMPROVEMENTS
 
-[**Adamantium Ore Fix**](https://www.nexusmods.com/morrowind/mods/47068)  
-Allows the player to find the exact amount of Adamantium Ore needed to craft Bols Indalen's custom Adamantium Armor.
-- Rename the file to **Adamantium Ore Fix** before installing it.
+[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
+Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
+[**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
+Increases the speed of the Pip-Boy animation.
+- Install the **Faster Pip-Boy Animation (2x)** main file.
+
+[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
+Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+
+[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
+Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
 
 # GAMEPLAY
 
-[**Expansion Delay**](https://www.nexusmods.com/morrowind/mods/47588)  
-Fixes Bethesda's overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrusive dialogue topics to a few NPCs (Bloodmoon).
+[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
+A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
+
+[**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
+
+[**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
+Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving. 
+
+[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
+Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
+
+[**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
+Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
+
+[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
+A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
+
+[**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
+Makes melee attacks hit multiple enemies.
+
+[**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
+Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
+
+[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
+Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
+- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+
+[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
 
 # OVERHAULS
 
