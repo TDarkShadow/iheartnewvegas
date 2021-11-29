@@ -68,8 +68,6 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 
 > This mod is not compatible with [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
 
-
-
 # Mod Organizer 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
@@ -162,133 +160,56 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 Morrowind# will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-# CONFIGURING MGE XE IN MO2
+# NVSE Plugins
 
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **MGE XE**. 
-- Click **Run** to run the executable.
+[**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
+Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-> Always remember to run MGE XE through Mod Organizer 2 to detect the Virtual Files folder.
+[**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
+Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-### In-game tab
+[**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
+Extension of the New Vegas Script Extender that implements structured exception handling and sanity checking to reduce frequency of game crashes.
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20In-game%20272.png)
+[**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
+Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
+- Also install the [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). This INI enables/disables certain settings to achieve the best balance between performance and stability.
 
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
+[**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
+Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-**Windowed mode**
-- Most users then to ALT+TAB during gameplay. However, if you want to maximize performance at the cost of stability when ALT+TABbing, you should uncheck this option.
+[**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
+Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
+- Manually download the **OneTweak** main file.
+- Place the **OneTweak.dll** and **OneTweak.ini** files in your **Fallout New Vegas\Data\NVSE\plugins\** folder.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
+- Set **bFull Screen** to 0.
 
-**Options**
-- Checking **Disable MGE in-game** will disable all advanced graphics settings, including MGE XE's water shader. Recommended for vanilla graphics purists.
+[**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
+Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-**Morrowind engine settings**
-- You may be tempted to enable **High detail actor shadows (buggy)**. As the name says, they are buggy and can be very taxing on your framerate. I don't recommend them.
+[**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
+Extension of the New Vegas Script Extender that almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
-### Config tab
-
-**Information**
-- Click the **Report max AA and AF** under **Information** to get your graphics card's max antialiasing and anisotropic filtering levels.
-
-### Graphics tab
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20Graphics%20272.png)
-
-Apart from the recommended settings (as seen on the image), there are a couple of options you should look out for.
-
-**Display**
-- You should select your resolution and refresh rate.
-- Set your **Antialiasing** and **Anisotropic filtering** settings to the values reported in the **Config** tab.
-- Turn **VSync** on to prevent screen-tearing.
-
-**Renderer**
-- Check **Enable shaders**.
-- Higher **Menu UI scaling** settings will scale up the UI. If you are playing on high resolutions (1080p and higher) I recommend starting with values at 1,20.
-- Lower **FPS Limiter** settings will increase the consistency of your framerate. I personally set it to **60**.
-
-**Shader setup...**
-- On the **Set active shaders** window, click **Modding >>>**. Double clicking on the **Available shaders** makes them **Active shaders**, meaning the game will run them.
-- For now, set your shader combination as follows.
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-```
-- Click **Save** after setting up your shader chain.
-
-> Note that **Antialiasing**, **Anisotropic filtering**, **VSync**, and **Enable shaders** will all take a heavy toll on your framerate.
-
-### Distant Land tab
-
-This tab lets you generate distant land, which in other words means you will see beyond the vanilla Morrowind fog. Tweaking these settings to achieve the optimal look can be difficult, and it boils down to personal taste. Distant Land can really hurt your FPS, especially when used alongside shaders, as there's more to post-process.
-
-All options minus **Use Distant Land** and **Distant land generator wizard** are disabled when you get to this tab. We need to generate distant land for these options to become available.
-
-- Click **Distant land generator wizard**.
-- On the **Distant Land Setup Wizard**, click **Select all**. The checked plugins will be used for distant land generation.
-- Click **Continue**. This will open the **Distant Land Generation** window.
-- In the **Land Textures** tab, simply click **Create Land Textures**. By default, the options you should see are 2048 and 1024 texture and normalmap resolution, respectively.
-- In the **Land Meshes** tab, select **Ultra High** from the **World mesh detail** dropdown menu. Click **Create Land Meshes**.
-- In the **Statics** tab:
-  - Set **Minimum Static Size** to 100.
-  - Check **Include reflective water in interiors**.
-  - Check **Use lists of statics overriding parameters set above**.
-  - Click **Edit list**.
-    - Click **Add**.
-    - Navigate to your **Morrowind\mge3** folder, and double-click **00_main.ovr**.
-    - Click **Save**.
-  - Click **Create Statics**.
-- Once the statics have been created, click **Finish**.
-
-> A rule of thumb is to regenerate your distant land any time you install or uninstall mods. Most importantly, the process will be much easier as you only need to click on **Run above steps using saved / default settings** the next time you are on the **Distant Land Generation** window. On your first distant land generation, MGE XE defaults to **Distant Land configuration setup...**.
-
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MGE%20XE%20272.png)
-
-Now that you are back on the **Distant Land** tab you will see all previously unavailable options are now enabled. To get you started, I recommend you copy the settings as shown in the image above. In the future you may want to modify them.
-
-> Note that Per-pixel lighting takes a heavy toll on your framerate. You can disable it entirely, or limit it to **Interiors only**.
-
-> These draw distance settings will preserve the foggy aesthetic of vanilla Morrowind, which I recommend over the absurd draw distance seen in most modern Morrowind screenshots. If you are aching for a little bit of extra draw distance, I suggest increasing the **Draw Distance** to 5,0, and cranking up the **Above Water Fog** settings to Start 3,0 and End 5,0.
-
-# IN-GAME CONFIGURATION
-
-It's time to finally run Morrowind.
-
-- In Mod Organizer 2, click on the executables dropdown menu to the left of the **Run** button, and select **Morrowind**. 
-- Click **Run** to run the executable.
-
-> Always remember to run Morrowind through Mod Organizer 2 to detect the Virtual Files folder.
-
-- Once the game has finished loading, click **Options** and click the **Video** tab.
-- The **Gamma Correction** slider lets you increase/decrease the brightness of your game. I like to play Morrowind with the slider roughly 40-45% of the way from left to right, making the game look less washed out.
-- Turn the **Real-time Shadows** slider all the way to the left, disabling them. Morrowind's shadows are buggy, ugly, and are not worth the performance hit.
-- Turn the **View Distance** slider all the way to the right, maximizing render distance for actors and other statics.
-
-> If your game crashes when trying to access the **Video** tab, it may be because you are running Morrowind at a resolution unsupported by the game.
-
-> You should not adjust your resolution through the **Video** tab, as it will crash the game. Instead, run **MGE XE** and adjust it there.
-
-# TOOLS
+# FNVEdit
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing a number of tools to help us troubleshoot and get rid of these issues. Detailed instructions on how to use these tools can be found in the [**Tools**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tools) guide, however, you will be redirected to them when the time is right to use them.
 
-## TES3View, TES3Merge, TESAME
-
-[**TES3View**](https://drive.google.com/file/d/1r1IzfCNH-mGYp_Q1-IeRpMg5SKQnm52u/view?usp=sharing)  
-Used to see the structure of mods and detect conflicts.
-- Extract the contents of the file in **Morrowind Mods\TES3View**. 
-
-> The version I'm hosting can be downloaded from [**xEdit's GitHub**](https://github.com/TES5Edit/TES5Edit/releases). Both the folder and the .exe have been renamed to TES3View in order for the tool to work for Morrowind, and several unnecessary .exes dropped to reduce download size.
-
-[**TES3Merge**](https://www.nexusmods.com/morrowind/mods/46870)  
-Used to solve conflicts by merging conflicting records into a separate plugin, **Merged Objects.esp**.
-- Extract the contents of the file in **Morrowind Mods\TES3Merge**.
-
-[**TESAME**](http://mw.modhistory.com/download-95-15443)  
-Used to clean plugins and solve conflicts by manually deleting conflicting or dirty records (unintended changes by the mod's author).
-- Extract the contents of the file in **Morrowind Mods\TESAME**.
-
-### Registering tools in Mod Organizer 2
+## Registering FNVEdit in Mod Organizer 2
 
 For our modding tools to work in Mod Organizer 2, we need to register and configure them. You will have to repeat these steps for each of the three tools installed above.
 
@@ -298,47 +219,7 @@ For our modding tools to work in Mod Organizer 2, we need to register and config
 - In the **Start In** field, select your Morrowind **Root** folder (**C:\Games\Morrowind**).
 - Click **Apply**, and repeat the process for the remaining tools.
 
-## Wrye Mash
+# MOVING ON TO FALLOUT: NEW VEGAS SHARP
 
-[**Wrye Mash**](https://www.nexusmods.com/morrowind/mods/45439)  
-Wrye Mash is a mod manager and a tool used to repair and update saves, update the masters of mods, and to run tes3cmd in order to clean plugins and generate a **multipatch**.
-- Download and run the **Wrye Mash 2019 x64 - Installer** main file.
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, click **Finish** to launch the **Wrye Mash 2019 Configuration Wizard**.
-- Eventually the installation wizard will ask you to fill the following entries:
-   - **Morrowind directory**: select your Morrowind **Root** folder (**C:\Games\Morrowind**). A message should appear under the directory saying that morrowind.ini and "Data files" folder were found.
-   - **Mods Installers directory**: select your Morrowind mods folder (**C:\Games\Morrowind Mods**).
-- Click **Next** and then click **Finish**.
-- Wrye Mash x64 will now launch. Close the program.
-
-> The **Mods Installers directory** is redundant to us, as we use Mod Organizer 2 to install our mods. However, assigning a directory is required to install Wrye Mash.
-
-> **Mlox** is a tool to analyze and sort your plugin order. However, because I checked for conflicts between the plugins in this guide myself, there's no need for it.
-
-- Download the **Wrye Mash 2021 - x64 - beta6 - manual installation archive** update file.
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
-
-> This will update WryeMash to the latest version.
-
-### tes3cmd
-
-[**tes3cmd**](https://github.com/john-moonsugar/tes3cmd/releases/)  
-This tool is used to clean plugins by automatically deleting identical-to-master records (records that are usually *unintended* by the author as they do nothing in practice, but which may override *intended* changes by other mods) and solve a number of conflicts/issues by means of a plugin, **multipatch.esp**.
-- Expand **Assets** under "v0.40-pre-release-2 (with trial Windows .exe)" and download **tes3cmd.exe**.
-- Place tes3cmd.exe in **C:\Games\Morrowind\Data Files**.
-
-> Unlike the other tools, tes3cmd doesn't need to be registered in Mod Organizer 2 as it is directly run from Wrye Mash, which we have already registered.
-
-### Registering Wrye Mash in Mod Organizer 2
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to **C:\Games\Morrowind\Mopy** and double click **mash64.exe**.
-- Click **Apply** and then **OK**.
-
-> Unlike the other tools, it's not necessary to specify a **Start In** field for Wrye Mash.
-
-# MOVING ON TO MORROWIND#
-
-[To Morrowind# >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
+[To Fallout: New Vegas Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
 [<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
