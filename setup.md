@@ -1,100 +1,74 @@
 [<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
 
-# MORROWIND SETUP
-
-![Banner Setup](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Banner_Setup.jpg)
+# NEW VEGAS SETUP
 
 # Requirements
 
-- An english copy of the game from [**GOG**](https://www.gog.com/game/the_elder_scrolls_iii_morrowind_goty_edition?gclid=EAIaIQobChMIoaWD-6LP6AIVCxCRCh2a5gPiEAAYASAAEgIUSvD_BwE).
+- An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition).
   - Installation instructions are found on the next section. 
 - A [**Nexus**](https://users.nexusmods.com/register) account. This guide assumes you are using a Free account, so no need to pay for Premium.
 - A file archiver. I recommend [**7-Zip**](https://www.7-zip.org/).
 - A text editor. I recommend [**Notepad++**](https://notepad-plus-plus.org/downloads/v7.9.5/).
-
-> Users have reported issues with Mod Organizer 2 when using the Steam release of the game, which is why it is not supported by this guide.
-
-> Morrowind originally shipped with a detailed map which is absent from digital stores. [**You can get this map here.**](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Morrowind%20Game%20of%20the%20Year%20Map.jpg)
+- [**DirectX Runtime Libraries**](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
+- [**Microsoft VC++ 2013**](https://www.microsoft.com/en-us/download/details.aspx?id=40784) (x86 version) and [**Microsoft VC++ 2015-2019**](https://docs.microsoft.com/en-GB/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions).
 
 # Installation
 
-You should install Morrowind outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+You should install Fallout: New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-Your Morrowind **Root** folder is where Morrowind will be installed, and where the game's executable (**Morrowind.exe**), launcher (**Morrowind Launcher.exe**), .ini file (**Morrowind.ini**), and **Data Files** folder will be found.
+Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), .ini file (**Morrowind.ini**), and **Data** folder will be found.
 
-For the purpose of this guide, this will be our **Root** folder and where you should install Morrowind:
+For the purpose of this guide, this will be our **Root** folder and where you should install Fallout: New Vegas:
 ```
-C:\Games\Morrowind
+C:\Games\Fallout New Vegas
 ```
 Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
 ```
-C:\Games\Morrowind Mods
+C:\Games\Fallout New Vegas Mods
 ```
 
-> Make sure you don't create your Morrowind Mods folder inside your Morrowind folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+> Make sure you don't create your Fallout New Vegas Mods folder inside your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
 
-## Cleaning up your GOG installation
+# Generating fresh .INI files
 
-To clean up your GOG installation of unnecessary files, delete the following from your **Morrowind\Data Files** folder:
+- Run FalloutNVLauncher.exe from the game's Root folder.
+- Click OK to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to Documents\My Games\FalloutNV and delete all the files ending in .INI, then retry.
+- Select **Options** then select the **Ultra** preset option. A way to improve performance without drastically changing the game's visuals is by disabling shadows. New Vegas only features actor shadows which are barely visible, but which can still have a big performance impact if there are many NPCs in one area.
+- Set the **Resolution** option to your preference.
+- Click **OK** then **Exit**.
 
-- The **BookArt**, **Icons**, **Meshes**, and **Textures** folders.
-- All **.esp** files. There should be 8 of them, corresponding to the 8 official plugins.
-- All **.txt** files. There should be 8 of them, corresponding to the 8 official plugins.
+# Utilities
 
-This will free about 700 MBs of space from your Morrowind installation. You should now have only five folders (Fonts, Music, Sound, Splash, Video), three BSAs (Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa) and their corresponding .esms (Bloodmoon.esm, Morrowind.esm, Tribunal.esm).
+[**FNV BSA Decompressor**](https://www.nexusmods.com/newvegas/mods/65854?)  
+Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance, Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
+- Manually download the **FNV BSA Decompressor** main file.
+- Run **FNV BSA Decompressor.exe**, select your game's **Root** folder and press the **Decompress** button.
+- Close the program after the patching process is done.
 
-![Screenshot](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/Data%20Files.png)
+[**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
+Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
+- Manually download the **FNV 4GB Patch** main file.
+- Place the **FalloutNVpatch.exe** in your game's **Root** folder and run it as an Administrator.
+- Close the command prompt after the patching process is done.
 
-> Most of the removed files were already stored in the larger BSA files, while the official plugins Bethesda released for Morrowind were removed because of their dubious quality and implementation. [**You can read about the official plugins here.**](https://en.uesp.net/wiki/Morrowind:Plugins).
+> From now on, run the game through the **New Vegas** option in Mod Organizer 2, rather than the **NVSE** option.
 
-# Morrowind Code Patch
+# xNVSE
 
-[**Morrowind Code Patch**](https://www.nexusmods.com/morrowind/mods/19510?tab=files)  
-Directly patches bugs in the Morrowind program (Morrowind.exe), which cannot otherwise be fixed by editing scripts or data files. It is a must-have utility for anyone who plays Morrowind, and should be the first utility you ever install.
-- Manually download the **Morrowind Code Patch** main file.
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**).
+[**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
+New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
+- Click the **nvse_6_2_4.7z** under **Assets** to download it.
+- Extract the contents of the archive to the game's **Root** folder.
 
-[**MCP Skunk Works**](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)  
-Repository for the Beta update for the Morrowind Code Patch.
-- Manually download the **MCP beta** update file.
-- Extract the contents of the file in your Morrowind **Root** folder (**C:\Games\Morrowind**), and overwrite when prompted.
+[**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
+Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
+- Manually download the **NVHR** main file.
+- Run **cpu_info.exe**. It will determine which file you need to install.
+- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) into your game's **Root** folder.
 
-> This will update the Morrowind Code Patch to the latest beta version. Despite being a beta, the patch is perfectly stable and no crashes have been reported from my end or other users of the guide.
+> This mod is not compatible with [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
 
-## Setup
 
-- In your Morrowind **Root** folder, execute **Morrowind Code Patch.exe** as an Administrator.
-- The Morrowind Code Patch will prompt you to install your patches of choice. Use this [**spreadsheet**](https://docs.google.com/spreadsheets/d/1r6fv59to4-KgHJgCm-GDNnwSmD3LdDmamSDEs5jKFdM/edit?usp=sharing) as a reference to install or skip patches.
-- Once you've finished your patch selection, click on **Apply chosen patches**. You can now close the application.
-
-> After installing the Morrowind Code Patch a **Morrowind.Original.exe** will appear in your **Root** folder. This is a backup of your pre-patched executable, and it will be reused anytime you decide to reapply the Morrowind Code Patch.
-
-# MGE XE and MWSE
-
-[**MGE XE**](https://www.nexusmods.com/morrowind/mods/41102?)  
-The Morrowind Graphics Extender XE allows Morrowind to render distant views, scenery shadows, high quality shaders and other features. MGE XE supports and includes the latest **MWSE 2.1 beta**, so that the newest Lua-based mods work straight away.
-
-- Manually download the **MGE XE Installer** main file.
-- Extract the contents of the file and run the **MGE XE Installer.exe**.
-- When prompted to choose an install location, choose your Morrowind **Root** folder (**C:\Games\Morrowind**).
-- When installation has finished, uncheck both options and click **Finish**.
-
-Because Morrowind wasn't designed with distant land in mind, certain in-game scenarios which affect the landscape of Morrowind can cause annoying visual issues in the form of pop-ins or fade outs. This is where **distant static overrides** come into play: we can tell MGE XE to ignore standard distant land generation rules in order to account for these scenarios.
-
-[**abot Distant Static Overrides - Necro Edit 2.0**](https://www.dropbox.com/s/j25igx3p0m5bejs/Abot%20Distant%20Statics%20Override%20-%20Necro%20Edit%202.0.7z?dl=1)  
-**Necrolesian**'s own edit of **abot**'s custom distant static overrides, which accounts for different stages of the Morrowind and Bloodmoon main quests, as well as certain quests which modify the game's landscape.
-- Extract the contents of the necro_distant_statics_override folder to your Morrowind\mge3 directory, overwriting when prompted.
-
-This file contemplates the following scenarios (in the order in which they appear in the file) which affect the landscape of Morrowind:
-
-- The completion of the Main Quest.
-- The completion of Bloodmoon's Main Quest.
-- The progress and completion of Boethiah's Daedric Quest.
-- The completion of the Siege at Firemoth official plugin.
-- The completion of the construction of each Great House Stronghold.
-- The completion of Raven Rock's construction.
-
-Using this mod is simpler than it appears. The Readme goes well in depth about using these overrides, so you should definitely give it a read.
 
 # Mod Organizer 2
 
