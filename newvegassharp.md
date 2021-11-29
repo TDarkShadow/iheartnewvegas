@@ -38,20 +38,6 @@ The file structure is how files are organized for the game to read and use them.
 
 ## MOD ORGANIZER 2 TIPS
 
-### Installing Nexus mods with Mod Organizer 2
-
-Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
-
-- Click **Mod manager download** under the file you want to download.
-- Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
-- Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. "Yukichigai Unofficial Patch - YUP 12.2").
-- Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
-
-> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install a different file. Likewise, if there are multiple main files present, you will be told which one you need to install.
-
 ### Installing multiple files from a same Nexus mod with Mod Organizer 2
 
 There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
@@ -78,10 +64,6 @@ Sometimes authors will block the **Mod manager download** option in Nexus, and y
 - MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
 - Click **OK**.
 - The mod will appear in the left pane. Check the box next to it to finish installation.
-
-### BAIN installers
-
-BAIN installers allow modders to split their mods into a number of options. This way, the user can select the options they want to install. This guide has numerous mods packaged as BAIN installers, and detailed instructions on which of the options offered by these mods you should check (install) and uncheck (skip).
 
 ### Hiding files
 
@@ -173,8 +155,8 @@ Collection of fixes for the Caesar Legion Armors.
 
 > This mod is based off [**Fix for the Caesar Legion Armors**](https://www.nexusmods.com/newvegas/mods/65004), including edits made for compatibility with body replacers.
 
-[**Less Flickery City of New Vegas**]()  
-
+[**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
+Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
 <details>
 	<summary>Optional Patches - Click to expand</summary>
@@ -203,8 +185,28 @@ Fixes the glass texture in the Gun Runners' kiosk.
 
 # USER INTERFACE
 
-[**Better Readable Beauty Font**](https://www.nexusmods.com/morrowind/mods/49201)  
-High resolution replacer for the Magic Cards font, used in most of the user interface.
+[**UIO - User Interface Organizer**](https://www.nexusmods.com/newvegas/mods/57174)  
+An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions added to the game by various mods.
+
+[**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
+Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
+- Also install the **MCM BugFix 2** update file.
+
+[**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
+Makes the crafting interface easier, more efficient and less tedious to use. 
+
+[**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
+Greatly improves the user interface without compromising the original style.
+- Download the mod using the **DOWNLOAD NOW!** button.
+- Check the following options in the FOMOD installer.
+  - [X] Default Font Tweaks
+  - [ ] Classic Pip-Boy Font
+  - [ ] No Font Tweaks
+  - [X] Plugin
+  - [X] WASD Compatible 
+
+[**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
+Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 
 # QUALITY OF LIFE IMPROVEMENTS
 
