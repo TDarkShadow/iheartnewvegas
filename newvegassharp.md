@@ -190,7 +190,7 @@ Requires the player's crosshair to be aiming at the target in order to activate 
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the two **Yukichigai Unofifcial Patch** Dialog Topic fixes.
 
 <details>
 	<summary>Optional Gameplay - Click to expand</summary>
@@ -468,6 +468,24 @@ Better Character Creation
 Faster Pip-Boy Animation
 Simple DLC Delay
 Snowglobe Tweaks Fix
+Essential DLC Enhancements Merged
+Follower Formula Redone
+Follower Tweaks
+Immersive Hit Reactions - Makes Combat Responsive
+Immersive Recoil 2.0
+Jamming Fix and Optional Tweaks
+JAM - Just Assorted Mods
+Melee Cleave (a.k.a. Sweep)
+NPCs Sprint In Combat
+Player Combat Priority
+Precise VATS (and actually useful Perception)
+Well Rested Overhaul
+	Flirting Perks Require 5 Charisma (JSUE Version)
+	Honest Hearts Workbench Crate Luck
+	Lobotomite Tweaks
+	Luck Based Sunset Sarsaparilla Star Bottle Caps
+	Rigged Shotgun Restoration - Lore-Friendly
+	Sun Guard During Sunshine
 ```
 </details>
 
@@ -497,17 +515,17 @@ Unofficial Patch NVSE Plus.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
-MigMultiCase.esp
-AmmoScriptFixes.esp
-CriticalEffectFixes.esp
-MigGaussFix.esp
-MigMeltdown.esp
-MigFortune.esp
-MigKao.esp
-MigTeslaChain.esp
-Pre-War Businesswear Fix.esp
-Female White Glove Society Mask.esp
-PyromaniacEffectsBuff.esp
+	MigMultiCase.esp
+	AmmoScriptFixes.esp
+	CriticalEffectFixes.esp
+	MigGaussFix.esp
+	MigMeltdown.esp
+	MigFortune.esp
+	MigKao.esp
+	MigTeslaChain.esp
+	Pre-War Businesswear Fix.esp
+	Female White Glove Society Mask.esp
+	PyromaniacEffectsBuff.esp
 The Mod Configuration Menu.esp
 JIP Improved Recipe Menu.esp
 Vanilla UI Plus.esp
@@ -515,6 +533,24 @@ map_icon_overhaul.esp
 Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
+DLC Enhancements.esp
+Follower Formula Redone.esp
+Follower Tweaks.esp
+Immersive Hit Reactions.esp
+ImmersiveRecoil.esp
+JamFix.esp
+JustAssortedMods.esp
+MeleeCleave.esp
+NPCsSprint.esp
+Player Combat Priority.esp
+hz_Precise VATS.esp
+migWellRested.esp
+	Charisma Perk Requirements.esp
+	Honest Hearts Workbench Crate Luck.esp
+	Lobotomites.esp
+	Sunset Sarsaparilla Star Caps Random Luck.esp
+	Rigged Shotgun Restoration - Lore-Friendly.esp
+	Sun Guard During Sunshine.esp
 ```
 </details>
 
