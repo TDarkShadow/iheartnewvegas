@@ -43,11 +43,6 @@ Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the i
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
-[**Fix for the Caesar Legion Armors Redone**](https://drive.google.com/file/d/1OfFnnrl2gvU6p2QNI-4xGndicBM_zd-a/view)  
-Collection of fixes for the Caesar Legion Armors.
-
-> This mod is based off [**Fix for the Caesar Legion Armors**](https://www.nexusmods.com/newvegas/mods/65004), including edits made for compatibility with body replacers.
-
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
