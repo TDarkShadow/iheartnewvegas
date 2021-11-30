@@ -39,7 +39,7 @@ Small mod fixing several hundred vanilla floating objects, underground or above 
 
 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
 Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- Undo the Armor name changes in **FNVEdit**.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
