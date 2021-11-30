@@ -239,6 +239,9 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 	
 # VISUALS
 
+[**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
+Vastly improves the LOD noise texture used on all distant land.
+
 [**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Lightweight overhaul of the Strip that turns junk walls into brick, cleans up the litter, fixes the cracked marble and peeling wallpaper, and more.
 - Install the **Lightweight Strip Overhaul** main file.
@@ -286,6 +289,23 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 - Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
 
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
+- Also install the **Working date and clock for replacer** optional file.
+- Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1x__HD37kKOdKDo_wF0vy3C7-1hn0U3KI/view). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
+Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
+[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
+Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
+- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
+- Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
@@ -306,6 +326,27 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 - Install both main files.
+
+[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
+Adds animated eyelashes to NPCs and the player character.
+- Install the **tkEyelashesFNV** main file.
+
+[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
+Improves teeth, eyelashes, and eyebrow textures.
+- Install all three main files.
+
+[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
+Improves eye textures.
+- Install the **00 - Natural Eyes - Shadow** main file.
+
+[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
+Removes shine from vanilla hairs.
+
+[**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
+Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
+
+[**Beige Underwear**](https://www.nexusmods.com/newvegas/mods/72170)  
+Retextures the vault-style undergarments to have a tan/beige color.
 
 [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 Enables visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person are now in 1st person.
