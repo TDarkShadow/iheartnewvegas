@@ -277,6 +277,7 @@ Dynamically lowers the amount of loot in the game.
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install the **Uncut Wasteland plus NPCs** main file.
+- Also install the [**Viva New Vegas Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
@@ -538,6 +539,8 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
+Uncut Wasteland Plus NPCs
+Uncut Wasteland Tweaks
 ```
 </details>
 
@@ -625,6 +628,8 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
+Uncut Wasteland.esp
+Uncut Wasteland Tweaks.esp
 ```
 </details>
 
