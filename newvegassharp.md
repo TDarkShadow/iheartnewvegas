@@ -211,6 +211,9 @@ Gives the player a Sunset Sarsaparilla Star Cap when drinking Sunset Sarsaparill
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+
+[**Sun Guard During Sunshine**](https://www.nexusmods.com/newvegas/mods/71710)  
+Prevents the headgear Sun Guard effect to take place during nighttime and inside interiors.
 </details>
 
 # OVERHAULS
