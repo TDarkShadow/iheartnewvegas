@@ -1,4 +1,4 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)
 
 # NEW VEGAS SETUP
 
@@ -238,5 +238,5 @@ For FNVEdit to work in Mod Organizer 2, we need to register and configure it.
 
 # MOVING ON TO FALLOUT: NEW VEGAS SHARP
 
-[To Fallout: New Vegas Sharp >>](https://github.com/Sigourn/morrowind-sharp/blob/master/mw%23.md#morrowind)  
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)
+[To Fallout: New Vegas Sharp >>](https://github.com/Sigourn/newvegas-sharp/blob/main/newvegassharp.md#new-vegas-sharp)  
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)
