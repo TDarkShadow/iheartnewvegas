@@ -93,7 +93,7 @@ Your installed mods are listed on the pane to the left. This is the order in whi
 
 Your plugins are listed on the pane to the right. This is the order in which Fallout: New Vegas loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
-Reorganize it to read as follows using drag and drop.
+Reorganize your load order to read as follows using drag and drop, and enable the plugins.
 ```
 FalloutNV.esm
 DeadMoney.esm
