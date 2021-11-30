@@ -235,10 +235,13 @@ Overhauls vanilla traits and adds two new ones.
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
 New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
 - Install the **FNV Opposite Traits (YUP OWB)** main file.
+- Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty changes.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **Unofficial Patch NVSE Plus** Challenge fix.
+  - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
 - Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
