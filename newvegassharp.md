@@ -313,6 +313,7 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on all distant land.
+- Install the **Improved LOD noise Texture** main file.
 
 [**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Lightweight overhaul of the Strip that turns junk walls into brick, cleans up the litter, fixes the cracked marble and peeling wallpaper, and more.
