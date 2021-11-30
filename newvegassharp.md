@@ -230,6 +230,9 @@ Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the gro
 - Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
 - Also install [**JSawyer Ultimate Edition Patches**](https://www.nexusmods.com/newvegas/mods/61592). A variety of patches for mods featured in this guide.
 
+[**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
+Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
+
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
 
@@ -518,6 +521,7 @@ Well Rested Overhaul
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
+Anatomy Perks
 Improved Traits
 FNV Opposite Traits (YUP OWB)
 Improved Traits and Opposite Traits Patches
@@ -606,6 +610,7 @@ JSawyer Ultimate WMIM Patch.esp
 Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
 	Charisma Perk Requirements.esp
+MigAnatomy.esp
 Improved Traits.esp
 Improved Traits Improved.esp
 Improved Traits - JSU.esp
