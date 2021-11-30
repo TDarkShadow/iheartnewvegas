@@ -150,7 +150,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 - Check the following options:
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
-  - [ ] Automatic Archive Invalidation.
+  - [X] Automatic Archive Invalidation.
 - With the **Default** profile selected, click **Copy**. Type in **Fallout: New Vegas Sharp** and click **OK**. Close the window.
 - On the **Profile** tab, select the **Fallout: New Vegas Sharp** profile.
 
