@@ -342,9 +342,6 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 
 [**DiaMoveNVSE**](https://www.nexusmods.com/newvegas/mods/66451)  
 Enables simple diagonal movements for the player character.
-- Set bEnableHeadTurn=false in the .ini file.
-
-> if you use [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334/), set EnableECCompatible=True in the .ini file.
 
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
@@ -356,10 +353,6 @@ A skeleton with compatibility for the latest mods.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-- Open the mod's .ini file and make the following adjustments.
-  - fDefaultWorldFOV=85.0000
-  - fDefault1stPersonFOV=70.0000
-  - fPipboy1stPersonFOV=65.0000
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -423,11 +416,6 @@ Replacer for the default underwear, removing the shirt for males and tweaking th
 
 [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 Enables visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person are now in 1st person.
-- Open the mod's .ini file and make the following adjustments.
-  - bFirstPersonSitting=0
-  - bFirstPersonKnockout=0
-  - bFirstPersonDeath=0
-  - fDlgFocusOverride=6.0
 
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
@@ -654,6 +642,28 @@ More Accurate Geiger Clicking.esp
 </details>
 
 ## MOD CONFIG
+
+### New Vegas - Enhanced Camera
+
+Open the mod's .ini file and make the following adjustments.
+- bFirstPersonSitting=0
+- bFirstPersonKnockout=0
+- bFirstPersonDeath=0
+- fDlgFocusOverride=6.0
+
+### FOV Slider
+
+Open the mod's .ini file and make the following adjustments.
+- fDefaultWorldFOV=85.0000
+- fDefault1stPersonFOV=70.0000
+- fPipboy1stPersonFOV=65.0000
+
+### DiaMoveNVSE
+
+Open the mod's .ini file and make the following adjustments.
+- bEnableHeadTurn=false
+
+> if you also use [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334/), set EnableECCompatible=True.
 
 # MOD KEYBINDINGS
 
