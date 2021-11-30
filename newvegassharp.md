@@ -37,13 +37,6 @@ A collection of fixes for throwable weapons, focused on projectiles.
 [**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
 Small mod fixing several hundred vanilla floating objects, underground or above ground.
 
-[**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
-Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
-- Undo the Armor name changes in **FNVEdit**.
-
-[**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
-Fixes the White Glove Society Mask mesh for female characters.
-
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
@@ -83,6 +76,13 @@ Upgrades the Tesla Cannon so that it can now actually chain between targets. The
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
+
+[**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
+Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
+- Undo the Armor name changes in **FNVEdit**.
+
+[**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
+Fixes the White Glove Society Mask mesh for female characters.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes the glass texture in the Gun Runners' kiosk.
