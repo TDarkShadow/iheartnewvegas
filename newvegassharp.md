@@ -441,6 +441,21 @@ Sierra Madre Exterior Fixed
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version B
 	Lonesome Road Carbon Shadow Fix
+UIO - User Interface Organizer
+The Mod Configuration Menu
+The Mod Configuration Menu Bugfix
+JIP Improved Recipe Menu
+Vanilla UI Plus (New Vegas)
+Clean Vanilla HUD
+Consistent Pip-Boy Icons
+Consistent Pip-Boy Icons Vanilla UI Plus Patch
+Faction Map Icon Overhaul
+Satellite World Map
+Satellite Maps DLC
+Better Character Creation
+Faster Pip-Boy Animation
+Simple DLC Delay
+Snowglobe Tweaks Fix
 ```
 </details>
 
@@ -481,6 +496,13 @@ MigTeslaChain.esp
 Pre-War Businesswear Fix.esp
 Female White Glove Society Mask.esp
 PyromaniacEffectsBuff.esp
+The Mod Configuration Menu.esp
+JIP Improved Recipe Menu.esp
+Vanilla UI Plus.esp
+map_icon_overhaul.esp
+Better Character Creation.esp
+Simple DLC Delay.esp
+Snowglobe Tweaks.esp
 ```
 </details>
 
