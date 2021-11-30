@@ -86,6 +86,7 @@ Fixes the White Glove Society Mask mesh for female characters.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes the glass texture in the Gun Runners' kiosk.
+- Only install the **Gun Runners Kiosk Glass Fix Alternate Version B** optional file.
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
