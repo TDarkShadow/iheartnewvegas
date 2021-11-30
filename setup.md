@@ -168,8 +168,8 @@ New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities 
 [**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
 - Manually download the **NVHR** main file.
-- Run **cpu_info.exe**. It will determine which file you need to install.
-- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) into your game's **Root** folder.
+- Extract the contents of the archive and run **cpu_info.exe**. It will determine which file you need to install.
+- Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) in your game's **Root** folder.
 
 > This mod is not compatible with [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
 
@@ -202,7 +202,7 @@ Extension of the New Vegas Script Extender that allows a maximum of 255 plugins 
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
-- Place the **OneTweak.dll** and **OneTweak.ini** files in your **Fallout New Vegas\Data\NVSE\plugins\** folder.
+- Extract the contents of the archive, and place the **OneTweak.dll** and **OneTweak.ini** files found **SKSE\plugins\** in in your **Fallout New Vegas\Data\NVSE\plugins\** folder. If such a folder is not present, create it.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
