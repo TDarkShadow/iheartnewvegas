@@ -257,7 +257,7 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
   - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
   - Forward the **Miscellaneous Tweaks** Conditions for NVDLC02RecipeBreakdown45Auto.
 - Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
-  - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three Leveled List records for VendorWeaponsMeleeTier3.
+  - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three **Miscellaneous Tweaks** Leveled List records for VendorWeaponsMeleeTier3.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
