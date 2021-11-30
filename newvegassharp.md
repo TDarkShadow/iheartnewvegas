@@ -416,9 +416,6 @@ Removes shine from vanilla hairs.
 [**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
 Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
 
-[**Beige Underwear**](https://www.nexusmods.com/newvegas/mods/72170)  
-Retextures the vault-style undergarments to have a tan/beige color.
-
 [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
 Enables visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person are now in 1st person.
 - Open the mod's .ini file and make the following adjustments.
@@ -638,13 +635,6 @@ Uncut Wasteland Tweaks.esp
 </details>
 
 ## MOD CONFIG
-
-The following mods need to be configured using the in-game **Mod Config** menu.
-
-### abot's Smart Journal
-
-- Set **Add a prefix in order to group quest names?** to 0. This will remove the lag when opening the quest page without this option set to 0.
-- Disable every option below **Sort quests list by quest name?**. These options are useful to troubleshoot mods, but we don't need them. 
 
 # MOD KEYBINDINGS
 
