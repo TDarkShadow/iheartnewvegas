@@ -16,7 +16,7 @@
 
 You should install Fallout: New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), .ini file (**FalloutNewVegas.ini**), and **Data** folder will be found.
+Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), and **Data** folder will be found.
 
 For the purpose of this guide, this will be our **Root** folder and where you should install Fallout: New Vegas:
 ```
