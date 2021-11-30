@@ -159,6 +159,9 @@ Makes melee attacks hit multiple enemies.
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
