@@ -253,6 +253,9 @@ Limits the amount of followers the player can have depending on their Charisma s
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving. 
 
+[**Immersive Hit Reactions**](https://www.nexusmods.com/newvegas/mods/66646)  
+Enemies will react more to getting shot or hit, making them feel less like a bullet sponge. The player can now also react to getting shot.
+
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
@@ -265,43 +268,169 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
+[**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
+NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
+
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
-
-[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
-Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
-- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 - Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
 
+<details>
+	<summary>Optional Gameplay - Click to expand</summary>
+
+[**Flirting Perks Require 5 Charisma**](https://www.nexusmods.com/newvegas/mods/67594)  
+Black Widow, Cherchez La Femme, Confirmed Bachelor, and Lady Killer all require 5 or more Charisma to acquire now.
+- Install the **JSawyer (Ultimate) version** main file.
+
+[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
+Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
+- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+</details>
+
 # OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
-[**Class-Conscious Character Progression (CCCP)**](https://www.nexusmods.com/morrowind/mods/48110)  
-A leveling mod that implements most features of Galsiah's Character Development.
+[**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
+Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
+- Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
+
+[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
+Overhauls vanilla traits and adds two new ones.
+
+[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
+New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
+- Install the **FNV Opposite Traits (YUP OWB)** main file.
+
+[**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
+Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+
+[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
+Collection of gameplay tweaks by Qolore7.
+
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
+- Also install the **JSawyer Ultimate Edition Patch** optional file.
+
+[**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
+Makes radiation work like in Fallout 4, by damaging your max health.
+- Also install [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
+
+# CONTENT
+
+[**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
+Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
+- Install the **Uncut Wasteland plus NPCs** main file.
 
 # AUDIO
 
-[**No Female Nord Screeching**](https://www.nexusmods.com/morrowind/mods/49232)  
-Replaces a handful of sound files to stop female Nords from bursting your ear drums when they are attacked.
-- Rename the file to **No Female Nord Screeching** before installing it.
+[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
+Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
 
-# DIALOGUE
+[**More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/68605)  
+Increases the Pip-Boy Geiger clicking beyond the vanilla default.
 
-[**Great Service**](https://www.nexusmods.com/morrowind/mods/47767)  
-Enables over 100 lines of voiced dialogue for shopkeepers that were shipped with the original game but never used.
+[**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
+Removes the cocking sound that plays every time you equip a rifle.
 
+<details>
+	<summary>Optional Audio - Click to expand</summary>
+
+[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
+Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
+- Install the **Female Nuka-Cola Drinking Sound replacer** main file.
+</details>
+	
 # VISUALS
 
-[**Pete's Scroll 2018 ...in 2020**](https://www.nexusmods.com/morrowind/mods/47863)  
-Replacement scroll and journal textures, rendered out in 1k, 2k, and 4k dimensions.
-- Install the **Pete's Journal and Scroll** optional file.
-- Check the following options in the BAIN installer:
-  - [ ] 01 Journal and Scroll - 1K
-  - [X] 01 Journal and Scroll - 2K
+[**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
+Lightweight overhaul of the Strip that turns junk walls into brick, cleans up the litter, fixes the cracked marble and peeling wallpaper, and more.
+- Install the **Lightweight Strip Overhaul** main file.
+- Also install the **Lightweight Strip Overhaul - Uncut Wasteland Patch** optional file.
+
+[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
+Adds more tree and plant variants, implements 3D LODs, and improves grass.
+- Install both main files.
+
+[**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
+Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
+- Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
+  - Install both main files.
+
+[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
+Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
+
+> This mod is compatible with **Immersive Recoil 2.0** (which we installed earlier) and **B42 Weapon Inertia** (which we will install next).
+
+[**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
+Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
+
+[**DiaMoveNVSE**](https://www.nexusmods.com/newvegas/mods/66451)  
+Enables simple diagonal movements for the player character.
+- Set bEnableHeadTurn=false in the .ini file.
+
+> if you use [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334/), set EnableECCompatible=True in the .ini file.
+
+[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
+Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
+- Install the **Ragdolls** main file.
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
+[**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
+A skeleton with compatibility for the latest mods.
+
+[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
+Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
+- Open the mod's .ini file and make the following adjustments.
+  - fDefaultWorldFOV=85.0000
+  - fDefault1stPersonFOV=70.0000
+  - fPipboy1stPersonFOV=65.0000
+
+[**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
+Visual overhaul of characters' faces, following vanilla aesthetics. 
+- Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
+
+<details>
+	<summary>Optional Visuals - Click to expand</summary>
+
+[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
+Replaces the female Metal Armor helmets with their male counterparts.
+
+[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
+Replaces the male Motorcycle helmet with its female counterpart.
+
+[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
+Adds armored gloves to all Power Armors in the game.
+- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
+- Install the **Worn-Out Scopes** main file.
+
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
+Adds CRT lines to the monitors of Securitrons.
+- Install both main files.
+
+[**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
+Enables visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person are now in 1st person.
+- Open the mod's .ini file and make the following adjustments.
+  - bFirstPersonSitting=0
+  - bFirstPersonKnockout=0
+  - bFirstPersonDeath=0
+  - fDlgFocusOverride=6.0
+
+[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
+Slides stay locked back on empty handguns.
+
+[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
+Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
+- Also install [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
+</details>
 
 # FINISHING TOUCHES
 
@@ -315,8 +444,6 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 <summary>Mod order</summary>
 
 ```
-DLC: Tribunal
-    Drop Light
 ```
 </details>
 
@@ -328,7 +455,6 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 <summary>Load order</summary>
 
 ```
-Morrowind.esm
 ```
 </details>
 
