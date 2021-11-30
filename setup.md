@@ -1,4 +1,4 @@
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)
 
 # NEW VEGAS SETUP
 
@@ -236,7 +236,7 @@ For FNVEdit to work in Mod Organizer 2, we need to register and configure it.
 - In the **Arguments** field, paste **-IKnowWhatImDoing**.
 - Click **Apply** and then **OK**.
 
-# MOVING ON TO FALLOUT: NEW VEGAS SHARP
+# MOVING ON TO THE NEXT SECTION
 
-[To Fallout: New Vegas Sharp >>](https://github.com/Sigourn/newvegas-sharp/blob/main/newvegassharp.md#new-vegas-sharp)  
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)
+[To Left My Heart In New Vegas >>](https://github.com/Sigourn/newvegas-sharp/blob/main/newvegassharp.md#left-my-heart-in-new-vegas)  
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)
