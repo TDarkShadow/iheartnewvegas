@@ -123,7 +123,7 @@ Greatly improves the user interface without compromising the original style.
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - Check the following options in the FOMOD installer.
-  - All minus Clean Fonts for Darn.
+  - Enable all **Modules** and **Tweaks** options. Do not enable the **DarnUI Specific** options.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
