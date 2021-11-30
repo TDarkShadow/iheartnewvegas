@@ -397,6 +397,7 @@ High quality retexture for night sky and moon.
 
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Encounter Zone fix for **NiptonHouse7Tinker**.
 
 [**Lucky 38 E3 Lights Restored**](https://www.nexusmods.com/newvegas/mods/66725)  
 Restores the Lucky 38's lights (mostly window lights, extra light strips and diamond lights) that were shown during E3 and were part of a cut quest but later cut due to consoles and other limitations.
