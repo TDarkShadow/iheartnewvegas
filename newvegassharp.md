@@ -1,7 +1,7 @@
 [<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
-# NEW VEGAS SHARP
+# LEFT MY HEART IN NEW VEGAS
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
