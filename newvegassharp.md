@@ -193,6 +193,9 @@ Prevents the game from becoming too easy by making enemies more likely to target
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
+[**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
+Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
+
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Yukichigai Unofifcial Patch** Dialog Topic fixes.
@@ -520,6 +523,7 @@ Melee Cleave (a.k.a. Sweep)
 NPCs Sprint In Combat
 Player Combat Priority
 Precise VATS (and actually useful Perception)
+Simple Explosive Entry
 Well Rested Overhaul
 	Flirting Perks Require 5 Charisma (JSUE Version)
 	Honest Hearts Workbench Crate Luck
@@ -647,6 +651,7 @@ MeleeCleave.esp
 NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
+Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomites.esp
