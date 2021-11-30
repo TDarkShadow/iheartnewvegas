@@ -380,7 +380,9 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 - Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
 - Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
   - Extract the contents of the archive in your **Root** folder.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
+  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
