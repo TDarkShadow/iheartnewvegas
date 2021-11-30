@@ -113,8 +113,8 @@ CaravanPack.esm
 
 ### Adjusting FalloutCustom.ini
 
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
-- Paste in the following.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the falloutcustom.ini** tab.
+- Paste in the following lines.
 
 ```
 [General]
