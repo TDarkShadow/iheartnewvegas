@@ -83,6 +83,7 @@ Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the i
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
+- Hide **Female White Glove Society Mask.esp**. We will install a JSawyer Ultimate-compatible plugin in the **Overhauls** section.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes the glass texture in the Gun Runners' kiosk.
@@ -155,6 +156,7 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 
 [**Weapon Binding Ritual No Message or Screenspace Effect**](https://www.nexusmods.com/newvegas/mods/73013)  
 Makes the Weapon Binding Ritual visually consistent with other chems and buff items, and much less annoying as a result.
+- Install this mod if you don't plan to use **JSawyer Ultimate**. Otherwise, we will install a JSawyer Ultimate-compatible plugin in the **Overhauls** section.
 
 # GAMEPLAY
 
@@ -492,6 +494,7 @@ Well Rested Overhaul
 	Sun Guard During Sunshine
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
+JSawyer Ultimate Edition Patches
 ```
 </details>
 
@@ -530,7 +533,6 @@ LessFlickeryCityOfNewVegas.esp
 	MigKao.esp
 	MigTeslaChain.esp
 	Pre-War Businesswear Fix.esp
-	Female White Glove Society Mask.esp
 	PyromaniacEffectsBuff.esp
 The Mod Configuration Menu.esp
 JIP Improved Recipe Menu.esp
@@ -539,7 +541,6 @@ map_icon_overhaul.esp
 Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
-Weapon Binding Ritual no Message.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -552,7 +553,6 @@ NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
 migWellRested.esp
-	Charisma Perk Requirements.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomites.esp
 	Sunset Sarsaparilla Star Caps Random Luck.esp
@@ -560,6 +560,12 @@ migWellRested.esp
 	Sun Guard During Sunshine.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
+JSawyer Ultimate YUP Patch.esp
+JSawyer Ultimate WMIM Patch.esp
+JSawyer Ultimate WMIM Patch.esp
+Female White Glove Society Mask JSUE.esp
+Weapon Binding Ritual No Message JSUE.esp
+	Charisma Perk Requirements.esp
 ```
 </details>
 
