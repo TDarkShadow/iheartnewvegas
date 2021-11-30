@@ -245,6 +245,7 @@ Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients for **NVDLC02RecipeHealingPoultice** and **NVDLC02RecipeDaturaAntivenom**.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
