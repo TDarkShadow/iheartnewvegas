@@ -716,30 +716,42 @@ bDoDepthOfField=0
 ### JIP LN NVSE Plugin
 
 Open the mod's .ini file and make the following adjustments.
-- bEnableFO3Repair=1
-- bNPCWeaponMods=1
-- uWMChanceMin=5
-- uWMChanceMax=15
+
+```
+bEnableFO3Repair=1
+bNPCWeaponMods=1
+uWMChanceMin=5
+uWMChanceMax=15
+```
 
 ### New Vegas - Enhanced Camera
 
 Open the mod's .ini file and make the following adjustments.
-- bFirstPersonSitting=0
-- bFirstPersonKnockout=0
-- bFirstPersonDeath=0
-- fDlgFocusOverride=6.0
+
+```
+bFirstPersonSitting=0
+bFirstPersonKnockout=0
+bFirstPersonDeath=0
+fDlgFocusOverride=6.0
+```
 
 ### FOV Slider
 
 Open the mod's .ini file and make the following adjustments.
-- fDefaultWorldFOV=85.0000
-- fDefault1stPersonFOV=70.0000
-- fPipboy1stPersonFOV=65.0000
+
+```
+fDefaultWorldFOV=85.0000
+fDefault1stPersonFOV=70.0000
+fPipboy1stPersonFOV=65.0000
+```
 
 ### DiaMoveNVSE
 
 Open the mod's .ini file and make the following adjustments.
-- bEnableHeadTurn=false
+
+```
+bEnableHeadTurn=false
+```
 
 > if you also use [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334/), set EnableECCompatible=True.
 
