@@ -195,7 +195,7 @@ Requires the player's crosshair to be aiming at the target in order to activate 
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the two **Yukichigai Unofifcial Patch** Dialog Topic fixes.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Yukichigai Unofifcial Patch** Dialog Topic fixes.
 
 <details>
 	<summary>Optional Gameplay - Click to expand</summary>
@@ -248,7 +248,7 @@ Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients for **NVDLC02RecipeHealingPoultice** and **NVDLC02RecipeDaturaAntivenom**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks for **NVDLC02RecipeHealingPoultice** and **NVDLC02RecipeDaturaAntivenom**.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
@@ -257,9 +257,9 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 - **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **Unofficial Patch NVSE Plus** Challenge fix.
-  - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
-  - Forward the **Miscellaneous Tweaks** Conditions for NVDLC02RecipeBreakdown45Auto.
+  - Forward the **Unofficial Patch NVSE Plus** Challenge fix for **NVDLC05ChallengeDeathclawProHunter**.
+  - Forward the **JSawyer Ultimate** Ingredients tweaks for **RecipePowderCharge**.
+  - Forward the **Miscellaneous Tweaks** Conditions tweaks for **NVDLC02RecipeBreakdown45Auto**.
 - Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
   - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three **Miscellaneous Tweaks** Leveled List records for VendorWeaponsMeleeTier3.
 
@@ -346,7 +346,11 @@ Enables simple diagonal movements for the player character.
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
 - Install the **Ragdolls** main file.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **YUP - Base Game + All DLC** Model fix for **DLCPittTrogBodyPartData**.
+  - Forward the **YUP - Base Game + All DLC** Body Part fix for **NVDLC01GhostBodyPartData**.
+  - Forward the **YUP - Base Game + All DLC** Ragdoll fix for **NVDLC03BrainBotbodypartdata**.
+  - Forward the **YUP - Base Game + All DLC** Actor Base fix for **TrogRagdoll**.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
