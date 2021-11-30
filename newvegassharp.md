@@ -420,7 +420,7 @@ Replaces the female Metal Armor helmets with their male counterparts.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** FormIDs fix for **ArmorPowerList**.
 
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
@@ -613,6 +613,17 @@ FNV Realistic Wasteland Lighting
 FNV RWL All DLC - Patch Collection
 RWL Tweaked - Light Tweaks
 Mojave Nights
+Bathroom Doors Overhaul
+Lucky 38 E3 Lights Restored
+Lucky 38 Intro Poster
+McCarran Escalator Glass
+McCarran Main Terminal Transparent Glass
+Lower-sitting Ranger Hat
+Metal Helmets - Female Replacements
+Power Armor Gloves
+Unisex Motorcycle Helmets
+Y-17 Trauma Override Harness Gloves
+Worn-Out Scope Crosshair Replacers
 ```
 </details>
 
@@ -724,6 +735,10 @@ Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
+Bathroom Doors Overhaul - All IN ONE.esp
+Lucky 38 intro poster.esp
+Metal Helmet Female Replacements.esp
+lexx_armored_pagloves.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
