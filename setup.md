@@ -45,6 +45,13 @@ Decompresses the Fallout New Vegas BSAs and repacks them without zlib compressio
 - Run **FNV BSA Decompressor.exe**, select your game's **Root** folder and press the **Decompress** button.
 - Close the program after the patching process is done.
 
+> This utility will add the following lines to your Fallout.ini file.
+
+```
+[Archive]
+SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textures2.bsa, Fallout - Meshes.bsa, Fallout - Meshes2.bsa, Fallout - Voices1.bsa, Fallout - Sound.bsa, Fallout - Misc.bsa
+```
+
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
 Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Manually download the **FNV 4GB Patch** main file.
