@@ -239,7 +239,7 @@ Overhauls vanilla traits and adds two new ones.
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
 New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
 - Install the **FNV Opposite Traits (YUP OWB)** main file.
-- Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty changes.
+- Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -319,6 +319,7 @@ Vastly improves the LOD noise texture used on all distant land.
 Lightweight overhaul of the Strip that turns junk walls into brick, cleans up the litter, fixes the cracked marble and peeling wallpaper, and more.
 - Install the **Lightweight Strip Overhaul** main file.
 - Also install the **Lightweight Strip Overhaul - Uncut Wasteland Patch** optional file.
+  - Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
