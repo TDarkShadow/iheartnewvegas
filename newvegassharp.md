@@ -83,6 +83,9 @@ Makes the Pyromaniac perk affect *all* the lingering fire damage effects from we
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes the glass texture in the Gun Runners' kiosk.
+
+[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
+Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 </details>
 
 # USER INTERFACE
