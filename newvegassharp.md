@@ -228,6 +228,7 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 - Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
+- Also install [**JSawyer Ultimate Edition Patches**](https://www.nexusmods.com/newvegas/mods/61592). A variety of patches for mods featured in this guide.
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
@@ -237,12 +238,10 @@ New Vegas has two Traits with opposite effects. This mod expands this idea to th
 - Install the **FNV Opposite Traits (YUP OWB)** main file.
 - Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty changes.
 
-[**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
-Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **Unofficial Patch NVSE Plus** Challenge fix.
-  - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
-- Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
+Adds iron sights to a variety of laser and plasma weapons which lacked any.
+- Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
+- Also install the **Laser Weapon Iron Sights - Iron Sight Recoil Animations** and **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** optional files.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
@@ -251,15 +250,32 @@ Collection of gameplay tweaks by Qolore7.
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
 - Also install the **JSawyer Ultimate Edition Patch** optional file.
 
+[**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
+Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **Unofficial Patch NVSE Plus** Challenge fix.
+  - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
+- Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
 - Also install [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
+
+[**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
+- Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
+- Also install the [**Viva New Vegas Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
 
 # CONTENT
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install the **Uncut Wasteland plus NPCs** main file.
+
+[**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
+Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
+
+[**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
+Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 
 # AUDIO
 
@@ -498,6 +514,22 @@ Well Rested Overhaul
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
+Improved Traits
+FNV Opposite Traits (YUP OWB)
+Improved Traits and Opposite Traits Patches
+Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
+Laser Weapon Iron Sights - Iron Sight Recoil Animations
+Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
+Plasma Weapon Iron Sights - Iron Sight Recoil Animations
+Miscellaneous Tweaks Collection
+Misc Gameplay Merge
+Misc Gameplay Merge - JSawyer Ultimate Edition Patch
+Mojave Arsenal
+JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
+RAD - Radiation (is) Actually Dangerous
+RAD - Radiation (is) Actually Dangerous - Overhaul
+Unfound Loot
+Unfound Loot Custom INI
 ```
 </details>
 
@@ -522,6 +554,7 @@ CaravanPack.esm
 Navmesh Fixes and Improvements.esm
 YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
+Misc Gameplay Merge.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 WMIMNV.esp
@@ -569,21 +602,22 @@ JSawyer Ultimate WMIM Patch.esp
 Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
 	Charisma Perk Requirements.esp
+Improved Traits.esp
+Improved Traits Improved.esp
+Improved Traits - JSU.esp
+FNVOppositeTraits.esp
+FNVImprovedOppositeTraits.esp
+FNVImprovedOppositeTraits - JSU.esp
+LaserWeaponIronSights.esp
+PlasmaWeaponIronSights.esp
+Miscellaneous Tweaks.esp
+Misc Gameplay Merge - JSUE Patch.esp
+Mojave Arsenal.esp
+JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
+RAD.esp
+Unfound Loot.esp
 ```
 </details>
-
-## MANUALLY CLEANING OUR PLUGINS
-
-> This section includes plugins from the optional sections of the guide.
-
-Some of our installed plugins contain changes we are not really interested in. These changes don't constitute dirty changes themselves, rather, changes we simply do not want. Because of this, we will be using [**FNVEdit**](https://github.com/Sigourn/morrowind-sharp/blob/master/mwtools.md#tesame) to delete the unwanted records.
-
-- Run FNVEdit in Mod Organizer 2.
-- Delete the following records from **Alex's Better Fitted Female Armors.ESP**:
-  - Armor **netch_leather_cuirass**
-- Save the plugin as **Alex's Better Fitted Female Armors.ESP**, overwriting the original.
-
-> This removes the edits from [**Better Fitted Female Armors**](https://www.nexusmods.com/morrowind/mods/50187) to armor meshes which were already designed for female characters.
 
 ## MOD CONFIG
 
