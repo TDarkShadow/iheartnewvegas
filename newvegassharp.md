@@ -65,8 +65,18 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 [**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
 Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 
+[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described.
+
+[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
+Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
+
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
+- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336) and [**ShowOff NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/72541). Both plugins are required by this mod.
+
+[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
+Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
