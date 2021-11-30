@@ -15,6 +15,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
+- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
@@ -45,6 +46,9 @@ Fixes the White Glove Society Mask mesh for female characters.
 
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
+
+[**Sierra Madre Exterior Fixed**](https://www.nexusmods.com/newvegas/mods/66775)  
+Fixes the texture on the Sierra Madre exterior.
 
 <details>
 	<summary>Optional Patches - Click to expand</summary>
