@@ -305,6 +305,8 @@ Removes the cocking sound that plays every time you equip a rifle.
 [**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
 Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
 - Install the **Female Nuka-Cola Drinking Sound replacer** main file.
+
+> Because this mod replaces the vanilla sound, you should only use it when playing a female character.
 </details>
 	
 # VISUALS
@@ -541,6 +543,14 @@ Unfound Loot
 Unfound Loot Custom INI
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
+Mojave Raiders
+JSawyer Ultimate - Mojave Raiders Patch
+Mojave Raiders Tweaks
+Mojave Wildlife - Vanilla No Chanced Spawns Version
+Empty Clicks
+More Accurate Geiger Clicking
+No Cocking Sound on Rifle Equip
+Female Nuka-Cola Drinking Sound Replacer
 ```
 </details>
 
@@ -630,6 +640,12 @@ RAD.esp
 Unfound Loot.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
+Mojave Raiders.esp
+JSawyer Ultimate - Mojave Raiders Patch.esp
+Mojave Raiders Tweaks.esp
+Mojave Wildlife (Vanilla-Style + No Chanced).esp
+hz_Empty Clicks.esp
+More Accurate Geiger Clicking.esp
 ```
 </details>
 
