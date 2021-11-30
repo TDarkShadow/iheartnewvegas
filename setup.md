@@ -223,6 +223,7 @@ Because mods can conflict with one another, or have bugs/unintended changes them
 [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
 An advanced graphical module viewer/editor and conflict detector.
 - Manually download the **FNVEdit 4.0.4** main file.
+- Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit**.
 
 ## Registering FNVEdit in Mod Organizer 2
 
