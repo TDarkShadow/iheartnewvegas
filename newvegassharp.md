@@ -395,15 +395,37 @@ High quality retexture for night sky and moon.
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
+[**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
+Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
+
+[**Lucky 38 E3 Lights Restored**](https://www.nexusmods.com/newvegas/mods/66725)  
+Restores the Lucky 38's lights (mostly window lights, extra light strips and diamond lights) that were shown during E3 and were part of a cut quest but later cut due to consoles and other limitations.
+
+[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
+Adds the Lucky 38 poster from the game's intro FMV.
+
+[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
+Makes the McCarran escalator glass texture transparent.
+
+[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
+Makes the McCarran Terminal glass transparent.
+- Install the **McCarran_Glass_transparency_Vanilla_version** main file.
+
+[**Lower-Sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the Ranger Hat so it sits slightly lower on the head. 
+
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
-
-[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
-Replaces the male Motorcycle helmet with its female counterpart.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
 - Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
+[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
+Replaces the male Motorcycle helmet with its female counterpart.
+
+[**Y-17 Trauma Override Harness Gloves**](https://www.nexusmods.com/newvegas/mods/56301)  
+Adds gloves to Y-17 Trauma Override Harness, fixing an in-game inconsistency.
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
