@@ -202,7 +202,7 @@ Extension of the New Vegas Script Extender that allows a maximum of 255 plugins 
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
-- Extract the contents of the archive, and place the **OneTweak.dll** and **OneTweak.ini** files found **SKSE\plugins\** in in your **Fallout New Vegas\Data\NVSE\plugins\** folder. If such a folder is not present, create it.
+- Extract the contents of the archive, and place the **OneTweak.dll** and **OneTweak.ini** files found **SKSE\plugins** in in your **Fallout New Vegas\Data\NVSE\plugins** folder. If such a folder is not present, create it.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
