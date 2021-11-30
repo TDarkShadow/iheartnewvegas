@@ -118,6 +118,8 @@ Greatly improves the user interface without compromising the original style.
 - Set **VUI+NumberedTopics** to 1.
 - Save your changes.
 
+> Displays numbers next to dialogue topics. A must have if using a mods that assigns dialogue topics numeric shortcuts.
+
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - Check the following options in the FOMOD installer.
