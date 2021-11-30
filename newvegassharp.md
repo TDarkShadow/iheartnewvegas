@@ -1,4 +1,4 @@
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)  
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
 # LEFT MY HEART IN NEW VEGAS
@@ -611,5 +611,5 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 - Initial release.
 </details>
 
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)  
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
