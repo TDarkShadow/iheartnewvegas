@@ -1,5 +1,5 @@
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)  
+[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
 # NEW VEGAS SHARP
 
@@ -9,7 +9,7 @@
 
 ## DISCLAIMER
 
-The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup) page. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
+The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
 # PATCHES
 
@@ -441,5 +441,5 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 - Initial release.
 </details>
 
-[<< Back to Main](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md#morrowind-a-morrowind-modding-guide)  
-[<< Back to Setup](https://github.com/Sigourn/morrowind-sharp/blob/master/setup.md#morrowind-setup)
+[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#newvegas-sharp)  
+[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
