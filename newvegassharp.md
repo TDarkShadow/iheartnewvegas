@@ -323,6 +323,8 @@ Lightweight overhaul of the Strip that turns junk walls into brick, cleans up th
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Install both main files.
+- Hide **WFO - Vanilla.esp**.
+- Also install [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://drive.google.com/file/d/1Me0MIZ8apGPxrj7cmSpKUD-vC9jmlZ3k/view?usp=sharing). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
 
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
