@@ -153,6 +153,9 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
 
+[**Weapon Binding Ritual No Message or Screenspace Effect**](https://www.nexusmods.com/newvegas/mods/73013)  
+Makes the Weapon Binding Ritual visually consistent with other chems and buff items, and much less annoying as a result.
+
 # GAMEPLAY
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
@@ -468,6 +471,7 @@ Better Character Creation
 Faster Pip-Boy Animation
 Simple DLC Delay
 Snowglobe Tweaks Fix
+Weapon Binding Ritual No Message or Screenspace Effect
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
@@ -486,6 +490,8 @@ Well Rested Overhaul
 	Luck Based Sunset Sarsaparilla Star Bottle Caps
 	Rigged Shotgun Restoration - Lore-Friendly
 	Sun Guard During Sunshine
+JSawyer Ultimate Edition
+JSawyer Ultimate Edition - Push's Tweaks
 ```
 </details>
 
@@ -533,6 +539,7 @@ map_icon_overhaul.esp
 Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
+Weapon Binding Ritual no Message.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -551,6 +558,8 @@ migWellRested.esp
 	Sunset Sarsaparilla Star Caps Random Luck.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 	Sun Guard During Sunshine.esp
+JSawyer Ultimate.esp
+JSawyer Ultimate - Push's Tweaks.esp
 ```
 </details>
 
