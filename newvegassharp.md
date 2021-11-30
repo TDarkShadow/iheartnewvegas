@@ -540,7 +540,7 @@ Y | Fast forward time | Pass the Time
 
 # ACKNOWLEDGMENTS
 
-This guide wouldn't be possible without Qolore's excellent work at [**Viva New New Vegas**](https://vivanewvegas.github.io/index.html). I'm just standing in the shoulders of giants.
+This guide wouldn't be possible without Qolore's excellent work at [**Viva New New Vegas**](https://vivanewvegas.github.io/index.html). I'm just standing on the shoulders of giants.
 
 # CHANGELOG
 
