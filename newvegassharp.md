@@ -373,7 +373,15 @@ Enhances the shoddy work on the vanilla functional streetlamps and lights of Out
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 - Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
 - Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
+- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
+  - Extract the contents of the archive in your **Root** folder.
 - Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+
+[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
+High quality retexture for night sky and moon.
+- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
+- Make a copy of skystars.dds and place it inside textures\NVDLC02\sky.
 
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
@@ -543,6 +551,35 @@ Empty Clicks
 More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
 Female Nuka-Cola Drinking Sound Replacer
+Improved LOD Noise Texture
+LSO - A Lightweight Strip Overhaul
+Lightweight Strip Overhaul - Uncut Wasteland Patch
+Wasteland Flora and Terrain Overhaul
+Wasteland Flora and Terrain Overhaul ESP Replacer
+Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
+Anniversary Anim Pack
+Anniversary Anim Pack - General Bugfix
+Anniversary Anim Pack - General Bugfix Bonus Patch
+Viewmodel Recoil
+B42 Weapon Inertia
+DiaMoveNVSE
+Ragdolls
+NV Compatibility Skeleton
+FOV Slider
+Character Expansions Revised
+Character Expansions Revised - YUP
+Character Expansions Revised - JSU
+Character Expansions Revised - UW
+Character Expansions Revised - MR
+Pip-Boy 2000 Mk VI
+Pip-Boy 2000 Mk VI Working Date and Clock
+Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
+NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+A Little More Lamplight
+FNV Realistic Wasteland Lighting
+FNV RWL All DLC - Patch Collection
+RWL Tweaked - Light Tweaks
+Mojave Nights
 ```
 </details>
 
@@ -568,6 +605,9 @@ Navmesh Fixes and Improvements.esm
 YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
 Misc Gameplay Merge.esm
+Lightweight Strip Overhaul.esm
+Ragdolls.esm
+Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 WMIMNV.esp
@@ -638,10 +678,48 @@ Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
+Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
+Vurt's WFO.esp
+VM_Recoil.esp
+B42Inertia.esp
+FOVSlider.esp
+Character Expansions Revised - Extras.esp
+Character Expansions Revised - YUP.esp
+Character Expansions Revised - JSU.esp
+Character Expansions Revised - UW.esp
+Character Expansions Revised - MR.esp
+MCPipBoy2000MK6_clock.esp
+Little More Lamplight.esp
+FNV Realistic Wasteland Lighting - All DLC.esp
+FNV RWL All DLC - Brighter Nights.esp
+FNV RWL All DLC - No Overcast Weather.esp
+RWL Tweaked - Light Tweaks.esp
 ```
 </details>
 
 ## MOD CONFIG
+
+### Optional falloutcustom.ini tweaks
+
+Paste the following into **falloutcustom.ini**.
+
+```
+[Display]
+bAllowScreenShot=0
+
+[Imagespace]
+bDoDepthOfField=0
+```
+
+> This disables the vanilla depth of field effect seen during dialogue, as well as the screenshots feature in favor of SweetFX's.
+
+### JIP LN NVSE Plugin
+
+Open the mod's .ini file and make the following adjustments.
+- bEnableFO3Repair=1
+- bNPCWeaponMods=1
+- uWMChanceMin=5
+- uWMChanceMax=15
 
 ### New Vegas - Enhanced Camera
 
