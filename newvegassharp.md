@@ -255,13 +255,16 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 - **Apply Filter to Show Conflicts** in **FNVEdit**.
   - Forward the **Unofficial Patch NVSE Plus** Challenge fix.
   - Forward the **JSawyer Ultimate** Ingredients for RecipePowderCharge.
+  - Forward the **Miscellaneous Tweaks** Conditions for NVDLC02RecipeBreakdown45Auto.
 - Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+  - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three Leveled List records for VendorWeaponsMeleeTier3.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
 - Also install [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
 
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
+Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 - Also install the [**Viva New Vegas Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
 
