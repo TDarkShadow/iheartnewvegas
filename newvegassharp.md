@@ -73,7 +73,10 @@ Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile t
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
-- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336) and [**ShowOff NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/72541). Both plugins are required by this mod.
+- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336).
+- Also install [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases).
+
+> Both NVSE plugins are required by this mod.
 
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
