@@ -397,7 +397,7 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>1.0 (November 26th)</summary>
+	<summary>1.0 (November 30th)</summary>
 
 - Initial release.
 </details>
