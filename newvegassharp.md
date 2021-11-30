@@ -199,6 +199,15 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 Black Widow, Cherchez La Femme, Confirmed Bachelor, and Lady Killer all require 5 or more Charisma to acquire now.
 - Install the **JSawyer (Ultimate) version** main file.
 
+[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
+Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
+
+[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
+Gives the Old World Blues Lobotomites traits similar to those of a freshly operated player.
+
+[**Luck Based Sunset Sarsparilla Star Bottle Caps**](https://www.nexusmods.com/newvegas/mods/44884)  
+Gives the player a Sunset Sarsaparilla Star Cap when drinking Sunset Sarsaparilla based on their Luck attribute. 
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
