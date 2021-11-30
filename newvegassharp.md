@@ -397,6 +397,48 @@ The mod order dictates the priority a given mod's assets have over the mods inst
 <summary>Mod order</summary>
 
 ```
+DLC: TribalPack
+DLC: OldWorldBlues
+DLC: MercenaryPack
+DLC: LonesomeRoad
+DLC: HonestHearts
+DLC: GunRunnersArsenal
+DLC: DeadMoney
+DLC: ClassicPack
+DLC: CaravanPack
+JIP LN NVSE Plugin
+JohnnyGuitar NVSE
+NVAC - New Vegas Anti Crash
+NVTF - New Vegas Tick Fix
+NVTF Custom INI
+FNV Mod Limit Fix
+Console Paste Support
+Improved Lighting Shaders
+Navmesh Fixes and Improvements
+Yukichigai Unofficial Patch - YUP
+Unofficial Patch NVSE Plus
+Combat Lag Fix
+Weapon Mesh Improvement Mod
+WMIM ESP Replacer
+Throwable Weapon Fixes
+Landscape Disposition Fix
+Less Flickery City of New Vegas
+Sierra Madre Exterior Fixed
+	Ammo Burst Case Count Fix
+	Ammo Script Fixes
+	Critical and Effects - Fixes and Tweaks
+	Gauss Rifle VATS Fix - JIP
+	Meltdown NVSE Upgrade
+	Miss Fortune NVSE Upgrade
+	Mostly Unarmed Tweaks
+	kNVSE Animation Plugin
+	ShowOffNVSE
+	Tesla Cannon Chaining
+	Universal Pyromaniac Buff for Fire Effects
+	Dirty Pre-War Businesswear Texture Fix
+	Female White Glove Society Mask Fix
+	Gun Runners Kiosk Glass Fix Alternate Version B
+	Lonesome Road Carbon Shadow Fix
 ```
 </details>
 
@@ -408,6 +450,35 @@ The load order dictates the priority a given mod's plugins have over the mods' p
 <summary>Load order</summary>
 
 ```
+FalloutNV.esm
+DeadMoney.esm
+HonestHearts.esm
+OldWorldBlues.esm
+LonesomeRoad.esm
+GunRunnersArsenal.esm
+ClassicPack.esm
+MercenaryPack.esm
+TribalPack.esm
+CaravanPack.esm
+Navmesh Fixes and Improvements.esm
+YUP - Base Game + ALL DLC.esm
+Landscape Disposition Fix.esm
+YUP - NPC Fixes (Base Game + All DLC).esp
+Unofficial Patch NVSE Plus.esp
+WMIMNV.esp
+ThrowableFixes.esp
+LessFlickeryCityOfNewVegas.esp
+MigMultiCase.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+MigGaussFix.esp
+MigMeltdown.esp
+MigFortune.esp
+MigKao.esp
+MigTeslaChain.esp
+Pre-War Businesswear Fix.esp
+Female White Glove Society Mask.esp
+PyromaniacEffectsBuff.esp
 ```
 </details>
 
@@ -442,9 +513,6 @@ This is a handy reference table which will hopefully help you have a better idea
 Key | Function | Added by
 ------------ | ------------- | -------------
 Y | Fast forward time | Pass the Time
-K | Orders followers to attack the current target | Kill Command
-L | Equips lockpicks | Security Enhanced
-P | Equips probes | Security Enhanced
 
 # ACKNOWLEDGMENTS
 
