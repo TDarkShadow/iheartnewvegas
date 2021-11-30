@@ -64,34 +64,28 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
-
-> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
-
 - Manually download the **Mod Organizer 2** main file.
 - Run the **Mod Organizer 2.exe**.
 - When prompted to choose an install location, choose your Fallout: New Vegas **Mods** folder (**C:\Games\Fallout New Vegas Mods\MO2**).
-- When installation has finished, uncheck the option and click **Finish**.
+- When installation has finished, uncheck the **Launch Mod Organizer** option and click **Finish**.
+
+> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
 
 ## Configuration
-
-### Administrator privileges
-
-- Navigate to Mod Organizer 2's directory (**C:\Games\Fallout New Vegas Mods\MO2**) and right-click **ModOrganizer.exe**. Click **Properties**.
-- In the **Compatibility** tab, check **Run this program as an administrator** and click **Apply**.
-- Click **Accept** to close this window.
 
 ### Initial setup
 
 - Run **ModOrganizer.exe**.
 - Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
-- You will be asked to select a game to manage. Click **Browse...** and select your game's **Root** folder.
+- You will be asked to select a game to manage. If **New Vegas** is available using the appropriate file path, select it. Otherwise, click **Browse...** and select your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
-- From the pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
-> If Mod Organizer 2 prompts you to **Show tutorial?**, click **No**.
+> If you get a pop-up called **INI file is read-only**, select **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
 
-> If at any point you get a pop-up called **INI file is read-only**, select **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
+> If you get a pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
+
+> If you get a pop-up called **Show tutorial?**, click **No**.
 
 ### Adjusting mod and load order
 
