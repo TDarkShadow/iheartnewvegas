@@ -851,6 +851,9 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Run **FNVLODGen** in MO2.
 - Right click on the list of worldspaces, and click **Select All**.
 - Click **Generate**. The process will take some time.
+- After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
+- Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
+- Install **FNVLODGen Output** with MO2.
 
 ## MOD CONFIG
 
