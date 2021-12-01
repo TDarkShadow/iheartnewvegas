@@ -401,6 +401,7 @@ Replaces and adds bathrooms doors all over the Mojave Wasteland. People can fina
 
 [**Lucky 38 E3 Lights Restored**](https://www.nexusmods.com/newvegas/mods/66725)  
 Restores the Lucky 38's lights (mostly window lights, extra light strips and diamond lights) that were shown during E3 and were part of a cut quest but later cut due to consoles and other limitations.
+- Hide **meshes\architecture\strip\lucky38lightswlclose.nif** and **meshes\architecture\strip\lucky38lightswlclose02.nif**.
 
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster from the game's intro FMV.
@@ -489,6 +490,42 @@ Slides stay locked back on empty handguns.
 Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
 - Also install [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 </details>
+
+# FNVLODGen
+
+**FNVLODGen** lets you generate LOD for our installed mods.
+
+[**FNVLODGen**](https://www.nexusmods.com/newvegas/mods/58562)  
+Allows generation of LOD for worldspaces by scanning all mods in the load order that add visible from distant objects.
+- Manually download the **FNVLODGen** main file.
+- Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
+
+## Registering FNVLODGen in Mod Organizer 2
+
+For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Navigate to FNVLODGen's folder (**C:\Games\Fallout New Vegas Mods\FNVLODGen**) and double click its .exe file.
+- In the **Arguments** field, paste **-o:"C:\Games\Fallout New Vegas Mods\FNVLODGen Output\**.
+- Click **Apply** and then **OK**.
+
+> This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
+
+## Installing LOD resources
+
+[**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
+Adds extra meshes for LOD generation.
+- Install the **FNVLODGen Resources** main file.
+
+[**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
+Adds extra meshes for LOD generation.
+
+[**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
+Adds extra meshes for LOD generation.
+
+[**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
+Adds extra meshes for LOD generation.
 
 # FINISHING TOUCHES
 
