@@ -502,6 +502,7 @@ Adds seven new custom races to Fallout New Vegas.
 
 [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
 TYPE4 textures and meshes for Mannequin Races.
+- Also install the **01 - TYPE4 Underwear** optional file.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
