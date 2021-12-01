@@ -145,6 +145,9 @@ Improves the character creation by speeding up the process, adding specialized g
 Increases the speed of the Pip-Boy animation.
 - Install the **Faster Pip-Boy Animation (2x)** main file.
 
+[**Fixer No Woozy Side Effect**](https://www.nexusmods.com/newvegas/mods/73132)  
+Removes the annoying woozy visual effect and poison sound effect.
+
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
@@ -213,6 +216,9 @@ Gives the Old World Blues Lobotomites traits similar to those of a freshly opera
 [**Luck Based Sunset Sarsparilla Star Bottle Caps**](https://www.nexusmods.com/newvegas/mods/44884)  
 Gives the player a Sunset Sarsaparilla Star Cap when drinking Sunset Sarsaparilla based on their Luck attribute. 
 
+[**Mines Go Boom**](https://www.nexusmods.com/newvegas/mods/73514)  
+Adds a chance for a mine to explode when you attempt to disarm it, based on your Explosives skill and Luck.
+	
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
@@ -232,6 +238,10 @@ Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the gro
 
 [**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
+
+[**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
+Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
+- Also install [**Perk-based Creature Loot Patches**](). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
@@ -253,6 +263,10 @@ Collection of gameplay tweaks by Qolore7.
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
 - Also install the **JSawyer Ultimate Edition Patch** optional file.
+
+[**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
+ Removes some map markers in an attempt to make exploration more interesting. 
+- Enter **0015E8AA** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Map Marker Name fix.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -360,7 +374,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-- Forward the appropiate fixes from **Yukichigai Unofifcial Patch** using **FNVEdit**.
+- Enter **001294d6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Rotation fix.
 
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
@@ -548,6 +562,15 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds the Strip signs and moves the Strip buildings to where they should be.
+- Install the **Better Strip View** main file.
+- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
+
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
+- 
+
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Install both main files.
@@ -641,12 +664,14 @@ Well Rested Overhaul
 	Honest Hearts Workbench Crate Luck
 	Lobotomite Tweaks
 	Luck Based Sunset Sarsaparilla Star Bottle Caps
+	Mines Go Boom
 	Rigged Shotgun Restoration - Lore-Friendly
 	Sun Guard During Sunshine
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
 Anatomy Perks
+Perk-based Creature Loot
 Improved Traits
 FNV Opposite Traits (YUP OWB)
 Improved Traits and Opposite Traits Patches
@@ -797,6 +822,7 @@ migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomites.esp
 	Sunset Sarsaparilla Star Caps Random Luck.esp
+	MinesGoBoom.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 	Sun Guard During Sunshine.esp
 JSawyer Ultimate.esp
@@ -808,6 +834,9 @@ Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
 	Charisma Perk Requirements.esp
 MigAnatomy.esp
+Perk-based Creature Loot.esp
+Perk-based Creature Loot Anatomy Perks Patch.esp
+Perk-based Creature Loot JSUE Patch.esp
 Improved Traits.esp
 Improved Traits Improved.esp
 Improved Traits - JSU.esp
