@@ -364,6 +364,7 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 - Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
+- Also install [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -702,6 +703,7 @@ Character Expansions Revised - YUP
 Character Expansions Revised - JSU
 Character Expansions Revised - UW
 Character Expansions Revised - MR
+Character Expansions Revised - AIO Patch
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Date and Clock
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
@@ -855,6 +857,7 @@ Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
+Character Expansions Revised - AIO Patch.esp
 MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
 	Bathroom Doors Overhaul - All IN ONE.esp
