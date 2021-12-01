@@ -24,9 +24,6 @@ A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combin
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
 
-[**Combat Lag Fix**](https://www.nexusmods.com/newvegas/mods/71973)  
-Improves framerate in combat by fixing an engine bug that lowered framerate while attacking an enemy with a health-bar visible.
-
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 - Also install the [**Viva New Vegas WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
