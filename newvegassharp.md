@@ -495,6 +495,15 @@ Straightens out the backs and shoulders of NPCs, and also relaxes the right hand
 
 [**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
 Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
+- Also install [**TYPE 4 Patches**](https://drive.google.com/file/d/15PlLJxpq_AsnbaNZlSkTndXwM83oIfu_/view?usp=sharing). A variety of patches for mods featured in this guide.
+- Delete the following records in **FNVEdit**.
+  - ArmorRadiationSuit
+  - ArmorRadiationSuitAdvanced
+  - MS03EnvironmentSuit
+  - CSArmorRadiationSuit
+- Hide the **meshes\armor\enclavescientist** folder.
+
+> This removes the Radiation Suit and related changes which are, frankly, terrible.
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
@@ -510,7 +519,7 @@ High resolution textures for Type-based female bodies.
 - Also install the **00 - Dead Money DLC - Christine face** and **01 - Old Female** update files.
 - Also install the **01 - Detailed Face Normalmap**, **03 - Body Hairy Clean**, and **05 - Face Vanilla Feel** optional files.
 
-[**Body and Face Textures Workshop for Mannequin Races**](https://drive.google.com/file/d/1oe95q4AYcW5NklT-ubv69p1lvNHXZmff/view?usp=sharing)  
+[**Body and Face Textures Workshop for Mannequin Races**](https://drive.google.com/file/d/1tP8AwU1k6WgddbVZScF6A8GW12uu1Teo/view?usp=sharing)  
 High resolution textures for Mannequin Races. Uses the **09 - Face Vanilla Feel - Freckles** texture for the player character.
 
 [**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
