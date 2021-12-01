@@ -461,6 +461,9 @@ Adds CRT lines to the monitors of Securitrons.
 [**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
 Adds animated eyelashes to NPCs and the player character.
 - Install the **tkEyelashesFNV** main file.
+- Hide **tkEyelashesFNV_FemalesOnly.esp**.
+- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Female Head Data Part fix for **AfricanAmericanChild**.
+- Replace **Characters\head\HeadOld.nif** with **Characters\Eyelashes\LashesHeadOld.nif** under the **HispanicOldAged** Race record.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
