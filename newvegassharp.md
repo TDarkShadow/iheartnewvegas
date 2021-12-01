@@ -315,18 +315,6 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 Vastly improves the LOD noise texture used on all distant land.
 - Install the **Improved LOD noise Texture** main file.
 
-[**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
-Lightweight overhaul of the Strip that turns junk walls into brick, cleans up the litter, fixes the cracked marble and peeling wallpaper, and more.
-- Install the **Lightweight Strip Overhaul** main file.
-- Also install the **Lightweight Strip Overhaul - Uncut Wasteland Patch** optional file.
-  - Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
-
-[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
-Adds more tree and plant variants, implements 3D LODs, and improves grass.
-- Install both main files.
-- Hide **WFO - Vanilla.esp**.
-- Also install [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://drive.google.com/file/d/1Me0MIZ8apGPxrj7cmSpKUD-vC9jmlZ3k/view?usp=sharing). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
-
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
 - Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
@@ -396,10 +384,6 @@ High quality retexture for night sky and moon.
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Encounter Zone fix for **NiptonHouse7Tinker**.
-
-[**Lucky 38 E3 Lights Restored**](https://www.nexusmods.com/newvegas/mods/66725)  
-Restores the Lucky 38's lights (mostly window lights, extra light strips and diamond lights) that were shown during E3 and were part of a cut quest but later cut due to consoles and other limitations.
-- Hide **meshes\architecture\strip\lucky38lightswlclose.nif** and **meshes\architecture\strip\lucky38lightswlclose02.nif**.
 
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster from the game's intro FMV.
@@ -564,6 +548,12 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
+[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
+Adds more tree and plant variants, implements 3D LODs, and improves grass.
+- Install both main files.
+- Hide **WFO - Vanilla.esp**.
+- Also install [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://drive.google.com/file/d/1Me0MIZ8apGPxrj7cmSpKUD-vC9jmlZ3k/view?usp=sharing). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+
 # FINISHING TOUCHES
 
 ## FINAL MOD ORDER AND LOAD ORDER
@@ -684,8 +674,6 @@ More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
 Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
-LSO - A Lightweight Strip Overhaul
-Lightweight Strip Overhaul - Uncut Wasteland Patch
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
@@ -711,7 +699,6 @@ FNV RWL All DLC - Patch Collection
 RWL Tweaked - Light Tweaks
 Mojave Nights
 	Bathroom Doors Overhaul
-	Lucky 38 E3 Lights Restored
 	Lucky 38 Intro Poster
 	McCarran Escalator Glass
 	McCarran Main Terminal Transparent Glass
@@ -770,7 +757,6 @@ Navmesh Fixes and Improvements.esm
 YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
 Misc Gameplay Merge.esm
-Lightweight Strip Overhaul.esm
 Ragdolls.esm
 Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
@@ -844,8 +830,6 @@ Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
-Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
-Vurt's WFO.esp
 VM_Recoil.esp
 B42Inertia.esp
 FOVSlider.esp
@@ -856,7 +840,6 @@ Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
 MCPipBoy2000MK6_clock.esp
-Little More Lamplight.esp
 	Bathroom Doors Overhaul - All IN ONE.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
@@ -870,6 +853,8 @@ Little More Lamplight.esp
 	EmptyWeapons.esp
 FNVLODGen.esp
 tmzLODadditions.esp
+Vurt's WFO.esp
+Little More Lamplight.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
