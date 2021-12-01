@@ -369,6 +369,66 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 - Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
 - Also install [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
 
+
+[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
+Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+- Enter **001294d6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Rotation fix.
+
+[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
+Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
+- Check the following option in the FOMOD installer.
+  - [ ] The Living Desert
+  - [X] Uncut Wasteland
+  - [ ] Vault 22 Flora Overhaul Remastered
+
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds the Strip signs and moves the Strip buildings to where they should be.
+- Install the **Better Strip View** main file.
+- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
+
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
+- Check the following option in the FOMOD installer.
+  - LIGHTS
+    - [ ] GOLD
+    - [X] SILVER
+  - EXTRAS
+    - [ ] Inside the Strip
+    - [X] EVERYWHERE
+    - [ ] None
+  - POLLUTION
+    - [ ] GOLD TINT
+  - PATCH
+    - [X] Better Strip View
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+- Also install the [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
+
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
+
+[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
+Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
+- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
+- Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
+- Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
+- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
+  - Extract the contents of the archive in your **Root** folder.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
+  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
+
+[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
+High quality retexture for night sky and moon.
+- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
+- Copy of **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
+
+[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
+Fixes the bright night sky horizons.
+
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
@@ -508,67 +568,6 @@ High resolution textures for Mannequin Races. Uses the **09 - Face Vanilla Feel 
 
 [**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
-
-# WEATHER AND LIGHTING
-
-[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
-Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-- Enter **001294d6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Rotation fix.
-
-[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
-Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
-- Check the following option in the FOMOD installer.
-  - [ ] The Living Desert
-  - [X] Uncut Wasteland
-  - [ ] Vault 22 Flora Overhaul Remastered
-
-[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds the Strip signs and moves the Strip buildings to where they should be.
-- Install the **Better Strip View** main file.
-- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
-
-[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
-Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
-- Check the following option in the FOMOD installer.
-  - LIGHTS
-    - [ ] GOLD
-    - [X] SILVER
-  - EXTRAS
-    - [ ] Inside the Strip
-    - [X] EVERYWHERE
-    - [ ] None
-  - POLLUTION
-    - [ ] GOLD TINT
-  - PATCH
-    - [X] Better Strip View
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
-- Also install the [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
-
-[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
-Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
-- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
-- Also install the **FNV RWL All DLC - Patch Collection** optional file.
-- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
-- Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
-- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
-  - Extract the contents of the archive in your **Root** folder.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
-  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
-
-[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
-High quality retexture for night sky and moon.
-- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
-- Copy of **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
-
-[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
-Fixes the bright night sky horizons.
 
 # FNVLODGen
 
@@ -758,6 +757,18 @@ Character Expansions Revised - JSU
 Character Expansions Revised - UW
 Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
+A Little More Lamplight
+Strip Lights Region Fix
+Lucky 38 Lights Redone
+More Subtle New Vegas Light Pollution - Slightly Brighter
+More Subtle New Vegas Light Pollution Better Strip View Patch
+Strip Lighting Overhaul
+FNV Realistic Wasteland Lighting
+FNV RWL All DLC - Patch Collection
+FNV RWL All DLC - Strip Lights AIO Patch
+RWL Tweaked - Light Tweaks
+Mojave Nights
+Night Sky Tweaks
 	Bathroom Doors Overhaul
 	Lucky 38 Intro Poster
 	Lucky 38 Mainframe No Fingerprints
@@ -791,18 +802,6 @@ Character Expansions Revised - AIO Patch
 	Pip-Boy 2000 Mk VI Working Date and Clock
 	Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 	NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
-A Little More Lamplight
-Strip Lights Region Fix
-Lucky 38 Lights Redone
-More Subtle New Vegas Light Pollution - Slightly Brighter
-More Subtle New Vegas Light Pollution Better Strip View Patch
-Strip Lighting Overhaul
-FNV Realistic Wasteland Lighting
-FNV RWL All DLC - Patch Collection
-FNV RWL All DLC - Strip Lights AIO Patch
-RWL Tweaked - Light Tweaks
-Mojave Nights
-Night Sky Tweaks
 FNVLODGen Resources
 LOD Additions and Improvements
 FNV LOD Supplementation
