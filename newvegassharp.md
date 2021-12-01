@@ -491,6 +491,29 @@ Straightens out the backs and shoulders of NPCs, and also relaxes the right hand
 - Also install [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 </details>
 
+# BODY REPLACERS
+
+[**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
+Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
+
+[**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
+Adds seven new custom races to Fallout New Vegas.
+- Also install the **00 - EGM files for hairs** optional file.
+
+[**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
+TYPE4 textures and meshes for Mannequin Races.
+
+[**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
+High resolution textures for Type-based female bodies.
+- Install the **00 - Default Version - CORE**, **00b - Raider Textures**, and **01 - Vanilla Body Version** main files.
+- Also install the **00 - Dead Money DLC - Christine face**, **01 - Detailed Face Normalmap**, **03 - Body Hairy Clean**, and **05 - Face Vanilla Feel** optional files.
+
+[**Body and Face Textures Workshop for Mannequin Races**](https://drive.google.com/file/d/1oe95q4AYcW5NklT-ubv69p1lvNHXZmff/view?usp=sharing)
+High resolution textures for Mannequin Races. Uses the **09 - Face Vanilla Feel - Freckles** texture for the player character.
+
+[**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
+Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+
 # FNVLODGen
 
 **FNVLODGen** lets you generate LOD for our installed mods.
