@@ -329,6 +329,9 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 	
 # VISUALS
 
+[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
+Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
+
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on all distant land.
 - Install the **Improved LOD noise Texture** main file.
@@ -337,14 +340,6 @@ Vastly improves the LOD noise texture used on all distant land.
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
 - Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
-
-[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
-Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
-
-> This mod is compatible with **Immersive Recoil 2.0** (which we installed earlier) and **B42 Weapon Inertia** (which we will install next).
-
-[**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
-Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
 [**DiaMoveNVSE**](https://www.nexusmods.com/newvegas/mods/66451)  
 Enables simple diagonal movements for the player character.
@@ -358,17 +353,27 @@ Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit r
   - Forward the **YUP - Base Game + All DLC** Ragdoll fix for **NVDLC03BrainBotbodypartdata**.
   - Forward the **YUP - Base Game + All DLC** Actor Base fix for **TrogRagdoll**.
 
+[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
+Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
+
+> This mod is compatible with **Immersive Recoil 2.0** (which we installed earlier) and **B42 Weapon Inertia** (which we will install next).
+
+[**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
+Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
+
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
-
-[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
-Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 - Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
 - Also install [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
 
+[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
+Adds more tree and plant variants, implements 3D LODs, and improves grass.
+- Install both main files.
+- Hide **WFO - Vanilla.esp**.
+- Also install [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://drive.google.com/file/d/1Me0MIZ8apGPxrj7cmSpKUD-vC9jmlZ3k/view?usp=sharing). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
@@ -389,17 +394,13 @@ Adds the Strip signs and moves the Strip buildings to where they should be.
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
 - Check the following option in the FOMOD installer.
-  - LIGHTS
-    - [ ] GOLD
-    - [X] SILVER
-  - EXTRAS
-    - [ ] Inside the Strip
-    - [X] EVERYWHERE
-    - [ ] None
-  - POLLUTION
-    - [ ] GOLD TINT
-  - PATCH
-    - [X] Better Strip View
+  - [ ] Gold Lights
+  - [X] Silver Lights
+  - [ ] Extras Inside the Strip
+  - [X] Extras Everywhere
+  - [ ] Extras None
+  - [ ] Pollution Gold Tint
+  - [X] Patch for Better Strip View
 
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
@@ -610,12 +611,6 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
-[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
-Adds more tree and plant variants, implements 3D LODs, and improves grass.
-- Install both main files.
-- Hide **WFO - Vanilla.esp**.
-- Also install [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://drive.google.com/file/d/1Me0MIZ8apGPxrj7cmSpKUD-vC9jmlZ3k/view?usp=sharing). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
-
 # FINISHING TOUCHES
 
 ## FINAL MOD ORDER AND LOAD ORDER
@@ -741,16 +736,16 @@ Empty Clicks
 More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
 Female Nuka-Cola Drinking Sound Replacer
+FOV Slider
 Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
-Viewmodel Recoil
-B42 Weapon Inertia
 DiaMoveNVSE
 Ragdolls
+Viewmodel Recoil
+B42 Weapon Inertia
 NV Compatibility Skeleton
-FOV Slider
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -913,9 +908,9 @@ Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
+FOVSlider.esp
 VM_Recoil.esp
 B42Inertia.esp
-FOVSlider.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
