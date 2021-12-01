@@ -24,6 +24,9 @@ A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combin
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
 
+[**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
+Optimizations and fixes for a large selection of meshes in the base game and DLC.
+
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 - Also install the [**Viva New Vegas WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
@@ -127,6 +130,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
 - Install the **1. Consistent Pip-boy Icons** main file.
 - Also install the **6. Vanilla UI Plus Patch** optional file.
+- Optionally install [**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon. 
 
 [**Faction Map Icon Overhaul**](https://www.nexusmods.com/newvegas/mods/72181)  
 Replaces the icons of several locations with Faction-appropriate ones.
@@ -145,8 +149,8 @@ Improves the character creation by speeding up the process, adding specialized g
 Increases the speed of the Pip-Boy animation.
 - Install the **Faster Pip-Boy Animation (2x)** main file.
 
-[**Fixer No Woozy Side Effect**](https://www.nexusmods.com/newvegas/mods/73132)  
-Removes the annoying woozy visual effect and poison sound effect.
+[**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
+Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them). Optionally removes tumbleweeds too.
 
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
@@ -241,7 +245,7 @@ Distributes the effect from the Living Anatomy perk to see the target's HP and D
 
 [**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
 Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
-- Also install [**Perk-based Creature Loot Patches**](). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
+- Also install [**Perk-based Creature Loot Patches**](https://drive.google.com/file/d/1eqQ953FCYwb4EQJiIMUBEXM7FyY58Kww/view?usp=sharing). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
@@ -365,33 +369,6 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 - Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
 - Also install [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
 
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
-- Also install the **Working date and clock for replacer** optional file.
-- Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1x__HD37kKOdKDo_wF0vy3C7-1hn0U3KI/view). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
-[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
-Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-- Enter **001294d6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Rotation fix.
-
-[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
-Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
-- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
-- Also install the **FNV RWL All DLC - Patch Collection** optional file.
-- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
-- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
-  - Extract the contents of the archive in your **Root** folder.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
-  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
-
-[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
-High quality retexture for night sky and moon.
-- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
-- Copy of **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
-
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
@@ -402,6 +379,10 @@ Replaces and adds bathrooms doors all over the Mojave Wasteland. People can fina
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster from the game's intro FMV.
 
+[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
+Gets rid of the big fingerprint on Mr. House/Yes Man's screen.
+- Also install the **Securitrons No Fingerprints** optional file.
+	
 [**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
 Makes the McCarran escalator glass texture transparent.
 
@@ -485,6 +466,13 @@ Slides stay locked back on empty handguns.
 [**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
 Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
 - Also install [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
+
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
+- Also install the **Working date and clock for replacer** optional file.
+- Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1x__HD37kKOdKDo_wF0vy3C7-1hn0U3KI/view). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 </details>
 
 # BODY REPLACERS
@@ -520,6 +508,67 @@ High resolution textures for Mannequin Races. Uses the **09 - Face Vanilla Feel 
 
 [**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+
+# WEATHER AND LIGHTING
+
+[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
+Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+- Enter **001294d6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Rotation fix.
+
+[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
+Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
+- Check the following option in the FOMOD installer.
+  - [ ] The Living Desert
+  - [X] Uncut Wasteland
+  - [ ] Vault 22 Flora Overhaul Remastered
+
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds the Strip signs and moves the Strip buildings to where they should be.
+- Install the **Better Strip View** main file.
+- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
+
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
+- Check the following option in the FOMOD installer.
+  - LIGHTS
+    - [ ] GOLD
+    - [X] SILVER
+  - EXTRAS
+    - [ ] Inside the Strip
+    - [X] EVERYWHERE
+    - [ ] None
+  - POLLUTION
+    - [ ] GOLD TINT
+  - PATCH
+    - [X] Better Strip View
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+- Also install the [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
+
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
+
+[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
+Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
+- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
+- Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
+- Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
+- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
+  - Extract the contents of the archive in your **Root** folder.
+- **Apply Filter to Show Conflicts** in **FNVEdit**.
+  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
+  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
+
+[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
+High quality retexture for night sky and moon.
+- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
+- Copy of **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
+
+[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
+Fixes the bright night sky horizons.
 
 # FNVLODGen
 
@@ -562,15 +611,6 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
-[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds the Strip signs and moves the Strip buildings to where they should be.
-- Install the **Better Strip View** main file.
-- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
-
-[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
-Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
-- 
-
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Install both main files.
@@ -609,7 +649,7 @@ Improved Lighting Shaders
 Navmesh Fixes and Improvements
 Yukichigai Unofficial Patch - YUP
 Unofficial Patch NVSE Plus
-Combat Lag Fix
+New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 Throwable Weapon Fixes
@@ -639,11 +679,13 @@ Vanilla UI Plus (New Vegas)
 Clean Vanilla HUD
 Consistent Pip-Boy Icons
 Consistent Pip-Boy Icons Vanilla UI Plus Patch
+	Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Faction Map Icon Overhaul
 Satellite World Map
 Satellite Maps DLC
 Better Character Creation
 Faster Pip-Boy Animation
+No More Dust Devils (and Whirlwinds)
 Simple DLC Delay
 Snowglobe Tweaks Fix
 Weapon Binding Ritual No Message or Screenspace Effect
@@ -672,6 +714,7 @@ JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
 Anatomy Perks
 Perk-based Creature Loot
+Perk-based Creature Loot Patches
 Improved Traits
 FNV Opposite Traits (YUP OWB)
 Improved Traits and Opposite Traits Patches
@@ -682,6 +725,7 @@ Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Miscellaneous Tweaks Collection
 Misc Gameplay Merge
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
+Less Map Markers
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 RAD - Radiation (is) Actually Dangerous
@@ -714,17 +758,10 @@ Character Expansions Revised - JSU
 Character Expansions Revised - UW
 Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
-Pip-Boy 2000 Mk VI
-Pip-Boy 2000 Mk VI Working Date and Clock
-Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
-NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
-A Little More Lamplight
-FNV Realistic Wasteland Lighting
-FNV RWL All DLC - Patch Collection
-RWL Tweaked - Light Tweaks
-Mojave Nights
 	Bathroom Doors Overhaul
 	Lucky 38 Intro Poster
+	Lucky 38 Mainframe No Fingerprints
+	Securitrons No Fingerprints
 	McCarran Escalator Glass
 	McCarran Main Terminal Transparent Glass
 	Lower-sitting Ranger Hat
@@ -750,10 +787,27 @@ Mojave Nights
 	Empty Weapons
 	Tweaked Standing Idle
 	Tweaked Standing Idle Fix
+	Pip-Boy 2000 Mk VI
+	Pip-Boy 2000 Mk VI Working Date and Clock
+	Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
+	NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+A Little More Lamplight
+Strip Lights Region Fix
+Lucky 38 Lights Redone
+More Subtle New Vegas Light Pollution - Slightly Brighter
+More Subtle New Vegas Light Pollution Better Strip View Patch
+Strip Lighting Overhaul
+FNV Realistic Wasteland Lighting
+FNV RWL All DLC - Patch Collection
+FNV RWL All DLC - Strip Lights AIO Patch
+RWL Tweaked - Light Tweaks
+Mojave Nights
+Night Sky Tweaks
 FNVLODGen Resources
 LOD Additions and Improvements
 FNV LOD Supplementation
 TCM's LOD Overhaul
+Better Strip View
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
@@ -847,6 +901,7 @@ LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
 Misc Gameplay Merge - JSUE Patch.esp
+Less Map Markers.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
@@ -868,7 +923,6 @@ Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
-MCPipBoy2000MK6_clock.esp
 	Bathroom Doors Overhaul - All IN ONE.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
@@ -880,13 +934,22 @@ MCPipBoy2000MK6_clock.esp
 	Skinny Bears.esp
 	tkEyelashesFNV.esp
 	EmptyWeapons.esp
+	MCPipBoy2000MK6_clock.esp
 FNVLODGen.esp
 tmzLODadditions.esp
 Vurt's WFO.esp
 Little More Lamplight.esp
+Strip Lights Region Fix.esp
+Strip Lights Region Fix - Uncut Wasteland.esp
+Better Strip View.esp
+vegasglow.esp
+More Subtle New Vegas Light Pollution Better Strip View Patch.esp
+Lucky 38 Lights Redone.esp
+Strip Lighting Overhaul.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
+FNV RWL All DLC - Strip Lights AIO Patch.esp
 RWL Tweaked - Light Tweaks.esp
 Mojave Nights.esp
 ```
