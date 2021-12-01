@@ -507,7 +507,8 @@ TYPE4 textures and meshes for Mannequin Races.
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
 - Install the **00 - Default Version - CORE**, **00b - Raider Textures**, and **01 - Vanilla Body Version** main files.
-- Also install the **00 - Dead Money DLC - Christine face**, **01 - Detailed Face Normalmap**, **03 - Body Hairy Clean**, and **05 - Face Vanilla Feel** optional files.
+- Also install the **00 - Dead Money DLC - Christine face** and **01 - Old Female** update files.
+- Also install the **01 - Detailed Face Normalmap**, **03 - Body Hairy Clean**, and **05 - Face Vanilla Feel** optional files.
 
 [**Body and Face Textures Workshop for Mannequin Races**](https://drive.google.com/file/d/1oe95q4AYcW5NklT-ubv69p1lvNHXZmff/view?usp=sharing)
 High resolution textures for Mannequin Races. Uses the **09 - Face Vanilla Feel - Freckles** texture for the player character.
