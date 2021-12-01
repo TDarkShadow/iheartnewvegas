@@ -846,7 +846,11 @@ Mojave Nights.esp
 
 ## GENERATING LOD
 
+With all our mods and resources installed, we can finally generate our LOD.
 
+- Run **FNVLODGen** in MO2.
+- Right click on the list of worldspaces, and click **Select All**.
+- Click **Generate**. The process will take some time.
 
 ## MOD CONFIG
 
