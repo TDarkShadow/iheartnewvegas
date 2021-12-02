@@ -3,6 +3,8 @@
 
 # LEFT MY HEART IN NEW VEGAS
 
+Last browsed for mods on November 30th, 2021.
+
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # BEFORE WE BEGIN
