@@ -62,14 +62,6 @@ Fixes the texture on the Sierra Madre exterior.
 <details>
 	<summary>Optional Patches - Click to expand</summary>
 
-[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
-Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
-- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Requirement for this mod.
-- Also install [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Requirement for this mod.
-
-[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
-Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
-
 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
 Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
 - Undo the Armor name changes in **FNVEdit**.
@@ -182,6 +174,11 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
+[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
+- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Requirement for this mod.
+- Also install [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Requirement for this mod.
+
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
@@ -216,13 +213,16 @@ Gives the player a Sunset Sarsaparilla Star Cap when drinking Sunset Sarsaparill
 
 [**Mines Go Boom**](https://www.nexusmods.com/newvegas/mods/73514)  
 Adds a chance for a mine to explode when you attempt to disarm it, based on your Explosives skill and Luck.
-	
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
 
 [**Sun Guard During Sunshine**](https://www.nexusmods.com/newvegas/mods/71710)  
 Prevents the headgear Sun Guard effect to take place during nighttime and inside interiors.
+
+[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
+Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
 </details>
 
 # OVERHAULS
@@ -611,10 +611,6 @@ Throwable Weapon Fixes
 Landscape Disposition Fix
 Less Flickery City of New Vegas
 Sierra Madre Exterior Fixed
-	Mostly Unarmed Tweaks
-	kNVSE Animation Plugin
-	ShowOffNVSE
-	Tesla Cannon Chaining
 	Dirty Pre-War Businesswear Texture Fix
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version B
@@ -645,6 +641,9 @@ Immersive Recoil 2.0
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
 Melee Cleave (a.k.a. Sweep)
+Mostly Unarmed Tweaks
+kNVSE Animation Plugin
+ShowOffNVSE
 NPCs Sprint In Combat
 Player Combat Priority
 Precise VATS (and actually useful Perception)
@@ -657,6 +656,7 @@ Well Rested Overhaul
 	Mines Go Boom
 	Rigged Shotgun Restoration - Lore-Friendly
 	Sun Guard During Sunshine
+	Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
@@ -793,8 +793,6 @@ MigGaussFix.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
-	MigKao.esp
-	MigTeslaChain.esp
 	Pre-War Businesswear Fix.esp
 	PyromaniacEffectsBuff.esp
 The Mod Configuration Menu.esp
@@ -812,6 +810,7 @@ ImmersiveRecoil.esp
 JamFix.esp
 JustAssortedMods.esp
 MeleeCleave.esp
+MigKao.esp
 NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
@@ -823,6 +822,7 @@ migWellRested.esp
 	MinesGoBoom.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 	Sun Guard During Sunshine.esp
+	MigTeslaChain.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
