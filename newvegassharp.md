@@ -494,6 +494,10 @@ Adds gloves to Y-17 Trauma Override Harness, fixing an in-game inconsistency.
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
 
+[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
+Makes the Yao Guai from Honest Hearts look less mutated.
+- Install the **Healthier Yao Guai** main file.
+
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 - Also install the **OWB in CRT** optional file.
@@ -722,6 +726,7 @@ Night Sky Tweaks
 	Unisex Motorcycle Helmets
 	Y-17 Trauma Override Harness Gloves
 	Worn-Out Scope Crosshair Replacers
+	Healthier Yao Guai
 	Securitrons in CRT
 	OWB in CRT
 	Empty Weapons
