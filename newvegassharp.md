@@ -496,9 +496,6 @@ Removes shine from vanilla hairs.
 [**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
 Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
 
-[**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334)  
-Enables visible body and player shadows when in first person. Also, any points where the game force switches to 3rd person are now in 1st person.
-
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
@@ -763,7 +760,6 @@ Night Sky Tweaks
 	Natural Eyes - Shadow
 	Vanilla Hair - No Shine
 	Vanilla Underwear Replacer
-	New Vegas - Enhanced Camera
 	Empty Weapons
 	Tweaked Standing Idle
 	Tweaked Standing Idle Fix
@@ -954,17 +950,6 @@ bEnableFO3Repair=1
 bNPCWeaponMods=1
 uWMChanceMin=5
 uWMChanceMax=15
-```
-
-### New Vegas - Enhanced Camera
-
-Open the mod's .ini file and make the following adjustments.
-
-```
-bFirstPersonSitting=0
-bFirstPersonKnockout=0
-bFirstPersonDeath=0
-fDlgFocusOverride=6.0
 ```
 
 ### FOV Slider
