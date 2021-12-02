@@ -19,8 +19,7 @@ Fixes virtually every navmesh where the edge connections were missing or pointin
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
-
-Install the **YUP - Base Game and All DLC** main file.
+- Install the **YUP - Base Game and All DLC** main file.
 
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
