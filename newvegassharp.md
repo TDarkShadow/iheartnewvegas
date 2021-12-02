@@ -922,6 +922,8 @@ uWMChanceMin=5
 uWMChanceMax=15
 ```
 
+> This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+
 # MOD KEYBINDINGS
 
 > This section includes mods from the optional sections of the guide.
@@ -943,7 +945,7 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>1.0 (November 30th)</summary>
+	<summary>1.0 (December 2nd)</summary>
 
 - Initial release.
 </details>
