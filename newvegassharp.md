@@ -33,7 +33,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
 Additional files to install:
-- [**Viva New Vegas WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
+- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
 - [**WMIM Mesh Fix**](https://drive.google.com/file/d/1YIpCl0PccRdpQ2ISSMfHS_2gVx4-PtW2/view?usp=sharing). Fixes a bug with a mesh which would cause dead NPCs to hang in the air by their wrists, at the cost of reintroducing a much less annoying bug.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
@@ -73,8 +73,8 @@ Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile t
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
 
 Additional files to install: 
-- [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Required for this mod.
-- [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Required for this mod.
+- [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Required by this mod.
+- [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Required by this mod.
 
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
@@ -105,7 +105,9 @@ An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions add
 
 [**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
 Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
-- Also install the **MCM BugFix 2** update file.
+
+Additional files to install:
+- **MCM BugFix 2** update file.
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
@@ -129,21 +131,28 @@ Greatly improves the user interface without compromising the original style.
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - Check the following options in the FOMOD installer.
-  - Enable all **Modules** and **Tweaks** options. Do not enable the **DarnUI Specific** options.
+  - All **Modules** and **Tweaks** options.
+  - Skip the **DarnUI Specific** options.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
-- Install the **1. Consistent Pip-boy Icons** main file.
-- Also install the **6. Vanilla UI Plus Patch** optional file.
-- Optionally install [**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon. 
+
+Install the **1. Consistent Pip-boy Icons** main file.
+
+Additional files to install:
+- **6. Vanilla UI Plus Patch** optional file.
+- [**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon. 
 
 [**Faction Map Icon Overhaul**](https://www.nexusmods.com/newvegas/mods/72181)  
 Replaces the icons of several locations with Faction-appropriate ones.
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
-- Install the **Satellite World Map** main file.
-- Also install [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
+
+Install the **Satellite World Map** main file.
+
+Additional files to install:
+- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
 
 # QUALITY OF LIFE IMPROVEMENTS
 
