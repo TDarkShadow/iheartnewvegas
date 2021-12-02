@@ -458,8 +458,9 @@ Fixes the bright night sky horizons.
 
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Encounter Zone fix for **NiptonHouse7Tinker**.
-
+- Enter **001385C4** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Encounter Zone fix.
+- Enter **0010E02A** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Owner fix.
+	
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster from the game's intro FMV.
 
