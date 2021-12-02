@@ -15,8 +15,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
-
-Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
+- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
@@ -343,6 +342,11 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 - Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds diagonal movement.
+
+> This mod requires **NV Compatibility Skeleton**, which we will install in a moment.
+
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
 - Install the **Ragdolls** main file.
@@ -362,6 +366,16 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
+- Check the following option in the FOMOD installer.
+  - [X] 360 Sneak Options Full
+  - [ ] 360 Sneak Options No Weapon Out
+  - [ ] 360 Sneak Options Disabled
+  - [X] Diagonal Movement Patch
+  - [ ] Miscellaneous Skeleton File
+  - [ ] Miscellaneous Blank Turn Animation Files
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -620,6 +634,7 @@ Unofficial Patch NVSE Plus
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
+WMIM Mesh Fix
 Throwable Weapon Fixes
 Landscape Disposition Fix
 Less Flickery City of New Vegas
@@ -715,10 +730,12 @@ Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
+Diagonal Movement
 Ragdolls
 Viewmodel Recoil
 B42 Weapon Inertia
 NV Compatibility Skeleton
+360 Movement
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -879,6 +896,9 @@ More Accurate Geiger Clicking.esp
 FOVSlider.esp
 VM_Recoil.esp
 B42Inertia.esp
+Diagonal movement.esp
+360Movement.esp
+360Movement - Diagonal movement Patch.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
