@@ -796,11 +796,11 @@ MigMultiCase.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 MigGaussFix.esp
+PyromaniacEffectsBuff.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
 	Pre-War Businesswear Fix.esp
-	PyromaniacEffectsBuff.esp
 The Mod Configuration Menu.esp
 JIP Improved Recipe Menu.esp
 Vanilla UI Plus.esp
