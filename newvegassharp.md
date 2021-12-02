@@ -447,7 +447,7 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
-- Install the **Mojave Nights FOMOD** main file. I suggest setting the moon to 200% size.
+- Install the **Mojave Nights FOMOD** main file. The low-glow option is fine.
 - Copy of **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
