@@ -68,7 +68,8 @@ Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the i
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
-- Hide **Female White Glove Society Mask.esp**. We will install a JSawyer Ultimate-compatible plugin in the **Overhauls** section.
+
+> If you plan to use the **JSawyer Ultimate Edition** gameplay overhaul, hide **Female White Glove Society Mask.esp**. We will install a compatible version in the **Overhauls** section.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
@@ -229,30 +230,11 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 - Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
-- Also install [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1_OqmPUIjHKF_0gq0Cxw8U431MZcPig9Y/view?usp=sharing). A variety of patches for mods featured in this guide.
+- Also install [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, **Throwable Weapon Fixes**, as well as JSUE-compatible versions of **Female White Glove Society Mask** and **Weapon Binding Ritual No Message**.
 
-[**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
-Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
-
-[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described.
-- Also install [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
-- Enter **0014609A** into **FNVEdit**'s FormID filter. Revert **Meltdown** Conditions from 80 to 90.
-
-[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
-Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
-
-[**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
-Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
-- Also install [**Perk-based Creature Loot Patches**](https://drive.google.com/file/d/1eqQ953FCYwb4EQJiIMUBEXM7FyY58Kww/view?usp=sharing). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
-
-[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
-Overhauls vanilla traits and adds two new ones.
-
-[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
-New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
-- Install the **FNV Opposite Traits (YUP OWB)** main file.
-- Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
+[**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
+Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
+- Also install [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1yeAWMaUo2qQSUA6J7ek6Sr86N4Txjr-n/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -288,6 +270,33 @@ Makes radiation work like in Fallout 4, by damaging your max health.
 Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 - Also install [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
+
+<details>
+	<summary>Optional Overhauls - Click to expand</summary>
+
+[**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
+Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
+
+[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described.
+- Also install [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
+- Enter **0014609A** into **FNVEdit**'s FormID filter. Revert **Meltdown** Conditions from 80 to 90.
+
+[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
+Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
+
+[**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
+Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
+- Also install [**Perk-based Creature Loot Patches**](https://drive.google.com/file/d/1eqQ953FCYwb4EQJiIMUBEXM7FyY58Kww/view?usp=sharing). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
+
+[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
+Overhauls vanilla traits and adds two new ones.
+
+[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
+New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
+- Install the **FNV Opposite Traits (YUP OWB)** main file.
+- Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
+</details>
 
 # CONTENT
 
@@ -424,14 +433,14 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 - Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
-- Also install the **FNV RWL All DLC - Patch Collection** optional file.
-- Also install [**RWL Tweaked - Light Tweaks**](https://drive.google.com/file/d/1g-OESAeJfAbsCSPGDoP1uwOTtH9I9qHL/view). Includes changes to the Pip-Boy light and other light sources.
-- Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
-- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1dGT-BhI3xM9Zt90jYXJDwmZ3Aj8oQNDe/view). Adjusted SweetFX preset.
-  - Extract the contents of the archive in your **Root** folder.
 - **Apply Filter to Show Conflicts** in **FNVEdit**.
   - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
   - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
+- Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Also install [**FNV RWL All DLC - Light Tweaks**](https://drive.google.com/file/d/1jRZOqcuCoZqW8KBPPXV4Jk0mIG4qVXjE/view?usp=sharing). Includes changes to the Pip-Boy light and other light sources.
+- Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
+- Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1moXaMjQ31u0FOMgq-kBNXIakDNW_RyI-/view?usp=sharing). Adjusted SweetFX preset.
+  - Extract the contents of the archive in your **Root** folder.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -519,7 +528,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 - Install the **Pip-Boy 2000 Mk VI replacer version** main file.
 - Also install the **Working date and clock for replacer** optional file.
 - Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1x__HD37kKOdKDo_wF0vy3C7-1hn0U3KI/view). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+- Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 </details>
 
 # FNVLODGen
@@ -655,14 +664,8 @@ Well Rested Overhaul
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
-Anatomy Perks
-Meltdown NVSE Upgrade
-Miss Fortune NVSE Upgrade
-Perk-based Creature Loot
-Perk-based Creature Loot Patches
-Improved Traits
-FNV Opposite Traits (YUP OWB)
-Improved Traits and Opposite Traits Patches
+lStewieAl's Tweaks
+lStewieAl's Tweaks INI
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -677,6 +680,14 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
+	Anatomy Perks
+	Meltdown NVSE Upgrade
+	Miss Fortune NVSE Upgrade
+	Perk-based Creature Loot
+	Perk-based Creature Loot Patches
+	Improved Traits
+	FNV Opposite Traits (YUP OWB)
+	Improved Traits and Opposite Traits Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
@@ -713,7 +724,7 @@ Strip Lighting Overhaul
 FNV Realistic Wasteland Lighting
 FNV RWL All DLC - Patch Collection
 FNV RWL All DLC - Strip Lights AIO Patch
-RWL Tweaked - Light Tweaks
+FNV RWL All DLC - Light Tweaks
 Mojave Nights
 Night Sky Tweaks
 	Bathroom Doors Overhaul
@@ -822,20 +833,6 @@ JSawyer Ultimate WMIM Patch.esp
 JSawyer Ultimate WMIM Patch.esp
 Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
-	Charisma Perk Requirements.esp
-	MigTeslaChain.esp
-MigAnatomy.esp
-MigMeltdown.esp
-MigFortune.esp
-Perk-based Creature Loot.esp
-Perk-based Creature Loot Anatomy Perks Patch.esp
-Perk-based Creature Loot JSUE Patch.esp
-Improved Traits.esp
-Improved Traits Improved.esp
-Improved Traits - JSU.esp
-FNVOppositeTraits.esp
-FNVImprovedOppositeTraits.esp
-FNVImprovedOppositeTraits - JSU.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
@@ -845,6 +842,20 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
+	Charisma Perk Requirements.esp
+	MigTeslaChain.esp
+	MigAnatomy.esp
+	MigMeltdown.esp
+	MigFortune.esp
+	Perk-based Creature Loot.esp
+	Perk-based Creature Loot Anatomy Perks Patch.esp
+	Perk-based Creature Loot JSUE Patch.esp
+	Improved Traits.esp
+	Improved Traits Improved.esp
+	Improved Traits - JSU.esp
+	FNVOppositeTraits.esp
+	FNVImprovedOppositeTraits.esp
+	FNVImprovedOppositeTraits - JSU.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
 Mojave Raiders.esp
@@ -887,7 +898,7 @@ FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
 FNV RWL All DLC - Strip Lights AIO Patch.esp
-RWL Tweaked - Light Tweaks.esp
+FNV RWL All DLC - Light Tweaks.esp
 Mojave Nights.esp
 ```
 </details>
