@@ -71,8 +71,8 @@ Fixes the White Glove Society Mask mesh for female characters.
 - Hide **Female White Glove Society Mask.esp**. We will install a JSawyer Ultimate-compatible plugin in the **Overhauls** section.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
-Fixes the glass texture in the Gun Runners' kiosk.
-- Only install the **Gun Runners Kiosk Glass Fix Alternate Version B** optional file.
+Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
+- Only install the **Gun Runners Kiosk Glass Fix Alternate Version** optional file.
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
@@ -146,7 +146,8 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 
 [**Weapon Binding Ritual No Message or Screenspace Effect**](https://www.nexusmods.com/newvegas/mods/73013)  
 Makes the Weapon Binding Ritual visually consistent with other chems and buff items, and much less annoying as a result.
-- Install this mod if you don't plan to use **JSawyer Ultimate**. Otherwise, we will install a JSawyer Ultimate-compatible plugin in the **Overhauls** section.
+
+> If you plan to use the **JSawyer Ultimate Edition** gameplay overhaul, skip installing this mod. We will install a compatible version in the **Overhauls** section.
 
 # GAMEPLAY
 
@@ -209,18 +210,12 @@ Forces the Honest Hearts workbench crates (the only source of skill books in the
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Gives the Old World Blues Lobotomites traits similar to those of a freshly operated player.
 
-[**Luck Based Sunset Sarsparilla Star Bottle Caps**](https://www.nexusmods.com/newvegas/mods/44884)  
-Gives the player a Sunset Sarsaparilla Star Cap when drinking Sunset Sarsaparilla based on their Luck attribute. 
-
 [**Mines Go Boom**](https://www.nexusmods.com/newvegas/mods/73514)  
 Adds a chance for a mine to explode when you attempt to disarm it, based on your Explosives skill and Luck.
 
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
-
-[**Sun Guard During Sunshine**](https://www.nexusmods.com/newvegas/mods/71710)  
-Prevents the headgear Sun Guard effect to take place during nighttime and inside interiors.
 
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
@@ -654,10 +649,8 @@ Well Rested Overhaul
 	Flirting Perks Require 5 Charisma (JSUE Version)
 	Honest Hearts Workbench Crate Luck
 	Lobotomite Tweaks
-	Luck Based Sunset Sarsaparilla Star Bottle Caps
 	Mines Go Boom
 	Rigged Shotgun Restoration - Lore-Friendly
-	Sun Guard During Sunshine
 	Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
@@ -820,10 +813,8 @@ Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomites.esp
-	Sunset Sarsaparilla Star Caps Random Luck.esp
 	MinesGoBoom.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
-	Sun Guard During Sunshine.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
