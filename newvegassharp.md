@@ -932,7 +932,7 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Y | Fast forward time | Pass the Time
+Key | Function | Added by
 
 # ACKNOWLEDGMENTS
 
