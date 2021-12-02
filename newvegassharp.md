@@ -15,11 +15,13 @@ The guide presented here assumes you have already followed all instructions foun
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
-- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
+
+Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
-- Install the **YUP - Base Game and All DLC** main file.
+
+Install the **YUP - Base Game and All DLC** main file.
 
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
