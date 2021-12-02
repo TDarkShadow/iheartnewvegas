@@ -341,9 +341,6 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 - Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
 
-[**DiaMoveNVSE**](https://www.nexusmods.com/newvegas/mods/66451)  
-Enables simple diagonal movements for the player character.
-
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
 - Install the **Ragdolls** main file.
@@ -716,7 +713,6 @@ Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
-DiaMoveNVSE
 Ragdolls
 Viewmodel Recoil
 B42 Weapon Inertia
@@ -961,16 +957,6 @@ fDefaultWorldFOV=85.0000
 fDefault1stPersonFOV=70.0000
 fPipboy1stPersonFOV=65.0000
 ```
-
-### DiaMoveNVSE
-
-Open the mod's .ini file and make the following adjustments.
-
-```
-bEnableHeadTurn=false
-```
-
-> if you also use [**New Vegas - Enhanced Camera**](https://www.nexusmods.com/newvegas/mods/55334/), set EnableECCompatible=True.
 
 # MOD KEYBINDINGS
 
