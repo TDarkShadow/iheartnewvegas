@@ -24,6 +24,21 @@ A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combin
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
 
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
+
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
+
+[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
+Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
+
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
@@ -47,24 +62,6 @@ Fixes the texture on the Sierra Madre exterior.
 <details>
 	<summary>Optional Patches - Click to expand</summary>
 
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
-
-[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
-Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
-
-[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described.
-
-[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
-Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
-
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
 - Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Requirement for this mod.
@@ -72,9 +69,6 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to
 
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
-
-[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
-Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
 Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
@@ -242,6 +236,14 @@ Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the gro
 
 [**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
+
+[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described.
+- Also install [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
+- Enter **0014609A** into **FNVEdit**'s FormID filter. Revert **Meltdown** Conditions from 80 to 90.
+
+[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
+Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
 
 [**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
 Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
@@ -596,6 +598,11 @@ Improved Lighting Shaders
 Navmesh Fixes and Improvements
 Yukichigai Unofficial Patch - YUP
 Unofficial Patch NVSE Plus
+Ammo Burst Case Count Fix
+Ammo Script Fixes
+Critical and Effects - Fixes and Tweaks
+Gauss Rifle VATS Fix - JIP
+Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
@@ -604,17 +611,10 @@ Throwable Weapon Fixes
 Landscape Disposition Fix
 Less Flickery City of New Vegas
 Sierra Madre Exterior Fixed
-	Ammo Burst Case Count Fix
-	Ammo Script Fixes
-	Critical and Effects - Fixes and Tweaks
-	Gauss Rifle VATS Fix - JIP
-	Meltdown NVSE Upgrade
-	Miss Fortune NVSE Upgrade
 	Mostly Unarmed Tweaks
 	kNVSE Animation Plugin
 	ShowOffNVSE
 	Tesla Cannon Chaining
-	Universal Pyromaniac Buff for Fire Effects
 	Dirty Pre-War Businesswear Texture Fix
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version B
@@ -661,6 +661,8 @@ JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
 Anatomy Perks
+Meltdown NVSE Upgrade
+Miss Fortune NVSE Upgrade
 Perk-based Creature Loot
 Perk-based Creature Loot Patches
 Improved Traits
@@ -784,15 +786,13 @@ Ragdolls.esm
 Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
+MigMultiCase.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+MigGaussFix.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
-	MigMultiCase.esp
-	AmmoScriptFixes.esp
-	CriticalEffectFixes.esp
-	MigGaussFix.esp
-	MigMeltdown.esp
-	MigFortune.esp
 	MigKao.esp
 	MigTeslaChain.esp
 	Pre-War Businesswear Fix.esp
@@ -832,6 +832,8 @@ Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
 	Charisma Perk Requirements.esp
 MigAnatomy.esp
+MigMeltdown.esp
+MigFortune.esp
 Perk-based Creature Loot.esp
 Perk-based Creature Loot Anatomy Perks Patch.esp
 Perk-based Creature Loot JSUE Patch.esp
