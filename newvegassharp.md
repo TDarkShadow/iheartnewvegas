@@ -337,9 +337,6 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 	
 # VISUALS
 
-[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
-Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on all distant land.
 - Install the **Improved LOD noise Texture** main file.
@@ -383,6 +380,10 @@ Adds 360 degrees movements with procedural leaning, and auto vanity mode to make
   - [X] Diagonal Movement Patch
   - [ ] Miscellaneous Skeleton File
   - [ ] Miscellaneous Blank Turn Animation Files
+
+[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
+Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
+- Also install [**FOV Slider Custom INI**](https://drive.google.com/file/d/1AeDqTWhVA9w30dUNqhtHNrbMakOHFb2R/view?usp=sharing).
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -698,7 +699,6 @@ Empty Clicks
 More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
 Female Nuka-Cola Drinking Sound Replacer
-FOV Slider
 Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
@@ -709,6 +709,8 @@ Viewmodel Recoil
 B42 Weapon Inertia
 NV Compatibility Skeleton
 360 Movement
+FOV Slider
+FOV Slider Custom INI
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -864,12 +866,12 @@ Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
-FOVSlider.esp
 VM_Recoil.esp
 B42Inertia.esp
 Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
+FOVSlider.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
@@ -939,16 +941,6 @@ bEnableFO3Repair=1
 bNPCWeaponMods=1
 uWMChanceMin=5
 uWMChanceMax=15
-```
-
-### FOV Slider
-
-Open the mod's .ini file and make the following adjustments.
-
-```
-fDefaultWorldFOV=85.0000
-fDefault1stPersonFOV=70.0000
-fPipboy1stPersonFOV=65.0000
 ```
 
 # MOD KEYBINDINGS
