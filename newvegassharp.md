@@ -496,27 +496,6 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 Adds CRT lines to the monitors of Securitrons.
 - Also install the **OWB in CRT** optional file.
 
-[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
-Adds animated eyelashes to NPCs and the player character.
-- Install the **tkEyelashesFNV** main file.
-- Hide **tkEyelashesFNV_FemalesOnly.esp**.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Female Head Data Part fix for **AfricanAmericanChild**.
-- Replace **Characters\head\HeadOld.nif** with **Characters\Eyelashes\LashesHeadOld.nif** under the **HispanicOldAged** Race record.
-
-[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
-Improves teeth, eyelashes, and eyebrow textures.
-- Install all three main files.
-
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
-Improves eye textures.
-- Install the **00 - Natural Eyes - Shadow** main file.
-
-[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
-Removes shine from vanilla hairs.
-
-[**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
-Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
-
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
@@ -743,13 +722,6 @@ Night Sky Tweaks
 	Worn-Out Scope Crosshair Replacers
 	Securitrons in CRT
 	OWB in CRT
-	Eyelashes New Vegas
-	HD Teeth
-	Natural Eyelashes
-	Natural Eyebrows
-	Natural Eyes - Shadow
-	Vanilla Hair - No Shine
-	Vanilla Underwear Replacer
 	Empty Weapons
 	Tweaked Standing Idle
 	Tweaked Standing Idle Fix
@@ -882,7 +854,6 @@ Character Expansions Revised - AIO Patch.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
-	tkEyelashesFNV.esp
 	EmptyWeapons.esp
 	MCPipBoy2000MK6_clock.esp
 FNVLODGen.esp
