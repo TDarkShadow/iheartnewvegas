@@ -176,6 +176,7 @@ Makes melee attacks hit multiple enemies.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
+- Enter **00133160** into **FNVEdit**'s FormID filter. Forward **WMIMNV** Sound - Melee - Swing fix.
 - Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Requirement for this mod.
 - Also install [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Requirement for this mod.
 
@@ -223,6 +224,7 @@ Prevents the headgear Sun Guard effect to take place during nighttime and inside
 
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
+- Enter **0301199E** into **FNVEdit**'s FormID filter. Set **NVDLC03WeapTeslaCannonUniqueElijah** Health from 90 to 100. This matches **JSawyer Ultimate Edition**'s tweaks, which we will install next.
 </details>
 
 # OVERHAULS
@@ -822,7 +824,6 @@ migWellRested.esp
 	MinesGoBoom.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 	Sun Guard During Sunshine.esp
-	MigTeslaChain.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
@@ -831,6 +832,7 @@ JSawyer Ultimate WMIM Patch.esp
 Female White Glove Society Mask JSUE.esp
 Weapon Binding Ritual No Message JSUE.esp
 	Charisma Perk Requirements.esp
+	MigTeslaChain.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
