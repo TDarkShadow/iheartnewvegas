@@ -471,28 +471,6 @@ Adds gloves to Y-17 Trauma Override Harness, fixing an in-game inconsistency.
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
 
-[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232)  
-Replaces the vicious NCR guard dogs with Alsatian dogs.
-
-[**Bighorner Model Variants**](https://www.nexusmods.com/newvegas/mods/62672)  
-Adds model variations for Bighorners. Now there's a visual difference between Bighorners, their calfs, and their bulls.
-- Install the **Bighorner Model Variants - Standard** main file.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** Record Flags fix for **NVCrBigHornerCalfDEAD**.
-
-[**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
-Adds model variations for Brahmin. Healthy Brahmin, sick Brahmin, random amount of horns, and calf-looking Brahmin calfs.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **DeadBrahmin**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **DeadBrahmin2**.
-  - Forward the **YUP - Base Game + All DLC** Configuration Flags, Level, and Packages fixes for **DEADCaravanBrahmin**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **VFSBrahminPackWaterDEAD**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags, Configuration Flags, Level, and Packages fixes for **DEADCaravanBrahminCGCave**.
-
-[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
-Makes Yao Guai look less mutated and more like actual bears.
-- Install the **Real Bears** main file.
-- Hide **Big Bears.esp**.
-
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 - Also install the **OWB in CRT** optional file.
@@ -776,10 +754,6 @@ Night Sky Tweaks
 	Unisex Motorcycle Helmets
 	Y-17 Trauma Override Harness Gloves
 	Worn-Out Scope Crosshair Replacers
-	Alsatian NCR Guard Dogs
-	Bighorner Model Variants
-	Brahmin Variant Redux
-	Healthier Yao Guai - Real Bears
 	Securitrons in CRT
 	OWB in CRT
 	Eyelashes New Vegas
@@ -921,11 +895,6 @@ Character Expansions Revised - AIO Patch.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
-	Alsatian NCR Guard Dogs.esp
-	CIB Bighorners.esp
-	CIB Bighorners - HH.esp
-	lexx_brahmin-variant.esp
-	Skinny Bears.esp
 	tkEyelashesFNV.esp
 	EmptyWeapons.esp
 	MCPipBoy2000MK6_clock.esp
