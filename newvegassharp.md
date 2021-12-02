@@ -289,7 +289,7 @@ Makes radiation work like in Fallout 4, by damaging your max health.
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
-- Also install the [**Viva New Vegas Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
+- Also install [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
 
 # CONTENT
 
