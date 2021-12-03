@@ -213,9 +213,6 @@ Forces the Honest Hearts workbench crates (the only source of skill books in the
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Gives the Old World Blues Lobotomites traits similar to those of a freshly operated player.
 
-[**Mines Go Boom**](https://www.nexusmods.com/newvegas/mods/73514)  
-Adds a chance for a mine to explode when you attempt to disarm it, based on your Explosives skill and Luck.
-
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
@@ -276,9 +273,6 @@ Dynamically lowers the amount of loot in the game.
 <details>
 	<summary>Optional Overhauls - Click to expand</summary>
 
-[**Anatomy Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
-Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies. Alternatively, the Here and Now perk also includes this ability.
-
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
 - Also install [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
@@ -286,10 +280,6 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
-
-[**Perk-based Creature Loot**](https://www.nexusmods.com/newvegas/mods/73847)  
-Locks loot-drops from animals, insects, and some mutants behind Hunter, Entomologist, and Purifier respectively.
-- Also install [**Perk-based Creature Loot Patches**](https://drive.google.com/file/d/1eqQ953FCYwb4EQJiIMUBEXM7FyY58Kww/view?usp=sharing). Adds patches for **Anatomy Perks** and **JSawyer Ultimate Edition**, fixing conflicting Perk and Leveled List edits.
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
@@ -645,7 +635,6 @@ Well Rested Overhaul
 	Flirting Perks Require 5 Charisma (JSUE Version)
 	Honest Hearts Workbench Crate Luck
 	Lobotomite Tweaks
-	Mines Go Boom
 	Rigged Shotgun Restoration - Lore-Friendly
 	Tesla Cannon Chaining
 JSawyer Ultimate Edition
@@ -667,11 +656,8 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
-	Anatomy Perks
 	Meltdown NVSE Upgrade
 	Miss Fortune NVSE Upgrade
-	Perk-based Creature Loot
-	Perk-based Creature Loot Patches
 	Improved Traits
 	FNV Opposite Traits (YUP OWB)
 	Improved Traits and Opposite Traits Patches
@@ -806,7 +792,6 @@ Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomites.esp
-	MinesGoBoom.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
@@ -826,12 +811,8 @@ RAD.esp
 Unfound Loot.esp
 	Charisma Perk Requirements.esp
 	MigTeslaChain.esp
-	MigAnatomy.esp
 	MigMeltdown.esp
 	MigFortune.esp
-	Perk-based Creature Loot.esp
-	Perk-based Creature Loot Anatomy Perks Patch.esp
-	Perk-based Creature Loot JSUE Patch.esp
 	Improved Traits.esp
 	Improved Traits Improved.esp
 	Improved Traits - JSU.esp
