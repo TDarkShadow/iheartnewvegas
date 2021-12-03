@@ -422,16 +422,6 @@ Fixes the bright night sky horizons.
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Gets rid of the big fingerprint on Mr. House/Yes Man's screen.
 
-[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
-Makes the McCarran escalator glass texture transparent.
-
-[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
-Makes the McCarran Terminal glass transparent.
-- Install the **McCarran_Glass_transparency_Vanilla_version** main file.
-
-[**Lower-Sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
-Modifies the Ranger Hat so it sits slightly lower on the head. 
-
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
 
@@ -651,10 +641,6 @@ FNV RWL All DLC - Strip Lights AIO Patch
 FNV RWL All DLC - Light Tweaks
 Mojave Nights
 Night Sky Tweaks
-	Lucky 38 Mainframe No Fingerprints
-	McCarran Escalator Glass
-	McCarran Main Terminal Transparent Glass
-	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
 	Unisex Motorcycle Helmets
