@@ -163,9 +163,6 @@ Limits the amount of followers the player can have depending on their Charisma s
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving. 
 
-[**Immersive Hit Reactions**](https://www.nexusmods.com/newvegas/mods/66646)  
-Enemies will react more to getting shot or hit, making them feel less like a bullet sponge. The player can now also react to getting shot.
-
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
@@ -619,7 +616,6 @@ Weapon Binding Ritual No Message or Screenspace Effect
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
-Immersive Hit Reactions - Makes Combat Responsive
 Immersive Recoil 2.0
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
@@ -779,7 +775,6 @@ Snowglobe Tweaks.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
-Immersive Hit Reactions.esp
 ImmersiveRecoil.esp
 JamFix.esp
 JustAssortedMods.esp
