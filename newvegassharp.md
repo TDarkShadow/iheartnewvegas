@@ -335,20 +335,6 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 - Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
 
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds diagonal movement.
-
-> This mod requires **NV Compatibility Skeleton**, which we will install in a moment.
-
-[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
-Improves ragdoll behaviour for all NPC/Creatures in the game, and restores hit reactions. Includes configuration options.
-- Install the **Ragdolls** main file.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Model fix for **DLCPittTrogBodyPartData**.
-  - Forward the **YUP - Base Game + All DLC** Body Part fix for **NVDLC01GhostBodyPartData**.
-  - Forward the **YUP - Base Game + All DLC** Ragdoll fix for **NVDLC03BrainBotbodypartdata**.
-  - Forward the **YUP - Base Game + All DLC** Actor Base fix for **TrogRagdoll**.
-
 [**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
 
@@ -359,16 +345,6 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
-- Check the following option in the FOMOD installer.
-  - [X] 360 Sneak Options Full
-  - [ ] 360 Sneak Options No Weapon Out
-  - [ ] 360 Sneak Options Disabled
-  - [X] Diagonal Movement Patch
-  - [ ] Miscellaneous Skeleton File
-  - [ ] Miscellaneous Blank Turn Animation Files
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
@@ -443,18 +419,9 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
-[**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
-Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
-- Enter **001385C4** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Encounter Zone fix.
-- Enter **0010E02A** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Owner fix.
-	
-[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
-Adds the Lucky 38 poster from the game's intro FMV.
-
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Gets rid of the big fingerprint on Mr. House/Yes Man's screen.
-- Also install the **Securitrons No Fingerprints** optional file.
-	
+
 [**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
 Makes the McCarran escalator glass texture transparent.
 
@@ -475,23 +442,13 @@ Adds armored gloves to all Power Armors in the game.
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
 
-[**Y-17 Trauma Override Harness Gloves**](https://www.nexusmods.com/newvegas/mods/56301)  
-Adds gloves to Y-17 Trauma Override Harness, fixing an in-game inconsistency.
-
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
 
-[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
-Makes the Yao Guai from Honest Hearts look less mutated.
-- Install the **Healthier Yao Guai** main file.
-
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 - Also install the **OWB in CRT** optional file.
-
-[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
-Slides stay locked back on empty handguns.
 
 [**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
 Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
@@ -671,12 +628,9 @@ Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
-Diagonal Movement
-Ragdolls
 Viewmodel Recoil
 B42 Weapon Inertia
 NV Compatibility Skeleton
-360 Movement
 FOV Slider
 FOV Slider Custom INI
 Character Expansions Revised
@@ -697,22 +651,16 @@ FNV RWL All DLC - Strip Lights AIO Patch
 FNV RWL All DLC - Light Tweaks
 Mojave Nights
 Night Sky Tweaks
-	Bathroom Doors Overhaul
-	Lucky 38 Intro Poster
 	Lucky 38 Mainframe No Fingerprints
-	Securitrons No Fingerprints
 	McCarran Escalator Glass
 	McCarran Main Terminal Transparent Glass
 	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
 	Unisex Motorcycle Helmets
-	Y-17 Trauma Override Harness Gloves
 	Worn-Out Scope Crosshair Replacers
-	Healthier Yao Guai
 	Securitrons in CRT
 	OWB in CRT
-	Empty Weapons
 	Tweaked Standing Idle
 	Tweaked Standing Idle Fix
 	Pip-Boy 2000 Mk VI
@@ -824,9 +772,6 @@ hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
 VM_Recoil.esp
 B42Inertia.esp
-Diagonal movement.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
 FOVSlider.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
@@ -834,11 +779,8 @@ Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
-	Bathroom Doors Overhaul - All IN ONE.esp
-	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
-	EmptyWeapons.esp
 	MCPipBoy2000MK6_clock.esp
 FNVLODGen.esp
 tmzLODadditions.esp
