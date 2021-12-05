@@ -407,9 +407,6 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Optional Visuals - Click to expand</summary>
 
-[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
-Gets rid of the big fingerprint on Mr. House/Yes Man's screen.
-
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
 
