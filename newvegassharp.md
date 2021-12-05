@@ -195,15 +195,8 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 <details>
 	<summary>Optional Gameplay - Click to expand</summary>
 
-[**Flirting Perks Require 5 Charisma**](https://www.nexusmods.com/newvegas/mods/67594)  
-Black Widow, Cherchez La Femme, Confirmed Bachelor, and Lady Killer all require 5 or more Charisma to acquire now.
-- Install the **JSawyer (Ultimate) version** main file.
-
 [**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
 Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
-
-[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
-Gives the Old World Blues Lobotomites traits similar to those of a freshly operated player.
 
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
@@ -519,24 +512,24 @@ Console Paste Support
 Improved Lighting Shaders
 Navmesh Fixes and Improvements
 Yukichigai Unofficial Patch - YUP
+Landscape Disposition Fix
 Unofficial Patch NVSE Plus
-Ammo Burst Case Count Fix
-Ammo Script Fixes
-Critical and Effects - Fixes and Tweaks
-Gauss Rifle VATS Fix - JIP
-Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 WMIM Mesh Fix
 Throwable Weapon Fixes
-Landscape Disposition Fix
-Less Flickery City of New Vegas
-Sierra Madre Exterior Fixed
+Ammo Burst Case Count Fix
+Ammo Script Fixes
+Critical and Effects - Fixes and Tweaks
+	Gauss Rifle VATS Fix - JIP
+	Universal Pyromaniac Buff for Fire Effects
 	Dirty Pre-War Businesswear Texture Fix
 	Female White Glove Society Mask Fix
-	Gun Runners Kiosk Glass Fix Alternate Version B
+	Gun Runners Kiosk Glass Fix Alternate Version
+	Less Flickery City of New Vegas
 	Lonesome Road Carbon Shadow Fix
+	Sierra Madre Exterior Fixed
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -554,7 +547,6 @@ Faster Pip-Boy Animation
 No More Dust Devils (and Whirlwinds)
 Simple DLC Delay
 Snowglobe Tweaks Fix
-Weapon Binding Ritual No Message or Screenspace Effect
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
@@ -570,9 +562,7 @@ Player Combat Priority
 Precise VATS (and actually useful Perception)
 Simple Explosive Entry
 Well Rested Overhaul
-	Flirting Perks Require 5 Charisma (JSUE Version)
 	Honest Hearts Workbench Crate Luck
-	Lobotomite Tweaks
 	Rigged Shotgun Restoration - Lore-Friendly
 	Tesla Cannon Chaining
 JSawyer Ultimate Edition
@@ -716,13 +706,12 @@ hz_Precise VATS.esp
 Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
-	Lobotomites.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
 JSawyer Ultimate WMIM Patch.esp
-JSawyer Ultimate WMIM Patch.esp
+JSawyer Ultimate Throwable Fixes Patch.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
@@ -732,7 +721,6 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
-	Charisma Perk Requirements.esp
 	MigTeslaChain.esp
 	MigMeltdown.esp
 	MigFortune.esp
