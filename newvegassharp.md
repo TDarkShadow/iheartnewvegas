@@ -152,6 +152,9 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
+[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
+Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
+
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
 
@@ -185,27 +188,16 @@ Prevents the game from becoming too easy by making enemies more likely to target
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
+[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
+Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
+- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Yukichigai Unofifcial Patch** Dialog Topic fixes.
-
-<details>
-	<summary>Optional Gameplay - Click to expand</summary>
-
-[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
-Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
-
-[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
-Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
-- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
-
-[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
-Upgrades the Tesla Cannon so that it can now actually chain between targets. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
-- Enter **0301199E** into **FNVEdit**'s FormID filter. Set **NVDLC03WeapTeslaCannonUniqueElijah** Health from 90 to 100. This matches **JSawyer Ultimate Edition**'s tweaks, which we will install next.
-</details>
 
 # OVERHAULS
 
@@ -545,6 +537,7 @@ No More Dust Devils (and Whirlwinds)
 Simple DLC Delay
 Snowglobe Tweaks Fix
 Essential DLC Enhancements Merged
+Honest Hearts Workbench Crate Luck
 Follower Formula Redone
 Follower Tweaks
 Immersive Recoil 2.0
@@ -557,11 +550,9 @@ ShowOffNVSE
 NPCs Sprint In Combat
 Player Combat Priority
 Precise VATS (and actually useful Perception)
+Rigged Shotgun Restoration - Lore-Friendly
 Simple Explosive Entry
 Well Rested Overhaul
-	Honest Hearts Workbench Crate Luck
-	Rigged Shotgun Restoration - Lore-Friendly
-	Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
@@ -690,6 +681,7 @@ Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
 DLC Enhancements.esp
+Honest Hearts Workbench Crate Luck.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
 ImmersiveRecoil.esp
@@ -700,10 +692,9 @@ MigKao.esp
 NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
+Rigged Shotgun Restoration - Lore-Friendly.esp
 Simple Explosive Entry.esp
 migWellRested.esp
-	Honest Hearts Workbench Crate Luck.esp
-	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
@@ -718,7 +709,6 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
-	MigTeslaChain.esp
 	MigMeltdown.esp
 	MigFortune.esp
 	Improved Traits.esp
