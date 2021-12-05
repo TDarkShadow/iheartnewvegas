@@ -23,23 +23,11 @@ Fixes virtually every navmesh where the edge connections were missing or pointin
 A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
 - Install the **YUP - Base Game and All DLC** main file.
 
+[**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
+Small mod fixing several hundred vanilla floating objects, underground or above ground.
+
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bugfixes requiring NVSE.
-
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
-
-[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
-Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
-
-[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
-Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
@@ -52,17 +40,23 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of fixes for throwable weapons, focused on projectiles.
 
-[**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
-Small mod fixing several hundred vanilla floating objects, underground or above ground.
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
-[**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
-Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
 
-[**Sierra Madre Exterior Fixed**](https://www.nexusmods.com/newvegas/mods/66775)  
-Fixes the texture on the Sierra Madre exterior.
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
 
 <details>
 	<summary>Optional Patches - Click to expand</summary>
+
+[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
+Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
 Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
@@ -77,8 +71,14 @@ Fixes the White Glove Society Mask mesh for female characters.
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
 - Only install the **Gun Runners Kiosk Glass Fix Alternate Version** optional file.
 
+[**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
+Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
+
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
+
+[**Sierra Madre Exterior Fixed**](https://www.nexusmods.com/newvegas/mods/66775)  
+Fixes the texture on the Sierra Madre exterior.
 </details>
 
 # USER INTERFACE
@@ -146,11 +146,6 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
-
-[**Weapon Binding Ritual No Message or Screenspace Effect**](https://www.nexusmods.com/newvegas/mods/73013)  
-Makes the Weapon Binding Ritual visually consistent with other chems and buff items, and much less annoying as a result.
-
-> If you plan to use the **JSawyer Ultimate Edition** gameplay overhaul, skip installing this mod. We will install a compatible version in the **Overhauls** section.
 
 # GAMEPLAY
 
@@ -226,7 +221,7 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 - Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
-- Also install [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, **Throwable Weapon Fixes**, as well as JSUE-compatible versions of **Female White Glove Society Mask** and **Weapon Binding Ritual No Message**.
+- Also install [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
@@ -690,15 +685,16 @@ Ragdolls.esm
 Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
+WMIMNV.esp
+ThrowableFixes.esp
 MigMultiCase.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
-MigGaussFix.esp
-PyromaniacEffectsBuff.esp
-WMIMNV.esp
-ThrowableFixes.esp
-LessFlickeryCityOfNewVegas.esp
+	MigGaussFix.esp
+	PyromaniacEffectsBuff.esp
 	Pre-War Businesswear Fix.esp
+	Female White Glove Society Mask.esp
+	LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 JIP Improved Recipe Menu.esp
 Vanilla UI Plus.esp
@@ -727,8 +723,6 @@ JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate YUP Patch.esp
 JSawyer Ultimate WMIM Patch.esp
 JSawyer Ultimate WMIM Patch.esp
-Female White Glove Society Mask JSUE.esp
-Weapon Binding Ritual No Message JSUE.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
