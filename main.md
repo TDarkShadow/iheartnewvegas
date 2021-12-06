@@ -26,9 +26,6 @@ A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combin
 [**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
 Small mod fixing several hundred vanilla floating objects, underground or above ground.
 
-[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
-Collection of bugfixes requiring NVSE.
-
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
@@ -40,6 +37,9 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of fixes for throwable weapons, focused on projectiles.
 
+[**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
+Collection of bugfixes requiring NVSE.
+
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
@@ -48,6 +48,12 @@ Fixes several problems at the core level with how ammo scripts and effects work,
 
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
+
+[**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
+Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
+
+Additional files to install:
+- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1XQuRqVv-6-1DaCsfIAcBOyfAYriBafS1/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
@@ -64,8 +70,6 @@ Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the i
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
-
-> If you plan to use the **JSawyer Ultimate Edition** gameplay overhaul, hide **Female White Glove Society Mask.esp**. We will install a compatible version in the **Overhauls** section.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
@@ -223,12 +227,6 @@ Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
-
-[**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
-Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
-
-Additional files to install:
-- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1XQuRqVv-6-1DaCsfIAcBOyfAYriBafS1/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -555,6 +553,8 @@ Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
+lStewieAl's Tweaks
+lStewieAl's Tweaks INI
 	Gauss Rifle VATS Fix - JIP
 	Universal Pyromaniac Buff for Fire Effects
 	Dirty Pre-War Businesswear Texture Fix
@@ -571,7 +571,6 @@ Clean Vanilla HUD
 Consistent Pip-Boy Icons
 Consistent Pip-Boy Icons Vanilla UI Plus Patch
 	Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
-Faction Map Icon Overhaul
 Satellite World Map
 Satellite Maps DLC
 Better Character Creation
@@ -598,8 +597,6 @@ JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
-lStewieAl's Tweaks
-lStewieAl's Tweaks INI
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
