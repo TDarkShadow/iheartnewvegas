@@ -200,7 +200,8 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Yukichigai Unofifcial Patch** Dialog Topic fixes.
+- Enter **00136240** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Prompt fix.
+- Enter **001569BC** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Response Text fix.
 
 <details>
 	<summary>Gameplay (Optional) - Click to expand</summary>
@@ -242,7 +243,8 @@ Additional files to install:
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks for **NVDLC02RecipeHealingPoultice** and **NVDLC02RecipeDaturaAntivenom**.
+- Enter **0201103D** into **FNVEdit**'s FormID filter. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks.
+- Enter **02011108** into **FNVEdit**'s FormID filter. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks.
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
  Removes some map markers in an attempt to make exploration more interesting. 
