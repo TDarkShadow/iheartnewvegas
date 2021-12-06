@@ -76,6 +76,9 @@ Fixes the intense flickering in the city of New Vegas (such as when looking from
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
+
+[**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
+Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them), improving performance. Optionally removes tumbleweeds too.
 </details>
 
 # USER INTERFACE
@@ -138,7 +141,7 @@ Additional files to install:
 Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon. 
 </details>
 	
-# QUALITY OF LIFE IMPROVEMENTS
+# GAMEPLAY QOL
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
@@ -146,9 +149,6 @@ Improves the character creation by speeding up the process, adding specialized g
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 - Install the **Faster Pip-Boy Animation (2x)** main file.
-
-[**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
-Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them). Optionally removes tumbleweeds too.
 
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
