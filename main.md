@@ -102,7 +102,7 @@ Greatly improves the user interface without compromising the original style.
   - [X] Plugin
   - [X] WASD Compatible 
 - Right-click on the installed file and click **Open in Explorer**.
-- Open **Menus\Prefabs\VUI++\settings.xml** using a text editor.
+- Open **Menus\Prefabs\VUI+\settings.xml** using a text editor.
 - Set **VUI+NumberedTopics** to 1.
 - Save your changes.
 
