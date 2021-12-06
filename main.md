@@ -229,7 +229,7 @@ Additional files to install:
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1yeAWMaUo2qQSUA6J7ek6Sr86N4Txjr-n/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1XQuRqVv-6-1DaCsfIAcBOyfAYriBafS1/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
