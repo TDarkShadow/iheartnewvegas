@@ -190,7 +190,7 @@ Extension of the New Vegas Script Extender that enables borderless window mode f
 - Manually download the **OneTweak** main file.
 - Extract the contents of the archive. Renamed the **SKSE** folder to **NVSE**, and merge the folder with your **Fallout New Vegas\Data\NVSE** folder.
 - Launch Mod Organizer 2.
-- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
@@ -206,13 +206,13 @@ Extension of the New Vegas Script Extender that allows a maximum of 255 plugins 
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
-[**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
-Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
+[**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
+Extension of the New Vegas Script Extender that almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
-[**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
-Extension of the New Vegas Script Extender that almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
+[**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
+Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
