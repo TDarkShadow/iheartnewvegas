@@ -58,7 +58,7 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Place **FalloutNVpatch.exe** in your game's **Root** folder and run it as an Administrator.
 - Close the command prompt after the patching process is done.
 
-> From now on, run the game through the **New Vegas** option in Mod Organizer 2, rather than the **NVSE** option.
+> From now on, the game should be run using **FalloutNewVegas.exe** instead of **NVSE.exe**. We will configure Mod Organizer 2 to hide the latter option after we are done installing it.
 
 # Mod Organizer 2
 
