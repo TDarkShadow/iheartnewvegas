@@ -341,6 +341,7 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
+- The default FOMOD options are fine.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
