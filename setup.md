@@ -180,6 +180,12 @@ Extension of the New Vegas Script Extender which adds new functions, engine bug 
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
+[**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
+Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks.
+
+[**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
+Extension of the New Vegas Script Extender which enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
+
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Extension of the New Vegas Script Extender that implements structured exception handling and sanity checking to reduce frequency of game crashes.
 - Download the main file using the **Mod Manager Download** option.
