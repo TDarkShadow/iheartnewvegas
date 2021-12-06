@@ -31,9 +31,9 @@ C:\Games\Fallout New Vegas Mods
 
 # Generating fresh .INI files
 
-- Run FalloutNVLauncher.exe from the game's Root folder.
-- Click OK to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to Documents\My Games\FalloutNV and delete all the files ending in .INI, then retry.
-- Select **Options** then select the **Ultra** preset option. A way to improve performance without drastically changing the game's visuals is by disabling shadows. New Vegas only features actor shadows which are barely visible, but which can still have a big performance impact if there are many NPCs in one area.
+- Run **FalloutNVLauncher.exe** from the game's Root folder.
+- Click OK to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then retry.
+- Select **Options** then select the **Ultra** preset option. If you want to improve performance without drastically changing the game's visuals, disable actor shadows. These are hardly noticeable but can have a considerable performance impact.
 - Set the **Resolution** option to your preference.
 - Click **OK** then **Exit**.
 
@@ -45,7 +45,7 @@ Decompresses the Fallout New Vegas BSAs and repacks them without zlib compressio
 - Run **FNV BSA Decompressor.exe**, select your game's **Root** folder and press the **Decompress** button.
 - Close the program after the patching process is done.
 
-> This utility will add the following lines to your Fallout.ini file.
+> This utility will add the following lines to your **Fallout.ini** file.
 
 ```
 [Archive]
@@ -55,7 +55,7 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
 Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Manually download the **FNV 4GB Patch** main file.
-- Place the **FalloutNVpatch.exe** in your game's **Root** folder and run it as an Administrator.
+- Place **FalloutNVpatch.exe** in your game's **Root** folder and run it as an Administrator.
 - Close the command prompt after the patching process is done.
 
 > From now on, run the game through the **New Vegas** option in Mod Organizer 2, rather than the **NVSE** option.
