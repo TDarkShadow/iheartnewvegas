@@ -238,5 +238,5 @@ For FNVEdit to work in Mod Organizer 2, we need to register and configure it.
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Left My Heart In New Vegas >>](https://github.com/Sigourn/newvegas-sharp/blob/main/newvegassharp.md#left-my-heart-in-new-vegas)  
+[To Left My Heart In New Vegas >>](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md#left-my-heart-in-new-vegas)  
 [<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)
