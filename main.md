@@ -95,7 +95,7 @@ Makes the crafting interface easier, more efficient and less tedious to use.
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
 - Download the mod using the **DOWNLOAD NOW!** button.
-- Check the following options in the FOMOD installer.
+- FOMOD options to install:
   - [X] Default Font Tweaks
   - [ ] Classic Pip-Boy Font
   - [ ] No Font Tweaks
@@ -110,7 +110,7 @@ Greatly improves the user interface without compromising the original style.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
-- Check the following options in the FOMOD installer.
+- FOMOD options to install:
   - All **Modules** and **Tweaks** options.
   - Skip the **DarnUI Specific** options.
 
@@ -161,9 +161,6 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
-[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
-Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
-
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
 
@@ -197,10 +194,6 @@ Prevents the game from becoming too easy by making enemies more likely to target
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
-[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
-Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
-- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
-
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
@@ -208,23 +201,41 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Yukichigai Unofifcial Patch** Dialog Topic fixes.
 
+<details>
+	<summary>Gameplay (Optional) - Click to expand</summary>
+
+[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
+Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
+
+[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
+Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
+- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+</details>
+
 # OVERHAULS
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
-- Also install the **JSawyer Ultimate Edition - Push's Tweaks** optional file.
-- Also install [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+
+Additional files to install:
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files section).
+- [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
-- Also install [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1yeAWMaUo2qQSUA6J7ek6Sr86N4Txjr-n/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+
+Additional files to install:
+- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1yeAWMaUo2qQSUA6J7ek6Sr86N4Txjr-n/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 - Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
-- Also install the **Laser Weapon Iron Sights - Iron Sight Recoil Animations** and **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** optional files.
+
+Additional files to install:
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files section).
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files section).
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
@@ -232,7 +243,9 @@ Collection of gameplay tweaks by Qolore7.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
-- Also install the **JSawyer Ultimate Edition Patch** optional file.
+
+Additional files to install:
+- **JSawyer Ultimate Edition Patch** (Optional files section).
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
  Removes some map markers in an attempt to make exploration more interesting. 
@@ -244,25 +257,33 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
   - Forward the **Unofficial Patch NVSE Plus** Challenge fix for **NVDLC05ChallengeDeathclawProHunter**.
   - Forward the **JSawyer Ultimate** Ingredients tweaks for **RecipePowderCharge**.
   - Forward the **Miscellaneous Tweaks** Conditions tweaks for **NVDLC02RecipeBreakdown45Auto**.
-- Also install [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+
+Additional files to install:
+- [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
   - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three **Miscellaneous Tweaks** Leveled List records for VendorWeaponsMeleeTier3.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
-- Also install [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
+
+Additional files to install:
+- [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
 
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
-- Also install [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
+
+Additional files to install:
+- [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
 
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
-- Also install [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
 - Enter **0014609A** into **FNVEdit**'s FormID filter. Revert **Meltdown** Conditions from 80 to 90.
+	
+Additional files to install:
+- [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
@@ -281,12 +302,16 @@ New Vegas has two Traits with opposite effects. This mod expands this idea to th
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install the **Uncut Wasteland plus NPCs** main file.
-- Also install the [**Viva New Vegas Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
+
+Additional files to install:
+- [**Viva New Vegas Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
-- Also install [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
-- Also install the [**Viva New Vegas Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
+
+Additional files to install:
+- [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
+- [**Viva New Vegas Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -321,7 +346,9 @@ Vastly improves the LOD noise texture used on all distant land.
 
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
-- Also install [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
+
+Additional files to install:
+- [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
 
 [**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
@@ -337,12 +364,19 @@ A skeleton with compatibility for the latest mods.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-- Also install [**FOV Slider Custom INI**](https://drive.google.com/file/d/1AeDqTWhVA9w30dUNqhtHNrbMakOHFb2R/view?usp=sharing).
+
+Additional files to install:
+- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1AeDqTWhVA9w30dUNqhtHNrbMakOHFb2R/view?usp=sharing).
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
-- Also install **Character Expansions Revised - YUP**, **Character Expansions Revised - JSU**, **Character Expansions Revised - UW**, and **Character Expansions Revised - MR**.
-- Also install [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
+
+Additional files to install:
+- **Character Expansions Revised - YUP**
+- **Character Expansions Revised - JSU**
+- **Character Expansions Revised - UW**
+- **Character Expansions Revised - MR**.
+- [**Character Expansions Revised - AIO Patch**](https://drive.google.com/file/d/1Niq7CocdYuYGY8v6_ZUhWphynCxxyTIp/view?usp=sharing). 
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
