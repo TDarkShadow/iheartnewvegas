@@ -218,7 +218,7 @@ Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun ea
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
-Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
+Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
