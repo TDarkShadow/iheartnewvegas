@@ -482,28 +482,7 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 
 > Because this mod replaces the vanilla sound, you should only use it when playing a female character.
 
-# FNVLODGen
-
-**FNVLODGen** lets you generate LOD for our installed mods.
-
-[**FNVLODGen**](https://www.nexusmods.com/newvegas/mods/58562)  
-Allows generation of LOD for worldspaces by scanning all mods in the load order that add visible from distant objects.
-- Manually download the **FNVLODGen** main file.
-- Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
-
-## Registering FNVLODGen in Mod Organizer 2
-
-For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
-- Navigate to FNVLODGen's folder (**C:\Games\Fallout New Vegas Mods\FNVLODGen**) and double click its .exe file.
-- In the **Arguments** field, paste **-o:"C:\Games\Fallout New Vegas Mods\FNVLODGen Output\"**.
-- Click **Apply** and then **OK**.
-
-> This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
-
-## Installing LOD resources
+# LOD RESOURCES
 
 [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
 Adds extra meshes for LOD generation.
