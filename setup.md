@@ -231,7 +231,7 @@ For FNVEdit to work in Mod Organizer 2, we need to register and configure it.
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click its .exe file.
+- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEdit.exe**.
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste **-IKnowWhatImDoing**.
 - Click **Apply** and then **OK**.
