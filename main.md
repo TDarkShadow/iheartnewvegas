@@ -419,6 +419,8 @@ High quality retexture for night sky and moon.
 - Install the **Mojave Nights FOMOD** main file. The low-glow option is fine.
 - Copy **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
 
+> This will also apply the new night sky texture to Zion.
+
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
