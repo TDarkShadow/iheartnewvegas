@@ -530,21 +530,23 @@ DLC: ClassicPack
 DLC: CaravanPack
 JIP LN NVSE Plugin
 JohnnyGuitar NVSE
+ShowOffNVSE
+kNVSE Animation Plugin
 NVAC - New Vegas Anti Crash
 NVTF - New Vegas Tick Fix
 NVTF Custom INI
 FNV Mod Limit Fix
-Console Paste Support
 Improved Lighting Shaders
+Console Paste Support
 Navmesh Fixes and Improvements
 Yukichigai Unofficial Patch - YUP
 Landscape Disposition Fix
-Unofficial Patch NVSE Plus
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 WMIM Mesh Fix
 Throwable Weapon Fixes
+Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
@@ -555,7 +557,7 @@ Critical and Effects - Fixes and Tweaks
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
 	Lonesome Road Carbon Shadow Fix
-	Sierra Madre Exterior Fixed
+	No More Dust Devils (and Whirlwinds)
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -570,29 +572,28 @@ Satellite World Map
 Satellite Maps DLC
 Better Character Creation
 Faster Pip-Boy Animation
-No More Dust Devils (and Whirlwinds)
 Simple DLC Delay
 Snowglobe Tweaks Fix
 Essential DLC Enhancements Merged
-Honest Hearts Workbench Crate Luck
 Follower Formula Redone
 Follower Tweaks
 Immersive Recoil 2.0
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
 Melee Cleave (a.k.a. Sweep)
+Misc Gameplay Merge
 Mostly Unarmed Tweaks
-kNVSE Animation Plugin
-ShowOffNVSE
 NPCs Sprint In Combat
 Player Combat Priority
 Precise VATS (and actually useful Perception)
-Rigged Shotgun Restoration - Lore-Friendly
 Simple Explosive Entry
 Well Rested Overhaul
+	Honest Hearts Workbench Crate Luck
+	Rigged Shotgun Restoration - Lore-Friendly
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Patches
+Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 lStewieAl's Tweaks
 lStewieAl's Tweaks INI
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -600,8 +601,6 @@ Laser Weapon Iron Sights - Iron Sight Recoil Animations
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
 Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Miscellaneous Tweaks Collection
-Misc Gameplay Merge
-Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Less Map Markers
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
@@ -613,17 +612,13 @@ Unfound Loot Custom INI
 	Miss Fortune NVSE Upgrade
 	Improved Traits
 	FNV Opposite Traits (YUP OWB)
-	Improved Traits and Opposite Traits Patches
+	Improved Opposite Traits and JSUE Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Raiders Tweaks
 Mojave Wildlife - Vanilla No Chanced Spawns Version
-Empty Clicks
-More Accurate Geiger Clicking
-No Cocking Sound on Rifle Equip
-Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
@@ -642,15 +637,15 @@ Character Expansions Revised - AIO Patch
 A Little More Lamplight
 Strip Lights Region Fix
 Lucky 38 Lights Redone
-More Subtle New Vegas Light Pollution - Slightly Brighter
-More Subtle New Vegas Light Pollution Better Strip View Patch
 Strip Lighting Overhaul
 FNV Realistic Wasteland Lighting
 FNV RWL All DLC - Patch Collection
-FNV RWL All DLC - Strip Lights AIO Patch
 FNV RWL All DLC - Light Tweaks
+FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	More Subtle New Vegas Light Pollution - Slightly Brighter
+	More Subtle New Vegas Light Pollution Better Strip View Patch
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
 	Unisex Motorcycle Helmets
@@ -663,14 +658,18 @@ Night Sky Tweaks
 	Pip-Boy 2000 Mk VI Working Date and Clock
 	Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 	NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+	Empty Clicks
+	More Accurate Geiger Clicking
+	No Cocking Sound on Rifle Equip
+	Female Nuka-Cola Drinking Sound Replacer
 FNVLODGen Resources
 LOD Additions and Improvements
 FNV LOD Supplementation
 TCM's LOD Overhaul
-Better Strip View
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
+Better Strip View
 ```
 </details>
 
@@ -696,12 +695,11 @@ Navmesh Fixes and Improvements.esm
 YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
 Misc Gameplay Merge.esm
-Ragdolls.esm
 Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
-Unofficial Patch NVSE Plus.esp
 WMIMNV.esp
 ThrowableFixes.esp
+Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
@@ -718,7 +716,6 @@ Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
 DLC Enhancements.esp
-Honest Hearts Workbench Crate Luck.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
 ImmersiveRecoil.esp
@@ -729,18 +726,19 @@ MigKao.esp
 NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
-Rigged Shotgun Restoration - Lore-Friendly.esp
 Simple Explosive Entry.esp
 migWellRested.esp
+	Honest Hearts Workbench Crate Luck.esp
+	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate YUP Patch.esp
-JSawyer Ultimate WMIM Patch.esp
-JSawyer Ultimate Throwable Fixes Patch.esp
+YUP - JSUE Patch.esp
+WMIM - JSUE Patch.esp
+Throwable Fixes - JSUE Patch.esp
+Misc Gameplay Merge - JSUE Patch.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
-Misc Gameplay Merge - JSUE Patch.esp
 Less Map Markers.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
@@ -750,18 +748,16 @@ Unfound Loot.esp
 	MigFortune.esp
 	Improved Traits.esp
 	Improved Traits Improved.esp
-	Improved Traits - JSU.esp
+	Improved Traits - JSUE Patch.esp
 	FNVOppositeTraits.esp
-	FNVImprovedOppositeTraits.esp
-	FNVImprovedOppositeTraits - JSU.esp
+	FNVOppositeTraits Improved.esp
+	FNVOppositeTraits Improved - JSUE Patch.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
-hz_Empty Clicks.esp
-More Accurate Geiger Clicking.esp
 VM_Recoil.esp
 B42Inertia.esp
 FOVSlider.esp
@@ -774,23 +770,25 @@ Character Expansions Revised - AIO Patch.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
 	MCPipBoy2000MK6_clock.esp
-FNVLODGen.esp
-tmzLODadditions.esp
+	hz_Empty Clicks.esp
+	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
 Little More Lamplight.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Better Strip View.esp
-vegasglow.esp
-More Subtle New Vegas Light Pollution Better Strip View Patch.esp
+	vegasglow.esp
+	More Subtle New Vegas Light Pollution Better Strip View Patch.esp
 Lucky 38 Lights Redone.esp
 Strip Lighting Overhaul.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
-FNV RWL All DLC - Strip Lights AIO Patch.esp
 FNV RWL All DLC - Light Tweaks.esp
+FNV RWL All DLC - Strip Lights AIO Patch.esp
 Mojave Nights.esp
+FNVLODGen.esp
+tmzLODadditions.esp
 ```
 </details>
 
