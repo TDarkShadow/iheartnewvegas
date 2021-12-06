@@ -76,9 +76,6 @@ Fixes the intense flickering in the city of New Vegas (such as when looking from
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
-
-[**Sierra Madre Exterior Fixed**](https://www.nexusmods.com/newvegas/mods/66775)  
-Fixes the texture on the Sierra Madre exterior.
 </details>
 
 # USER INTERFACE
