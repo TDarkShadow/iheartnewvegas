@@ -395,13 +395,6 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
-
-Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
-
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
@@ -428,6 +421,13 @@ Fixes the bright night sky horizons.
 
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+
+Additional files to install:
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
