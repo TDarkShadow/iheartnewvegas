@@ -50,7 +50,7 @@ Fixes several problems at the core level with how ammo scripts and effects work,
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
 
 <details>
-	<summary>Optional Patches - Click to expand</summary>
+	<summary>Patches (Optional) - Click to expand</summary>
 
 [**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
 Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
@@ -257,7 +257,7 @@ Dynamically lowers the amount of loot in the game.
 - Also install [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
 
 <details>
-	<summary>Optional Overhauls - Click to expand</summary>
+	<summary>Overhauls (Optional) - Click to expand</summary>
 
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
@@ -304,7 +304,7 @@ Increases the Pip-Boy Geiger clicking beyond the vanilla default.
 Removes the cocking sound that plays every time you equip a rifle.
 
 <details>
-	<summary>Optional Audio - Click to expand</summary>
+	<summary>Audio (Optional) - Click to expand</summary>
 
 [**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
 Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
@@ -406,7 +406,7 @@ High quality retexture for night sky and moon.
 Fixes the bright night sky horizons.
 
 <details>
-	<summary>Optional Visuals - Click to expand</summary>
+	<summary>Visuals (Optional) - Click to expand</summary>
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
