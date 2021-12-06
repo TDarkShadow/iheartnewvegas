@@ -74,9 +74,6 @@ Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
-[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
-Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
-
 [**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
 Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them), improving performance. Optionally removes tumbleweeds too.
 </details>
@@ -138,7 +135,7 @@ Additional files to install:
 	<summary>User Interface (Optional) - Click to expand</summary>
 
 [**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375)  
-Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon. 
+Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon.
 </details>
 	
 # GAMEPLAY QOL
@@ -275,6 +272,11 @@ Additional files to install:
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
+
+[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
+Upscales one **Mojave Arsenal** icon.
+- FOMOD options to install:
+  - [X] Mojave Arsenal
 
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
@@ -427,6 +429,9 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
 
+[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
+Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
+
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install the **Slightly Brighter** main file.
@@ -556,7 +561,6 @@ Critical and Effects - Fixes and Tweaks
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
-	Lonesome Road Carbon Shadow Fix
 	No More Dust Devils (and Whirlwinds)
 UIO - User Interface Organizer
 The Mod Configuration Menu
@@ -608,6 +612,7 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
+	Consistent Pip-Boy Icons Mod Patches
 	Meltdown NVSE Upgrade
 	Miss Fortune NVSE Upgrade
 	Improved Traits
@@ -644,6 +649,7 @@ FNV RWL All DLC - Light Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	Lonesome Road Carbon Shadow Fix
 	More Subtle New Vegas Light Pollution - Slightly Brighter
 	More Subtle New Vegas Light Pollution Better Strip View Patch
 	Metal Helmets - Female Replacements
