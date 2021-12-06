@@ -179,6 +179,9 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
+
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
 - Enter **0013316D** into **FNVEdit**'s FormID filter. Forward **WMIMNV** Sound - Melee - Swing fix.
@@ -220,6 +223,7 @@ Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the gro
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
@@ -238,12 +242,6 @@ Additional files to install:
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
 - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks for **NVDLC02RecipeHealingPoultice** and **NVDLC02RecipeDaturaAntivenom**.
-
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
-
-Additional files to install:
-- **JSawyer Ultimate Edition Patch** (under Optional files).
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
  Removes some map markers in an attempt to make exploration more interesting. 
