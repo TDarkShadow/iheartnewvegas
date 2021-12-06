@@ -185,25 +185,25 @@ Extension of the New Vegas Script Extender that implements structured exception 
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
-[**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
-Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
-
-Additional files to install:
-- [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables and disables certain settings to achieve the best balance between performance and stability.
-
-[**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
-Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
-
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
 - Extract the contents of the archive, and place the **OneTweak.dll** and **OneTweak.ini** files found **SKSE\plugins** in in your **Fallout New Vegas\Data\NVSE\plugins** folder. If such a folder is not present, create it.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
+
+[**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
+Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
+
+Additional files to install:
+- [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables a number of settings to achieve the best balance between performance and stability.
+
+[**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
+Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
+- Download the main file using the **Mod Manager Download** option.
+- Install this mod in Mod Organizer 2.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
