@@ -252,14 +252,13 @@ Collection of gameplay tweaks by Qolore7.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **Unofficial Patch NVSE Plus** Challenge fix for **NVDLC05ChallengeDeathclawProHunter**.
-  - Forward the **JSawyer Ultimate** Ingredients tweaks for **RecipePowderCharge**.
-  - Forward the **Miscellaneous Tweaks** Conditions tweaks for **NVDLC02RecipeBreakdown45Auto**.
+- Enter **00140A66** into **FNVEdit**'s FormID filter. Forward the **JSawyer Ultimate - Push's Tweaks** Ingredients tweaks.
+- Enter **02010CD9** into **FNVEdit**'s FormID filter. Forward the **Miscellaneous Tweaks** Conditions tweaks.
+- Enter **05000A4B** into **FNVEdit**'s FormID filter. Forward the **Unofficial Patch NVSE Plus** Description fix.
 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
-  - **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the three **Miscellaneous Tweaks** Leveled List records for VendorWeaponsMeleeTier3.
+  - Enter **0011FBCF** into **FNVEdit**'s FormID filter. Forward the three **Miscellaneous Tweaks** Leveled List edits, merging them with **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**. If asked to, add Miscellaneous Tweaks.esp as a master file.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
