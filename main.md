@@ -219,6 +219,7 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
+- Enter **001168A4** into **FNVEdit**'s FormID filter. Forward the **Female White Glove Society Mask** Female Biped Model fix.
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
