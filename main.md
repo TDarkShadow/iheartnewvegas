@@ -492,14 +492,14 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
 Adds extra meshes for LOD generation.
 - Install the **FNVLODGen Resources** main file.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **Vurt's - WFO** Record Flags tweaks for **HoneyMesquitePickable**.
+- Enter **001093CE** into **FNVEdit**'s FormID filter. Forward the **Vurt's - WFO** Record Flags tweaks.
 
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
 - **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **SCOLMetroExtRailsStraitS3b**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **TentSideALTNV02**.
-  - Forward the **YUP - Base Game + All DLC** Record Flags fix for **TentSideALTNV03**.
+  - Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+  - Enter **0015F5F6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+  - Enter **0015F5F7** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
