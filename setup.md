@@ -189,7 +189,9 @@ Extension of the New Vegas Script Extender that implements structured exception 
 Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
-- Also install the [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). This INI enables/disables certain settings to achieve the best balance between performance and stability.
+
+Additional files to install:
+- [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables and disables certain settings to achieve the best balance between performance and stability.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
