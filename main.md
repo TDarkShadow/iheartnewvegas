@@ -69,7 +69,7 @@ Fixes the White Glove Society Mask mesh for female characters.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
-- Only install the **Gun Runners Kiosk Glass Fix Alternate Version** optional file.
+- Only install **Gun Runners Kiosk Glass Fix Alternate Version** (under Optional files).
 
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
@@ -87,7 +87,7 @@ An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions add
 Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
 
 Additional files to install:
-- **MCM BugFix 2** (Optional files section).
+- **MCM BugFix 2** (under Optional files).
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
@@ -119,7 +119,7 @@ Lore-friendly overhaul of New Vegas icons to make them more consistent in terms 
 - Install the **1. Consistent Pip-boy Icons** main file.
 
 Additional files to install:
-- **6. Vanilla UI Plus Patch** (Optional files section).
+- **6. Vanilla UI Plus Patch** (under Optional files).
 
 [**Faction Map Icon Overhaul**](https://www.nexusmods.com/newvegas/mods/72181)  
 Replaces the icons of several locations with Faction-appropriate ones.
@@ -128,8 +128,8 @@ Replaces the icons of several locations with Faction-appropriate ones.
 High-res satellite map for the Mojave Wasteland.
 - Install the **Satellite World Map** main file.
 
-[**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
-High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
+Additional files to install:
+- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
 
 <details>
 	<summary>User Interface (Optional) - Click to expand</summary>
@@ -220,7 +220,7 @@ These mods rebuild existing mechanics from the ground up, making drastic changes
 Completely reconstructed version of Josh Sawyer's jsawyer.esp, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files section).
+- **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
@@ -234,8 +234,8 @@ Adds iron sights to a variety of laser and plasma weapons which lacked any.
 - Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
 
 Additional files to install:
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files section).
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files section).
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (under Optional files).
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (under Optional files).
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay tweaks by Qolore7.
@@ -245,7 +245,7 @@ Collection of gameplay tweaks by Qolore7.
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
 
 Additional files to install:
-- **JSawyer Ultimate Edition Patch** (Optional files section).
+- **JSawyer Ultimate Edition Patch** (under Optional files).
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
  Removes some map markers in an attempt to make exploration more interesting. 
@@ -425,7 +425,7 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 - **Apply Filter to Show Conflicts** in **FNVEdit**.
   - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
   - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
-- Also install the **FNV RWL All DLC - Patch Collection** optional file.
+- Also install the **FNV RWL All DLC - Patch Collection** (under Optional files).
 - Also install [**FNV RWL All DLC - Light Tweaks**](https://drive.google.com/file/d/1jRZOqcuCoZqW8KBPPXV4Jk0mIG4qVXjE/view?usp=sharing). Includes changes to the Pip-Boy light and other light sources.
 - Also install [**FNV RWL All DLC - Strip Lights AIO Patch**](https://drive.google.com/file/d/1RBmcg0DDkqzqWcc68lTDP_0sbknu3i-j/view?usp=sharing). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
 - Also install [**RWLE - ReShade SweetFX**](https://drive.google.com/file/d/1moXaMjQ31u0FOMgq-kBNXIakDNW_RyI-/view?usp=sharing). Adjusted SweetFX preset.
@@ -458,7 +458,7 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
-- Also install the **OWB in CRT** optional file.
+- Also install the **OWB in CRT** (under Optional files).
 
 [**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
 Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
@@ -467,7 +467,7 @@ Straightens out the backs and shoulders of NPCs, and also relaxes the right hand
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
 - Install the **Pip-Boy 2000 Mk VI replacer version** main file.
-- Also install the **Working date and clock for replacer** optional file.
+- Also install the **Working date and clock for replacer** (under Optional files).
 - Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 </details>
