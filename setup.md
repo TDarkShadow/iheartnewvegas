@@ -216,6 +216,16 @@ Extension of the New Vegas Script Extender that enables hotkeys for pasting and 
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
+## Hiding NVSE in Mod Organizer 2
+
+Earlier we installed [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?), which makes Fallout: New Vegas 4GB Aware, and automatically loads NVSE if present.
+
+From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
+- Click on the currently selected executable in Mod Organizer 2, and choose **Edit...** from the drop down menu.
+- Click **Fallout Launcher**, and tick **Hide in user interface**.
+- Click **NVSE**, and tick **Hide in user interface**.
+- Click **Apply**, and then **OK**.
+
 # FNVEdit
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing **FNVEdit** to help us troubleshoot and get rid of these issues.
