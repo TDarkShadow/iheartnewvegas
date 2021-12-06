@@ -182,8 +182,6 @@ Makes melee attacks hit multiple enemies.
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
 - Enter **00133160** into **FNVEdit**'s FormID filter. Forward **WMIMNV** Sound - Melee - Swing fix.
-- Also install [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336). Requirement for this mod.
-- Also install [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases). Requirement for this mod.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
