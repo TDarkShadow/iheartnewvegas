@@ -293,6 +293,9 @@ Overhauls vanilla traits and adds two new ones.
 New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
 - Install the **FNV Opposite Traits (YUP OWB)** main file.
 - Delete the **Worldspace** record tab in **FNVEdit**. It contains dirty edits.
+
+[**Improved Opposite Traits and JSUE Patches**](https://drive.google.com/file/d/1zRbTVYbJ5Zba1DQLH5VDY_KwB6LxAwe9/view?usp=sharing)  
+Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
 </details>
 
 # CONTENT
