@@ -32,20 +32,21 @@ C:\Games\Fallout New Vegas Mods
 # Generating fresh .INI files
 
 - Run **FalloutNVLauncher.exe** from the game's Root folder.
-- Click OK to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then retry.
-- Select **Options** then select the **Ultra** preset option. If you want to improve performance without drastically changing the game's visuals, disable actor shadows. These are hardly noticeable but can have a considerable performance impact.
-- Set the **Resolution** option to your preference.
-- Click **OK** then **Exit**.
+- Click **OK** to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then retry.
+- Click **Options**, then select the **Ultra** preset option. Set antialiasing to **8 Samples**. If you want to improve performance without drastically changing the game's visuals, disable shadows under the **Options**, **Shadows** tab. These are hardly noticeable but can have a considerable performance impact.
+- Set **Resolution** to your preference.
+- Click **OK**, then **Exit**.
 
 # Utilities
 
 [**FNV BSA Decompressor**](https://www.nexusmods.com/newvegas/mods/65854?)  
-Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance, Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
+Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance. Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
 - Manually download the **FNV BSA Decompressor** main file.
-- Run **FNV BSA Decompressor.exe**, select your game's **Root** folder and press the **Decompress** button.
-- Close the program after the patching process is done.
+- Extract the contents of the archive, and run **FNV BSA Decompressor.exe**.
+- Select your game's **Root** folder, and click **Decompress**.
+- **Exit** the program once the process is done.
 
-> This utility will add the following lines to your **Fallout.ini** file.
+> This utility will add the following lines to your **Fallout.ini** file. If you ever encountering missing meshes in-game (in the form of red exclamation marks), make sure these lines are still present in your .ini.
 
 ```
 [Archive]
@@ -55,10 +56,8 @@ SArchiveList=Fallout - Invalidation.bsa, Fallout - Textures.bsa, Fallout - Textu
 [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?)  
 Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Manually download the **FNV 4GB Patch** main file.
-- Place **FalloutNVpatch.exe** in your game's **Root** folder and run it as an Administrator.
-- Close the command prompt after the patching process is done.
-
-> From now on, the game should be run using **FalloutNewVegas.exe** instead of **NVSE.exe**. We will configure Mod Organizer 2 to hide the latter option after we are done installing it.
+- Extract the contents of the archive, and place **FalloutNVpatch.exe** in your game's **Root** folder.
+- Run the patch. Close the command prompt once the process is done.
 
 # Mod Organizer 2
 
@@ -69,23 +68,21 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - When prompted to choose an install location, choose your Fallout: New Vegas **Mods** folder (**C:\Games\Fallout New Vegas Mods\MO2**).
 - When installation has finished, uncheck the **Launch Mod Organizer** option and click **Finish**.
 
-> Nexus Mod Manager and Vortex are two popular mods managers, however, they have significant issues and should be avoided.
-
 ## Configuration
 
 ### Initial setup
 
 - Run **ModOrganizer.exe**.
-- Mod Organizer 2 will prompt you to **Create a new instance**. Click **Create a portable instance**.
-- You will be asked to select a game to manage. If **New Vegas** is available using the appropriate file path, select it. Otherwise, click **Browse...** and select your game's **Root** folder.
+- Mod Organizer 2 will prompt you to **Create a new instance**. Choose **Create a portable instance**.
+- You will be asked to select a game to manage. If **New Vegas** is available using the appropriate file path, select it. Otherwise, click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 
-> If you get a pop-up called **INI file is read-only**, select **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
+> If you get a pop-up called **INI file is read-only**, schoose **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
 
-> If you get a pop-up called **Register?**, click **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
+> If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
-> If you get a pop-up called **Show tutorial?**, click **No**.
+> If you get a pop-up called **Show tutorial?**, choose **No**.
 
 ### Adjusting mod and load order
 
@@ -151,10 +148,10 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [X] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **Fallout: New Vegas Sharp** and click **OK**. Close the window.
-- On the **Profile** tab, select the **Fallout: New Vegas Sharp** profile.
+- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas** and click **OK**. Close the window.
+- Choose **I Heart New Vegas** from the **Profile** drop down menu.
 
-Fallout: New Vegas Sharp will be the profile we'll be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 # xNVSE
 
