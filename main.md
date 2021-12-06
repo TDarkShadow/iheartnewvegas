@@ -381,7 +381,8 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds the Strip signs and moves the Strip buildings to where they should be.
 - Install the **Better Strip View** main file.
-- Enter **00149D78** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Acoustic Space fix.
+- Run **FNVEditQuickAutoClean** in Mod Organizer 2. Double-click **Better Strip View.esp**.
+- Close the window when the process is finished.
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
