@@ -401,8 +401,11 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 - Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
-- Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
-- Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
+- Enter **0012A914** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Object Bounds fixes.
+- Enter **0200BCB2** into **FNVEdit**'s FormID filter. Forward the **DLC Enhancements** Region Data Entry Sound tweaks.
+- Enter **0200BCB9** into **FNVEdit**'s FormID filter. Forward the **DLC Enhancements** Region Data Entry Sound tweaks.
+- Enter **0200C977** into **FNVEdit**'s FormID filter. Forward the **DLC Enhancements** Region Data Entry Sound tweaks.
+- Enter **020110C0** into **FNVEdit**'s FormID filter. Forward the **DLC Enhancements** Region Data Entry Sound tweaks.
 
 Additional files to install:
 - **FNV RWL All DLC - Patch Collection** (under Optional files).
