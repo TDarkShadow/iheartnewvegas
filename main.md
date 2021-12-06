@@ -125,9 +125,6 @@ Lore-friendly overhaul of New Vegas icons to make them more consistent in terms 
 Additional files to install:
 - **6. Vanilla UI Plus Patch** (under Optional files).
 
-[**Faction Map Icon Overhaul**](https://www.nexusmods.com/newvegas/mods/72181)  
-Replaces the icons of several locations with Faction-appropriate ones.
-
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
 - Install the **Satellite World Map** main file.
