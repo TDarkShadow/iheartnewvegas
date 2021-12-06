@@ -177,20 +177,18 @@ Extension of the New Vegas Script Extender which adds new functions, engine bug 
 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
 Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks.
-
+- Click the **ShowOffNVSE.7z** under **Assets** to download it.
+- Install manually in Mod Organizer 2.
+ 
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Extension of the New Vegas Script Extender which enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Extension of the New Vegas Script Extender that implements structured exception handling and sanity checking to reduce frequency of game crashes.
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
-
+.
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
@@ -201,26 +199,18 @@ Extension of the New Vegas Script Extender that enables borderless window mode f
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 Additional files to install:
 - [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables a number of settings to achieve the best balance between performance and stability.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 [**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
 Extension of the New Vegas Script Extender that almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 # Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
 
