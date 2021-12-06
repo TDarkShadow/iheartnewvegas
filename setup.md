@@ -16,18 +16,18 @@
 
 You should install Fallout: New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
-Your Fallout: New Vegas **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), and **Data** folder will be found.
+Your **Root** folder is where Fallout: New Vegas will be installed, and where the game's executable (**FalloutNV.exe**), launcher (**FalloutNVLauncher.exe**), and **Data** folder will be found.
 
-For the purpose of this guide, this will be our **Root** folder and where you should install Fallout: New Vegas:
+For the purpose of this guide, this will be our **Root** folder:
 ```
 C:\Games\Fallout New Vegas
 ```
-Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
+Additional, you will need a folder where to install our mod manager and keep your mods. The following path will be used for this guide:
 ```
 C:\Games\Fallout New Vegas Mods
 ```
 
-> Make sure you don't create your Fallout New Vegas Mods folder inside your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+> Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
 
 # Generating fresh .INI files
 
