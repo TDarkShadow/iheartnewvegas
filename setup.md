@@ -188,7 +188,7 @@ Extension of the New Vegas Script Extender that implements structured exception 
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
-- Extract the contents of the archive, and place the **OneTweak.dll** and **OneTweak.ini** files found **SKSE\plugins** in in your **Fallout New Vegas\Data\NVSE\plugins** folder. If such a folder is not present, create it.
+- Extract the contents of the archive. Renamed the **SKSE** folder to **NVSE**, and merge the folder with your **Fallout New Vegas\Data\NVSE** folder.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
