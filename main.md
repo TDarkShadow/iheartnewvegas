@@ -318,27 +318,6 @@ Additional files to install:
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install the **Mojave Wildlife - Vanilla No Chanced Spawns Version** main file.
 
-# AUDIO
-
-[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
-Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
-
-[**More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/68605)  
-Increases the Pip-Boy Geiger clicking beyond the vanilla default.
-
-[**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
-Removes the cocking sound that plays every time you equip a rifle.
-
-<details>
-	<summary>Audio (Optional) - Click to expand</summary>
-
-[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
-Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
-- Install the **Female Nuka-Cola Drinking Sound replacer** main file.
-
-> Because this mod replaces the vanilla sound, you should only use it when playing a female character.
-</details>
-	
 # VISUALS
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
@@ -472,6 +451,23 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 - Also install [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - Also install [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 </details>
+
+# AUDIO (OPTIONAL)
+
+[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
+Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
+
+[**More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/68605)  
+Increases the Pip-Boy Geiger clicking beyond the vanilla default.
+
+[**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
+Removes the cocking sound that plays every time you equip a rifle.
+
+[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
+Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
+- Install the **Female Nuka-Cola Drinking Sound replacer** main file.
+
+> Because this mod replaces the vanilla sound, you should only use it when playing a female character.
 
 # FNVLODGen
 
