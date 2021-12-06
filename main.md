@@ -387,12 +387,12 @@ Adds the Strip signs and moves the Strip buildings to where they should be.
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
 - Check the following option in the FOMOD installer.
-  - [ ] Gold Lights
-  - [X] Silver Lights
+  - [X] Gold Lights
+  - [ ] Silver Lights
   - [ ] Extras Inside the Strip
   - [X] Extras Everywhere
   - [ ] Extras None
-  - [ ] Pollution Gold Tint
+  - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
@@ -408,9 +408,8 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 - Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
-  - Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
+- Forward the **YUP - Base Game + All DLC** Object Bounds fix for **GreenhouseWorld01**.
+- Forward the **DLC Enhancements** Region Data Entry Sound tweaks for **NVDLC02MapEasternVirgin**, **NVDLC02TheNarrowsRegion**, **NVDLC02MapTheThreeMarysRegion**, and **NVDLC02ZionValleyRegion**.
 
 Additional files to install:
 - **FNV RWL All DLC - Patch Collection** (under Optional files).
