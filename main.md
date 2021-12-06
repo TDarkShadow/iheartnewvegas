@@ -222,7 +222,7 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
-- [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1HeAbDOVNcZfi-0fTezbAF_aNvORiXO9i/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
