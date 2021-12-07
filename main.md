@@ -884,6 +884,15 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
+## IN-GAME MOD CONFIG
+
+### Mojave Arsenal
+
+- Enable **Low Condition Loot**.
+- Disable **Custom Weapons**.
+- Enable **Optimized Ammo**.
+- Enable **Pulse Slug Recipes**.
+
 ## MOD CONFIG
 
 ### JIP LN NVSE Plugin
@@ -950,6 +959,7 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 
 - Initial release.
 - Completed Keybindings section.
+- Added Mojave Arsenal configuration instructions.
 - Added SweetFX optional configuration instructions.
 </details>
 
