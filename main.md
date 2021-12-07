@@ -424,9 +424,6 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
 
-[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
-Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
-
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install the **Slightly Brighter** main file.
@@ -468,6 +465,9 @@ Additional files to install:
 - **Working date and clock for replacer** (under Optional files).
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
+Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 </details>
 
 # AUDIO (OPTIONAL)
@@ -643,7 +643,6 @@ FNV RWL All DLC - Light Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
-	Lonesome Road Carbon Shadow Fix
 	More Subtle New Vegas Light Pollution - Slightly Brighter
 	More Subtle New Vegas Light Pollution Better Strip View Patch
 	Metal Helmets - Female Replacements
@@ -658,6 +657,7 @@ Night Sky Tweaks
 	Pip-Boy 2000 Mk VI Working Date and Clock
 	Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 	NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+	Lonesome Road Carbon Shadow Fix
 	Empty Clicks
 	More Accurate Geiger Clicking
 	No Cocking Sound on Rifle Equip
