@@ -474,8 +474,8 @@ Additional files to install:
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - FOMOD options to install:
   - [X] ALL IN ONE.
-- Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
-- Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+- Enter **0010E02A** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Owner fix.
+- Enter **001385C4** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Encounter Zone fix.
 
 [**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
 Mesh replacer.
