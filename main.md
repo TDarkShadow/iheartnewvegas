@@ -929,7 +929,7 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-I | Toggle HUD lStewieAl's Tweaks
+I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
@@ -949,6 +949,8 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 	<summary>1.0 (December 7th)</summary>
 
 - Initial release.
+- Completed Keybindings section.
+- Added SweetFX optional configuration instructions.
 </details>
 
 [<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
