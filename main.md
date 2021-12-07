@@ -207,9 +207,18 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 [**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
 Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
 
+[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
+Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+
+[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
+Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
+- Enter **0301199E** into **FNVEdit**'s FormID filter. Forward **YUP - Base Game + All DLC** Critical Data On Death flag. Set Health to 100 (instead of 90). 
+
+> This solves a conflict with **JSawyer Ultimate Edition**, which we will install next.
 </details>
 
 # OVERHAULS
@@ -272,6 +281,10 @@ Additional files to install:
 Upscales one **Mojave Arsenal** icon.
 - FOMOD options to install:
   - [X] Mojave Arsenal
+
+[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
+Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
+The Here and Now perk now includes the original effects from Living Anatomy. 
 
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
@@ -346,6 +359,15 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 Additional files to install:
 - [**FOV Slider Custom INI**](https://drive.google.com/file/d/1AeDqTWhVA9w30dUNqhtHNrbMakOHFb2R/view?usp=sharing).
 
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
+
+Additional files to install:
+- **Working date and clock for replacer** (under Optional files).
+- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
@@ -358,7 +380,7 @@ Additional files to install:
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
-- Install both main files.
+- Install **Wasteland Flora and Terrain Overhaul** first, and then install **Wasteland Flora Overhaul - Vanilla tree replacer with LOD**.
 - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
@@ -413,7 +435,11 @@ Additional files to install:
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
-- Install the **Mojave Nights FOMOD** main file. The low-glow option is fine.
+- Install the **Mojave Nights FOMOD** main file.
+  - FOMOD options to install:
+    - [X] 80% Moon size.
+    - [X] Enhanced Night Sky.
+    - [X] Low-glow Moon.
 - Copy **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
 
 > This will also apply the new night sky texture to Zion.
@@ -424,12 +450,43 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
 
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+Retextures dust storms so they aren't as much of an eyesore now.
+
+Additional files to install:
+- **Dust Storm Meshes** (under Optional files).
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+Retextures mist so that it isn't as much of an eyesore now.
+- Only install **HD Mist 2K**.
+
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install the **Slightly Brighter** main file.
 
 Additional files to install:
 - [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
+
+[**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
+Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
+- FOMOD options to install:
+  - [X] ALL IN ONE.
+- Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+- Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+
+[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
+Mesh replacer.
+- Only install **McCarran_Glass_transparency_Vanilla_version**.
+
+[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
+Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
+
+[**Lucky 38 Intro Poster**]()  
+[**Lucky 38 Mainframe No Fingerprints**]()  
+[**Lower-sitting Ranger Hat**]()  
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
@@ -457,14 +514,8 @@ Straightens out the backs and shoulders of NPCs, and also relaxes the right hand
 Additional files to install:
 - [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
-
-Additional files to install:
-- **Working date and clock for replacer** (under Optional files).
-- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+[**Healthier Yao Guai**]()  
+[**Y-17 Trauma Override Harness GLOVES**]()  
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
@@ -589,6 +640,7 @@ Precise VATS (and actually useful Perception)
 Simple Explosive Entry
 Well Rested Overhaul
 	Honest Hearts Workbench Crate Luck
+	Lobotomite Tweaks
 	Rigged Shotgun Restoration - Lore-Friendly
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
@@ -607,8 +659,10 @@ RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
 	Consistent Pip-Boy Icons Mod Patches
+	Anatomic Perks
 	Meltdown NVSE Upgrade
 	Miss Fortune NVSE Upgrade
+	Tesla Cannon Chaining
 	Improved Traits
 	FNV Opposite Traits (YUP OWB)
 	Improved Opposite Traits and JSUE Patches
@@ -627,6 +681,10 @@ B42 Weapon Inertia
 NV Compatibility Skeleton
 FOV Slider
 FOV Slider Custom INI
+Pip-Boy 2000 Mk VI
+Pip-Boy 2000 Mk VI Working Date and Clock
+Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
+NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -643,8 +701,17 @@ FNV RWL All DLC - Light Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	Better Gas Leak Effect
+	HQ Dust Storm FX
+	HD Mist
 	More Subtle New Vegas Light Pollution - Slightly Brighter
 	More Subtle New Vegas Light Pollution Better Strip View Patch
+	Bathroom Doors Overhaul
+	McCarran Main Terminal Transparent Glass
+	McCarran Escalator Glass
+	Lucky 38 Intro Poster
+	Lucky 38 Mainframe No Fingerprints
+	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
 	Unisex Motorcycle Helmets
@@ -653,10 +720,8 @@ Night Sky Tweaks
 	OWB in CRT
 	Tweaked Standing Idle
 	Tweaked Standing Idle Fix
-	Pip-Boy 2000 Mk VI
-	Pip-Boy 2000 Mk VI Working Date and Clock
-	Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
-	NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+	Healthier Yao Guai
+	Y-17 Trauma Override Harness GLOVES
 	Lonesome Road Carbon Shadow Fix
 	Empty Clicks
 	More Accurate Geiger Clicking
@@ -729,6 +794,7 @@ hz_Precise VATS.esp
 Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
+	Lobotomites.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
@@ -744,8 +810,10 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
+	MigAnatomy.esp
 	MigMeltdown.esp
 	MigFortune.esp
+	MigTeslaChain.esp
 	Improved Traits.esp
 	Improved Traits Improved.esp
 	Improved Traits - JSUE Patch.esp
@@ -761,15 +829,16 @@ Mojave Wildlife (Vanilla-Style + No Chanced).esp
 VM_Recoil.esp
 B42Inertia.esp
 FOVSlider.esp
+MCPipBoy2000MK6_clock.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
+	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
-	MCPipBoy2000MK6_clock.esp
 	hz_Empty Clicks.esp
 	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
