@@ -484,9 +484,14 @@ Mesh replacer.
 [**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
 Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
 
-[**Lucky 38 Intro Poster**]()  
-[**Lucky 38 Mainframe No Fingerprints**]()  
-[**Lower-sitting Ranger Hat**]()  
+[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
+Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
+
+[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
+Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
+
+[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
@@ -514,8 +519,13 @@ Straightens out the backs and shoulders of NPCs, and also relaxes the right hand
 Additional files to install:
 - [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 
-[**Healthier Yao Guai**]()  
-[**Y-17 Trauma Override Harness GLOVES**]()  
+[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
+The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
+- Only install **Real Bears* (under Optional files).
+- Hide **Big Bears.esp**.
+
+[**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
+Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
@@ -837,8 +847,10 @@ Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
+	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
+	Skinny Bears.esp
 	hz_Empty Clicks.esp
 	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
