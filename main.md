@@ -174,6 +174,9 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
+Additional files to install:
+- [**JAM - Just Assorted Mods Custom INI**](https://drive.google.com/file/d/1ILWL2wG1Fm-HtBlwQJhCHAy26VEFuJie/view?usp=sharing). Disables Hit Marker, Hit Indicator, Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -291,7 +294,7 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 - Enter **0014609A** into **FNVEdit**'s FormID filter. Revert **Meltdown** Conditions from 80 to 90.
 	
 Additional files to install:
-- [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1VS1cdr1GwwfCMOi57iXsRoeM6WVO5Skt/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
+- [**Meltdown NVSE Upgrade Custom INI**](https://drive.google.com/file/d/1j7SX1ms_reMGTkVJyrN-9AIPXmraNqfJ/view?usp=sharing). Disables the Rampage feature and the Meltdown feature for companions.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
@@ -357,7 +360,7 @@ A skeleton with compatibility for the latest mods.
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 Additional files to install:
-- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1AeDqTWhVA9w30dUNqhtHNrbMakOHFb2R/view?usp=sharing).
+- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1ca5TJ46H4q935d4fmuIVX9rrju_4Db9f/view?usp=sharing). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -958,6 +961,7 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 	<summary>1.0 (December 7th)</summary>
 
 - Initial release.
+- Fixed Custom INI links.
 - Completed Keybindings section.
 - Added Mojave Arsenal configuration instructions.
 - Added SweetFX optional configuration instructions.
