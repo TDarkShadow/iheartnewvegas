@@ -644,6 +644,7 @@ Follower Tweaks
 Immersive Recoil 2.0
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
+JAM - Just Assorted Mods Custom INI
 Melee Cleave (a.k.a. Sweep)
 Misc Gameplay Merge
 Mostly Unarmed Tweaks
