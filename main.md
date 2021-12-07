@@ -921,7 +921,10 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-Key | Function | Added by
+I | Toggle HUD lStewieAl's Tweaks
+J | Open Pip-Boy quests | lStewieAl's Tweaks
+N | Toggle Pip-Boy light | lStewieAl's Tweaks
+M | Open Pip-Boy map | lStewieAl's Tweaks
 
 # ACKNOWLEDGMENTS
 
@@ -934,7 +937,7 @@ This guide wouldn't be possible without Qolore's excellent work at [**Viva New N
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>1.0 (December 2nd)</summary>
+	<summary>1.0 (December 7th)</summary>
 
 - Initial release.
 </details>
