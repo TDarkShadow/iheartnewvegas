@@ -886,6 +886,19 @@ With all our mods and resources installed, we can finally generate our LOD.
 
 ## MOD CONFIG
 
+### JIP LN NVSE Plugin
+
+Open the mod's .ini file and make the following adjustments.
+
+```
+bEnableFO3Repair=1
+bNPCWeaponMods=1
+uWMChanceMin=5
+uWMChanceMax=15
+```
+
+> This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+
 ### Optional falloutcustom.ini tweaks
 
 Paste the following into **falloutcustom.ini**.
@@ -900,18 +913,13 @@ bDoDepthOfField=0
 
 > This disables the vanilla depth of field effect seen during dialogue, as well as the screenshots feature in favor of SweetFX's.
 
-### JIP LN NVSE Plugin
+### Optional SweetFX tweaks
 
-Open the mod's .ini file and make the following adjustments.
+Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor.
+- Set USE_VIBRANCE = 1
+- Set USE_CURVES = 1
 
-```
-bEnableFO3Repair=1
-bNPCWeaponMods=1
-uWMChanceMin=5
-uWMChanceMax=15
-```
-
-> This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+> This restores the SweetFX preset to RWLE's original configuration.
 
 # MOD KEYBINDINGS
 
@@ -925,6 +933,7 @@ I | Toggle HUD lStewieAl's Tweaks
 J | Open Pip-Boy quests | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
+Shift + Movement | Sprint | Just Assorted Mods
 
 # ACKNOWLEDGMENTS
 
