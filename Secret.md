@@ -17,7 +17,7 @@ Improves teeth, eyelashes, and eyebrow textures.
 
 [**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
-- Install the **00 - Natural Eyes** main file.
+- Install the **00 - Natural Eyes - Shadow** main file.
 
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
@@ -32,8 +32,10 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
   - MS03EnvironmentSuit
   - CSArmorRadiationSuit
 - Hide the **meshes\armor\enclavescientist** folder.
+- Hide the **meshes\characters\_male\locomotion** folder.
+- Hide the **meshes\pipboy3000** folder.
 
-> This removes the changes to the Radiation Suit and related outfits.
+> This removes the changes to the Radiation Suit and related outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
 Additional files to install:
 - [**TYPE 4 Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
