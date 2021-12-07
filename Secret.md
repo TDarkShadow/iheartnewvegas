@@ -67,3 +67,42 @@ Additional files to install:
 
 [**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+
+# FINISHING TOUCHES
+
+## EXTENDED MOD ORDER AND LOAD ORDER
+
+The mods installed in this guide can be placed at the very end of **Left My Heart In New Vegas**.
+
+<details>
+<summary>Mod order</summary>
+
+```
+Vanilla Underwear Replacer
+Eyelashes New Vegas
+Eyelashes New Vegas ESP Replacer
+HD Teeth and Natural Eyelashes and Eyebrows
+Vanilla Hair - No Shine
+Natural Eyes
+TYPE 4 - Body and Armors
+TYPE 4 - Armor Fixes
+TYPE 4 Patches
+Mannequin Races
+Mannequin Races - TYPE 4
+T6M Neck Adjusted Outfit Replacers
+Body and Face Textures Workshop
+```
+</details>
+
+<details>
+<summary>Load order</summary>
+
+```
+tkEyelashesFNV.esp
+T4-plugin.esp
+TYPE 4 YUP Patch.esp
+TYPE 4 JSUE Patch.esp
+TYPE 4 Eyelashes NV Patch.esp
+Mannequin Rce.esp
+```
+</details>
