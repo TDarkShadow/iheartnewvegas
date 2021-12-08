@@ -32,7 +32,7 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
   - MS03EnvironmentSuit
   - CSArmorRadiationSuit
 - Hide the **meshes\armor\enclavescientist** folder.
-- Hide the **meshes\characters\_male\locomotion** folder.
+- Hide the **meshes\characters\ _male\locomotion** folder.
 - Hide the **meshes\pipboy3000** folder.
 
 > This removes the changes to the Radiation Suit and related outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
