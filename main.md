@@ -13,6 +13,99 @@ Last browsed for mods on December 7th, 2021.
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
+## MODDING TIPS
+
+### Don't uninstall mods mid-playthrough
+
+A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+
+### Always keep backup saves
+
+Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.  
+Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+
+### Read the descriptions
+
+Mod descriptions exist for a reason. The elaborate ones, usually for a *good* reason. Apart from describing what a mod is supposed to, descriptions tend to list things such as:
+
+- Requirements: mods or utilities a given mod needs to work as intended.
+- Compatibility issues: known conflicts with other mods, whether general or specific.
+- Known issues: bugs or unintended behavior.
+
+Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
+
+### File structure matters
+
+The file structure is how files are organized for the game to read and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
+
+### Installing Nexus mods with Mod Organizer 2
+
+Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
+
+- Click **Mod manager download** under the file you want to download.
+- Click **Slow download**.
+- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- Right-click the downloaded file, and click **Install**.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. **Yukichigai Unofficial Patch - YUP 12.2**).
+- Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
+
+> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install additional or different files. Likewise, if there are multiple main files present, you will be told which ones you need to install.
+
+### Installing multiple files from a same Nexus mod with Mod Organizer 2
+
+There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
+
+Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+
+![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
+
+What these options do is simple:
+
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod.
+- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
+- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
+
+> The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
+
+### Manually installing mods with Mod Organizer 2
+
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On other occasions, you will download a mod from a different site altogether.
+
+- Download your file.
+- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- Navigate to the folder where the downloaded file is stored and double click on it.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+- Click **OK**.
+- The mod will appear in the left pane. Check the box next to it to finish installation.
+
+### FOMOD installers
+
+FOMOD installers allow users to customize how they want their mods to be installed, given a handful of options provided by the mod authors.
+
+This guide has a few mods packaged as FOMOD installers. Only options you should install will be listed, accompanied by a checked box. If it is not listed, then you *must* skip that option.
+
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
+
+- To hide a plugin, right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+
+### Creating a separator
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
+
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
+
+I suggest creating a separator for each of the following mod categories. Separators can be collapsed to keep your mod list clean and tidy, which you will come to appreciate when you install over 100 mods.
+
+### The Overwrite folder
+
+The **Overwrite** folder is the destiny folder for a handful of files, including **config** folders which contain the configuration files for a number of NVSE mods. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods, but for the purpose of this guide, you don't need to worry about them.
+
 # PATCHES
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
@@ -717,6 +810,7 @@ Mojave Nights
 Night Sky Tweaks
 	Better Gas Leak Effect
 	HQ Dust Storm FX
+	HQ Dust Storm FX - Dust Storm Meshes
 	HD Mist
 	More Subtle New Vegas Light Pollution - Slightly Brighter
 	More Subtle New Vegas Light Pollution Better Strip View Patch
@@ -808,7 +902,7 @@ hz_Precise VATS.esp
 Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
-	Lobotomites.esp
+	Lobotomitess.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
@@ -947,10 +1041,6 @@ J | Open Pip-Boy quests | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
 Shift + Movement | Sprint | Just Assorted Mods
-
-# ACKNOWLEDGMENTS
-
-This guide wouldn't be possible without Qolore's excellent work at [**Viva New New Vegas**](https://vivanewvegas.github.io/index.html). I'm just standing on the shoulders of giants.
 
 # CHANGELOG
 
