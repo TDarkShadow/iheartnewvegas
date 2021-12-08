@@ -594,7 +594,7 @@ Replaces the female Metal Armor helmets with their male counterparts.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
-- **Apply Filter to Show Conflicts** in **FNVEdit**. Forward the **YUP - Base Game + All DLC** FormIDs fix for **ArmorPowerList**.
+- Enter **0001515B** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** FormIDs fix.
 
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
@@ -653,10 +653,9 @@ Adds extra meshes for LOD generation.
 
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
-- **Apply Filter to Show Conflicts** in **FNVEdit**.
-  - Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
-  - Enter **0015F5F6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
-  - Enter **0015F5F7** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+- Enter **001680AF** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+- Enter **0015F5F6** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
+- Enter **0015F5F7** into **FNVEdit**'s FormID filter. Forward the **YUP - Base Game + All DLC** Record Flags fix.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
