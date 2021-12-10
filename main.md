@@ -3,7 +3,7 @@
 
 # LEFT MY HEART IN NEW VEGAS
 
-Last browsed for mods on December 7th, 2021.
+Last browsed for mods on December 10th, 2021.
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -1189,6 +1189,11 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
 
+### Quick Grenade Hotkey
+
+- Set **Grenade Hotkey** to **G**.
+- Set **Grenade Swap Hotkey** to **C**.
+
 ## MOD CONFIG
 
 ### JIP LN NVSE Plugin
@@ -1241,6 +1246,9 @@ I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
+G | Equip grenade/mine | Quick Grenade Hotkey
+C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
+H | Open weapon wheel | Just Assorted Mods
 Shift + Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
@@ -1252,6 +1260,7 @@ Shift + Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>1.0.2 (December 10th)</summary>
 
+- 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod also includes in-game **Mod Config** instructions.
 - ⚠️ [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Updated to increase EXP gain from repairs to 5 EXP (instead of 1 EXP).
 - Added additional **Mod Config** tweaks for **falloutcustom.ini**.
 - Added link to **Just Weapon Hweel** under **Just Assorted Mods**, which explains how the Weapon Wheel feature works.
