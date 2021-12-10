@@ -252,6 +252,9 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
 Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
 - Only install **Delayed Malcolm (random)**.
+
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
 </details>
 
 # GAMEPLAY
@@ -905,6 +908,7 @@ Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
 	Delayed Malcolm.esp
+	Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -1226,7 +1230,7 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
-## IN-GAME MOD CONFIG
+## MCM CONFIG
 
 ### Quick Grenade Hotkey
 
@@ -1245,11 +1249,11 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Enable **Repair Tools**.
 - Set **Repair Kits** to **Multi-use**.
 
-## MOD CONFIG
+## INI CONFIG
 
 ### JIP LN NVSE Plugin
 
-Open the mod's .ini file and make the following adjustments.
+Open **NVSE\Plugins\jip_nvse.ini** using a text editor and make the following adjustments.
 
 ```
 bEnableFO3Repair=1
@@ -1260,9 +1264,20 @@ uWMChanceMax=15
 
 > This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
-### Optional falloutcustom.ini tweaks
+### Ending Slideshows Ultimate Edition Overhaul (Optional)
 
-Paste the following into **falloutcustom.ini**.
+Open **Config\Ending Slideshows Ultimate Edition Overhaul.ini** using a text editor and make the following adjustments.
+
+```
+bTrueLonesomeRoad=1
+bNoDeadMoneyTeleport=1
+```
+
+> This stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
+
+### falloutcustom.ini (Optional)
+
+Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
 [Display]
@@ -1310,9 +1325,11 @@ Shift + Movement | Sprint | Just Assorted Mods
 
 
 <details>
-	<summary>1.0.2 (December 10th)</summary>
+	<summary>1.0.3 (December 11th)</summary>
 
+- Renamed "In-game Mod Config" and "Mod Config" to "MCM Config" and "INI Config", respectively.
 - 🆕 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598) (Gameplay QOL, Optional)
+- 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
 - 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
 - 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
 - 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
