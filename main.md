@@ -557,6 +557,18 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds proper diagonal movement animations.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
+- FOMOD options to install:
+  - [X] Full 360 Sneak Options
+  - [X] Diagonal Movement Patch
+
+[**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006)  
+A tighter and more dramatic view in 3rd-person mode, inspired by Resident Evil 4.
+
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
 
@@ -802,7 +814,9 @@ Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
 Viewmodel Recoil
 B42 Weapon Inertia
+Diagonal Movement
 NV Compatibility Skeleton
+360 Movement
 FOV Slider
 FOV Slider Custom INI
 Pip-Boy 2000 Mk VI
@@ -825,6 +839,7 @@ FNV RWL All DLC - Light Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	Action Camera
 	Better Gas Leak Effect
 	HQ Dust Storm FX
 	HQ Dust Storm FX - Dust Storm Meshes
@@ -971,6 +986,10 @@ Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
+	Diagonal movement.esp
+	360Movement.esp
+	360Movement - Diagonal movement Patch.esp
+	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
@@ -998,11 +1017,11 @@ tmzLODadditions.esp
 ```
 </details>
 
-## CONFLICT RESOLUTION
+## FNVEDIT INSTRUCTIONS
 
-The following mods have conflict issues that need to be addressed. It's possible you haven't installed all of them, so skip the instructions if you haven't installed said mods.
+The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked. It's possible you haven't installed all of them, so simply skip the corresponding instructions.
 
-To address these conflicts, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
+To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
 
 - The **plugins** that need to be loaded. This can be one, when it comes to editing a single plugin, or more, when it comes to forwarding changes from one mod to another. Forwarding a change means applying the same change to a mod that sits later in the load order. We will always apply the change to the plugin corresponding to the mod we are trying to fix. This will always be the plugin listed *last* under each spoiler.
 - The **instructions** to follow, and the **record** which those instructions have to be applied to. To search for a given record, copy the record ID (which you will find in **bold** at the end of the instructions) and paste it into FNVEdit's **FormID filter** (the empty box labeled **FormID** after you've loaded your plugins in FNVEdit), and then press Enter. This will search for that given record.
@@ -1133,7 +1152,17 @@ Plugins to load:
 - **FNVOppositeTraits.esp**
 
 Instructions:
-- Delete the **Worldspace** record tab. It contains dirty edits.
+- Delete the **Worldspace** tab. It contains dirty edits.
+</details>
+
+<details>
+	<summary>Action Camera</summary>
+
+Plugins to load:
+- **Action Camera.esp**
+
+Instructions:
+- Delete the **Quest** and **Script** tabs. They are responsible for the shoulder-swapping feature of the mod, which we are not interested in.
 </details>
 
 <details>
@@ -1332,6 +1361,9 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
 - 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
 - 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
+- 🆕 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333) (Visuals, Optional)
+- 🆕 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940) (Visuals, Optional)
+- 🆕 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) (Visuals, Optional). This mod includes FNVEdit instructions.
 - 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
 - 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
 - ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
