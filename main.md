@@ -366,10 +366,24 @@ Additional files to install:
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
 
+[**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
+Adds repair parts for you to craft and buy, though crafting will likely be your main method of acquiring them. The goal is not to completely revamp item repair, but instead to give you more options and add a bit of satisfaction to scavenging junk.
+	
+> Note that you will still be able to repair equipment with similar equipment, as in vanilla. An optional feature we will configure requires the player to craft Repair Tools in order to perform any repair.
+
+> This mod is listed under **Optional** because many players may not be interested in expanding the crafting aspect of the game.
+
+Additional files to install:
+- [**Alternative Repairing ESP Replacer**](https://drive.google.com/file/d/17JVKIjq90urWOM10twnDb4Uj_Ono5208/view?usp=sharing). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
+- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/12I1DGUsYikdxK9OTjPCADP5WRNR_AGRV/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; 
+
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
 - FOMOD options to install:
+  - [X] Alternative Repairing
   - [X] Mojave Arsenal
+
+> Note that, if you wish, you can simply install all default options. This however adds a lot of unnecessary files to your computer.
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
@@ -741,6 +755,9 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Unfound Loot
 Unfound Loot Custom INI
+	Alternative Repairing
+	Alternative Repairing ESP Replacer
+	Alternative Repairing Custom INI
 	Consistent Pip-Boy Icons Mod Patches
 	Anatomic Perks
 	Meltdown NVSE Upgrade
@@ -895,6 +912,9 @@ Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 RAD.esp
 Unfound Loot.esp
+	Alternative Repairing.esp
+	Alternative Repairing - Honest Hearts.esp
+	Alternative Repairing - Lonesome Road.esp
 	MigAnatomy.esp
 	MigMeltdown.esp
 	MigFortune.esp
@@ -1182,6 +1202,11 @@ With all our mods and resources installed, we can finally generate our LOD.
 
 ## IN-GAME MOD CONFIG
 
+### Quick Grenade Hotkey
+
+- Set **Grenade Hotkey** to **G**.
+- Set **Grenade Swap Hotkey** to **C**.
+
 ### Mojave Arsenal
 
 - Enable **Low Condition Loot**.
@@ -1189,10 +1214,10 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
 
-### Quick Grenade Hotkey
+### Alternative Repairing
 
-- Set **Grenade Hotkey** to **G**.
-- Set **Grenade Swap Hotkey** to **C**.
+- Enable **Repair Tools**.
+- Set **Repair Kits** to **Multi-use**.
 
 ## MOD CONFIG
 
@@ -1260,7 +1285,8 @@ Shift + Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>1.0.2 (December 10th)</summary>
 
-- 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod also includes in-game **Mod Config** instructions.
+- 🆕 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510). This mod includes in-game **Mod Config** instructions.
+- 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod includes in-game **Mod Config** instructions.
 - ⚠️ [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Updated to increase EXP gain from repairs to 5 EXP (instead of 1 EXP).
 - Added additional **Mod Config** tweaks for **falloutcustom.ini**.
 - Added link to **Just Weapon Hweel** under **Just Assorted Mods**, which explains how the Weapon Wheel feature works.
