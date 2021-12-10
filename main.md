@@ -252,6 +252,7 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
 Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
 - Only install **Delayed Malcolm (random)**.
+</details>
 
 # GAMEPLAY
 
