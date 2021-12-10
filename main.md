@@ -875,6 +875,7 @@ MigKao.esp
 NPCsSprint.esp
 Player Combat Priority.esp
 hz_Precise VATS.esp
+Quick Grenade Hotkey.esp
 Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
