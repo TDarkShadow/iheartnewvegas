@@ -1292,9 +1292,9 @@ fDlgFocus=7.0000
 
 > This disables the in-built screenshot feature in favor SweetFX's (which will capture post-processing effects), the vanilla depth of field effect seen during dialogue, as well as reduce the amount of zoom when engaging in dialogue.
 
-### Optional SweetFX tweaks
+### SweetFX (Optional)
 
-Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor.
+Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
 - Set USE_VIBRANCE = 1
 - Set USE_CURVES = 1
 
