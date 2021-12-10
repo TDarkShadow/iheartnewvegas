@@ -1290,7 +1290,7 @@ bDoDepthOfField=0
 fDlgFocus=7.0000
 ```
 
-> This disables the in-built screenshot feature in favor SweetFX's (which will capture post-processing effects), the vanilla depth of field effect seen during dialogue, as well as reduce the amount of zoom when engaging in dialogue.
+> This disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects), the vanilla depth of field effect seen during dialogue, and reduces the amount of zoom when engaging in dialogue.
 
 ### SweetFX (Optional)
 
