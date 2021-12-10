@@ -197,12 +197,8 @@ Greatly improves the user interface without compromising the original style.
   - [ ] No Font Tweaks
   - [X] Plugin
   - [X] WASD Compatible 
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **Menus\Prefabs\VUI+\settings.xml** using a text editor.
-- Set **VUI+NumberedTopics** to 1.
-- Save your changes.
 
-> Displays numbers next to dialogue topics. A must have if using a mods that assigns dialogue topics numeric shortcuts.
+> You can install the **Classic Pip-Boy Font** option instead of the **Default Font Tweaks** option. This is what I personally prefer, while also setting the in-game Pip-Boy HUD color to Green.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -1292,6 +1288,16 @@ uWMChanceMax=15
 ```
 
 > This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+
+### Vanilla UI Plus
+
+Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
+
+```
+<_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
+```
+
+> Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
 
 ### Ending Slideshows Ultimate Edition Overhaul (Optional)
 
