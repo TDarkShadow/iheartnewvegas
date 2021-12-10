@@ -1022,7 +1022,7 @@ Plugins to load:
 - **MigTeslaChain.esp**
 
 Instructions:
-- Forward the **Critical Data** **On Death** flag and **Health** fields for record **0301199E*
+- Forward the **Critical Data** **On Death** flag and **Health** fields for record **0301199E**
 </details>
 
 <details>
