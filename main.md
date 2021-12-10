@@ -246,6 +246,13 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
 
+<details>
+	<summary>Gameplay QOL (Optional) - Click to expand</summary>
+
+[**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
+Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
+- Only install **Delayed Malcolm (random)**.
+
 # GAMEPLAY
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
@@ -328,6 +335,7 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
@@ -361,7 +369,7 @@ Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
-- [**VNV Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z). Adjusts loot scarcity.
+- [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Adjusts loot scarcity.
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
@@ -375,7 +383,7 @@ Adds repair parts for you to craft and buy, though crafting will likely be your 
 
 Additional files to install:
 - [**Alternative Repairing ESP Replacer**](https://drive.google.com/file/d/17JVKIjq90urWOM10twnDb4Uj_Ono5208/view?usp=sharing). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/12I1DGUsYikdxK9OTjPCADP5WRNR_AGRV/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; 
+- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
@@ -384,6 +392,9 @@ Upscales one **Mojave Arsenal** icon.
   - [X] Mojave Arsenal
 
 > Note that, if you wish, you can simply install all default options. This however adds a lot of unnecessary files to your computer.
+
+[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
+Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
@@ -458,7 +469,7 @@ A skeleton with compatibility for the latest mods.
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 Additional files to install:
-- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1ca5TJ46H4q935d4fmuIVX9rrju_4Db9f/view?usp=sharing). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
+- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1V9Sd35fNQ7KCKGLwzBIpXVXBShfeOrYD/view?usp=sharing). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -622,6 +633,12 @@ Corrects the burnt silhouette texture found in Lonesome Road to be accurate to r
 
 # AUDIO (OPTIONAL)
 
+[**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
+Replaces level up sound and level up screen music with sounds from classic Fallout games.
+	
+[**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
+Replaces exp gain sound with the sound from classic Fallout games.
+
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
 
@@ -719,6 +736,7 @@ Better Character Creation
 Faster Pip-Boy Animation
 Simple DLC Delay
 Snowglobe Tweaks Fix
+	Delayed Malcolm
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
@@ -741,6 +759,7 @@ Well Rested Overhaul
 	Rigged Shotgun Restoration - Lore-Friendly
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
+JSawyer Ultimate Edition Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -759,6 +778,7 @@ Unfound Loot Custom INI
 	Alternative Repairing ESP Replacer
 	Alternative Repairing Custom INI
 	Consistent Pip-Boy Icons Mod Patches
+	Armor Damage Overhaul
 	Anatomic Perks
 	Meltdown NVSE Upgrade
 	Miss Fortune NVSE Upgrade
@@ -824,6 +844,8 @@ Night Sky Tweaks
 	Healthier Yao Guai
 	Y-17 Trauma Override Harness GLOVES
 	Lonesome Road Carbon Shadow Fix
+	Classic Level Up Sounds
+	Classic XP Sound
 	Empty Clicks
 	More Accurate Geiger Clicking
 	No Cocking Sound on Rifle Equip
@@ -881,6 +903,7 @@ map_icon_overhaul.esp
 Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
+	Delayed Malcolm.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -900,6 +923,7 @@ migWellRested.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
+JSUE Tweaks.esp
 YUP - JSUE Patch.esp
 WMIM - JSUE Patch.esp
 Throwable Fixes - JSUE Patch.esp
@@ -915,6 +939,7 @@ Unfound Loot.esp
 	Alternative Repairing.esp
 	Alternative Repairing - Honest Hearts.esp
 	Alternative Repairing - Lonesome Road.esp
+	MigArmorDegen.esp
 	MigAnatomy.esp
 	MigMeltdown.esp
 	MigFortune.esp
@@ -1281,6 +1306,20 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+
+<details>
+	<summary>1.0.2 (December 10th)</summary>
+
+- 🆕 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598) (Gameplay QOL, Optional)
+- 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
+- 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
+- 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
+- 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
+- ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
+- ⚠️ [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Updated to lower threshold at which apparel is considered clothing. Now JSUE-edited outfits like Leather Armor and Armored Vault Jumpsuits will be repaired with Light Armor Parts.
+- ⚠️ [**FOV Slider Custom INI**](https://drive.google.com/file/d/1V9Sd35fNQ7KCKGLwzBIpXVXBShfeOrYD/view?usp=sharing). Updated to reduce weapon FOV.
+</details>
 
 <details>
 	<summary>1.0.2 (December 10th)</summary>
