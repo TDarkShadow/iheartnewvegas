@@ -124,7 +124,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
-- Also install [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
+- Also install [**VNV WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
 - Also install [**WMIM Mesh Fix**](https://drive.google.com/file/d/1YIpCl0PccRdpQ2ISSMfHS_2gVx4-PtW2/view?usp=sharing). Fixes a bug with a mesh which would cause dead NPCs to hang in the air by their wrists, at the cost of reintroducing a much less annoying bug.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
@@ -146,7 +146,7 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1XQuRqVv-6-1DaCsfIAcBOyfAYriBafS1/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
@@ -269,6 +269,8 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 Additional files to install:
 - [**JAM - Just Assorted Mods Custom INI**](https://drive.google.com/file/d/1ILWL2wG1Fm-HtBlwQJhCHAy26VEFuJie/view?usp=sharing). Disables Hit Marker, Hit Indicator, Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
 
+> For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -286,6 +288,12 @@ Prevents the game from becoming too easy by making enemies more likely to target
 
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
+
+[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
+Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
+
+Additional files to install:
+- [**VNV Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon.
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
@@ -353,7 +361,7 @@ Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
-- [**Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z).
+- [**VNV Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z). Adjusts loot scarcity.
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
@@ -394,14 +402,14 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install the **Uncut Wasteland plus NPCs** main file.
 
 Additional files to install:
-- [**Viva New Vegas Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
+- [**VNV Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
 - [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
-- [**Viva New Vegas Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
+- [**VNV Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -710,6 +718,8 @@ Mostly Unarmed Tweaks
 NPCs Sprint In Combat
 Player Combat Priority
 Precise VATS (and actually useful Perception)
+Quick Grenade Hotkey
+Quick Grenade Hotkey Tweaks
 Simple Explosive Entry
 Well Rested Overhaul
 	Honest Hearts Workbench Crate Luck
@@ -1203,9 +1213,12 @@ bAllowScreenShot=0
 
 [Imagespace]
 bDoDepthOfField=0
+
+[Interface]
+fDlgFocus=7.0000
 ```
 
-> This disables the vanilla depth of field effect seen during dialogue, as well as the screenshots feature in favor of SweetFX's.
+> This disables the in-built screenshot feature in favor SweetFX's (which will capture post-processing effects), the vanilla depth of field effect seen during dialogue, as well as reduce the amount of zoom when engaging in dialogue.
 
 ### Optional SweetFX tweaks
 
@@ -1234,6 +1247,14 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>1.0.2 (December 10th)</summary>
+
+- ⚠️ [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Updated to increase EXP gain from repairs to 5 EXP (instead of 1 EXP).
+- Added additional **Mod Config** tweaks for **falloutcustom.ini**.
+- Added link to **Just Weapon Hweel** under **Just Assorted Mods**, which explains how the Weapon Wheel feature works.
+</details>
 
 <details>
 	<summary>1.0.1 (December 8th)</summary>
