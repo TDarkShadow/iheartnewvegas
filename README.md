@@ -1,6 +1,6 @@
 # LEFT MY HEART ♥ IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 10th, 2021
+Last updated: December 11th, 2021
 
 ## Contact info
 
@@ -50,7 +50,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 ### How many plugins and mods are there?
 
-I tried to keep the amount of recommended mods relatively short and to the point. There are roughly 90 recommended (a.k.a. "essential") mods and 80 plugins total. Including the Optional mods takes the count to roughly 130 mods and 110 plugins total.
+I tried to keep the amount of recommended mods relatively short and to the point. There are roughly 90 recommended (a.k.a. "essential") mods and 80 plugins total. Including the Optional mods takes the count to roughly 145 mods and 120 plugins total.
 
 ### How much space do I need to install these mods?
 
