@@ -170,7 +170,10 @@ Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
 [**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
-Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them), improving performance. Optionally removes tumbleweeds too.
+Improves game performance by removing all the dust devils and whirlwinds from the game (and any DLC/mod that might use them). Optionally removes tumbleweeds too.
+
+[**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/)  
+Improves game performance in combat by disabling lights cast on the environment by enemy muzzle flashes. Optionally removes player muzzle flashes too.
 </details>
 
 # USER INTERFACE
@@ -336,6 +339,8 @@ Additional files to install:
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
+
+> It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -751,6 +756,7 @@ lStewieAl's Tweaks INI
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
 	No More Dust Devils (and Whirlwinds)
+	No Muzzle Flash Lights
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -1316,6 +1322,16 @@ uWMChanceMax=15
 
 > Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
+### No Muzzle Flash Lights (Optional)
+
+Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
+
+```
+iMuzzleFlashLightsMode = 1
+```
+
+> Disables muzzle flash lights for both player and NPCs.
+
 ### Vanilla UI Plus
 
 Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
@@ -1391,6 +1407,7 @@ Shift + Movement | Sprint | Just Assorted Mods
 	<summary>1.0.3 (December 11th)</summary>
 
 - Renamed "In-game Mod Config" and "Mod Config" to "MCM Config" and "INI Config", respectively.
+- 🆕 [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/) (Patches, Optional)
 - 🆕 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598) (Gameplay QOL, Optional)
 - 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
 - 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
