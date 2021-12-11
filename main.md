@@ -124,7 +124,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
-- Also install [**VNV WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
+- Also install [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes. Made by **Qolore**.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of fixes for throwable weapons, focused on projectiles.
@@ -299,7 +299,7 @@ Requires the player's crosshair to be aiming at the target in order to activate 
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
 Additional files to install:
-- [**VNV Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon.
+- [**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon. Made by **Qolore**.
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
@@ -334,7 +334,7 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
-- [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members.
+- [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
@@ -426,14 +426,14 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install the **Uncut Wasteland plus NPCs** main file.
 
 Additional files to install:
-- [**VNV Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
+- [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland. Made by **Qolore**.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
 - [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
-- [**VNV Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
+- [**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders. Made by **Qolore**.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -477,6 +477,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 Additional files to install:
 - **Working date and clock for replacer** (under Optional files).
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
@@ -649,6 +650,18 @@ Corrects the burnt silhouette texture found in Lonesome Road to be accurate to r
 </details>
 
 # AUDIO (OPTIONAL)
+
+[**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
+Replaces every gun sound in the game, from ballistic to energy weapons.
+
+Additional files to install:
+- [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
+
+[**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
+Replaces every explosion sound in the game.
+
+Additional files to install:
+- **All Explosion Sounds Overhaul SCRIPT Version** (under Optional files). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
 
 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
 Replaces level up sound and level up screen music with sounds from classic Fallout games.
@@ -864,6 +877,10 @@ Night Sky Tweaks
 	Healthier Yao Guai
 	Y-17 Trauma Override Harness GLOVES
 	Lonesome Road Carbon Shadow Fix
+	All Weapon Sounds Overhaul
+	All Weapon Sounds Overhaul ESP Replacer
+	All Explosion Sounds Overhaul
+	All Explosion Sounds Overhaul SCRIPT Version
 	Classic Level Up Sounds
 	Classic XP Sound
 	Empty Clicks
@@ -996,6 +1013,8 @@ Character Expansions Revised - AIO Patch.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
 	Skinny Bears.esp
+	All Weapon Sounds Overhaul.esp
+	Explosive Sounds Overhaul.esp
 	hz_Empty Clicks.esp
 	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
@@ -1372,10 +1391,13 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
 - 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
 - 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
+- 🆕 [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing) (Visuals)
 - 🆕 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333) (Visuals, Optional)
 - 🆕 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940) (Visuals, Optional)
 - 🆕 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) (Visuals, Optional). This mod includes FNVEdit instructions.
 - 🆕 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628) (Visuals, Optional)
+- 🆕 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870) (Audio, Optional)
+- 🆕 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946) (Audio, Optional)
 - 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
 - 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
 - ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
