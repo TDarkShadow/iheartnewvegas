@@ -124,8 +124,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
-- Also install [**VNV WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes.
-- Also install [**WMIM Mesh Fix**](https://drive.google.com/file/d/1YIpCl0PccRdpQ2ISSMfHS_2gVx4-PtW2/view?usp=sharing). Fixes a bug with a mesh which would cause dead NPCs to hang in the air by their wrists, at the cost of reintroducing a much less annoying bug.
+- Also install [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes. Made by **Qolore**.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of fixes for throwable weapons, focused on projectiles.
@@ -171,7 +170,10 @@ Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
 [**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
-Removes all the dust devils and whirlwinds from the game (and any DLC/mod that might use them), improving performance. Optionally removes tumbleweeds too.
+Improves game performance by removing all the dust devils and whirlwinds from the game (and any DLC/mod that might use them). Optionally removes tumbleweeds too.
+
+[**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/)  
+Improves game performance in combat by disabling lights cast on the environment by enemy muzzle flashes. Optionally removes player muzzle flashes too.
 </details>
 
 # USER INTERFACE
@@ -197,12 +199,8 @@ Greatly improves the user interface without compromising the original style.
   - [ ] No Font Tweaks
   - [X] Plugin
   - [X] WASD Compatible 
-- Right-click on the installed file and click **Open in Explorer**.
-- Open **Menus\Prefabs\VUI+\settings.xml** using a text editor.
-- Set **VUI+NumberedTopics** to 1.
-- Save your changes.
 
-> Displays numbers next to dialogue topics. A must have if using a mods that assigns dialogue topics numeric shortcuts.
+> The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -245,6 +243,17 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
+
+<details>
+	<summary>Gameplay QOL (Optional) - Click to expand</summary>
+
+[**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
+Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
+- Only install **Delayed Malcolm (random)**.
+
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
+</details>
 
 # GAMEPLAY
 
@@ -293,7 +302,7 @@ Requires the player's crosshair to be aiming at the target in order to activate 
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
 Additional files to install:
-- [**VNV Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon.
+- [**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon. Made by **Qolore**.
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
@@ -328,7 +337,10 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://drive.google.com/file/d/1G7YMRR6JXLDU6WhS1hOYZlAD8PW56tP4/view?usp=sharing). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
+
+> It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -361,7 +373,7 @@ Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
-- [**VNV Unfound Loot Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Unfound%20Loot%20Custom%20INI.7z). Adjusts loot scarcity.
+- [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Adjusts loot scarcity.
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
@@ -375,7 +387,7 @@ Adds repair parts for you to craft and buy, though crafting will likely be your 
 
 Additional files to install:
 - [**Alternative Repairing ESP Replacer**](https://drive.google.com/file/d/17JVKIjq90urWOM10twnDb4Uj_Ono5208/view?usp=sharing). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/12I1DGUsYikdxK9OTjPCADP5WRNR_AGRV/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; 
+- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
@@ -384,6 +396,9 @@ Upscales one **Mojave Arsenal** icon.
   - [X] Mojave Arsenal
 
 > Note that, if you wish, you can simply install all default options. This however adds a lot of unnecessary files to your computer.
+
+[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
+Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
@@ -416,14 +431,14 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install the **Uncut Wasteland plus NPCs** main file.
 
 Additional files to install:
-- [**VNV Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland.
+- [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland. Made by **Qolore**.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
 - [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
-- [**VNV Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders.
+- [**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders. Made by **Qolore**.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -458,7 +473,7 @@ A skeleton with compatibility for the latest mods.
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 Additional files to install:
-- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1ca5TJ46H4q935d4fmuIVX9rrju_4Db9f/view?usp=sharing). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
+- [**FOV Slider Custom INI**](https://drive.google.com/file/d/1V9Sd35fNQ7KCKGLwzBIpXVXBShfeOrYD/view?usp=sharing). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -467,6 +482,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 Additional files to install:
 - **Working date and clock for replacer** (under Optional files).
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://drive.google.com/file/d/1XXsje7UP_m_c0s8xrJ2fhZor84IlxPLV/view?usp=sharing). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
@@ -542,6 +558,18 @@ Fixes the bright night sky horizons.
 <details>
 	<summary>Visuals (Optional) - Click to expand</summary>
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds proper diagonal movement animations.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
+- FOMOD options to install:
+  - [X] Full 360 Sneak Options
+  - [X] Diagonal Movement Patch
+
+[**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006)  
+A tighter and more dramatic view in 3rd-person mode, inspired by Resident Evil 4.
+
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
 
@@ -589,6 +617,12 @@ Replaces the female Metal Armor helmets with their male counterparts.
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
 
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets have a glowing effect.
+- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
+
+> The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
 
@@ -621,6 +655,25 @@ Corrects the burnt silhouette texture found in Lonesome Road to be accurate to r
 </details>
 
 # AUDIO (OPTIONAL)
+
+[**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
+Replaces every gun sound in the game, from ballistic to energy weapons.
+
+Additional files to install:
+- [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://drive.google.com/file/d/1EbSEnsWllEqtnMjHg_NnFRVX3oEiaObS/view?usp=sharing). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
+
+[**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
+Replaces every explosion sound in the game.
+
+Additional files to install:
+- **All Explosion Sounds Overhaul SCRIPT Version** (under Optional files). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
+
+[**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
+Replaces level up sound and level up screen music with sounds from classic Fallout games.
+	
+[**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
+Replaces exp gain sound with the sound from classic Fallout games.
 
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
@@ -689,7 +742,6 @@ Landscape Disposition Fix
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
-WMIM Mesh Fix
 Throwable Weapon Fixes
 Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
@@ -704,6 +756,7 @@ lStewieAl's Tweaks INI
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
 	No More Dust Devils (and Whirlwinds)
+	No Muzzle Flash Lights
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -719,6 +772,7 @@ Better Character Creation
 Faster Pip-Boy Animation
 Simple DLC Delay
 Snowglobe Tweaks Fix
+	Delayed Malcolm
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
@@ -741,6 +795,7 @@ Well Rested Overhaul
 	Rigged Shotgun Restoration - Lore-Friendly
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
+JSawyer Ultimate Edition Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -759,6 +814,7 @@ Unfound Loot Custom INI
 	Alternative Repairing ESP Replacer
 	Alternative Repairing Custom INI
 	Consistent Pip-Boy Icons Mod Patches
+	Armor Damage Overhaul
 	Anatomic Perks
 	Meltdown NVSE Upgrade
 	Miss Fortune NVSE Upgrade
@@ -778,7 +834,9 @@ Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
 Viewmodel Recoil
 B42 Weapon Inertia
+Diagonal Movement
 NV Compatibility Skeleton
+360 Movement
 FOV Slider
 FOV Slider Custom INI
 Pip-Boy 2000 Mk VI
@@ -801,6 +859,7 @@ FNV RWL All DLC - Light Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	Action Camera
 	Better Gas Leak Effect
 	HQ Dust Storm FX
 	HQ Dust Storm FX - Dust Storm Meshes
@@ -815,6 +874,7 @@ Night Sky Tweaks
 	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
+	Simple Glowing Ranger Visors
 	Unisex Motorcycle Helmets
 	Worn-Out Scope Crosshair Replacers
 	Securitrons in CRT
@@ -824,6 +884,13 @@ Night Sky Tweaks
 	Healthier Yao Guai
 	Y-17 Trauma Override Harness GLOVES
 	Lonesome Road Carbon Shadow Fix
+	All Weapon Sounds Overhaul
+	All Weapon Sounds Overhaul ESP Replacer
+	All Weapon Sounds Overhaul WMIM Patch
+	All Explosion Sounds Overhaul
+	All Explosion Sounds Overhaul SCRIPT Version
+	Classic Level Up Sounds
+	Classic XP Sound
 	Empty Clicks
 	More Accurate Geiger Clicking
 	No Cocking Sound on Rifle Equip
@@ -881,6 +948,8 @@ map_icon_overhaul.esp
 Better Character Creation.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
+	Delayed Malcolm.esp
+	Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -900,6 +969,7 @@ migWellRested.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
+JSUE Tweaks.esp
 YUP - JSUE Patch.esp
 WMIM - JSUE Patch.esp
 Throwable Fixes - JSUE Patch.esp
@@ -915,6 +985,7 @@ Unfound Loot.esp
 	Alternative Repairing.esp
 	Alternative Repairing - Honest Hearts.esp
 	Alternative Repairing - Lonesome Road.esp
+	MigArmorDegen.esp
 	MigAnatomy.esp
 	MigMeltdown.esp
 	MigFortune.esp
@@ -941,11 +1012,18 @@ Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
+	Diagonal movement.esp
+	360Movement.esp
+	360Movement - Diagonal movement Patch.esp
+	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Lucky 38 intro poster.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
 	Skinny Bears.esp
+	All Weapon Sounds Overhaul.esp
+	All Weapon Sounds Overhaul WMIM Patch.esp
+	Explosive Sounds Overhaul.esp
 	hz_Empty Clicks.esp
 	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
@@ -968,11 +1046,11 @@ tmzLODadditions.esp
 ```
 </details>
 
-## CONFLICT RESOLUTION
+## FNVEDIT INSTRUCTIONS
 
-The following mods have conflict issues that need to be addressed. It's possible you haven't installed all of them, so skip the instructions if you haven't installed said mods.
+The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked. It's possible you haven't installed all of them, so simply skip the corresponding instructions.
 
-To address these conflicts, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
+To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
 
 - The **plugins** that need to be loaded. This can be one, when it comes to editing a single plugin, or more, when it comes to forwarding changes from one mod to another. Forwarding a change means applying the same change to a mod that sits later in the load order. We will always apply the change to the plugin corresponding to the mod we are trying to fix. This will always be the plugin listed *last* under each spoiler.
 - The **instructions** to follow, and the **record** which those instructions have to be applied to. To search for a given record, copy the record ID (which you will find in **bold** at the end of the instructions) and paste it into FNVEdit's **FormID filter** (the empty box labeled **FormID** after you've loaded your plugins in FNVEdit), and then press Enter. This will search for that given record.
@@ -1103,7 +1181,17 @@ Plugins to load:
 - **FNVOppositeTraits.esp**
 
 Instructions:
-- Delete the **Worldspace** record tab. It contains dirty edits.
+- Delete the **Worldspace** tab. It contains dirty edits.
+</details>
+
+<details>
+	<summary>Action Camera</summary>
+
+Plugins to load:
+- **Action Camera.esp**
+
+Instructions:
+- Delete the **Quest** and **Script** tabs. They are responsible for the shoulder-swapping feature of the mod, which we are not interested in.
 </details>
 
 <details>
@@ -1200,7 +1288,7 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
-## IN-GAME MOD CONFIG
+## MCM CONFIG
 
 ### Quick Grenade Hotkey
 
@@ -1219,11 +1307,11 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Enable **Repair Tools**.
 - Set **Repair Kits** to **Multi-use**.
 
-## MOD CONFIG
+## INI CONFIG
 
 ### JIP LN NVSE Plugin
 
-Open the mod's .ini file and make the following adjustments.
+Open **NVSE\Plugins\jip_nvse.ini** using a text editor and make the following adjustments.
 
 ```
 bEnableFO3Repair=1
@@ -1232,11 +1320,42 @@ uWMChanceMin=5
 uWMChanceMax=15
 ```
 
-> This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+> Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
-### Optional falloutcustom.ini tweaks
+### No Muzzle Flash Lights (Optional)
 
-Paste the following into **falloutcustom.ini**.
+Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
+
+```
+iMuzzleFlashLightsMode = 1
+```
+
+> Disables muzzle flash lights for both player and NPCs.
+
+### Vanilla UI Plus
+
+Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
+
+```
+<_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
+```
+
+> Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
+
+### Ending Slideshows Ultimate Edition Overhaul (Optional)
+
+Open **Config\Ending Slideshows Ultimate Edition Overhaul.ini** using a text editor and make the following adjustments.
+
+```
+bTrueLonesomeRoad=1
+bNoDeadMoneyTeleport=1
+```
+
+> Stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
+
+### falloutcustom.ini (Optional)
+
+Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
 [Display]
@@ -1247,13 +1366,14 @@ bDoDepthOfField=0
 
 [Interface]
 fDlgFocus=7.0000
+uPipboyColor=1776042495
 ```
 
-> This disables the in-built screenshot feature in favor SweetFX's (which will capture post-processing effects), the vanilla depth of field effect seen during dialogue, as well as reduce the amount of zoom when engaging in dialogue.
+> Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
 
-### Optional SweetFX tweaks
+### SweetFX (Optional)
 
-Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor.
+Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
 - Set USE_VIBRANCE = 1
 - Set USE_CURVES = 1
 
@@ -1281,6 +1401,31 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+
+<details>
+	<summary>1.0.3 (December 11th)</summary>
+
+- Renamed "In-game Mod Config" and "Mod Config" to "MCM Config" and "INI Config", respectively.
+- 🆕 [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/) (Patches, Optional)
+- 🆕 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598) (Gameplay QOL, Optional)
+- 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
+- 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
+- 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
+- 🆕 [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing) (Visuals)
+- 🆕 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333) (Visuals, Optional)
+- 🆕 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940) (Visuals, Optional)
+- 🆕 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) (Visuals, Optional). This mod includes FNVEdit instructions.
+- 🆕 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628) (Visuals, Optional)
+- 🆕 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870) (Audio, Optional)
+- 🆕 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946) (Audio, Optional)
+- 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
+- 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
+- ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
+- ⚠️ [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Updated to lower threshold at which apparel is considered clothing. Now JSUE-edited outfits like Leather Armor and Armored Vault Jumpsuits will be repaired with Light Armor Parts.
+- ⚠️ [**FOV Slider Custom INI**](https://drive.google.com/file/d/1V9Sd35fNQ7KCKGLwzBIpXVXBShfeOrYD/view?usp=sharing). Updated to reduce weapon FOV.
+- 🚫 [**WMIM Mesh Fix**](https://drive.google.com/file/d/1YIpCl0PccRdpQ2ISSMfHS_2gVx4-PtW2/view?usp=sharing). A leftover from when my guide was still a spreadsheet for me to follow, and hadn't been updated to reflect the latest **WMIM ESP Replacer**, which already includes this file.
+</details>
 
 <details>
 	<summary>1.0.2 (December 10th)</summary>
