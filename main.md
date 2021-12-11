@@ -197,7 +197,7 @@ Greatly improves the user interface without compromising the original style.
   - [X] Plugin
   - [X] WASD Compatible 
 
-> You can install the **Classic Pip-Boy Font** option instead of the **Default Font Tweaks** option. This is what I personally prefer, while also setting the in-game Pip-Boy HUD color to Green.
+> The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -1314,7 +1314,7 @@ uWMChanceMin=5
 uWMChanceMax=15
 ```
 
-> This enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+> Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
 ### Vanilla UI Plus
 
@@ -1335,7 +1335,7 @@ bTrueLonesomeRoad=1
 bNoDeadMoneyTeleport=1
 ```
 
-> This stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
+> Stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
 
 ### falloutcustom.ini (Optional)
 
@@ -1350,9 +1350,10 @@ bDoDepthOfField=0
 
 [Interface]
 fDlgFocus=7.0000
+uPipboyColor=1776042495
 ```
 
-> This disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects), the vanilla depth of field effect seen during dialogue, and reduces the amount of zoom when engaging in dialogue.
+> Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
 
 ### SweetFX (Optional)
 
