@@ -1381,8 +1381,6 @@ Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and 
 
 # MOD KEYBINDINGS
 
-> This section includes mods from the optional sections of the guide.
-
 This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
 
 Key | Function | Added by
