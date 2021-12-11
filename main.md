@@ -841,6 +841,7 @@ FOV Slider
 FOV Slider Custom INI
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Date and Clock
+Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 Character Expansions Revised
