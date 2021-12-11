@@ -773,6 +773,7 @@ Faster Pip-Boy Animation
 Simple DLC Delay
 Snowglobe Tweaks Fix
 	Delayed Malcolm
+	Ending Slideshows Ultimate Edition Overhaul
 Essential DLC Enhancements Merged
 Follower Formula Redone
 Follower Tweaks
