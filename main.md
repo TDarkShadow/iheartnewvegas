@@ -656,6 +656,7 @@ Replaces every gun sound in the game, from ballistic to energy weapons.
 
 Additional files to install:
 - [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://drive.google.com/file/d/1EbSEnsWllEqtnMjHg_NnFRVX3oEiaObS/view?usp=sharing). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
 
 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
@@ -879,6 +880,7 @@ Night Sky Tweaks
 	Lonesome Road Carbon Shadow Fix
 	All Weapon Sounds Overhaul
 	All Weapon Sounds Overhaul ESP Replacer
+	All Weapon Sounds Overhaul WMIM Patch
 	All Explosion Sounds Overhaul
 	All Explosion Sounds Overhaul SCRIPT Version
 	Classic Level Up Sounds
@@ -1014,6 +1016,7 @@ Character Expansions Revised - AIO Patch.esp
 	lexx_armored_pagloves.esp
 	Skinny Bears.esp
 	All Weapon Sounds Overhaul.esp
+	All Weapon Sounds Overhaul WMIM Patch.esp
 	Explosive Sounds Overhaul.esp
 	hz_Empty Clicks.esp
 	More Accurate Geiger Clicking.esp
