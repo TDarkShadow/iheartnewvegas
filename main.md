@@ -611,6 +611,12 @@ Replaces the female Metal Armor helmets with their male counterparts.
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
 
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets have a glowing effect.
+- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
+
+> The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
 
@@ -848,6 +854,7 @@ Night Sky Tweaks
 	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
+	Simple Glowing Ranger Visors
 	Unisex Motorcycle Helmets
 	Worn-Out Scope Crosshair Replacers
 	Securitrons in CRT
@@ -1368,6 +1375,7 @@ Shift + Movement | Sprint | Just Assorted Mods
 - 🆕 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333) (Visuals, Optional)
 - 🆕 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940) (Visuals, Optional)
 - 🆕 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) (Visuals, Optional). This mod includes FNVEdit instructions.
+- 🆕 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628) (Visuals, Optional)
 - 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
 - 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
 - ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
