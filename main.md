@@ -1436,6 +1436,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>1.0.4 (December 12th)</summary>
 
 - ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
+- Expanded **Mod Keybindings** section.
+- Expanded description of **lStewieAl's Tweaks Custom INI**.
 </details>
 
 <details>
