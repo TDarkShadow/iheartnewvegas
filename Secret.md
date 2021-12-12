@@ -13,8 +13,8 @@ The following mods should be reinstalled if you plan on using **TYPE 4**.
 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 - BAIN options to install:
-  [X] 00 Core
-  [X] 02 TYPE 4
+  - [X] 00 Core
+  - [X] 02 TYPE 4
 
 [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
 - BAIN options to install:
