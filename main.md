@@ -1422,10 +1422,13 @@ Key | Function | Added by
 Q | Drop selected item in Pip-Boy | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests | lStewieAl's Tweaks
-N | Toggle Pip-Boy light / Toggle scope night vision | lStewieAl's Tweaks
+N | Toggle Pip-Boy light | lStewieAl's Tweaks
+N | Toggle scope night vision | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
 Ctrl-F | Filter menus in Pip-Boy | lStewieAl's Tweaks
-Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks 
+Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
+Shift+E | Pick up and equip | lStewieAl's Tweaks
+Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 G | Equip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
