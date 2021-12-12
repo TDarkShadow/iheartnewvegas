@@ -145,7 +145,39 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+
+> For a comprehensive list of the features enabled by this INI, check the spoiler below.
+
+<details>
+	<summary>lStewieAl's Tweaks Custom INI - Click to expand</summary>
+
+Notable gameplay tweaks include the following:
+
+- Levelup menu max skill values are capped based on SPECIAL.
+- Vendors obey their Buy/Sell flags, restricting which items they accept.
+- Binoculars can now zoom in and out.
+- Holding the attack button for grenades decreases their detonation timer.
+- Entering VATS costs AP.
+- Broken items can be equipped.
+- Throwables can be held and released, like grenades.
+- Living Anatomy perk shows Damage Resistance.
+- Unconscious actors can be looted.
+- Luck doesn't affect gambling.
+- Manual reload.
+- VATS' range is tied to current weapon's range.
+- Slower backpedalling.
+- Can't grab owned items.
+- Opening Pip-Boy in combat costs AP.
+- Skill level requirement for skill checks is hidden.
+- Dialogue topics are numbered.
+- Pickpocket formula takes into account item weight, target Perception, and detection value.
+- Reload jams are affected by Agility.
+- Repairing items gives XP.
+- Robotic companions heal with Scrap Metal instead of Stimpaks.
+- Sneak attack critical hits are only possible with melee weapons.
+- Weapon mods can be unequipped.
+</details>
 
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
@@ -1387,14 +1419,17 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+Q | Drop selected item in Pip-Boy | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests | lStewieAl's Tweaks
-N | Toggle Pip-Boy light | lStewieAl's Tweaks
+N | Toggle Pip-Boy light / Toggle scope night vision | lStewieAl's Tweaks
 M | Open Pip-Boy map | lStewieAl's Tweaks
+Ctrl-F | Filter menus in Pip-Boy | lStewieAl's Tweaks
+Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks 
 G | Equip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
-Shift + Movement | Sprint | Just Assorted Mods
+Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
