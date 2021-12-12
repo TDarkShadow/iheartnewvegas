@@ -632,6 +632,16 @@ Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
 
+[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
+Gives Gecko-backed outfits an unique look.
+- Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
+
+Additional files to install:
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+  - BAIN options to install:
+    - [X] 00 ESP Replacer
+    - [X] 01 JSUE Patch
+
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
 
@@ -897,6 +907,8 @@ Night Sky Tweaks
 	McCarran Escalator Glass
 	Lucky 38 Intro Poster
 	Lucky 38 Mainframe No Fingerprints
+	Honest Hearts Gecko Leathers Improved
+	Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
 	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
@@ -1044,6 +1056,8 @@ Character Expansions Revised - AIO Patch.esp
 	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Lucky 38 intro poster.esp
+	ImprovedGeckoLeatherArmor.esp
+	ImprovedGeckoLeatherArmor JSUE Patch.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
 	Skinny Bears.esp
@@ -1437,7 +1451,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - Expanded **Mod Keybindings** section.
 - Expanded description of **lStewieAl's Tweaks Custom INI**.
-- 🆕 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- 🆕 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing) (Patches, Optional). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- 🆕 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316) (Visuals, Optional)
 - ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
 - 🚫 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774). Removed in favor of my own implementation of the fix.
 
