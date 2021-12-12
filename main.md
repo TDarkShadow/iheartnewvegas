@@ -180,8 +180,8 @@ Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
-[**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
-Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
+[**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
+Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
@@ -775,7 +775,7 @@ lStewieAl's Tweaks
 lStewieAl's Tweaks INI
 	Gauss Rifle VATS Fix - JIP
 	Universal Pyromaniac Buff for Fire Effects
-	Dirty Pre-War Businesswear Texture Fix
+	Dirty Pre-War Businesswear Fix
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
@@ -964,7 +964,7 @@ AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 	MigGaussFix.esp
 	PyromaniacEffectsBuff.esp
-	Pre-War Businesswear Fix.esp
+	Dirty Pre-War Businesswear Fix.esp
 	Female White Glove Society Mask.esp
 	LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
@@ -1435,9 +1435,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>1.0.4 (December 12th)</summary>
 
-- ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
 - Expanded **Mod Keybindings** section.
 - Expanded description of **lStewieAl's Tweaks Custom INI**.
+- 🆕 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
+- 🚫 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774). Removed in favor of my own implementation of the fix.
+
 </details>
 
 <details>
