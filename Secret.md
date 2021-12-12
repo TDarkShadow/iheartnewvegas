@@ -1,3 +1,26 @@
+# BEFORE WE BEGIN
+
+## DISCLAIMER
+
+The guide presented here assumes you have already followed all instructions found in **Left My Heart In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
+
+This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** body replacer.
+
+## PRELIMINARY STEPS
+
+The following mods should be reinstalled if you plan on using **TYPE 4**.
+
+[**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
+Fixes the Dirty Pre-War Businesswear having the incorrect texture.
+- BAIN options to install:
+  [X] 00 Core
+  [X] 02 TYPE 4
+
+[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+- BAIN options to install:
+  - [X] 00 ESP Replacer Compatibility Version
+  - [X] 01 JSUE Patch Compatibility Version
+
 # FACE AND HAIR TEXTURES
 
 [**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
@@ -101,8 +124,11 @@ Body and Face Textures Workshop
 tkEyelashesFNV.esp
 T4-plugin.esp
 TYPE 4 YUP Patch.esp
+TYPE 4 Dirty Pre-War Businesswear Fix.esp
 TYPE 4 JSUE Patch.esp
 TYPE 4 Eyelashes NV Patch.esp
+ImprovedGeckoLeatherArmor.esp
+ImprovedGeckoLeatherArmor JSUE Patch.esp
 Mannequin Rce.esp
 ```
 </details>
