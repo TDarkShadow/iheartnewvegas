@@ -1367,7 +1367,7 @@ bAllowScreenShot=0
 bDoDepthOfField=0
 
 [Interface]
-fDlgFocus=7.0000
+fDlgFocus=6.0000
 uPipboyColor=1776042495
 ```
 
@@ -1402,6 +1402,11 @@ Shift + Movement | Sprint | Just Assorted Mods
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
 
+<details>
+	<summary>1.0.4 (December 12th)</summary>
+
+- ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
+</details>
 
 <details>
 	<summary>1.0.3 (December 11th)</summary>
