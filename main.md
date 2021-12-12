@@ -1,9 +1,9 @@
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
 # LEFT MY HEART IN NEW VEGAS
 
-Last browsed for mods on December 10th, 2021.
+Last browsed for mods on December 11th, 2021.
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -145,7 +145,31 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks 6.95 INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- Major gameplay tweaks include:
+  - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
+  - Vendors obey their Buy/Sell flags, restricting which items they accept.
+  - Binoculars can zoom in and out.
+  - Holding the attack button for grenades decreases their detonation timer.
+  - Throwables can be held and released, like grenades.
+  - Entering VATS costs AP.
+  - Opening Pip-Boy in combat costs AP.
+  - Broken items can be equipped.
+  - Living Anatomy perk shows Damage Resistance.
+  - Unconscious actors can be looted.
+  - Luck doesn't affect gambling.
+  - Manual reloading.
+  - VATS' range is tied to current weapon's range.
+  - Slower backpedalling.
+  - Owned items can't be moved around.
+  - Skill level requirement for skill checks is hidden.
+  - Dialogue topics are numbered.
+  - Pickpocket formula takes into account item weight, target Perception, and detection value.
+  - Agility affects reload jams.
+  - Repairing items gives XP.
+  - Robotic companions heal with Scrap Metal instead of Stimpaks.
+  - Sneak attack critical hits can only be dealt with melee weapons.
+  - Weapon mods can be unequipped.
 
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
@@ -156,8 +180,11 @@ Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
-[**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774)  
-Fixes the Dirty Pre-War Businesswear and Grimy Pre-War Businesswear having the incorrect textures.
+[**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
+Fixes the Dirty Pre-War Businesswear having the incorrect texture.
+- BAIN options to install:
+  [X] 00 Core
+  [X] 01 Vanilla
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
@@ -608,6 +635,16 @@ Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
 
+[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
+Gives Gecko-backed outfits an unique look.
+- Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
+
+Additional files to install:
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+  - BAIN options to install:
+    - [X] 00 ESP Replacer
+    - [X] 01 JSUE Patch
+
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
 
@@ -751,7 +788,7 @@ lStewieAl's Tweaks
 lStewieAl's Tweaks INI
 	Gauss Rifle VATS Fix - JIP
 	Universal Pyromaniac Buff for Fire Effects
-	Dirty Pre-War Businesswear Texture Fix
+	Dirty Pre-War Businesswear Fix
 	Female White Glove Society Mask Fix
 	Gun Runners Kiosk Glass Fix Alternate Version
 	Less Flickery City of New Vegas
@@ -873,6 +910,8 @@ Night Sky Tweaks
 	McCarran Escalator Glass
 	Lucky 38 Intro Poster
 	Lucky 38 Mainframe No Fingerprints
+	Honest Hearts Gecko Leathers Improved
+	Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
 	Lower-sitting Ranger Hat
 	Metal Helmets - Female Replacements
 	Power Armor Gloves
@@ -940,7 +979,7 @@ AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 	MigGaussFix.esp
 	PyromaniacEffectsBuff.esp
-	Pre-War Businesswear Fix.esp
+	Dirty Pre-War Businesswear Fix.esp
 	Female White Glove Society Mask.esp
 	LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
@@ -1020,6 +1059,8 @@ Character Expansions Revised - AIO Patch.esp
 	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Lucky 38 intro poster.esp
+	ImprovedGeckoLeatherArmor.esp
+	ImprovedGeckoLeatherArmor JSUE Patch.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
 	Skinny Bears.esp
@@ -1367,7 +1408,7 @@ bAllowScreenShot=0
 bDoDepthOfField=0
 
 [Interface]
-fDlgFocus=7.0000
+fDlgFocus=6.0000
 uPipboyColor=1776042495
 ```
 
@@ -1387,14 +1428,20 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+Q | Drop selected item in Pip-Boy | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
-J | Open Pip-Boy quests | lStewieAl's Tweaks
+J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
-M | Open Pip-Boy map | lStewieAl's Tweaks
+N | Toggle scope night vision | lStewieAl's Tweaks
+M | Open Pip-Boy world map tab | lStewieAl's Tweaks
+Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
+Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
+Shift+E | Pick up and equip | lStewieAl's Tweaks
+Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 G | Equip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
-Shift + Movement | Sprint | Just Assorted Mods
+Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
@@ -1402,6 +1449,17 @@ Shift + Movement | Sprint | Just Assorted Mods
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
 
+<details>
+	<summary>1.0.4 (December 12th)</summary>
+
+- Expanded **Mod Keybindings** section.
+- Expanded description of **lStewieAl's Tweaks Custom INI**.
+- 🆕 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing) (Patches, Optional). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- 🆕 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316) (Visuals, Optional)
+- ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
+- 🚫 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774). Removed in favor of my own implementation of the fix.
+
+</details>
 
 <details>
 	<summary>1.0.3 (December 11th)</summary>
@@ -1454,5 +1512,5 @@ Shift + Movement | Sprint | Just Assorted Mods
 - Added SweetFX optional configuration instructions.
 </details>
 
-[<< Back to Main](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
