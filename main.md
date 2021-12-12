@@ -146,38 +146,30 @@ Engine bugfixes, optional tweaks and new features with no performance impact. Fu
 
 Additional files to install:
 - [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
-
-> For a comprehensive list of the features enabled by this INI, check the spoiler below.
-
-<details>
-	<summary>lStewieAl's Tweaks Custom INI - Click to expand</summary>
-
-Notable gameplay tweaks include the following:
-
-- Levelup menu max skill values are capped based on SPECIAL.
-- Vendors obey their Buy/Sell flags, restricting which items they accept.
-- Binoculars can now zoom in and out.
-- Holding the attack button for grenades decreases their detonation timer.
-- Entering VATS costs AP.
-- Broken items can be equipped.
-- Throwables can be held and released, like grenades.
-- Living Anatomy perk shows Damage Resistance.
-- Unconscious actors can be looted.
-- Luck doesn't affect gambling.
-- Manual reload.
-- VATS' range is tied to current weapon's range.
-- Slower backpedalling.
-- Can't grab owned items.
-- Opening Pip-Boy in combat costs AP.
-- Skill level requirement for skill checks is hidden.
-- Dialogue topics are numbered.
-- Pickpocket formula takes into account item weight, target Perception, and detection value.
-- Reload jams are affected by Agility.
-- Repairing items gives XP.
-- Robotic companions heal with Scrap Metal instead of Stimpaks.
-- Sneak attack critical hits are only possible with melee weapons.
-- Weapon mods can be unequipped.
-</details>
+- Major gameplay tweaks include:
+  - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
+  - Vendors obey their Buy/Sell flags, restricting which items they accept.
+  - Binoculars can zoom in and out.
+  - Holding the attack button for grenades decreases their detonation timer.
+  - Throwables can be held and released, like grenades.
+  - Entering VATS costs AP.
+  - Opening Pip-Boy in combat costs AP.
+  - Broken items can be equipped.
+  - Living Anatomy perk shows Damage Resistance.
+  - Unconscious actors can be looted.
+  - Luck doesn't affect gambling.
+  - Manual reloading.
+  - VATS' range is tied to current weapon's range.
+  - Slower backpedalling.
+  - Owned items can't be moved around.
+  - Skill level requirement for skill checks is hidden.
+  - Dialogue topics are numbered.
+  - Pickpocket formula takes into account item weight, target Perception, and detection value.
+  - Agility affects reload jams.
+  - Repairing items gives XP.
+  - Robotic companions heal with Scrap Metal instead of Stimpaks.
+  - Sneak attack critical hits can only be dealt with melee weapons.
+  - Weapon mods can be unequipped.
 
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
