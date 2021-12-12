@@ -1425,7 +1425,7 @@ J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
 N | Toggle scope night vision | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
-Ctrl-F | Filter menus in Pip-Boy | lStewieAl's Tweaks
+Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
 Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
