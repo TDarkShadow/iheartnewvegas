@@ -1,6 +1,6 @@
 # LEFT MY HEART ♥ IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 11th, 2021
+Last updated: December 12th, 2021
 
 ## Contact info
 
