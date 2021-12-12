@@ -16,7 +16,7 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 
 ## About
 
-Left My Heart In New Vegas (a.k.a. I ♥ New Vegas) is a modular modding guide for **Fallout: New Vegas**. I♥NV is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay, NPC, and town overhauls, as well as the hundreds of texture and mesh replacers that New Vegas players tend to install.
+**Left My Heart In New Vegas** (a.k.a. **I ♥ New Vegas**) is a modular modding guide for **Fallout: New Vegas**. **I♥NV** is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay, NPC, and town overhauls, as well as the hundreds of texture and mesh replacers that New Vegas players tend to install.
 
 This guide is split in two sections:
 
