@@ -182,6 +182,9 @@ Makes the Pyromaniac perk affect *all* the lingering fire damage effects from we
 
 [**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
+- BAIN options to install:
+  [X] 00 Core
+  [X] 01 Vanilla
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
