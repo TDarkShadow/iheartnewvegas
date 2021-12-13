@@ -21,6 +21,22 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
   - [X] 00 ESP Replacer Compatibility Version
   - [X] 01 JSUE Patch Compatibility Version
 
+The following mod should be edited if you plan on using **TYPE 4**.
+
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
+- Open **NVSE\plugins\scripts\gr_MiscEquipmentChanges.txt** using a text editor, and delete the following lines:
+  - SetBipedModelPathAlt ArmorNVCLExplorer 1 "FIXforLegionArmors\ExplorerFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLRecruit 1 "FIXforLegionArmors\RecruitFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLPrime 1 "FIXforLegionArmors\PrimeFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLVeteran 1 "FIXforLegionArmors\VeteranFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLVexillarius 1 "FIXforLegionArmors\VexillariusFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLPraetorian 1 "FIXforLegionArmors\PraetorianFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCLCenturion 1 "FIXforLegionArmors\CenturionFemale.nif"
+  - SetBipedModelPathAlt ArmorNVCaesar 1 "FIXforLegionArmors\CaesarFemale.nif"
+
+> This will revert the female model tweaks in favor of **TYPE 4**'s adjusted models.
+
 # FACE AND HAIR TEXTURES
 
 [**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
