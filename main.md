@@ -1,9 +1,9 @@
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
-# LEFT MY HEART IN NEW VEGAS
+# LEFT MY ♥ IN NEW VEGAS
 
-Last browsed for mods on December 11th, 2021.
+Last browsed for mods on December 13th, 2021.
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
