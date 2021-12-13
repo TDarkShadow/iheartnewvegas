@@ -2,7 +2,7 @@
 
 ## DISCLAIMER
 
-The guide presented here assumes you have already followed all instructions found in **Left My Heart In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
+The guide presented here assumes you have already followed all instructions found in **Left My ♥ In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
 
 This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** body replacer.
 
@@ -10,13 +10,13 @@ This document will guide you through the installation of face and hair textures,
 
 The following mods should be reinstalled if you plan on using **TYPE 4**.
 
-[**Dirty Pre-War Businesswear Fix**](https://drive.google.com/file/d/1TaOxdPB3g4fveejLqOyeE4vZR0cJkJjY/view?usp=sharing)  
+[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 - BAIN options to install:
   - [X] 00 Core
   - [X] 02 TYPE 4
 
-[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
 - BAIN options to install:
   - [X] 00 ESP Replacer Compatibility Version
   - [X] 01 JSUE Patch Compatibility Version
@@ -48,7 +48,7 @@ Adds animated eyelashes to NPCs and the player character.
 - Hide both plugins.
 
 Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://drive.google.com/file/d/1EKtFdcYvHcx841UvNx9zt6p0bTFaE5H9/view?usp=sharing). Fixed version of the main plugin.
+- [**Eyelashes New Vegas ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Eyelashes%20New%20Vegas%20ESP%20Replacer.7z). Fixed version of the main plugin.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
@@ -79,7 +79,7 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 Additional files to install:
 - [**TYPE 4 Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
-- [**TYPE 4 Patches**](https://drive.google.com/file/d/15PlLJxpq_AsnbaNZlSkTndXwM83oIfu_/view?usp=sharing). Patches a number of mods featured in **Left My Heart In New Vegas**.
+- [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20TYPE%204%20Patches.7z). Patches a number of mods featured in **Left My Heart In New Vegas**.
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
@@ -104,14 +104,14 @@ Additional files to install:
 - **03 - Body Hairy Clean** (under Optional files).
 - **05 - Face Vanilla Feel** (under Optional files).
 
-[**T6M Neck Adjusted Outfit Replacers**](https://drive.google.com/file/d/17BjQgaU_IlHBHMhtEuJ6rJ2jUHnoBhXh/view?usp=sharing)  
+[**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
 
 # FINISHING TOUCHES
 
 ## EXTENDED MOD ORDER AND LOAD ORDER
 
-The mods installed in this guide can be placed at the very end of **Left My Heart In New Vegas**.
+The mods installed in this guide can be placed at the very end of **Left My ♥ In New Vegas**.
 
 <details>
 <summary>Mod order</summary>
