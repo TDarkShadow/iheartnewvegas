@@ -124,7 +124,9 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
-- Also install [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes all changes the mod makes other than the changes required for the mesh fixes, as the original ESP has some bugs, conflicts, and many non-bug fix changes. Made by **Qolore**.
+
+Additional files to install:
+- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes unnecessary, non-bugfix edits. Made by **Qolore**.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of fixes for throwable weapons, focused on projectiles.
@@ -145,7 +147,7 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20lStewieAl's%20Tweaks%20Custom%20INI%201.0.4.7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%201.0.4.1.7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
   - Vendors obey their Buy/Sell flags, restricting which items they accept.
@@ -180,7 +182,7 @@ Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
-[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
+[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 - BAIN options to install:
   [X] 00 Core
@@ -303,7 +305,7 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 Additional files to install:
-- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI.7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
+- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI.7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
 
 > For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
@@ -346,7 +348,7 @@ Forces the Honest Hearts workbench crates (the only source of skill books in the
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
-[**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
+[**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
 Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him.
 
 > This is a YUP-compatible version of the original mod [**found here**](https://www.nexusmods.com/newvegas/mods/57175).
@@ -368,7 +370,7 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
-- [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20JSawyer%20Ultimate%20Edition%20Patches.7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
 
@@ -405,7 +407,7 @@ Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
-- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
+- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
 
 <details>
 	<summary>Overhauls (Optional) - Click to expand</summary>
@@ -418,8 +420,8 @@ Adds repair parts for you to craft and buy, though crafting will likely be your 
 > This mod is listed under **Optional** because many players may not be interested in expanding the crafting aspect of the game.
 
 Additional files to install:
-- [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
+- [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
+- [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
@@ -440,7 +442,7 @@ The Here and Now perk now includes the original effects from Living Anatomy.
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
 
 Additional files to install:
-- [**Meltdown NVSE Upgrade Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meltdown%20NVSE%20Upgrade%20Custom%20INI.7z). Disables the Rampage feature and the Meltdown feature for companions.
+- [**Meltdown NVSE Upgrade Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%20Custom%20INI.7z). Disables the Rampage feature and the Meltdown feature for companions.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
@@ -452,7 +454,7 @@ Overhauls vanilla traits and adds two new ones.
 New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
 - Install the **FNV Opposite Traits (YUP OWB)** main file.
 
-[**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BVNV%5D%20Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
+[**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
 Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
 
 [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
@@ -508,7 +510,7 @@ A skeleton with compatibility for the latest mods.
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 Additional files to install:
-- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20FOV%20Slider%20Custom%20INI%201.0.3.7z). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
+- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -517,8 +519,8 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 Additional files to install:
 - **Working date and clock for replacer** (under Optional files).
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
-- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
+- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -528,7 +530,7 @@ Additional files to install:
 - **Character Expansions Revised - JSU** (under Optional files).
 - **Character Expansions Revised - UW** (under Optional files).
 - **Character Expansions Revised - MR** (under Optional files).
-- [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
+- [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
@@ -536,7 +538,7 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
@@ -571,9 +573,9 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 
 Additional files to install:
 - **FNV RWL All DLC - Patch Collection** (under Optional files).
-- [**FNV RWL All DLC - Light Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20FNV%20RWL%20All%20DLC%20-%20Light%20Tweaks.7z). Includes changes to the Pip-Boy light and other light sources.
-- [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
-- [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20ReShade%20SweetFX%201.1.7z). SweetFX preset. Original by **xCamoLegend**.
+- [**FNV RWL All DLC - Light Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Light%20Tweaks.7z). Includes changes to the Pip-Boy light and other light sources.
+- [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
+- [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). SweetFX preset. Original by **xCamoLegend**.
   - Extract the contents of the archive in your **Root** folder.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
@@ -623,7 +625,7 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install the **Slightly Brighter** main file.
 
 Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
 
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
@@ -648,7 +650,7 @@ Gives Gecko-backed outfits an unique look.
 - Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
 
 Additional files to install:
-- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
   - BAIN options to install:
     - [X] 00 ESP Replacer
     - [X] 01 JSUE Patch
@@ -706,7 +708,7 @@ Replaces every gun sound in the game, from ballistic to energy weapons.
 
 Additional files to install:
 - [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
-- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
 
 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
