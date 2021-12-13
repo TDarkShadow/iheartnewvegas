@@ -1480,8 +1480,9 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Overhauls) Added [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
 - 🆕 (Visuals) Added [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
 - 🆕 (Audio) Added [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
-- ⚠️ Updated fDlgFocus setting in **falloutcustom.ini**.
-- 🚫 Removed [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
+- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). 
+- ⚠️ (falloutcustom.ini) Updated fDlgFocus setting in **falloutcustom.ini**.
+- 🚫 (Patches) Removed [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
 
 </details>
 
@@ -1503,10 +1504,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946) (Audio, Optional)
 - 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
 - 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
-- ⚠️ [**Unfound Loot Custom INI**](https://drive.google.com/file/d/1qPl1C0p5kpK3FDcdrlikQYyxbjcUT_bD/view?usp=sharing). Updated to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
-- ⚠️ [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Updated to lower threshold at which apparel is considered clothing. Now JSUE-edited outfits like Leather Armor and Armored Vault Jumpsuits will be repaired with Light Armor Parts.
-- ⚠️ [**FOV Slider Custom INI**](https://drive.google.com/file/d/1V9Sd35fNQ7KCKGLwzBIpXVXBShfeOrYD/view?usp=sharing). Updated to reduce weapon FOV.
-- 🚫 [**WMIM Mesh Fix**](https://drive.google.com/file/d/1YIpCl0PccRdpQ2ISSMfHS_2gVx4-PtW2/view?usp=sharing). A leftover from when my guide was still a spreadsheet for me to follow, and hadn't been updated to reflect the latest **WMIM ESP Replacer**, which already includes this file.
+- ⚠️ Updated **Unfound Loot Custom INI** to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
+- ⚠️ Updated **Alternative Repairing Custom INI** to lower threshold at which apparel is considered clothing. Now JSUE-edited outfits like Leather Armor and Armored Vault Jumpsuits will be repaired with Light Armor Parts.
+- ⚠️ Updated **FOV Slider Custom INI** to lower weapon FOV.
+- 🚫 **WMIM Mesh Fix**. Already included in **WMIM ESP Replacer**.
 </details>
 
 <details>
@@ -1514,7 +1515,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - 🆕 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510). This mod includes in-game **Mod Config** instructions.
 - 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod includes in-game **Mod Config** instructions.
-- ⚠️ [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Updated to increase EXP gain from repairs to 5 EXP (instead of 1 EXP).
 - Added additional **Mod Config** tweaks for **falloutcustom.ini**.
 - Added link to **Just Weapon Hweel** under **Just Assorted Mods**, which explains how the Weapon Wheel feature works.
 </details>
