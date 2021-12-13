@@ -346,6 +346,11 @@ Forces the Honest Hearts workbench crates (the only source of skill books in the
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
+[**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
+Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him.
+
+> This is a YUP-compatible version of the original mod [**found here**](https://www.nexusmods.com/newvegas/mods/57175).
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
@@ -449,6 +454,9 @@ New Vegas has two Traits with opposite effects. This mod expands this idea to th
 
 [**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BVNV%5D%20Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
 Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
+
+[**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
+Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 </details>
 
 # CONTENT
@@ -615,7 +623,7 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install the **Slightly Brighter** main file.
 
 Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://drive.google.com/file/d/1yzntXnRhaCJGsGzUpRytHOyBQ-qNH4qb/view?usp=sharing).
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
 
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
@@ -640,7 +648,7 @@ Gives Gecko-backed outfits an unique look.
 - Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
 
 Additional files to install:
-- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://drive.google.com/file/d/1iZpi_BLNYJipjpe1MruxxQbPuK9PFjDV/view?usp=sharing). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
   - BAIN options to install:
     - [X] 00 ESP Replacer
     - [X] 01 JSUE Patch
@@ -698,7 +706,7 @@ Replaces every gun sound in the game, from ballistic to energy weapons.
 
 Additional files to install:
 - [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
-- [**All Weapon Sounds Overhaul WMIM Patch**](https://drive.google.com/file/d/1UG76UHnPehGYo-JhfG5bdkixQVEBF9H2/view?usp=sharing). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
 
 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
@@ -714,6 +722,9 @@ Replaces exp gain sound with the sound from classic Fallout games.
 
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
+
+[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
+As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 
 [**More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/68605)  
 Increases the Pip-Boy Geiger clicking beyond the vanilla default.
@@ -830,6 +841,7 @@ Simple Explosive Entry
 Well Rested Overhaul
 	Honest Hearts Workbench Crate Luck
 	Lobotomite Tweaks
+	Meat's Back On The Menu Boys
 	Rigged Shotgun Restoration - Lore-Friendly
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
@@ -860,6 +872,7 @@ Unfound Loot Custom INI
 	Improved Traits
 	FNV Opposite Traits (YUP OWB)
 	Improved Opposite Traits and JSUE Patches
+	Immersive Fast Travel Requirements
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
@@ -933,6 +946,7 @@ Night Sky Tweaks
 	Classic Level Up Sounds
 	Classic XP Sound
 	Empty Clicks
+	Immersive Primary Needs
 	More Accurate Geiger Clicking
 	No Cocking Sound on Rifle Equip
 	Female Nuka-Cola Drinking Sound Replacer
@@ -1007,6 +1021,7 @@ Simple Explosive Entry.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomitess.esp
+	Meat's Back on the Menu Boys.esp
 	Rigged Shotgun Restoration - Lore-Friendly.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
@@ -1037,6 +1052,7 @@ Unfound Loot.esp
 	FNVOppositeTraits.esp
 	FNVOppositeTraits Improved.esp
 	FNVOppositeTraits Improved - JSUE Patch.esp
+	Fast Travel Requirements.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
 Mojave Raiders.esp
@@ -1068,6 +1084,7 @@ Character Expansions Revised - AIO Patch.esp
 	All Weapon Sounds Overhaul WMIM Patch.esp
 	Explosive Sounds Overhaul.esp
 	hz_Empty Clicks.esp
+	Immersive Primary Needs.esp
 	More Accurate Geiger Clicking.esp
 Vurt's WFO.esp
 Little More Lamplight.esp
@@ -1428,6 +1445,9 @@ This is a handy reference table which will hopefully help you have a better idea
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+F6 | Create full save | lStewieAl's Tweaks
+F10 | Reload current loaded save | lStewieAl's Tweaks
+Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
 Q | Drop selected item in Pip-Boy | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
@@ -1452,13 +1472,16 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>1.0.4 (December 13th)</summary>
 
-- All I♥NV only mods linked from github.
+- All **I♥NV**-only mods linked from github.
 - Expanded **Mod Keybindings** section.
 - Expanded description of **lStewieAl's Tweaks Custom INI**.
-- 🆕 [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z) (Patches, Optional). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
-- 🆕 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316) (Visuals, Optional)
-- ⚠️ Changed fDlgFocus setting in **falloutcustom.ini**.
-- 🚫 [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774). Removed in favor of my own implementation of the fix.
+- 🆕 (Patches) Added [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- 🆕 (Gameplay) Added [**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)
+- 🆕 (Overhauls) Added [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
+- 🆕 (Visuals) Added [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
+- 🆕 (Audio) Added [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
+- ⚠️ Updated fDlgFocus setting in **falloutcustom.ini**.
+- 🚫 Removed [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
 
 </details>
 
