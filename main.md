@@ -145,7 +145,7 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/1e3nKqfTKFi846dAZ6t4-EAD8MwDyN4Zo/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://drive.google.com/file/d/14irhgF-81A3TOGI1VhSGbmksv0a9IH--/view?usp=sharing). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
   - Vendors obey their Buy/Sell flags, restricting which items they accept.
@@ -413,8 +413,8 @@ Adds repair parts for you to craft and buy, though crafting will likely be your 
 > This mod is listed under **Optional** because many players may not be interested in expanding the crafting aspect of the game.
 
 Additional files to install:
-- [**Alternative Repairing ESP Replacer**](https://drive.google.com/file/d/17JVKIjq90urWOM10twnDb4Uj_Ono5208/view?usp=sharing). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1eAek8R92nEReKmR1I-KRyDd0VT8MTg4U/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
+- [**Alternative Repairing ESP Replacer**](https://drive.google.com/file/d/1QG1cN3waOLo9X6AT1SFwFrvhPozZIlZV/view?usp=sharing). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
+- [**Alternative Repairing Custom INI**](https://drive.google.com/file/d/1rIzgzUfEcp9flWhrC84bEDV0I31cKREY/view?usp=sharing). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
@@ -698,7 +698,7 @@ Replaces every gun sound in the game, from ballistic to energy weapons.
 
 Additional files to install:
 - [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
-- [**All Weapon Sounds Overhaul WMIM Patch**](https://drive.google.com/file/d/1EbSEnsWllEqtnMjHg_NnFRVX3oEiaObS/view?usp=sharing). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://drive.google.com/file/d/1UG76UHnPehGYo-JhfG5bdkixQVEBF9H2/view?usp=sharing). Patches weapon sounds for compatibility with **Weapon Mesh Improvement Mod**.
 
 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
