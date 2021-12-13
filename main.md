@@ -1382,16 +1382,6 @@ uWMChanceMax=15
 
 > Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
-### No Muzzle Flash Lights (Optional)
-
-Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
-
-```
-iMuzzleFlashLightsMode = 1
-```
-
-> Disables muzzle flash lights for both player and NPCs.
-
 ### Vanilla UI Plus
 
 Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
@@ -1401,6 +1391,16 @@ Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the follow
 ```
 
 > Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
+
+### No Muzzle Flash Lights (Optional)
+
+Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
+
+```
+iMuzzleFlashLightsMode = 1
+```
+
+> Disables muzzle flash lights for both player and NPCs.
 
 ### Ending Slideshows Ultimate Edition Overhaul (Optional)
 
