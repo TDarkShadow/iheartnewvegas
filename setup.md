@@ -1,8 +1,10 @@
-[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
+
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # NEW VEGAS SETUP
 
-# Requirements
+## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition).
   - Installation instructions are found on the next section. 
@@ -12,7 +14,7 @@
 - [**DirectX Runtime Libraries**](https://www.microsoft.com/en-us/download/details.aspx?id=8109).
 - [**Microsoft VC++ 2013**](https://www.microsoft.com/en-us/download/details.aspx?id=40784) (x86 version) and [**Microsoft VC++ 2015-2019**](https://docs.microsoft.com/en-GB/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions).
 
-# Installation
+## Installation
 
 You should install Fallout: New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
 
@@ -29,7 +31,7 @@ C:\Games\Fallout New Vegas Mods
 
 > Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
 
-# Generating fresh .INI files
+## Generating fresh .INI files
 
 - Run **FalloutNVLauncher.exe** from the game's Root folder.
 - Click **OK** to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then retry.
@@ -37,7 +39,7 @@ C:\Games\Fallout New Vegas Mods
 - Set **Resolution** to your preference.
 - Click **OK**, then **Exit**.
 
-# Utilities
+# UTILITIES
 
 [**FNV BSA Decompressor**](https://www.nexusmods.com/newvegas/mods/65854?)  
 Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance. Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
@@ -59,7 +61,7 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Extract the contents of the archive, and place **FalloutNVpatch.exe** in your game's **Root** folder.
 - Run the patch. Close the command prompt once the process is done.
 
-# Mod Organizer 2
+# MOD ORGANIZER 2
 
 [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)  
 **Mod Organizer 2** is an excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
@@ -108,7 +110,7 @@ CaravanPack.esm
 
 > You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
-### Adjusting FalloutCustom.ini
+### Adjusting falloutcustom.ini
 
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **the falloutcustom.ini** tab.
 - Paste in the following lines.
@@ -160,7 +162,7 @@ New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities 
 - Click the **nvse_6_2_4.7z** under **Assets** to download it.
 - Extract the contents of the archive to the game's **Root** folder.
 
-## xNVSE Plugins
+## xNVSE plugins
 
 [**New Vegas Heap Replacer**](https://www.nexusmods.com/newvegas/mods/69779)  
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
@@ -222,7 +224,9 @@ From now on, you should avoid running the game through **nvse_loader.exe**. You 
 - Click **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**, and then **OK**.
 
-# FNVEdit
+# TOOLS
+
+## FNVEdit
 
 Because mods can conflict with one another, or have bugs/unintended changes themselves, we will be installing **FNVEdit** to help us troubleshoot and get rid of these issues.
 
@@ -231,7 +235,7 @@ An advanced graphical module viewer/editor and conflict detector.
 - Manually download the **FNVEdit 4.0.4** main file.
 - Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit**.
 
-## Registering FNVEdit in Mod Organizer 2
+### Registering FNVEdit in Mod Organizer 2
 
 For **FNVEdit** to work in Mod Organizer 2, we need to register and configure it.
 
@@ -250,7 +254,7 @@ We should repeat the process to register **FNVEditQuickAutoClean**. The process 
 - In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - Click **Apply** and then **OK**.
 
-# FNVLODGen
+## FNVLODGen
 
 **FNVLODGen** lets you generate LOD for our installed mods. LOD stands for level of detail. Fallout: New Vegas has very poor distant statics, and this tool will not only let us improve it, but also increase the amount of rendered statics, including those modified or added by mods.
 
@@ -259,7 +263,7 @@ Allows generation of LOD for worldspaces by scanning all mods in the load order 
 - Manually download the **FNVLODGen** main file.
 - Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
 
-## Registering FNVLODGen in Mod Organizer 2
+### Registering FNVLODGen in Mod Organizer 2
 
 For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
 
@@ -273,5 +277,5 @@ For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
 
 # MOVING ON TO THE NEXT SECTION
 
-[To Left My Heart In New Vegas >>](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md#left-my-heart-in-new-vegas)  
-[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)
+[To Left My Heart In New Vegas >>](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)  
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)
