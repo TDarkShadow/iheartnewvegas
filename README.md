@@ -2,6 +2,8 @@
 
 Last updated: December 13th, 2021
 
+![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/Banner.jpg)
+
 ## Contact info
 
 You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) Discord, in addition to the following sites.
