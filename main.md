@@ -1,95 +1,79 @@
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
 
-# LEFT MY ♥ IN NEW VEGAS
-
-Last browsed for mods on December 13th, 2021.
-
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # BEFORE WE BEGIN
 
-## DISCLAIMER
+## Disclaimer
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
-## MODDING TIPS
+## Modding tips
 
-### Don't uninstall mods mid-playthrough
+The following aren't strict rules, but tips to follow if you are new to modding Morrowind.
 
-A lot of things can go wrong when uninstalling a mod mid-playthrough. Some, expected. Some, completely unexpected.
+- Always keep backup saves, particularly so when uninstalling or installing mods.
+- Read mod descriptions. They usually list requirements, compatibility with other mods, and known issues. User comments can also list issues and possible fixes, but take these with a grain of salt. Many users erroneously claim a mod isn't working, because of end user mistakes.
+- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely. Mod descriptions and user comments can help you out here.
+- Learn how file structure works. Incorrect file structure means mods will not work as intended.
 
-### Always keep backup saves
+## Mod Organizer 2 tips
 
-Before you install a mod you are not completely sure about, make a backup of your save in case things go wrong.  
-Before you uninstall a mod you are not completely sure about, make a backup of your save in case things go wrong.
+### Mod manager download installation
 
-### Read the descriptions
+Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using the **Mod manager download** option. However, you still need to install these mods for them to work in-game.
 
-Mod descriptions exist for a reason. The elaborate ones, usually for a *good* reason. Apart from describing what a mod is supposed to, descriptions tend to list things such as:
-
-- Requirements: mods or utilities a given mod needs to work as intended.
-- Compatibility issues: known conflicts with other mods, whether general or specific.
-- Known issues: bugs or unintended behavior.
-
-Reading descriptions helps you troubleshoot mods, and what's more, decide beforehand whether a mod is worth the trouble of installing it.
-
-### File structure matters
-
-The file structure is how files are organized for the game to read and use them. Incorrect file structure accounts for a good deal of mods that don’t work properly.
-
-### Installing Nexus mods with Mod Organizer 2
-
-Because Mod Organizer 2 is associated with Nexus links, mods downloaded in Nexus will be instantly added to Mod Organizer 2.
-
-- Click **Mod manager download** under the file you want to download.
-- Click **Slow download**.
-- In Mod Organizer 2, click on the **Downloads** tab. You can check the download progress for your file there.
+- In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
 - Right-click the downloaded file, and click **Install**.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, such as mod name + version number (e.g. **Yukichigai Unofficial Patch - YUP 12.2**).
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name (e.g. **Patch for Purists 4.0.2**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
 
-> Whenever you are asked to install a mod from Nexus, limit yourself to the main file, unless explicitly told to install additional or different files. Likewise, if there are multiple main files present, you will be told which ones you need to install.
-
-### Installing multiple files from a same Nexus mod with Mod Organizer 2
-
-There will be times when you will be asked to install multiple files from the same mod page. These can be either updates or optional files regarding a given mod, or multiple different mods from the same page, usually compilation pages for minor mods which the author didn't think deserved individual mod pages.
-
-Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
 
 ![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
 
 What these options do is simple:
 
-- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This is useful when installing an update file which only includes certain files from the new mod.
-- **Replace** replaces the contents of the already installed file with those of the newly installed file. This is akin to uninstalling the old file, and installing the new file. It is recommended you use this option whenever a mod has received a new update, as the update may not necessarily overwrite the old files.
-- **Rename** installs the new file as a separate mod with a different name. In the case of compilation pages, this is a very useful feature as it lets you keep the different files (mods) as different installed mods.
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This option is generally recommended when installing an update file that is separate from the main file, or optional files in the case you don't want to clutter your mod order.
+- **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
+- **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> The guide will tell you when you need to merge, replace, or rename files in order to avoid problems.
+> By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
 
-### Manually installing mods with Mod Organizer 2
+> When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
 
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On other occasions, you will download a mod from a different site altogether.
+### Manual download installation
 
-- Download your file.
-- In Mod Organizer 2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
+
+- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
-- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name, e.g. "mod name" + "version number".
+
+The rest of the steps work exactly as during mod manager download installation.
+
+- MO2 will prompt you to give the mod a name. As before, I suggest giving it a descriptive name (e.g. **Correct UV Rocks 1.0**).
 - Click **OK**.
-- The mod will appear in the left pane. Check the box next to it to finish installation.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
+
+### BAIN installers
+
+BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
+
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
 
 ### FOMOD installers
 
-FOMOD installers allow users to customize how they want their mods to be installed, given a handful of options provided by the mod authors.
+Like BAIN installers, FOMOD installers allow users to customize their install by spliting their mods into multiple options.
 
-This guide has a few mods packaged as FOMOD installers. Only options you should install will be listed, accompanied by a checked box. If it is not listed, then you *must* skip that option.
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
 
 ### Hiding files
 
-Mod Organizer 2 lets you hide specific files from your installed mods, like assets and plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer be listed in your load order. This is particularly useful when your load order is cluttered by deactivated plugins. Hiding assets is useful when you want certain files not to overwrite another mod's.
+Mod Organizer 2 lets you hide specific files from your installed mods, be it assets or plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer clutter your load order. Hiding assets is useful when you don't want to install specific assets, or when you don't want them to overwrite another mod's.
 
-- To hide a plugin, right click on your installed mod and click **Information...**.
+- Right click on your installed mod and click **Information...**.
 - On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
 - Mod Organizer 2 will hide the files, and these will no longer affect your game.
 
@@ -100,13 +84,15 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
 
-I suggest creating a separator for each of the following mod categories. Separators can be collapsed to keep your mod list clean and tidy, which you will come to appreciate when you install over 100 mods.
+I suggest creating a separator for each mod category we will be installed. Separators can be collapsed to keep your mod list clean and tidy.
 
 ### The Overwrite folder
 
 The **Overwrite** folder is the destiny folder for a handful of files, including **config** folders which contain the configuration files for a number of NVSE mods. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods, but for the purpose of this guide, you don't need to worry about them.
 
-# PATCHES
+# LEFT MY ♥ IN NEW VEGAS
+
+## Patches
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
@@ -205,7 +191,7 @@ Improves game performance by removing all the dust devils and whirlwinds from th
 Improves game performance in combat by disabling lights cast on the environment by enemy muzzle flashes. Optionally removes player muzzle flashes too.
 </details>
 
-# USER INTERFACE
+## User interface
 
 [**UIO - User Interface Organizer**](https://www.nexusmods.com/newvegas/mods/57174)  
 An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions added to the game by various mods.
@@ -258,7 +244,7 @@ Additional files to install:
 Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon.
 </details>
 	
-# GAMEPLAY QOL
+## Gameplay QOL
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
@@ -284,7 +270,7 @@ Delays the appearance of Malcolm Holmes, instead of allowing him to appear as so
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
 </details>
 
-# GAMEPLAY
+## Gameplay
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
@@ -361,7 +347,7 @@ Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun ea
 Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
 </details>
 
-# OVERHAULS
+## Overhauls
 
 These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
 
@@ -461,7 +447,7 @@ Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compa
 Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 </details>
 
-# CONTENT
+## Content
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
@@ -481,7 +467,7 @@ Additional files to install:
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install the **Mojave Wildlife - Vanilla No Chanced Spawns Version** main file.
 
-# VISUALS
+## Visuals
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on all distant land.
@@ -701,7 +687,9 @@ Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeleto
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 </details>
 
-# AUDIO (OPTIONAL)
+## Audio
+
+> All mods listed in this section are entirely optional, and by no means essential to enjoy the game.
 
 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
 Replaces every gun sound in the game, from ballistic to energy weapons.
@@ -740,7 +728,7 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 
 > Because this mod replaces the vanilla sound, you should only use it when playing a female character.
 
-# LOD RESOURCES
+## LOD resources
 
 [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
 Adds extra meshes for LOD generation.
@@ -755,9 +743,9 @@ Adds extra meshes for LOD generation.
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
-# FINISHING TOUCHES
+## Finishing touches
 
-## FINAL MOD ORDER AND LOAD ORDER
+### Mod order and load order
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
@@ -1108,7 +1096,7 @@ tmzLODadditions.esp
 ```
 </details>
 
-## FNVEDIT INSTRUCTIONS
+### FNVEdit instructions
 
 The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked. It's possible you haven't installed all of them, so simply skip the corresponding instructions.
 
@@ -1339,7 +1327,7 @@ Instructions:
 - Forward the **Record Flags** fields for record **0015F5F7**
 </details>
 		
-## GENERATING LOD
+### Generating LOD
 
 With all our mods and resources installed, we can finally generate our LOD.
 
@@ -1350,30 +1338,26 @@ With all our mods and resources installed, we can finally generate our LOD.
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
-## MCM CONFIG
+### MCM config
 
-### Quick Grenade Hotkey
-
+**Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
 
-### Mojave Arsenal
-
+**Mojave Arsenal**:
 - Enable **Low Condition Loot**.
 - Disable **Custom Weapons**.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
 
-### Alternative Repairing
-
+**Alternative Repairing**:
 - Enable **Repair Tools**.
 - Set **Repair Kits** to **Multi-use**.
 
-## INI CONFIG
+### INI CONFIG
 
-### JIP LN NVSE Plugin
-
-Open **NVSE\Plugins\jip_nvse.ini** using a text editor and make the following adjustments.
+**JIP LN NVSE Plugin**:
+- Open **NVSE\Plugins\jip_nvse.ini** using a text editor and make the following adjustments.
 
 ```
 bEnableFO3Repair=1
@@ -1384,9 +1368,8 @@ uWMChanceMax=15
 
 > Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
-### Vanilla UI Plus
-
-Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
+**Vanilla UI Plus**:
+- Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
 
 ```
 <_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
@@ -1394,9 +1377,8 @@ Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the follow
 
 > Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
 
-### No Muzzle Flash Lights (Optional)
-
-Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
+**No Muzzle Flash Lights (Optional)**:
+- Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
 
 ```
 iMuzzleFlashLightsMode = 1
@@ -1404,9 +1386,8 @@ iMuzzleFlashLightsMode = 1
 
 > Disables muzzle flash lights for both player and NPCs.
 
-### Ending Slideshows Ultimate Edition Overhaul (Optional)
-
-Open **Config\Ending Slideshows Ultimate Edition Overhaul.ini** using a text editor and make the following adjustments.
+**Ending Slideshows Ultimate Edition Overhaul (Optional)**:
+- Open **Config\Ending Slideshows Ultimate Edition Overhaul.ini** using a text editor and make the following adjustments.
 
 ```
 bTrueLonesomeRoad=1
@@ -1415,9 +1396,8 @@ bNoDeadMoneyTeleport=1
 
 > Stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
 
-### falloutcustom.ini (Optional)
-
-Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
+**falloutcustom.ini (Optional)**:
+- Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
 [Display]
@@ -1433,11 +1413,13 @@ uPipboyColor=1776042495
 
 > Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
 
-### SweetFX (Optional)
+**SweetFX (Optional)**:
+- Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
 
-Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
-- Set USE_VIBRANCE = 1
-- Set USE_CURVES = 1
+```
+USE_VIBRANCE = 1
+USE_CURVES = 1
+```
 
 > This restores the SweetFX preset to RWLE's original configuration.
 
@@ -1472,7 +1454,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>1.0.4 (December 13th)</summary>
+	<summary>December 13th</summary>
 
 - All **I♥NV**-only mods linked from github.
 - Expanded **Mod Keybindings** section.
@@ -1489,7 +1471,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 </details>
 
 <details>
-	<summary>1.0.3 (December 11th)</summary>
+	<summary>December 11th</summary>
 
 - Renamed "In-game Mod Config" and "Mod Config" to "MCM Config" and "INI Config", respectively.
 - 🆕 [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/) (Patches, Optional)
@@ -1513,7 +1495,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 </details>
 
 <details>
-	<summary>1.0.2 (December 10th)</summary>
+	<summary>December 10th</summary>
 
 - 🆕 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510). This mod includes in-game **Mod Config** instructions.
 - 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod includes in-game **Mod Config** instructions.
@@ -1522,14 +1504,14 @@ Shift+Movement | Sprint | Just Assorted Mods
 </details>
 
 <details>
-	<summary>1.0.1 (December 8th)</summary>
+	<summary>December 8th</summary>
 
 - Added missing HQ Dust Storm FX - Dust Storm Meshes to **Mod order**.
 - Removed FNVEdit instructions from each separate mod in favor of a single section dedicated to fixing each plugin.
 </details>
 
 <details>
-	<summary>1.0 (December 7th)</summary>
+	<summary>December 7th</summary>
 
 - Initial release.
 - Fixed Custom INI links.
