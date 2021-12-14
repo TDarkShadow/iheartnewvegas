@@ -133,7 +133,7 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%201.0.4.1.7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Dec%2014th).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
   - Vendors obey their Buy/Sell flags, restricting which items they accept.
@@ -223,11 +223,19 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
   - All **Modules** and **Tweaks** options.
   - Skip the **DarnUI Specific** options.
 
+[**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
+Cleans up textures surrounding the Companion Wheel.
+- Install the **Clean Companion Wheel 512x512 Edition** main file.
+
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
 - Install the **1. Consistent Pip-boy Icons** main file.
 
 Additional files to install:
+- **2. Consistent Addon Icons** (under Main files).
+  - FOMOD options to install:
+    - [X] Interfaceshared0 Addon
+- **3. Consistent Glow Icons** (under Main files).
 - **6. Vanilla UI Plus Patch** (under Optional files).
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
@@ -291,7 +299,7 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 Additional files to install:
-- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI.7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
+- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Dec%2014th).7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
 
 > For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
@@ -321,6 +329,11 @@ Additional files to install:
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
+
+[**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183)  
+Faction outfits only act as disguises if you're an enemy of the faction and no longer "juggle" reputation - alleviating some associated bugs. Reputation penalties for crimes are reduced and Primm's reputation is fully restored.
+
+> **Misc Gameplay Merge** includes a similar mod, **Faction Armor Redone**, which fixes the reputation "juggle". We are installing this mod for its other features.
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
@@ -529,6 +542,9 @@ Additional files to install:
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
+[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
+Simple scripted interior lighting overhaul which darkens interior. Automatically works with any mod.
+
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 - Check the following option in the FOMOD installer.
@@ -559,7 +575,7 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 
 Additional files to install:
 - **FNV RWL All DLC - Patch Collection** (under Optional files).
-- [**FNV RWL All DLC - Light Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Light%20Tweaks.7z). Includes changes to the Pip-Boy light and other light sources.
+- [**FNV Realistic Wasteland Lighting - All DLC Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%20Tweaks.7z). Includes changes to fog on clear weathers, Pip-Boy light, and other light sources.
 - [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). SweetFX preset. Original by **xCamoLegend**.
   - Extract the contents of the archive in your **Root** folder.
@@ -590,6 +606,15 @@ Adds 360 degrees movement with procedural leaning and auto vanity mode, like mod
   - [X] Full 360 Sneak Options
   - [X] Diagonal Movement Patch
 
+[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
+Companions ready their weapons when you do.
+	
+[**Companion Radiation Suit**](https://www.nexusmods.com/newvegas/mods/64224)  
+Companions wear a Radiation Suit when you do.
+	
+[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
+Slides stay locked back on empty handguns.
+
 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006)  
 A tighter and more dramatic view in 3rd-person mode, inspired by Resident Evil 4.
 
@@ -613,6 +638,12 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 Additional files to install:
 - [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
 
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> This restores interior light rays.
+	
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - FOMOD options to install:
@@ -646,6 +677,7 @@ Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower 
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
+- Hide **textures\interface**.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
@@ -801,7 +833,10 @@ The Mod Configuration Menu Bugfix
 JIP Improved Recipe Menu
 Vanilla UI Plus (New Vegas)
 Clean Vanilla HUD
+Clean Companion Wheel
 Consistent Pip-Boy Icons
+Consistent Addon Icons
+Consistent Glow Icons
 Consistent Pip-Boy Icons Vanilla UI Plus Patch
 	Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Satellite World Map
@@ -828,6 +863,7 @@ Precise VATS (and actually useful Perception)
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple Explosive Entry
+Simple Reputation and Disguises
 Well Rested Overhaul
 	Honest Hearts Workbench Crate Luck
 	Lobotomite Tweaks
@@ -892,15 +928,19 @@ Character Expansions Revised - UW
 Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
 A Little More Lamplight
+Simple Interior Lighting Overhaul
 Strip Lights Region Fix
 Lucky 38 Lights Redone
 Strip Lighting Overhaul
 FNV Realistic Wasteland Lighting
 FNV RWL All DLC - Patch Collection
-FNV RWL All DLC - Light Tweaks
+FNV Realistic Wasteland Lighting - All DLC Tweaks
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
+	Companions Combat-Ready
+	Companion Radiation Suit
+	Empty Weapons
 	Action Camera
 	Better Gas Leak Effect
 	HQ Dust Storm FX
@@ -908,6 +948,7 @@ Night Sky Tweaks
 	HD Mist
 	More Subtle New Vegas Light Pollution - Slightly Brighter
 	More Subtle New Vegas Light Pollution Better Strip View Patch
+	Subtle Light Beams and Rays
 	Bathroom Doors Overhaul
 	McCarran Main Terminal Transparent Glass
 	McCarran Escalator Glass
@@ -1008,6 +1049,7 @@ Player Combat Priority.esp
 hz_Precise VATS.esp
 Quick Grenade Hotkey.esp
 Simple Explosive Entry.esp
+Simple Reputation and Disguises.esp
 migWellRested.esp
 	Honest Hearts Workbench Crate Luck.esp
 	Lobotomitess.esp
@@ -1062,6 +1104,9 @@ Character Expansions Revised - AIO Patch.esp
 	Diagonal movement.esp
 	360Movement.esp
 	360Movement - Diagonal movement Patch.esp
+	Companions Combat-Ready.esp
+	Companion Radiation Suit.esp
+	Empty Weapons.esp
 	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
 	Lucky 38 intro poster.esp
@@ -1088,7 +1133,7 @@ Strip Lighting Overhaul.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Brighter Nights.esp
 FNV RWL All DLC - No Overcast Weather.esp
-FNV RWL All DLC - Light Tweaks.esp
+FNV Realistic Wasteland Lighting - All DLC Tweaks.esp
 FNV RWL All DLC - Strip Lights AIO Patch.esp
 Mojave Nights.esp
 FNVLODGen.esp
@@ -1127,6 +1172,22 @@ Plugins to load:
 
 Instructions:
 - Forward the **Sound - Melee - Swing** field for record **0013316D**
+</details>
+
+<details>
+	<summary>Simple Reputation and Disguises</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **Simple Reputation and Disguises.esp**
+
+Instructions:
+- Delete the **pwbReputationCell** record (under Cell).
+- Delete the **Load Screen** tab.
+- Delete the **pwbRepDisguiseQuest** record (under Quest).
+- Delete all records minus **pwbRepPrimmScript** (under Script).
+- Forward the **00134B64** field for record **0005C682**
+- Forward the **00134B65** field for record **0005C682**
 </details>
 
 <details>
@@ -1454,6 +1515,22 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>December 14th</summary>
+
+- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed annoying tweaks to lockpicking interface.
+- ⚠️ (User interface) Added additional files for **Consistent Pip-Boy Icons**.
+- ⚠️ (Gameplay) Updated **Just Assorted Mods Custom INI**. Improved compatibility with **Diagonal movement**.
+- ⚠️ (Visuals) Updated **FNV Realistic Wasteland Lighting - All DLC Tweaks**. It now includes fog tweaks in addition to light tweaks.
+- 🆕 (User interface) Added **Clean Companion Wheel**.
+- 🆕 (Gameplay) Added **Simple Reputation and Disguises**. This mod includes **FNVEdit instructions**.
+- 🆕 (Visuals) Added **Simple Interior Lighting Overhaul**.
+- 🆕 (Visuals) Added **Subtle Light Beams and Rays**.
+- 🆕 (Visuals, Optional) Added **Companions Combat-Ready**.
+- 🆕 (Visuals, Optional) Added **Companion Radiation Suit**.
+- 🆕 (Visuals, Optional) Added **Empty Weapons**.
+</details>
+
+<details>
 	<summary>December 13th</summary>
 
 - All **I♥NV**-only mods linked from github.
@@ -1467,7 +1544,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). 
 - ⚠️ (falloutcustom.ini) Updated fDlgFocus setting in **falloutcustom.ini**.
 - 🚫 (Patches) Removed [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
-
 </details>
 
 <details>
