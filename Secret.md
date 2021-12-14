@@ -1,12 +1,18 @@
-# BEFORE WE BEGIN
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)  
+[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
 
-## DISCLAIMER
+> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
+
+# SECRET ADD-ON
+
+## Disclaimer
 
 The guide presented here assumes you have already followed all instructions found in **Left My ♥ In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
 
 This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** body replacer.
 
-## PRELIMINARY STEPS
+## Preliminary steps
 
 The following mods should be reinstalled if you plan on using **TYPE 4**.
 
@@ -37,7 +43,7 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
 
 > This will revert the female model tweaks in favor of **TYPE 4**'s adjusted models.
 
-# FACE AND HAIR TEXTURES
+## Face textures
 
 [**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
 Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
@@ -61,7 +67,7 @@ Improves eye textures.
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
 
-# BODY REPLACERS
+## Body replacers
 
 [**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
 Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
@@ -107,9 +113,9 @@ Additional files to install:
 [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
 
-# FINISHING TOUCHES
+## Finishing touches
 
-## EXTENDED MOD ORDER AND LOAD ORDER
+### Mod order and load order
 
 The mods installed in this guide can be placed at the very end of **Left My ♥ In New Vegas**.
 
@@ -148,3 +154,7 @@ ImprovedGeckoLeatherArmor JSUE Patch.esp
 Mannequin Rce.esp
 ```
 </details>
+
+[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)  
+[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
