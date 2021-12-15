@@ -85,6 +85,7 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 Additional files to install:
 - [**TYPE 4 Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
+  - Hide the **meshes\armor\enclavescientist** folder.
 - [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2015th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
