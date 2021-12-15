@@ -163,6 +163,9 @@ Additional files to install:
 <details>
 	<summary>Patches (Optional) - Click to expand</summary>
 
+[**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
+Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Also makes NPCs get some more debuffs from crippling like the player does.
+
 [**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
 Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 
@@ -309,6 +312,9 @@ Makes melee attacks hit multiple enemies.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
+
+[**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
+Gameplay tweaks and fixes for mines.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
@@ -828,6 +834,7 @@ Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
 lStewieAl's Tweaks
 lStewieAl's Tweaks INI
+	Crippled Limb Reaction Enforcer
 	Gauss Rifle VATS Fix - JIP
 	Universal Pyromaniac Buff for Fire Effects
 	Dirty Pre-War Businesswear Fix
@@ -865,6 +872,7 @@ JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
 Melee Cleave (a.k.a. Sweep)
 Misc Gameplay Merge
+Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 NPCs Sprint In Combat
 Player Combat Priority
@@ -1033,6 +1041,7 @@ Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
+	MigCrippled.esp
 	MigGaussFix.esp
 	PyromaniacEffectsBuff.esp
 	Dirty Pre-War Businesswear Fix.esp
@@ -1054,6 +1063,7 @@ ImmersiveRecoil.esp
 JamFix.esp
 JustAssortedMods.esp
 MeleeCleave.esp
+MigAAMines.esp
 MigKao.esp
 NPCsSprint.esp
 Player Combat Priority.esp
@@ -1429,7 +1439,9 @@ With all our mods and resources installed, we can finally generate our LOD.
 ### INI CONFIG
 
 **JIP LN NVSE Plugin**:
-- Open **NVSE\Plugins\jip_nvse.ini** using a text editor and make the following adjustments.
+- Double-click the installed mod to open the **Information...** window.
+- Click the **INI Files** tab, and make the following adjustments in **jip_nvse.ini**.
+- Click on the diskette icon to save your changes.
 
 ```
 bEnableFO3Repair=1
@@ -1450,7 +1462,9 @@ uWMChanceMax=15
 > Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
 
 **No Muzzle Flash Lights (Optional)**:
-- Open **Config\NMFL\NMFL.ini** using a text editor and make the following adjustments.
+- Double-click the installed mod to open the **Information...** window.
+- Click the **INI Files** tab, and make the following adjustments in **NMFL.ini**.
+- Click on the diskette icon to save your changes.
 
 ```
 iMuzzleFlashLightsMode = 1
@@ -1459,7 +1473,9 @@ iMuzzleFlashLightsMode = 1
 > Disables muzzle flash lights for both player and NPCs.
 
 **Ending Slideshows Ultimate Edition Overhaul (Optional)**:
-- Open **Config\Ending Slideshows Ultimate Edition Overhaul.ini** using a text editor and make the following adjustments.
+- Double-click the installed mod to open the **Information...** window.
+- Click the **INI Files** tab, and make the following adjustments in **Ending Slideshows Ultimate Edition Overhaul.ini**.
+- Click on the diskette icon to save your changes.
 
 ```
 bTrueLonesomeRoad=1
@@ -1528,7 +1544,9 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>December 15th</summary>
 
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed Q for drop item hotkey in Pip-Boy (right-clicking does the same job), disabled weapon range affecting V.A.T.S. (as **Precise VATS** already does something similar), increased XP for discovering locations, and incorporated **Action Camera**'s GMST tweaks.
-- 🆕 (Visuals, Optional) Add **Empty Clicks Custom INI**.
+- 🆕 (Patches, Optional) Added **Crippled Limb Reaction Enforcer**.
+- 🆕 (Gameplay, Optional) Added **Mine and Explosion Tweaks**.
+- 🆕 (Visuals, Optional) Added **Empty Clicks Custom INI**.
 - 🆕 (Visuals, Optional) Added **Windows of the Mojave**.
 - 🆕 (Visuals, Optional) Added **Window Redux**.
 - 🚫 (Visuals, Optional) Removed **Action Camera**. Now included in **lStewieAl's Tweaks Custom INI**.
