@@ -133,10 +133,11 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Dec%2014th).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Dec%2015th).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
-  - Vendors obey their Buy/Sell flags, restricting which items they accept.
+  - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
+  - Increased XP for discovering locations. Meant to be used alongside **Less Map Markers** (Overhauls section).
   - Binoculars can zoom in and out.
   - Holding the attack button for grenades decreases their detonation timer.
   - Throwables can be held and released, like grenades.
@@ -149,7 +150,7 @@ Additional files to install:
   - Manual reloading.
   - VATS' range is tied to current weapon's range.
   - Slower backpedalling.
-  - Owned items can't be moved around.
+  - Owned items can't be grabbed and moved around.
   - Skill level requirement for skill checks is hidden.
   - Dialogue topics are numbered.
   - Pickpocket formula takes into account item weight, target Perception, and detection value.
@@ -615,9 +616,6 @@ Companions wear a Radiation Suit when you do.
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
-[**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006)  
-A tighter and more dramatic view in 3rd-person mode, inspired by Resident Evil 4.
-
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
 
@@ -648,6 +646,14 @@ Removes the fake interior light rays and tones the exterior light beams down dra
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - FOMOD options to install:
   - [X] ALL IN ONE.
+
+[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
+Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
+
+Additional files to install:
+- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
+
+> This mod makes a dramatic difference in how these interiors feel.
 
 [**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
 Mesh replacer.
@@ -744,6 +750,9 @@ Replaces exp gain sound with the sound from classic Fallout games.
 
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
+
+Additional files to install:
+- [**Empty Clicks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Empty%20Clicks%20Custom%20INI.7z). Enables animations in both first and third person views, and realistic mode.
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
@@ -941,7 +950,6 @@ Night Sky Tweaks
 	Companions Combat-Ready
 	Companion Radiation Suit
 	Empty Weapons
-	Action Camera
 	Better Gas Leak Effect
 	HQ Dust Storm FX
 	HQ Dust Storm FX - Dust Storm Meshes
@@ -950,6 +958,8 @@ Night Sky Tweaks
 	More Subtle New Vegas Light Pollution Better Strip View Patch
 	Subtle Light Beams and Rays
 	Bathroom Doors Overhaul
+	Windows of the Mojave
+	Windows Redux
 	McCarran Main Terminal Transparent Glass
 	McCarran Escalator Glass
 	Lucky 38 Intro Poster
@@ -977,6 +987,7 @@ Night Sky Tweaks
 	Classic Level Up Sounds
 	Classic XP Sound
 	Empty Clicks
+	Empty Clicks Custom INI
 	Immersive Primary Needs
 	More Accurate Geiger Clicking
 	No Cocking Sound on Rifle Equip
@@ -1107,8 +1118,8 @@ Character Expansions Revised - AIO Patch.esp
 	Companions Combat-Ready.esp
 	Companion Radiation Suit.esp
 	Empty Weapons.esp
-	Action Camera.esp
 	Bathroom Doors Overhaul - ALL IN ONE.esp
+	Windows of the Mojave v1.2.1.esp
 	Lucky 38 intro poster.esp
 	ImprovedGeckoLeatherArmor.esp
 	ImprovedGeckoLeatherArmor JSUE Patch.esp
@@ -1493,7 +1504,6 @@ Key | Function | Added by
 F6 | Create full save | lStewieAl's Tweaks
 F10 | Reload current loaded save | lStewieAl's Tweaks
 Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
-Q | Drop selected item in Pip-Boy | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
@@ -1513,6 +1523,16 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 15th</summary>
+
+- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed Q for drop item hotkey in Pip-Boy (right-clicking does the same job), disabled weapon range affecting V.A.T.S. (as **Precise VATS** already does something similar), increased XP for discovering locations, and incorporated **Action Camera**'s GMST tweaks.
+- 🆕 (Visuals, Optional) Add **Empty Clicks Custom INI**.
+- 🆕 (Visuals, Optional) Added **Windows of the Mojave**.
+- 🆕 (Visuals, Optional) Added **Window Redux**.
+- 🚫 (Visuals, Optional) Removed **Action Camera**. Now included in **lStewieAl's Tweaks Custom INI**.
+</details>
 
 <details>
 	<summary>December 14th</summary>
