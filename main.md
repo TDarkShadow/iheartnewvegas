@@ -11,7 +11,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 ## Modding tips
 
-The following aren't strict rules, but tips to follow if you are new to modding Morrowind.
+The following aren't strict rules, but tips to follow if you are new to modding Fallout: New Vegas.
 
 - Always keep backup saves, particularly so when uninstalling or installing mods.
 - Read mod descriptions. They usually list requirements, compatibility with other mods, and known issues. User comments can also list issues and possible fixes, but take these with a grain of salt. Many users erroneously claim a mod isn't working, because of end user mistakes.
@@ -46,7 +46,7 @@ What these options do is simple:
 
 ### Manual download installation
 
-Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or Morrowind Modding History.
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or the personal website of a number of authors.
 
 - In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
 - Navigate to the folder where the downloaded file is stored and double click on it.
