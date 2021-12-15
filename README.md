@@ -1,6 +1,6 @@
 # LEFT MY ♥ IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 13th, 2021
+Last updated: December 15th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/Banner.jpg)
 
