@@ -1174,6 +1174,18 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
+	<summary>Ending Slideshows Ultimate Edition Overhaul</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **Ending Slideshows Ultimate Edition Overhaul.esp**
+
+Instructions:
+- Forward the **Conditions** section for record **001614AD**
+- Forward the **Conditions** section for record **001614B1**
+</details>
+
+<details>
 	<summary>Follower Formula Redone</summary>
 
 Plugins to load:
@@ -1376,15 +1388,14 @@ Instructions:
 </details>
 
 <details>
-	<summary>Ending Slideshows Ultimate Edition Overhaul</summary>
+	<summary>Companion Radiation Suit</summary>
 
 Plugins to load:
 - **YUP - Base Game + All DLC.esm**
-- **Ending Slideshows Ultimate Edition Overhaul.esp**
+- **Companion Radiation Suit.esp**
 
 Instructions:
-- Forward the **Conditions** section for record **001614AD**
-- Forward the **Conditions** section for record **001614B1**
+- Forward the **Male biped model* and **Female biped model** sections for record **00033078**
 </details>
 
 <details>
@@ -1397,17 +1408,6 @@ Plugins to load:
 Instructions:
 - Forward the **Ownership** section for record **0010E02A**
 - Forward the **Enconter Zone** section for record **001385C4**
-</details>
-
-<details>
-	<summary>Companion Radiation Suit</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Companion Radiation Suit.esp**
-
-Instructions:
-- Forward the **Male biped model* and **Female biped model** sections for record **00033078**
 </details>
 
 <details>
