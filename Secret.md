@@ -126,7 +126,7 @@ Additional files to install:
 
 ### Mod order and load order
 
-The mods installed in this guide can be placed at the very end of **Left My ♥ In New Vegas**.
+The mods installed in this guide can be placed at the very end of **Left My ♥ In New Vegas**. **FaceGen Tint Fixes for Character Expansions Revised**, installed in the main guide, should be loaded after **TYPE 4 - Body and Armors** (for simplicity it is listed at the end of the mod order).
 
 <details>
 <summary>Mod order</summary>
@@ -146,6 +146,7 @@ T6M Neck Adjusted Outfit Replacers
 Body and Face Textures Workshop
 Improved Vanilla Male Body - Seamless - 4K
 00 - Outfit Conversions - Hotfix
+FaceGen Tint Fixes for Character Expansions Revised
 ```
 </details>
 
