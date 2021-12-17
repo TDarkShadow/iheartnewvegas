@@ -1496,10 +1496,11 @@ bDoDepthOfField=0
 
 [Interface]
 fDlgFocus=6.0000
-uPipboyColor=1776042495
+uPipboyColor=1022886143
+uHUDColor=1022886143
 ```
 
-> Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
+> Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; tweaks the interface color to match that of classic Fallout.
 
 **SweetFX (Optional)**:
 - Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
