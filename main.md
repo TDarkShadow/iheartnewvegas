@@ -538,6 +538,10 @@ Additional files to install:
 - **Character Expansions Revised - MR** (under Optional files).
 - [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
+[**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
+Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link to original mod.**](https://www.nexusmods.com/newvegas/mods/71577?)
+- [**For a comparison between vanilla and fixed, see this.**](https://imgsli.com/ODY2MzE)
+
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Install **Wasteland Flora and Terrain Overhaul** first, and then install **Wasteland Flora Overhaul - Vanilla tree replacer with LOD**.
@@ -944,6 +948,7 @@ Character Expansions Revised - JSU
 Character Expansions Revised - UW
 Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
+FaceGen Tint Fixes for Character Expansions Revised
 A Little More Lamplight
 Simple Interior Lighting Overhaul
 Strip Lights Region Fix
@@ -1580,6 +1585,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>December 17th</summary>
 
+- 🆕 (Visuals) Added **FaceGen Tint Fixes for Character Expansions Revised**.
 - ⚠️ (INI Config) Tweaked Pip-Boy HUD color. Added HUD color tweak.
 - ⚠️ (FNVEdit instructions) Expanded instructions for **Simple Reputation and Disguises**; added instructions for **Follower Formula Redone**, **Misc Gameplay Merge**, **Companion Radiation Suit**, and **Ending Slideshows Ultimate Edition Overhaul**. Removed FNVEdit instructions for **Dirty Pre-War Businesswear Fix**. All these have been made with the latest **Yukichigai Unofficial Patch** update in mind.
 </details>
