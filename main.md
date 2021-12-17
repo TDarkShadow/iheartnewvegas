@@ -1174,14 +1174,26 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
-	<summary>Dirty Pre-War Businesswear Texture Fix</summary>
+	<summary>Follower Formula Redone</summary>
 
 Plugins to load:
-- **Pre-War Businesswear Fix.esp**
+- **YUP - Base Game + All DLC.esm**
+- **Follower Formula Redone.esp**
 
 Instructions:
-- Forward the vanilla **Name** field for record **0005C682**
-- Forward the vanilla **Name** field for record **000B1056**
+- Forward the **Script (End)** section for record **0015D05F**
+- Forward the **Script (End)** section for record **0015D040**
+</details>
+
+<details>
+	<summary>Misc Gameplay Merge</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **Misc Gameplay Merge.esm**
+
+Instructions:
+- Forward the **Equipment Type** field for record **015EACF**
 </details>
 
 <details>
@@ -1209,6 +1221,7 @@ Instructions:
 - Delete all records minus **pwbRepPrimmScript** (under Script).
 - Forward the **00134B64** field for record **0005C682**
 - Forward the **00134B65** field for record **0005C682**
+- Forward the **Relations** section for record **000D7F56**
 </details>
 
 <details>
@@ -1363,6 +1376,18 @@ Instructions:
 </details>
 
 <details>
+	<summary>Ending Slideshows Ultimate Edition Overhaul</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **Ending Slideshows Ultimate Edition Overhaul.esp**
+
+Instructions:
+- Forward the **Conditions** section for record **001614AD**
+- Forward the **Conditions** section for record **001614B1**
+</details>
+
+<details>
 	<summary>Bathroom Doors Overhaul</summary>
 
 Plugins to load:
@@ -1372,6 +1397,17 @@ Plugins to load:
 Instructions:
 - Forward the **Ownership** section for record **0010E02A**
 - Forward the **Enconter Zone** section for record **001385C4**
+</details>
+
+<details>
+	<summary>Companion Radiation Suit</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **Companion Radiation Suit.esp**
+
+Instructions:
+- Forward the **Male biped model* and **Female biped model** sections for record **00033078**
 </details>
 
 <details>
@@ -1540,6 +1576,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 17th</summary>
+
+- ⚠️ (INI Config) Tweaked Pip-Boy HUD color. Added HUD color tweak.
+- ⚠️ (FNVEdit instructions) Expanded instructions for **Simple Reputation and Disguises**; added instructions for **Follower Formula Redone**, **Misc Gameplay Merge**, **Companion Radiation Suit**, and **Ending Slideshows Ultimate Edition Overhaul**. Removed FNVEdit instructions for **Dirty Pre-War Businesswear Fix**. All these have been made with the latest **Yukichigai Unofficial Patch** update in mind.
+</details>
 
 <details>
 	<summary>December 15th</summary>
