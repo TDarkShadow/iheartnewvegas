@@ -43,10 +43,7 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
 
 > This will revert the female model tweaks in favor of **TYPE 4**'s adjusted models.
 
-## Face textures
-
-[**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006)  
-Replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
+## Face and hair textures add-on
 
 [**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
 Adds animated eyelashes to NPCs and the player character.
@@ -67,7 +64,7 @@ Improves eye textures.
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
 
-## Body replacers
+## Body replacers add-on
 
 [**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
 Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
@@ -114,6 +111,17 @@ Additional files to install:
 [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
 Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
 
+[**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
+High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
+- Install the **01 - Improved Male Body - FOMOD Installer** main file.
+- FOMOD options to install:
+  - [X] 00 - Main
+  - [X] 05 - Underwear Options
+    - [X] 08 - Legacy Underwear
+
+Additional files to install:
+- **00 - Outfit Conversions - Hotfix** (under Update files). Work in progress outfit conversion for most of the openfoot meshes.
+
 ## Finishing touches
 
 ### Mod order and load order
@@ -124,7 +132,6 @@ The mods installed in this guide can be placed at the very end of **Left My ♥ 
 <summary>Mod order</summary>
 
 ```
-Vanilla Underwear Replacer
 Eyelashes New Vegas
 Eyelashes New Vegas ESP Replacer
 HD Teeth and Natural Eyelashes and Eyebrows
@@ -137,6 +144,8 @@ Mannequin Races
 Mannequin Races - TYPE 4
 T6M Neck Adjusted Outfit Replacers
 Body and Face Textures Workshop
+Improved Vanilla Male Body - Seamless - 4K
+00 - Outfit Conversions - Hotfix
 ```
 </details>
 
