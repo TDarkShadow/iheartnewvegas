@@ -229,7 +229,7 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 [**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
 Cleans up textures surrounding the Companion Wheel.
-- Install the **Clean Companion Wheel 512x512 Edition** main file.
+- Install the **Clean Companion Wheel 256x256 Edition** main file.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
