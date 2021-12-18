@@ -10,7 +10,7 @@
 
 The guide presented here assumes you have already followed all instructions found in **Left My ♥ In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
 
-This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** body replacer.
+This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** body replacer. Do note, however, that this guide is intended for my personal use only, and you shouldn't expect anything on the way of support if you decide to go through with it.
 
 ## Preliminary steps
 
