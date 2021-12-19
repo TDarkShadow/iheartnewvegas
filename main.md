@@ -626,6 +626,12 @@ Companions wear a Radiation Suit when you do.
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
+[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
+Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
+
+Additional files to install:
+- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
+
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
 
@@ -711,17 +717,21 @@ Replaces the male Motorcycle helmet with its female counterpart.
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
 
+[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
+Replaces the vanilla NCR vicious dogs with German Shepard models.
+
+[**Bighorner Model Variants**](https://www.nexusmods.com/newvegas/mods/62672)  
+Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
+- Install **Bighorner Model Variants - Standard**.
+
+[**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
+Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
+
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 
 Additional files to install:
 - **OWB in CRT** (under Optional files).
-
-[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
-Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
-
-Additional files to install:
-- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 
 [**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
 The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
@@ -963,6 +973,8 @@ Night Sky Tweaks
 	Companions Combat-Ready
 	Companion Radiation Suit
 	Empty Weapons
+	Tweaked Standing Idle
+	Tweaked Standing Idle Fix
 	Better Gas Leak Effect
 	HQ Dust Storm FX
 	HQ Dust Storm FX - Dust Storm Meshes
@@ -985,10 +997,11 @@ Night Sky Tweaks
 	Simple Glowing Ranger Visors
 	Unisex Motorcycle Helmets
 	Worn-Out Scope Crosshair Replacers
+	Alsatian NCR Guard Dogs
+	Bighorner Model Variants
+	Brahmin Variant Redux
 	Securitrons in CRT
 	OWB in CRT
-	Tweaked Standing Idle
-	Tweaked Standing Idle Fix
 	Healthier Yao Guai
 	Y-17 Trauma Override Harness GLOVES
 	Lonesome Road Carbon Shadow Fix
@@ -1140,6 +1153,10 @@ Character Expansions Revised - AIO Patch.esp
 	ImprovedGeckoLeatherArmor JSUE Patch.esp
 	Metal Helmet Female Replacements.esp
 	lexx_armored_pagloves.esp
+	Alsatian NCR Guard Dogs.esp
+	CIB Bighorners.esp
+	CIB Bighorners - HH.esp
+	lexx_brahmin-variant.esp
 	Skinny Bears.esp
 	All Weapon Sounds Overhaul.esp
 	All Weapon Sounds Overhaul WMIM Patch.esp
@@ -1427,6 +1444,37 @@ Instructions:
 </details>
 
 <details>
+	<summary>Bighorner Model Variants</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **CIB Bighorners.esp**
+
+Instructions:
+- Forward the **Record flags** section for record **0015C7D4**
+</details>
+
+<details>
+	<summary>Brahmin Variant Redux</summary>
+
+Plugins to load:
+- **YUP - Base Game + All DLC.esm**
+- **lexx_brahmin-variant.esp**
+
+Instructions:
+- Forward the **Record flags** section for record **0001D3CD**
+- Forward the **Record flags** section for record **0008EF28**
+- Forward the **Flags (sorted)** (under ACBS - Configuration) section for record **00094BCE**. Forward the **Level** (15 instead of 1250). Delete the **Packages** section.
+- Forward the **Record flags** section for record **00116AF4**
+- Forward the **Record flags** section for record **0014CF65**. Forward the **Flags (sorted)** (under ACBS - Configuration) section. Forward the **Level** (15 instead of 1250). Delete the **Packages** section.
+
+Additional instructions:
+- Run **FNVEditQuickAutoClean**.
+- Double-click **lexx_brahmin-variant.esp**.
+- Close the window when the process is finished.
+</details>
+
+<details>
 	<summary>FNVLODGen Resources</summary>
 
 Plugins to load:
@@ -1581,6 +1629,14 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 19th</summary>
+
+- 🆕 (Visuals, Optional) Added **Alsatian NCR Guard Dogs**.
+- 🆕 (Visuals, Optional) Added **Bighorner Model Variants**. This mod includes **FNVEdit instructions**.
+- 🆕 (Visuals, Optional) Added **Brahmin Variant Redux**. This mod includes **FNVEdit instructions**.
+</details>
 
 <details>
 	<summary>December 17th</summary>
