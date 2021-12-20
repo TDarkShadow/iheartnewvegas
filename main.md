@@ -305,6 +305,9 @@ Additional files to install:
 
 > It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
+[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
+Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
+
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 - Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
@@ -343,8 +346,7 @@ Dynamically lowers the amount of loot in the game.
 Additional files to install:
 - [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
 
-[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
-Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
+### Perks and traits
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
