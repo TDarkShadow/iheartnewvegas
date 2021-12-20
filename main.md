@@ -476,6 +476,30 @@ Additional files to install:
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link to original mod.**](https://www.nexusmods.com/newvegas/mods/71577?)
 - [**For a comparison between vanilla and fixed, see this.**](https://imgsli.com/ODY2MzE)
 
+[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
+Replaces the vanilla NCR vicious dogs with German Shepard models.
+
+[**Bighorner Model Variants**](https://www.nexusmods.com/newvegas/mods/62672)  
+Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
+- Install **Bighorner Model Variants - Standard**.
+
+[**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
+Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
+
+[**Companion Radiation Suit**](https://www.nexusmods.com/newvegas/mods/64224)  
+Companions wear a Radiation Suit when you do.
+
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
+Adds CRT lines to the monitors of Securitrons.
+
+Additional files to install:
+- **OWB in CRT** (under Optional files).
+
+[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
+The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
+- Only install **Real Bears* (under Optional files).
+- Hide **Big Bears.esp**.
+
 ### Environment
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
@@ -485,6 +509,61 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+Retextures dust storms so they aren't as much of an eyesore now.
+
+Additional files to install:
+- **Dust Storm Meshes** (under Optional files).
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+Retextures mist so that it isn't as much of an eyesore now.
+- Only install **HD Mist 2K**.
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+
+Additional files to install:
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> This restores interior light rays.
+	
+[**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
+Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
+- FOMOD options to install:
+  - [X] ALL IN ONE.
+
+[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
+Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
+
+Additional files to install:
+- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
+
+> This mod makes a dramatic difference in how these interiors feel.
+
+[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
+Mesh replacer.
+- Only install **McCarran_Glass_transparency_Vanilla_version**.
+
+[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
+Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
+
+[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
+Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
+
+[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
+Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
+
+[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
+Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 
 ### Weather and lighting
 
@@ -543,60 +622,7 @@ High quality retexture for night sky and moon.
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-[**Companion Radiation Suit**](https://www.nexusmods.com/newvegas/mods/64224)  
-Companions wear a Radiation Suit when you do.
-
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
-
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
-Retextures dust storms so they aren't as much of an eyesore now.
-
-Additional files to install:
-- **Dust Storm Meshes** (under Optional files).
-
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
-Retextures mist so that it isn't as much of an eyesore now.
-- Only install **HD Mist 2K**.
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
-
-Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
-
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> This restores interior light rays.
-	
-[**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
-Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
-- FOMOD options to install:
-  - [X] ALL IN ONE.
-
-[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
-Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
-
-Additional files to install:
-- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
-
-> This mod makes a dramatic difference in how these interiors feel.
-
-[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
-Mesh replacer.
-- Only install **McCarran_Glass_transparency_Vanilla_version**.
-
-[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
-Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
-
-[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
-Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
-
-[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
-Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
+### Equipment
 
 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
 Gives Gecko-backed outfits an unique look.
@@ -631,34 +657,12 @@ Replaces the male Motorcycle helmet with its female counterpart.
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
 
-[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
-Replaces the vanilla NCR vicious dogs with German Shepard models.
-
-[**Bighorner Model Variants**](https://www.nexusmods.com/newvegas/mods/62672)  
-Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
-- Install **Bighorner Model Variants - Standard**.
-
-[**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
-Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
-
-[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
-Adds CRT lines to the monitors of Securitrons.
-
-Additional files to install:
-- **OWB in CRT** (under Optional files).
-
-[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
-The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
-- Only install **Real Bears* (under Optional files).
-- Hide **Big Bears.esp**.
-
 [**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
 Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
 
-[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
-Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
-
 ## AUDIO
+
+### SFX
 
 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
 Replaces every gun sound in the game, from ballistic to energy weapons.
