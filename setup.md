@@ -275,6 +275,89 @@ For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
 
 > This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
 
+# GENERAL TIPS
+
+## Mod Organizer 2 tips
+
+### Mod manager download installation
+
+Mods downloaded from Nexus will be instantly added to Mod Organizer 2 when using the **Mod manager download** option. However, you still need to install these mods for them to work in-game.
+
+- In MO2, click on the **Downloads** tab. You can check the download progress for your file there.
+- Right-click the downloaded file, and click **Install**.
+- MO2 will prompt you to give the mod a name. I suggest giving it a descriptive name (e.g. **Patch for Purists 4.0.2**).
+- Click **OK**.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
+
+There will be times when you will need to install multiple files from the same mod page. Mod Organizer 2 allows the user to either merge, replace, or rename the file being installed.
+
+![ModExists](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_ModExists.png)
+
+What these options do is simple:
+
+- **Merge** merges the contents of the file being installed with those of the file of the same name already installed. The new files will take priority over the old files, overwriting as necessary. This option is generally recommended when installing an update file that is separate from the main file, or optional files in the case you don't want to clutter your mod order.
+- **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
+- **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
+
+> By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
+
+> When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
+
+### Manual download installation
+
+Sometimes authors will block the **Mod manager download** option in Nexus, and you will have to download the mod manually. On occasion, you will download a mod from a different site altogether, be it GitHub, Google Drive, or the personal website of a number of authors.
+
+- In MO2, click the **Install a new mod from archive** ![Archive](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Archive.png) button.
+- Navigate to the folder where the downloaded file is stored and double click on it.
+
+The rest of the steps work exactly as during mod manager download installation.
+
+- MO2 will prompt you to give the mod a name. As before, I suggest giving it a descriptive name (e.g. **Correct UV Rocks 1.0**).
+- Click **OK**.
+- The mod will appear in the left pane. To finish installation, check the box next to it.
+
+### BAIN installers
+
+BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
+
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
+
+### FOMOD installers
+
+Like BAIN installers, FOMOD installers allow users to customize their install by spliting their mods into multiple options.
+
+> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
+
+### Hiding files
+
+Mod Organizer 2 lets you hide specific files from your installed mods, be it assets or plugins. A hidden plugin is treated as a deactivated plugin, with the bonus that it will no longer clutter your load order. Hiding assets is useful when you don't want to install specific assets, or when you don't want them to overwrite another mod's.
+
+- Right click on your installed mod and click **Information...**.
+- On the **Filetree** tab, right click on the plugins, folders, or files you want to hide, and click **Hide**.
+- Mod Organizer 2 will hide the files, and these will no longer affect your game.
+
+### Creating a separator
+
+Separators allow you to neatly separate installed mods in Mod Organizer 2 for ease of viewing. These can be created and then moved around in the left pane to place them where you want them to be.
+
+- Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
+- Name your separator and click **OK**.
+
+I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
+
+### The Overwrite folder
+
+The **Overwrite** folder is the destiny folder for a handful of files, including **config** folders which contain the configuration files for a number of NVSE mods. There's always a chance files in the **Overwrite** folder will overwrite assets and/or plugins from your installed mods, but for the purpose of this guide, you don't need to worry about them.
+
+## Modding tips
+
+The following aren't strict rules, but tips to follow if you are new to modding Fallout: New Vegas.
+
+- Always keep backup saves, particularly so when uninstalling or installing mods.
+- Read mod descriptions. They usually list requirements, compatibility with other mods, and known issues. User comments can also list issues and possible fixes, but take these with a grain of salt. Many users erroneously claim a mod isn't working, because of end user mistakes.
+- Don't uninstall or install mods mid-playthrough, unless you know for sure you can do it safely. Mod descriptions and user comments can help you out here.
+- Learn how file structure works. Incorrect file structure means mods will not work as intended.
+
 # MOVING ON TO THE NEXT SECTION
 
 [To Left My Heart In New Vegas >>](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)  
