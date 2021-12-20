@@ -173,9 +173,7 @@ Additional files to install:
     - [X] Interfaceshared0 Addon
 - **3. Consistent Glow Icons** (under Main files).
 - **6. Vanilla UI Plus Patch** (under Optional files).
-
-[**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375)  
-Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon.
+- [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
 ## GAMEPLAY QOL
 
@@ -239,7 +237,24 @@ Prevents the game from becoming too easy by making enemies more likely to target
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
+[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
+Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
+
+[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
+Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
+
+[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
+Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
+- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+
 ### Features and mechanics
+
+[**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
+Adds repair parts for you to craft and buy, though crafting will likely be your main method of acquiring them. The goal is not to completely revamp item repair, but instead to give you more options and add a bit of satisfaction to scavenging junk.
+
+Additional files to install:
+- [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
+- [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -248,6 +263,9 @@ Additional files to install:
 - [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Dec%2014th).7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
 
 > For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
+
+[**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
+Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
@@ -258,6 +276,12 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
+[**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
+Makes radiation work like in Fallout 4, by damaging your max health.
+
+Additional files to install:
+- [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
+
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
@@ -266,29 +290,15 @@ Faction outfits only act as disguises if you're an enemy of the faction and no l
 
 > **Misc Gameplay Merge** includes a similar mod, **Faction Armor Redone**, which fixes the reputation "juggle". We are installing this mod for its other features.
 
-<details>
-	<summary>Gameplay (Optional) - Click to expand</summary>
-
-[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
-Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
-
-[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
-Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
-
 [**Meat's Back On The Menu Boys**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
 Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. Additional YUP fixes by **Sigourn**.
 
-[**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
-Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
-- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
-
 [**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
 Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
-</details>
 
-## Overhauls
+## OVERHAULS
 
-These mods rebuild existing mechanics from the ground up, making drastic changes to them that can't be summarized in a few lines without omitting important information, or outright modify how you approach to playing the game, be it because of increased difficulty or reworked mechanics.
+### Balance
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
@@ -310,43 +320,16 @@ Additional files to install:
 - **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (under Optional files).
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
-Collection of gameplay tweaks by **Qolore**.
+Collection of gameplay and balance tweaks.
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
- Removes some map markers in an attempt to make exploration more interesting. 
+Removes some map markers in an attempt to make exploration more interesting.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
-
-[**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
-Makes radiation work like in Fallout 4, by damaging your max health.
-
-Additional files to install:
-- [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541). Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
-
-[**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
-Dynamically lowers the amount of loot in the game.
-- Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
-
-Additional files to install:
-- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
-
-<details>
-	<summary>Overhauls (Optional) - Click to expand</summary>
-
-[**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
-Adds repair parts for you to craft and buy, though crafting will likely be your main method of acquiring them. The goal is not to completely revamp item repair, but instead to give you more options and add a bit of satisfaction to scavenging junk.
-	
-> Note that you will still be able to repair equipment with similar equipment, as in vanilla. An optional feature we will configure requires the player to craft Repair Tools in order to perform any repair.
-
-> This mod is listed under **Optional** because many players may not be interested in expanding the crafting aspect of the game.
-
-Additional files to install:
-- [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)
 Upscales one **Mojave Arsenal** icon.
@@ -355,6 +338,13 @@ Upscales one **Mojave Arsenal** icon.
   - [X] Mojave Arsenal
 
 > Note that, if you wish, you can simply install all default options. This however adds a lot of unnecessary files to your computer.
+
+[**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
+Dynamically lowers the amount of loot in the game.
+- Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
+
+Additional files to install:
+- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
 
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
 Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
@@ -382,11 +372,9 @@ New Vegas has two Traits with opposite effects. This mod expands this idea to th
 [**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
 Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
 
-[**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
-Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
-</details>
+## CONTENT
 
-## Content
+### Restored content
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
@@ -394,6 +382,8 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 
 Additional files to install:
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland. Made by **Qolore**.
+
+### Enemies
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
@@ -406,11 +396,9 @@ Additional files to install:
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install the **Mojave Wildlife - Vanilla No Chanced Spawns Version** main file.
 
-## Visuals
+## VISUALS
 
-[**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
-Vastly improves the LOD noise texture used on all distant land.
-- Install the **Improved LOD noise Texture** main file.
+### Animations
 
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
@@ -431,11 +419,36 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 A skeleton with compatibility for the latest mods.
 - The default FOMOD options are fine.
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds proper diagonal movement animations.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
+- FOMOD options to install:
+  - [X] Full 360 Sneak Options
+  - [X] Diagonal Movement Patch
+
+[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
+Companions ready their weapons when you do.
+
+[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
+Slides stay locked back on empty handguns.
+
+[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
+Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
+
+Additional files to install:
+- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
+
+### Camera
+
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 Additional files to install:
 - [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
+
+### Pip-Boy
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -446,6 +459,8 @@ Additional files to install:
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+### Characters and NPCs
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -461,6 +476,8 @@ Additional files to install:
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link to original mod.**](https://www.nexusmods.com/newvegas/mods/71577?)
 - [**For a comparison between vanilla and fixed, see this.**](https://imgsli.com/ODY2MzE)
 
+### Environment
+
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Install **Wasteland Flora and Terrain Overhaul** first, and then install **Wasteland Flora Overhaul - Vanilla tree replacer with LOD**.
@@ -468,6 +485,8 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+
+### Weather and lighting
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
@@ -524,32 +543,8 @@ High quality retexture for night sky and moon.
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-<details>
-	<summary>Visuals (Optional) - Click to expand</summary>
-
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds proper diagonal movement animations.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
-- FOMOD options to install:
-  - [X] Full 360 Sneak Options
-  - [X] Diagonal Movement Patch
-
-[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
-Companions ready their weapons when you do.
-	
 [**Companion Radiation Suit**](https://www.nexusmods.com/newvegas/mods/64224)  
 Companions wear a Radiation Suit when you do.
-	
-[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
-Slides stay locked back on empty handguns.
-
-[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
-Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
-
-Additional files to install:
-- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
 
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
@@ -662,11 +657,8 @@ Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeleto
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
-</details>
 
-## Audio
-
-> All mods listed in this section are entirely optional, and by no means essential to enjoy the game.
+## AUDIO
 
 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
 Replaces every gun sound in the game, from ballistic to energy weapons.
@@ -709,6 +701,10 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 > Because this mod replaces the vanilla sound, you should only use it when playing a female character.
 
 ## LOD resources
+
+[**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
+Vastly improves the LOD noise texture used on all distant land.
+- Install the **Improved LOD noise Texture** main file.
 
 [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
 Adds extra meshes for LOD generation.
