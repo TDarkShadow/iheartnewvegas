@@ -510,32 +510,6 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
 
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Makes the gas leak effect much more visible. Accidentally blowing yourself up shouldn't be as common now.
-
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
-Retextures dust storms so they aren't as much of an eyesore now.
-
-Additional files to install:
-- **Dust Storm Meshes** (under Optional files).
-
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
-Retextures mist so that it isn't as much of an eyesore now.
-- Only install **HD Mist 2K**.
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
-
-Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
-
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> This restores interior light rays.
-	
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - FOMOD options to install:
@@ -549,13 +523,6 @@ Additional files to install:
 
 > This mod makes a dramatic difference in how these interiors feel.
 
-[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
-Mesh replacer.
-- Only install **McCarran_Glass_transparency_Vanilla_version**.
-
-[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
-Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
-
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
 
@@ -564,6 +531,26 @@ Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
 
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
+
+[**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
+Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
+
+[**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
+Mesh replacer.
+- Only install **McCarran_Glass_transparency_Vanilla_version**.
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+
+Additional files to install:
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> This restores interior light rays.
 
 ### Weather and lighting
 
@@ -659,6 +646,21 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 
 [**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
 Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
+
+### VFX
+
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+Retextures dust storms so they aren't as much of an eyesore now.
+
+Additional files to install:
+- **Dust Storm Meshes** (under Optional files).
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+Retextures mist so that it isn't as much of an eyesore now.
+- Only install **HD Mist 2K**.
 
 ## AUDIO
 
