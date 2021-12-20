@@ -11,42 +11,25 @@ The guide presented here assumes you have already followed all instructions foun
 
 # LEFT MY ♥ IN NEW VEGAS
 
-## Patches
+## PATCHES
 
-[**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
-Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
-- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
+### Bug fixes
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
-A compilation of vital bug fixes for Fallout: New Vegas and its DLCs, all combined into one ESM. The only pure bug fix compilation available on the Nexus: no new features, no balance tweaks, no restored content.
+Collection of bug fixes for Fallout: New Vegas and its DLCs, combined into one ESM.
 - Install the **YUP - Base Game and All DLC** main file.
 
 [**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
 Small mod fixing several hundred vanilla floating objects, underground or above ground.
 
-[**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
-Optimizations and fixes for a large selection of meshes in the base game and DLC.
+[**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
+Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
+- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
 
-[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
-Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
-
-Additional files to install:
-- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes unnecessary, non-bugfix edits. Made by **Qolore**.
-
-[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
-A collection of fixes for throwable weapons, focused on projectiles.
+### NVSE bug fixes
 
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
-Collection of bugfixes requiring NVSE.
-
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
+Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
@@ -79,8 +62,14 @@ Additional files to install:
   - Sneak attack critical hits can only be dealt with melee weapons.
   - Weapon mods can be unequipped.
 
-<details>
-	<summary>Patches (Optional) - Click to expand</summary>
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
+
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
 
 [**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
 Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Also makes NPCs get some more debuffs from crippling like the player does.
@@ -90,6 +79,20 @@ Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
+
+### Mesh fixes and optimization
+
+[**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
+Optimizations and fixes for a large selection of meshes in the base game and DLC.
+
+[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
+Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
+
+Additional files to install:
+- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z). Removes unnecessary, non-bugfix edits. Made by **Qolore**.
+
+[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
+A collection of fixes for throwable weapons, focused on projectiles.
 
 [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
@@ -112,9 +115,10 @@ Improves game performance by removing all the dust devils and whirlwinds from th
 
 [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/)  
 Improves game performance in combat by disabling lights cast on the environment by enemy muzzle flashes. Optionally removes player muzzle flashes too.
-</details>
 
-## User interface
+## USER INTERFACE
+
+### Menus
 
 [**UIO - User Interface Organizer**](https://www.nexusmods.com/newvegas/mods/57174)  
 An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions added to the game by various mods.
@@ -124,9 +128,6 @@ Allows any number of mods to be configured from a single menu, accessible throug
 
 Additional files to install:
 - **MCM BugFix 2** (under Optional files).
-
-[**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
-Makes the crafting interface easier, more efficient and less tedious to use. 
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -150,6 +151,18 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 Cleans up textures surrounding the Companion Wheel.
 - Install the **Clean Companion Wheel 256x256 Edition** main file.
 
+[**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
+Makes the crafting interface easier, more efficient and less tedious to use. 
+
+[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
+High-res satellite map for the Mojave Wasteland.
+- Install the **Satellite World Map** main file.
+
+Additional files to install:
+- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
+
+### Icons
+
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
 - Install the **1. Consistent Pip-boy Icons** main file.
@@ -161,37 +174,13 @@ Additional files to install:
 - **3. Consistent Glow Icons** (under Main files).
 - **6. Vanilla UI Plus Patch** (under Optional files).
 
-[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
-High-res satellite map for the Mojave Wasteland.
-- Install the **Satellite World Map** main file.
-
-Additional files to install:
-- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
-
-<details>
-	<summary>User Interface (Optional) - Click to expand</summary>
-
 [**Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy**](https://www.nexusmods.com/newvegas/mods/73375)  
 Replaces the farting vault boy/junk image options of Consistent Pip Boy icons with an upscaled HD version of the vanilla missing item icon.
-</details>
-	
-## Gameplay QOL
+
+## GAMEPLAY QOL
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
-
-[**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
-Increases the speed of the Pip-Boy animation.
-- Install the **Faster Pip-Boy Animation (2x)** main file.
-
-[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
-Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
-
-[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
-Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
-
-<details>
-	<summary>Gameplay QOL (Optional) - Click to expand</summary>
 
 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
 Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
@@ -199,9 +188,26 @@ Delays the appearance of Malcolm Holmes, instead of allowing him to appear as so
 
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
-</details>
 
-## Gameplay
+[**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
+Increases the speed of the Pip-Boy animation.
+- Install the **Faster Pip-Boy Animation (2x)** main file.
+
+[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
+Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
+
+Additional files to install:
+- [**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon. Made by **Qolore**.
+
+[**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
+Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+
+[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
+Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
+
+## GAMEPLAY
+
+### Tweaks
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
@@ -218,6 +224,23 @@ Adds recoil animations to player and NPCs. Recoil strength is calculated based o
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
+
+[**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
+Gameplay tweaks and fixes for mines.
+
+[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
+
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
+
+### Features and mechanics
+
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
@@ -229,29 +252,11 @@ Additional files to install:
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
-
-[**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
-Gameplay tweaks and fixes for mines.
-
-[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
-Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
-
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
 Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
-
-[**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
-Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
-
-Additional files to install:
-- [**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z). Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon. Made by **Qolore**.
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
@@ -260,9 +265,6 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 Faction outfits only act as disguises if you're an enemy of the faction and no longer "juggle" reputation - alleviating some associated bugs. Reputation penalties for crimes are reduced and Primm's reputation is fully restored.
 
 > **Misc Gameplay Merge** includes a similar mod, **Faction Armor Redone**, which fixes the reputation "juggle". We are installing this mod for its other features.
-
-[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 <details>
 	<summary>Gameplay (Optional) - Click to expand</summary>
