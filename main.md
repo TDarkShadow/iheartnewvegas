@@ -273,10 +273,8 @@ Forces the Honest Hearts workbench crates (the only source of skill books in the
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
-[**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
-Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him.
-
-> This is a YUP-compatible version of the original mod [**found here**](https://www.nexusmods.com/newvegas/mods/57175).
+[**Meat's Back On The Menu Boys**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
+Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. Additional YUP fixes by **Sigourn**.
 
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
@@ -507,7 +505,7 @@ Additional files to install:
 - **FNV RWL All DLC - Patch Collection** (under Optional files).
 - [**FNV Realistic Wasteland Lighting - All DLC Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%20Tweaks.7z). Includes changes to fog on clear weathers, Pip-Boy light, and other light sources.
 - [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
-- [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). SweetFX preset. Original by **xCamoLegend**.
+- [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). Original SweetFX preset by **xCamoLegend**.
   - Extract the contents of the archive in your **Root** folder.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
