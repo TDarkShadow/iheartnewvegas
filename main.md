@@ -216,9 +216,6 @@ Limits the amount of followers the player can have depending on their Charisma s
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving. 
 
-[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
-Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
-
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
@@ -407,10 +404,14 @@ Additional files to install:
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install both main files.
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds proper diagonal movement animations.
+
+[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
+Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
+
 [**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
-
-> This mod is compatible with **Immersive Recoil 2.0** (which we installed earlier) and **B42 Weapon Inertia** (which we will install next).
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
@@ -418,9 +419,6 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
 - The default FOMOD options are fine.
-
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds proper diagonal movement animations.
 
 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
 Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
