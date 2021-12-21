@@ -9,7 +9,7 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
-# LEFT MY ♥ IN NEW VEGAS
+# LEFT MY HEART IN NEW VEGAS
 
 ## PATCHES
 
