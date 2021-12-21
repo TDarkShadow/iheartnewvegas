@@ -152,13 +152,13 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
-- Install **Female White Glove Society Mask JSUE** (under Main files).
+- Install **Female White Glove Society Mask JSUE** (Main files).
 
 > This plugin requires **JSawyer Ultimate Edition**, which we will install in **Overhauls**.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
-- Only install **Gun Runners Kiosk Glass Fix Alternate Version** (under Optional files).
+- Only install **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files).
 
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
@@ -180,7 +180,7 @@ An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions add
 Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
 
 Additional files to install:
-- **MCM BugFix 2** (under Optional files).
+- **MCM BugFix 2** (Optional files).
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -224,11 +224,11 @@ Lore-friendly overhaul of New Vegas icons to make them more consistent in terms 
 - Install the **1. Consistent Pip-boy Icons** main file.
 
 Additional files to install:
-- **2. Consistent Addon Icons** (under Main files).
+- **2. Consistent Addon Icons** (Main files).
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
-- **3. Consistent Glow Icons** (under Main files).
-- **6. Vanilla UI Plus Patch** (under Optional files).
+- **3. Consistent Glow Icons** (Main files).
+- **6. Vanilla UI Plus Patch** (Optional files).
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
 ## GAMEPLAY QOL
@@ -245,7 +245,7 @@ Merges the DLC ending slideshows with the main game's ending slideshow for one c
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
-- Install **Faster Pip-Boy Animation (2x)** (under Main files).
+- Install **Faster Pip-Boy Animation (2x)** (Main files).
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -358,10 +358,10 @@ Upgrades the Tesla Cannon so that it can now actually chain between targets, as 
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
-- **JSawyer Ultimate Edition - Push's Tweaks** (under Optional files).
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files).
 - [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
-- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (under Optional files)-
+- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
 > It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
@@ -373,8 +373,8 @@ Adds iron sights to a variety of laser and plasma weapons which lacked any.
 - Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
 
 Additional files to install:
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (under Optional files).
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (under Optional files).
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay and balance tweaks.
@@ -401,7 +401,7 @@ Prevents the game from becoming too easy by making enemies more likely to target
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
-- Install **New Vegas Economy Improved** (under Main files).
+- Install **New Vegas Economy Improved** (Main files).
 
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
@@ -517,10 +517,10 @@ Additional files to install:
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
 Additional files to install:
-- **Character Expansions Revised - YUP** (under Optional files).
-- **Character Expansions Revised - JSU** (under Optional files).
-- **Character Expansions Revised - UW** (under Optional files).
-- **Character Expansions Revised - MR** (under Optional files).
+- **Character Expansions Revised - YUP** (Optional files).
+- **Character Expansions Revised - JSU** (Optional files).
+- **Character Expansions Revised - UW** (Optional files).
+- **Character Expansions Revised - MR** (Optional files).
 - [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
@@ -550,11 +550,11 @@ Companions wear a Radiation Suit when you do. [**Link**](https://www.nexusmods.c
 Adds CRT lines to the monitors of Securitrons.
 
 Additional files to install:
-- **OWB in CRT** (under Optional files).
+- **OWB in CRT** (Optional files).
 
 [**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
 The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
-- Only install **Real Bears* (under Optional files).
+- Only install **Real Bears** (Optional files).
 - Hide **Big Bears.esp**.
 
 ### Environment
@@ -596,7 +596,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 - Install the **Pip-Boy 2000 Mk VI replacer version** main file.
 
 Additional files to install:
-- **Working date and clock for replacer** (under Optional files).
+- **Working date and clock for replacer** (Optional files).
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
@@ -629,7 +629,7 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 
 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
 Gives Gecko-backed outfits an unique look.
-- Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
+- Only install **Improved Gecko Textures for vanilla bodies** (Optional files).
 
 Additional files to install:
 - [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
@@ -653,7 +653,7 @@ Additional files to install:
 
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
-- Install **IMPACT - The Michael Bay** (under Main files).
+- Install **IMPACT - The Michael Bay** (Main files).
 
 > If my computer can run this mod, yours probably can too.
 
@@ -670,7 +670,7 @@ Remakes blood visual effects, including the addition of new types of wounds base
 Retextures dust storms so they aren't as much of an eyesore now.
 
 Additional files to install:
-- **Dust Storm Meshes** (under Optional files).
+- **Dust Storm Meshes** (Optional files).
 
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
@@ -760,14 +760,14 @@ Additional files to install:
 Replaces every explosion sound in the game.
 
 Additional files to install:
-- **All Explosion Sounds Overhaul SCRIPT Version** (under Optional files). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
+- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 
 [**Immersive Pickup Sounds**](https://www.nexusmods.com/newvegas/mods/61815)  
 Adds custom pickup sounds when looting different items.
-- Install **Immersive Pickup Sounds - Compatibility Version** (under Main files).
+- Install **Immersive Pickup Sounds - Compatibility Version** (Main files).
 
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
