@@ -154,7 +154,7 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 Fixes the White Glove Society Mask mesh for female characters.
 - Install **Female White Glove Society Mask JSUE** (Main files).
 
-> This plugin requires **JSawyer Ultimate Edition**, which we will install in **Overhauls**.
+> ⚠️ This plugin requires **JSawyer Ultimate Edition**, which we will install in **Overhauls**.
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
@@ -472,6 +472,12 @@ Additional files to install:
 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds proper diagonal movement animations.
 
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
+- FOMOD options to install:
+  - [X] Full 360 Sneak Options
+  - [X] Diagonal Movement Patch
+
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
@@ -483,13 +489,7 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
-- The default FOMOD options are fine.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
-- FOMOD options to install:
-  - [X] Full 360 Sneak Options
-  - [X] Diagonal Movement Patch
+- Install the default FOMOD options.
 
 [**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
 Companions ready their weapons when you do.
@@ -607,6 +607,8 @@ Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
 - Hide **textures\interface**.
+
+> ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
@@ -781,17 +783,17 @@ Increases the Pip-Boy Geiger clicking beyond the vanilla default.
 [**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
 Removes the cocking sound that plays every time you equip a rifle.
 
-[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
-Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
-- Install the **Female Nuka-Cola Drinking Sound replacer** main file.
-
-> Because this mod replaces the vanilla sound, you should only use it when playing a female character.
-
 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
 Replaces level up sound and level up screen music with sounds from classic Fallout games.
 	
 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
 Replaces exp gain sound with the sound from classic Fallout games.
+
+[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
+Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
+- Install the **Female Nuka-Cola Drinking Sound replacer** main file.
+
+> ⚠️ You should only use this mod when playing a female character, since it replaces the vanilla male drinking sound.
 
 ## LOD RESOURCES
 
@@ -971,12 +973,12 @@ Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
 Diagonal Movement
+360 Movement
 Immersive Recoil
 Immersive Recoil Custom INI
 Viewmodel Recoil
 B42 Weapon Inertia
 NV Compatibility Skeleton
-360 Movement
 Companions Combat-Ready
 Empty Weapons
 Tweaked Standing Idle
@@ -1057,9 +1059,9 @@ Empty Clicks
 Empty Clicks Custom INI
 More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
-Female Nuka-Cola Drinking Sound Replacer
 Classic Level Up Sounds
 Classic XP Sound
+Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
 FNVLODGen Resources ESP Replacer
@@ -1174,11 +1176,11 @@ JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 Diagonal movement.esp
+360Movement.esp
+360Movement - Diagonal movement Patch.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
 Companions Combat-Ready.esp
 Empty Weapons.esp
 FOVSlider.esp
