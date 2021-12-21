@@ -525,6 +525,69 @@ Additional files to install:
 [**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
 Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 
+### Equipment
+
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
+
+Additional files to install:
+- **Working date and clock for replacer** (under Optional files).
+- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
+- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
+
+[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
+Replaces the female Metal Armor helmets with their male counterparts.
+- Hide **textures\interface**.
+
+[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
+Adds armored gloves to all Power Armors in the game.
+
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets have a glowing effect.
+- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
+
+> The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+
+[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
+Replaces the male Motorcycle helmet with its female counterpart.
+
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
+- Install the **Worn-Out Scopes** main file.
+
+[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
+Gives Gecko-backed outfits an unique look.
+- Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
+
+Additional files to install:
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+  - BAIN options to install:
+    - [X] 00 ESP Replacer
+    - [X] 01 JSUE Patch
+
+[**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
+Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
+
+### VFX
+
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+Retextures dust storms so they aren't as much of an eyesore now.
+
+Additional files to install:
+- **Dust Storm Meshes** (under Optional files).
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+Retextures mist so that it isn't as much of an eyesore now.
+- Only install **HD Mist 2K**.
+
 ### Weather and lighting
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
@@ -594,69 +657,6 @@ High quality retexture for night sky and moon.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
-
-### Equipment
-
-[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
-Gives Gecko-backed outfits an unique look.
-- Only install **Improved Gecko Textures for vanilla bodies** (under Optional files).
-
-Additional files to install:
-- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
-  - BAIN options to install:
-    - [X] 00 ESP Replacer
-    - [X] 01 JSUE Patch
-
-[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
-Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
-
-[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
-Replaces the female Metal Armor helmets with their male counterparts.
-- Hide **textures\interface**.
-
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
-
-Additional files to install:
-- **Working date and clock for replacer** (under Optional files).
-- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
-- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
-[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
-Adds armored gloves to all Power Armors in the game.
-
-[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
-Makes the visors of all the Ranger Helmets have a glowing effect.
-- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
-
-> The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
-
-[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
-Replaces the male Motorcycle helmet with its female counterpart.
-
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-- Install the **Worn-Out Scopes** main file.
-
-[**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
-Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
-
-### VFX
-
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
-
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
-Retextures dust storms so they aren't as much of an eyesore now.
-
-Additional files to install:
-- **Dust Storm Meshes** (under Optional files).
-
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
-Retextures mist so that it isn't as much of an eyesore now.
-- Only install **HD Mist 2K**.
 
 ## AUDIO
 
