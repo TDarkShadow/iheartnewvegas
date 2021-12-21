@@ -1327,10 +1327,12 @@ uWMChanceMax=15
 - Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
 
 ```
+<_VUI+DialogMaxTopics> 6 </_VUI+DialogMaxTopics>
+
 <_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
 ```
 
-> Displays numbers next to dialogue topics. Intended to be used alongside my **lStewieAl's Tweaks Custom INI**.
+> Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
 
 **No Muzzle Flash Lights (Optional)**:
 - Double-click the installed mod to open the **Information...** window.
