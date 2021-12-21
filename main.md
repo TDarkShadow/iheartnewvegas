@@ -833,18 +833,6 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
-	<summary>Ending Slideshows Ultimate Edition Overhaul</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Ending Slideshows Ultimate Edition Overhaul.esp**
-
-Instructions:
-- Forward the **Conditions** section for record **001614AD**
-- Forward the **Conditions** section for record **001614B1**
-</details>
-
-<details>
 	<summary>Follower Formula Redone</summary>
 
 Plugins to load:
