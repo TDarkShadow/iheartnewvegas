@@ -578,7 +578,7 @@ Retextures the escalator glass at McCarran so that it isn't as much of an eyesor
 
 [**McCarran Main Terminal Transparent Glass**](https://www.nexusmods.com/newvegas/mods/69041)  
 Mesh replacer.
-- Only install **McCarran_Glass_transparency_Vanilla_version**.
+- Install **McCarran_Glass_transparency_Vanilla_version** (Main files).
 
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
