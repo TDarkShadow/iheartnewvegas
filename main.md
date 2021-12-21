@@ -871,22 +871,6 @@ Instructions:
 - When asked to, add **Miscellaneous Tweaks.esp** as a master file.
 </details>
 
-<details>
-	<summary>FNV Realistic Wasteland Lighting</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **DLC Enhancements.esp**
-- **FNV Realistic Wasteland Lighting - All DLC.esp**
-
-Instructions:
-- Forward the **Object Bounds** section for record **0012A914**
-- Forward the **Region Data Entry** (**Sound**) section for record **0200BCB2**
-- Forward the **Region Data Entry** (**Sound**) section for record **0200BCB9**
-- Forward the **Region Data Entry** (**Sound**) section for record **0200C977**
-- Forward the **Region Data Entry** (**Sound**) section for record **020110C0**
-</details>
-
 ### Generating LOD
 
 With all our mods and resources installed, we can finally generate our LOD.
