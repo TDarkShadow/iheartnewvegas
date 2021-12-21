@@ -1246,18 +1246,6 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
-	<summary>Miscellaneous Tweaks Collection</summary>
-
-Plugins to load:
-- **JSawyer Ultimate - Push's Tweaks.esp**
-- **Miscellaneous Tweaks.esp**
-
-Instructions:
-- Forward the **Ingredients** section for record **0201103D**
-- Forward the **Ingredients** section for record **02011108**
-</details>
-
-<details>
 	<summary>Mojave Arsenal</summary>
 
 Plugins to load:
