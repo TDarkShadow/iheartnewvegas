@@ -247,6 +247,14 @@ Merges the DLC ending slideshows with the main game's ending slideshow for one c
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
 
+[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
+Adds iron sights to a variety of laser and plasma weapons which lacked any.
+- Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
+
+Additional files to install:
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
+
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
@@ -368,19 +376,11 @@ Additional files to install:
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
 Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
 
-[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
-Adds iron sights to a variety of laser and plasma weapons which lacked any.
-- Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
-
-Additional files to install:
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
+[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
 
 [**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer.7z)  
 Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Edited for compatibility with **Mojave Arsenal** and **Mojave Raiders**.
-
-[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -906,6 +906,10 @@ Better Character Creation
 Delayed Malcolm
 Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
+Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
+Laser Weapon Iron Sights - Iron Sight Recoil Animations
+Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
+Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
@@ -944,12 +948,8 @@ JSawyer Ultimate Edition - Qolore's Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Armor Damage Overhaul
-Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
-Laser Weapon Iron Sights - Iron Sight Recoil Animations
-Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
-Plasma Weapon Iron Sights - Iron Sight Recoil Animations
-Miscellaneous Tweaks Collection
 Less Map Markers
+Miscellaneous Tweaks Collection
 Mojave Arsenal
 Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
@@ -1118,6 +1118,8 @@ JIP Improved Recipe Menu.esp
 Better Character Creation.esp
 Delayed Malcolm.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
+LaserWeaponIronSights.esp
+PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
@@ -1152,10 +1154,8 @@ Throwable Fixes - JSUE Patch.esp
 Female White Glove Society Mask JSUE.esp
 Misc Gameplay Merge - JSUE Patch.esp
 MigArmorDegen.esp
-LaserWeaponIronSights.esp
-PlasmaWeaponIronSights.esp
-Miscellaneous Tweaks.esp
 Less Map Markers.esp
+Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 Player Combat Priority.esp
