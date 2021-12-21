@@ -192,7 +192,7 @@ Merges the DLC ending slideshows with the main game's ending slideshow for one c
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
-- Install the **Faster Pip-Boy Animation (2x)** main file.
+- Install **Faster Pip-Boy Animation (2x)** (under Main files).
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -217,7 +217,10 @@ A collection of small essential gameplay improvements for the official DLCs that
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
-Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving. 
+Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
+
+Additional files to install:
+- [**Follower Tweaks YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
@@ -225,14 +228,17 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
 
+Additional files to install:
+- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
+
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Gameplay tweaks and fixes for mines.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
 
-[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
+[**Well Rested Overhaul**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628)   to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
 
 [**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
 Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
@@ -282,16 +288,14 @@ Additional files to install:
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
-[**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183)  
-Faction outfits only act as disguises if you're an enemy of the faction and no longer "juggle" reputation - alleviating some associated bugs. Reputation penalties for crimes are reduced and Primm's reputation is fully restored.
-
-> **Misc Gameplay Merge** includes a similar mod, **Faction Armor Redone**, which fixes the reputation "juggle". We are installing this mod for its other features.
+[**Simple Reputation and Disguises**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Reputation%20and%20Disguises%201.3.0%20ESP%20Replacer.7z)  
+Reduces reputation penalties for crimes and restores Primm's reputation. [**Link**] to original mod by **PushTheWinButton**. Edit by **Sigourn**.
 
 [**Meat's Back On The Menu Boys**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
-Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. Additional YUP fixes by **Sigourn**.
+Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. YUP fixes forwarded by **Sigourn**.
 
-[**Tesla Cannon Chaining**](https://www.nexusmods.com/newvegas/mods/65711)  
-Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon.
+[**Tesla Cannon Chaining**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Tesla%20Cannon%20Chaining%202.2%20YUP.7z)  
+Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon. [**Link**](https://www.nexusmods.com/newvegas/mods/65711) to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
 
 ## OVERHAULS
 
@@ -322,8 +326,8 @@ Additional files to install:
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
 Collection of gameplay and balance tweaks.
 
-[**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
-Removes some map markers in an attempt to make exploration more interesting.
+[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -355,8 +359,8 @@ Additional files to install:
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
 The Here and Now perk now includes the original effects from Living Anatomy. 
 
-[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described.
+[**Meltdown NVSE Upgrade**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%201.3.2%20ESP%20Replacer.7z)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described. [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**. Perk requirements reverted by **Sigourn**.
 
 Additional files to install:
 - [**Meltdown NVSE Upgrade Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%20Custom%20INI.7z). Disables the Rampage feature and the Meltdown feature for companions.
@@ -367,9 +371,8 @@ Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile t
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls vanilla traits and adds two new ones.
 
-[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141)  
-New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits.
-- Install the **FNV Opposite Traits (YUP OWB)** main file.
+[**FNV Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Opposite%20Traits%201.4%20ESP%20Replacer.7z)  
+New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits. [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. Cleaned by **Sigourn**.
 
 [**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
 Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
@@ -474,11 +477,17 @@ Replaces the vanilla NCR vicious dogs with German Shepard models.
 Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
 - Install **Bighorner Model Variants - Standard**.
 
+Additional files to install:
+- [**Bighorner Model Variants YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bighorner%20Model%20Variants%202.0%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+
 [**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
 Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
 
-[**Companion Radiation Suit**](https://www.nexusmods.com/newvegas/mods/64224)  
-Companions wear a Radiation Suit when you do.
+Additional files to install:
+- [**Brahmin Variant Redux YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Brahmin%20Variant%20Redux%202.6%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+
+[**Companion Radiation Suit**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Companion%20Radiation%20Suit%201.5%20YUP.7z)  
+Companions wear a Radiation Suit when you do. [**Link**](https://www.nexusmods.com/newvegas/mods/64224) to original mod by **Mastahbossu**. YUP fixes forwarded by **Sigourn**.
 
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
@@ -493,18 +502,13 @@ The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated cr
 
 ### Environment
 
-[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
-Adds more tree and plant variants, implements 3D LODs, and improves grass.
-- Install **Wasteland Flora and Terrain Overhaul** first, and then install **Wasteland Flora Overhaul - Vanilla tree replacer with LOD**.
-- Hide **WFO - Vanilla.esp**.
-
-Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
-
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
 Replaces and adds bathrooms doors all over the Mojave Wasteland. People can finally take a dump in private.
 - FOMOD options to install:
   - [X] ALL IN ONE.
+
+Additional files to install:
+- [**Bathroom Doors Overhaul YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bathroom%20Doors%20Overhaul%201.3%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
@@ -549,6 +553,9 @@ Replaces the female Metal Armor helmets with their male counterparts.
 
 [**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
 Adds armored gloves to all Power Armors in the game.
+
+Additional files to install:
+- [**Power Armor Gloves YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
@@ -596,6 +603,9 @@ Retextures mist so that it isn't as much of an eyesore now.
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
+Additional files to install:
+- [**A Little More Lamplight YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+
 [**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
 Simple scripted interior lighting overhaul which darkens interior. Automatically works with any mod.
 
@@ -605,9 +615,6 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
   - [ ] The Living Desert
   - [X] Uncut Wasteland
   - [ ] Vault 22 Flora Overhaul Remastered
-
-[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds the Strip signs and moves the Strip buildings to where they should be.
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
@@ -641,8 +648,7 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 - Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
 
 Additional files to install:
-- **FNV RWL All DLC - Patch Collection** (under Optional files).
-- [**FNV Realistic Wasteland Lighting - All DLC Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%20Tweaks.7z). Includes changes to fog on clear weathers, Pip-Boy light, and other light sources.
+- [**FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%205.542%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes and solves compatibility issues with **DLC Enhancements**.
 - [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). Original SweetFX preset by **xCamoLegend**.
   - Extract the contents of the archive in your **Root** folder.
@@ -678,20 +684,18 @@ Replaces every explosion sound in the game.
 Additional files to install:
 - **All Explosion Sounds Overhaul SCRIPT Version** (under Optional files). Replaces the ESP with a scripted version that vastly improves compatibility with other mods. Made by **Qolore**.
 
-[**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
-Replaces level up sound and level up screen music with sounds from classic Fallout games.
-	
-[**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
-Replaces exp gain sound with the sound from classic Fallout games.
+[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
+As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
+
+[**Immersive Pickup Sounds**](https://www.nexusmods.com/newvegas/mods/61815)  
+Adds custom pickup sounds when looting different items.
+- Install **Immersive Pickup Sounds - Compatibility Version** (under Main files).
 
 [**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
 Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
 
 Additional files to install:
 - [**Empty Clicks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Empty%20Clicks%20Custom%20INI.7z). Enables animations in both first and third person views, and realistic mode.
-
-[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
-As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 
 [**More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/68605)  
 Increases the Pip-Boy Geiger clicking beyond the vanilla default.
@@ -704,6 +708,12 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 - Install the **Female Nuka-Cola Drinking Sound replacer** main file.
 
 > Because this mod replaces the vanilla sound, you should only use it when playing a female character.
+
+[**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
+Replaces level up sound and level up screen music with sounds from classic Fallout games.
+	
+[**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
+Replaces exp gain sound with the sound from classic Fallout games.
 
 ## LOD RESOURCES
 
@@ -723,6 +733,17 @@ Adds extra meshes for LOD generation.
 
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
+
+[**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
+Adds more tree and plant variants, implements 3D LODs, and improves grass.
+- Install **Wasteland Flora and Terrain Overhaul** first, and then install **Wasteland Flora Overhaul - Vanilla tree replacer with LOD**.
+- Hide **WFO - Vanilla.esp**.
+
+Additional files to install:
+- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds the Strip signs and moves the Strip buildings to where they should be.
 
 ## Finishing touches
 
@@ -1281,6 +1302,20 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 19th</summary>
+
+- Removed optional sections. Because the optional mods is where this guide begins to distinguish itself from **Viva New Vegas**, there was no point to keep them hidden. Instead, a star has been added next to each mod, to identify the most recommended of them.
+- Separated mods inside a same category into sub-categories, mirroring my Morrowind guide.
+- Removed most FNVEdit instructions in favor of ESP replacers. The few instructions remaining were left untouched since they address regularly updated mods.
+- 🆕 (Overhauls, Balance) Added **New Vegas Economy Improved**.
+- 🆕 (Visuals, VFX) Added **Burning Campfire REDONE**.
+- 🆕 (Visuals, VFX) Added **IMPACT**.
+- 🆕 (Visuals, VFX) Added **EXE - Effect teXtures Enhanced**.
+- 🆕 (Visuals, VFX) Added **Enhanced Blood Textures**.
+- 🆕 (Audio) Added **Immersive Pickup Sounds**.
+</details>
 
 <details>
 	<summary>December 19th</summary>
