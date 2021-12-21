@@ -359,8 +359,8 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files).
-- [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
-- [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
+- [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
+- [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
@@ -376,8 +376,8 @@ Additional files to install:
 - **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
 - **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
 
-[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)  
-Collection of gameplay and balance tweaks.
+[**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer.7z)  
+Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Edited for compatibility with **Mojave Arsenal** and **Mojave Raiders**.
 
 [**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
 Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
@@ -398,6 +398,9 @@ Upscales icons from a selection of mods.
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%201.0.7z)  
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
@@ -452,7 +455,6 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 
 Additional files to install:
 - [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
-- [**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Mojave%20Raiders%20Tweaks.7z). Small collection of balance and consistency tweaks for Mojave Raiders. Made by **Qolore**.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -938,7 +940,7 @@ Meat's Back On The Menu Boys
 Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
-JSawyer Ultimate Edition Tweaks
+JSawyer Ultimate Edition - Qolore's Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Armor Damage Overhaul
@@ -952,6 +954,7 @@ Mojave Arsenal
 Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Player Combat Priority
+Thrown Weapon Tweaks
 New Vegas Economy Improved
 Unfound Loot
 Unfound Loot Custom INI
@@ -966,7 +969,6 @@ Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
-Mojave Raiders Tweaks
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Improved LOD Noise Texture
 Anniversary Anim Pack
@@ -1143,7 +1145,7 @@ Simple Reputation and Disguises.esp
 Meat's Back on the Menu Boys.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSUE Tweaks.esp
+JSawyer Ultimate - Qolore's Tweaks.esp
 YUP - JSUE Patch.esp
 WMIM - JSUE Patch.esp
 Throwable Fixes - JSUE Patch.esp
@@ -1157,6 +1159,7 @@ Less Map Markers.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 Player Combat Priority.esp
+Thrown Weapon Tweaks.esp
 NV Economy Improved.esp
 Unfound Loot.esp
 MigAnatomy.esp
@@ -1173,7 +1176,6 @@ Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
-Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 Diagonal movement.esp
 360Movement.esp
@@ -1415,6 +1417,16 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 21st Hot Update</summary>
+
+- ⚠️ (Overhauls, Balance) Updated **JSUE Tweaks** to remove redundant records already included in **Miscellaneous Tweaks Collection**. Also renamed the mod to **JSawyer Ultimate Edition - Qolore's Tweaks**.
+- ⚠️ (Overhauls, Balance) Updated **JSawyer Ultimate Edition Patches**. 
+- ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks Collection** for compatibility with **Mojave Arsenal** and **Mojave Raiders**. Functionally the mod remains the same when following the recommended load order.
+- ⚠️ (Overhauls, Balance) Replaced **Mojave Raiders Tweaks** with **Thrown Weapon Tweaks**.
+- ⚠️ (INI Config) Increased max amount of dialogue topics in **Vanilla UI Plus**.
+</details>
 
 <details>
 	<summary>December 21st</summary>
