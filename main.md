@@ -727,8 +727,6 @@ Adds extra meshes for LOD generation.
 
 The mod order dictates the priority a given mod's assets have over the mods installed before it. Respect this order to ensure assets are overwritten as intended.
 
-> Indented you will find mods from the optional sections of the guide.
-
 <details>
 <summary>Mod order</summary>
 
@@ -947,8 +945,6 @@ Better Strip View
 </details>
 
 The load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. Respect this order to ensure plugin records are overridden as intended.
-
-> Indented you will find mods from the optional sections of the guide.
 
 <details>
 <summary>Load order</summary>
