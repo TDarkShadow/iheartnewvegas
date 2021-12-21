@@ -1,6 +1,6 @@
 # LEFT MY ♥ IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 15th, 2021
+Last updated: December 21st, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/Banner.jpg)
 
@@ -23,7 +23,7 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 This guide is split in two sections:
 
 - [**Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). Includes setting up utilities and tools, as well as Mod Organizer 2. This section will be useful to anyone deciding to get into Fallout: New Vegas.
-- [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and LOD generation. Mods are grouped by categories, and each category has an Optional section if you wish to install even more mods (however, the most important will have already been covered).
+- [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md). Includes all mods we will be installing, including instructions for mod and load order, conflict resolution, configuration, and LOD generation.
 
 I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
