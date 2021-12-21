@@ -17,7 +17,7 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 - Extract the contents of the archive and run **cpu_info.exe**. It will determine which file you need to install.
 - Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) in your game's **Root** folder.
 
-> This mod is a modern alternative to [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
+> ℹ️ This mod is a modern alternative to [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832).
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
@@ -192,7 +192,7 @@ Greatly improves the user interface without compromising the original style.
   - [X] Plugin
   - [X] WASD Compatible 
 
-> The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
+> ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -318,7 +318,7 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 Additional files to install:
 - [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Dec%2014th).7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
 
-> For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
+> ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
 [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
 Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
@@ -363,7 +363,7 @@ Additional files to install:
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z). Reduces loot, and disables the new Wasteland Merchant and Deranged Bright Brotherhood members. Made by **Qolore**.
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
-> It is recommended that you play New Vegas at **Hard** difficulty or lower.
+> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
 Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
@@ -394,7 +394,7 @@ Upscales icons from a selection of mods.
   - [X] Alternative Repairing
   - [X] Mojave Arsenal
 
-> Note that, if you wish, you can simply install all default options. This however adds a lot of unnecessary files to your computer.
+> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
@@ -618,7 +618,7 @@ Additional files to install:
 Makes the visors of all the Ranger Helmets have a glowing effect.
 - Install **Simple Glowing Ranger Visors (No Neck Covers)**.
 
-> The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+> ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
 
 [**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
 Replaces the male Motorcycle helmet with its female counterpart.
@@ -655,7 +655,7 @@ Additional files to install:
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
 - Install **IMPACT - The Michael Bay** (Main files).
 
-> If my computer can run this mod, yours probably can too.
+> ℹ️ My computer can run this version without issues. Check the **Readme** front page to compare your build against mine and decide for yourself which option you'd like to install.
 
 Additional files to install:
 - [**IMPACT - Compatibility Edition**](https://www.nexusmods.com/newvegas/mods/62050). Plugin replacer that automatically patches all weapons in the game, DLC, and mods, to have the appropriate shell csings and Impact Data Sets based on their ammo types.
@@ -719,7 +719,7 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 Removes the fake interior light rays and tones the exterior light beams down dramatically. 
 - Hide **Subtle Light Beams and Rays.esp**.
 
-> This restores interior light rays.
+> ℹ️ This restores interior light rays.
 
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
@@ -740,7 +740,7 @@ High quality retexture for night sky and moon.
     - [X] Low-glow Moon.
 - Copy **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
 
-> This will also apply the new night sky texture to Zion.
+> ℹ️ This will also apply the new night sky texture to Zion.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
@@ -1321,7 +1321,7 @@ uWMChanceMin=5
 uWMChanceMax=15
 ```
 
-> Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+> ℹ️ Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
 
 **Vanilla UI Plus**:
 - Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
@@ -1332,7 +1332,7 @@ uWMChanceMax=15
 <_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
 ```
 
-> Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
+> ℹ️ Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
 
 **No Muzzle Flash Lights (Optional)**:
 - Double-click the installed mod to open the **Information...** window.
@@ -1343,7 +1343,7 @@ uWMChanceMax=15
 iMuzzleFlashLightsMode = 1
 ```
 
-> Disables muzzle flash lights for both player and NPCs.
+> ℹ️ Disables muzzle flash lights for both player and NPCs.
 
 **Ending Slideshows Ultimate Edition Overhaul (Optional)**:
 - Double-click the installed mod to open the **Information...** window.
@@ -1355,7 +1355,7 @@ bTrueLonesomeRoad=1
 bNoDeadMoneyTeleport=1
 ```
 
-> Stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
+> ℹ️ Stops the game from teleporting the player to the DLC entrance at both Dead Money and Lonesome Road.
 
 **falloutcustom.ini (Optional)**:
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
@@ -1373,7 +1373,7 @@ uPipboyColor=1022886143
 uHUDColor=1022886143
 ```
 
-> Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; tweaks the interface color to match that of classic Fallout.
+> ℹ️ Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; tweaks the interface color to match that of classic Fallout.
 
 **SweetFX (Optional)**:
 - Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
@@ -1383,7 +1383,7 @@ USE_VIBRANCE = 1
 USE_CURVES = 1
 ```
 
-> This restores the SweetFX preset to RWLE's original configuration.
+> ℹ️ Restores the SweetFX preset to RWLE's original configuration.
 
 # MOD KEYBINDINGS
 
