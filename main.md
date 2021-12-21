@@ -1417,7 +1417,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - Moved Mod Organizer 2 instructions to the **Setup** document.
 - Moved xNVSE plugins to the **Main** document, after instructions on how to install Mod Organizer 2 have been given in **Setup**.
-- Merged optional mods with the rest. These are what set this guide apart from **Viva New Vegas**, meaning there was no point in keeping them hidden.
+- Merged optional mods with the rest. These are what set this guide apart from **Viva New Vegas**, meaning there was no point in keeping them hidden. A star has been added next to the most important mods, however.
 - Separated categories into sub-categories, mirroring my Morrowind guide.
 - Removed most **FNVEdit** instructions in favor of ESP replacers. Mods that are regularly updated still include FNVEdit instructions.
 - 🆕 (User interface, Menus) Added **Vanilla Loading Screens HD**.
