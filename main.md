@@ -152,9 +152,7 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
-- Install **Female White Glove Society Mask JSUE** (Main files).
-
-> ⚠️ This plugin requires **JSawyer Ultimate Edition**, which we will install in **Overhauls**.
+- Install **Female White Glove Society Mask** (Main files).
 
 [**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
 Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
@@ -290,6 +288,7 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
 
 Additional files to install:
+- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files). We will install **JSawyer Ultimate Edition** in **Overhauls**.
 - [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
@@ -368,16 +367,12 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files).
 - [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
-- [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
-- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
+- [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+  - BAIN options to install:
+    - [X] AIO Fixes
+  - Hide **Female White Glove Society.esp**. This collection already includes it.
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
-
-[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
-Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
-
-[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
 
 [**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer.7z)  
 Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Edited for compatibility with **Mojave Arsenal** and **Mojave Raiders**.
@@ -396,12 +391,6 @@ Upscales icons from a selection of mods.
 
 > ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
 
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%201.0.7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
-
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
 - Install **New Vegas Economy Improved** (Main files).
@@ -412,6 +401,18 @@ Dynamically lowers the amount of loot in the game.
 
 Additional files to install:
 - [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
+
+[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
+
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%201.0.7z)  
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
+
+[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
+Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
 
 ### Perks and traits
 
@@ -828,7 +829,7 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and new variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Edited to remove all new trees and variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds the Strip signs and moves the Strip buildings to where they should be.
@@ -945,19 +946,19 @@ Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition - Qolore's Tweaks
-JSawyer Ultimate Edition Patches
+JSawyer Ultimate Edition Fixes
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
-Armor Damage Overhaul
-Less Map Markers
 Miscellaneous Tweaks Collection
 Mojave Arsenal
 Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-Player Combat Priority
-Thrown Weapon Tweaks
 New Vegas Economy Improved
 Unfound Loot
 Unfound Loot Custom INI
+Less Map Markers
+Player Combat Priority
+Thrown Weapon Tweaks
+Armor Damage Overhaul
 Anatomic Perks
 Meltdown NVSE Upgrade ESP Replacer
 Meltdown NVSE Upgrade Custom INI
@@ -1148,20 +1149,17 @@ Meat's Back on the Menu Boys.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate - Qolore's Tweaks.esp
-YUP - JSUE Patch.esp
-WMIM - JSUE Patch.esp
-Throwable Fixes - JSUE Patch.esp
-Female White Glove Society Mask JSUE.esp
+JSawyer Ultimate - AIO Fixes.esp
 Misc Gameplay Merge - JSUE Patch.esp
-MigArmorDegen.esp
-Less Map Markers.esp
 Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-Player Combat Priority.esp
-Thrown Weapon Tweaks.esp
 NV Economy Improved.esp
 Unfound Loot.esp
+Less Map Markers.esp
+Player Combat Priority.esp
+Thrown Weapon Tweaks.esp
+MigArmorDegen.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
@@ -1410,7 +1408,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>December 21st Hot Update</summary>
 
 - ⚠️ (Overhauls, Balance) Updated **JSUE Tweaks** to remove redundant records already included in **Miscellaneous Tweaks Collection**. Also renamed the mod to **JSawyer Ultimate Edition - Qolore's Tweaks**.
-- ⚠️ (Overhauls, Balance) Updated **JSawyer Ultimate Edition Patches**. 
+- ⚠️ (Overhauls, Balance) Updated **JSawyer Ultimate Edition Fixes**. Removed redundant records from the YUP patch, and made an AIO plugin to reduce plugin count. 
 - ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks Collection** for compatibility with **Mojave Arsenal** and **Mojave Raiders**. Functionally the mod remains the same when following the recommended load order.
 - ⚠️ (Overhauls, Balance) Replaced **Mojave Raiders Tweaks** with **Thrown Weapon Tweaks**.
 - ⚠️ (INI Config) Increased max amount of dialogue topics in **Vanilla UI Plus**.
