@@ -692,6 +692,9 @@ Additional files to install:
 [**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
 Simple scripted interior lighting overhaul which darkens interior. Automatically works with any mod.
 
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
+
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 - Check the following option in the FOMOD installer.
@@ -709,16 +712,6 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [ ] Extras None
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
-
-Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
 [**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
 Removes the fake interior light rays and tones the exterior light beams down dramatically. 
@@ -1040,11 +1033,9 @@ HD Mist
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Simple Interior Lighting Overhaul
+Strip Lighting Overhaul
 Strip Lights Region Fix
 Lucky 38 Lights Redone
-More Subtle New Vegas Light Pollution - Slightly Brighter
-More Subtle New Vegas Light Pollution Better Strip View Patch
-Strip Lighting Overhaul
 Subtle Light Beams and Rays
 FNV Realistic Wasteland Lighting
 FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer
@@ -1216,13 +1207,11 @@ Immersive Primary Needs.esp
 hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
 Little More Lamplight.esp
+Strip Lighting Overhaul.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Better Strip View.esp
 Lucky 38 Lights Redone.esp
-vegasglow.esp
-More Subtle New Vegas Light Pollution Better Strip View Patch.esp
-Strip Lighting Overhaul.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Strip Lights AIO Patch.esp
 Mojave Nights.esp
@@ -1412,6 +1401,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks Collection** for compatibility with **Mojave Arsenal** and **Mojave Raiders**. Functionally the mod remains the same when following the recommended load order.
 - ⚠️ (Overhauls, Balance) Replaced **Mojave Raiders Tweaks** with **Thrown Weapon Tweaks**.
 - ⚠️ (INI Config) Increased max amount of dialogue topics in **Vanilla UI Plus**.
+- 🚫 (Visuals, Weather and Lighting) Removed **More Subtle New Vegas Light Pollution**.
 </details>
 
 <details>
