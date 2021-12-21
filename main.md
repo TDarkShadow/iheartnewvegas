@@ -357,7 +357,7 @@ Additional files to install:
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link to original mod.**](https://www.nexusmods.com/newvegas/mods/71577?)
-- [**For a comparison between vanilla and fixed, see this.**](https://imgsli.com/ODY2MzE)
+- [**Visual comparison.**](https://imgsli.com/ODY2MzE)
 
 ### Environment
 
