@@ -1420,6 +1420,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Merged optional mods with the rest. These are what set this guide apart from **Viva New Vegas**, meaning there was no point in keeping them hidden.
 - Separated categories into sub-categories, mirroring my Morrowind guide.
 - Removed most **FNVEdit** instructions in favor of ESP replacers. Mods that are regularly updated still include FNVEdit instructions.
+- ⚠️ (Visuals, Weather and lighting) Modified **FNV Realistic Wasteland Lighting** installation instructions.
 - 🆕 (User interface, Menus) Added **Vanilla Loading Screens HD**.
 - 🆕 (Overhauls, Balance) Added **New Vegas Economy Improved**.
 - 🆕 (Visuals, VFX) Added **Burning Campfire REDONE**.
