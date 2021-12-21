@@ -164,6 +164,9 @@ High-res satellite map for the Mojave Wasteland.
 Additional files to install:
 - [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
 
+[**Vanilla Loading Screens HD**](https://www.nexusmods.com/newvegas/mods/63222)  
+Doubles the resolution of the textures of loading screen artwork, improving crispness and fidelity.
+
 ### Icons
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
@@ -345,6 +348,10 @@ Upscales icons from a selection of mods.
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
+Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
+- Install **New Vegas Economy Improved** (under Main files).
 
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
@@ -588,6 +595,27 @@ Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeleto
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
 
+[**Burning Campfire Redone**](https://www.nexusmods.com/newvegas/mods/63623)  
+Lights up campfires when activating them.
+
+Additional files to install:
+- [**Burning Campfire Redone 2**](https://www.nexusmods.com/newvegas/mods/68181). Improves the original mod and adds support for Honest Hearts' campfires.
+
+[**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
+Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
+- Install **IMPACT - The Michael Bay** (under Main files).
+
+> If my computer can run this mod, yours probably can too.
+
+Additional files to install:
+- [**IMPACT - Compatibility Edition**](https://www.nexusmods.com/newvegas/mods/62050). Plugin replacer that automatically patches all weapons in the game, DLC, and mods, to have the appropriate shell csings and Impact Data Sets based on their ammo types.
+
+[**EXE - Effect teXtures Enhanced**](https://www.nexusmods.com/newvegas/mods/62989)  
+Remakes all visual effects in the game.
+
+[**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
+Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
+
 [**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
 Retextures dust storms so they aren't as much of an eyesore now.
 
@@ -725,8 +753,14 @@ Vastly improves the LOD noise texture used on all distant land.
 Adds extra meshes for LOD generation.
 - Install the **FNVLODGen Resources** main file.
 
+Additional files to install:
+- [**FNVLODGen Resources ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNVLODGen%20Resources%201.1%20ESP%20Replacer.7z). Compatible with **Wasteland Flora and Terrain Overhaul**.
+
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
+
+Additional files to install:
+- [**LOD Additions and Improvements YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%201.0.7%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
@@ -744,6 +778,9 @@ Additional files to install:
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds the Strip signs and moves the Strip buildings to where they should be.
+
+Additional files to install:
+- [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z). Cleaned by **Sigourn**.
 
 ## Finishing touches
 
@@ -1004,138 +1041,140 @@ ClassicPack.esm
 MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
-Navmesh Fixes and Improvements.esm
 YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
+Navmesh Fixes and Improvements.esm
 Misc Gameplay Merge.esm
 Character Expansions Revised.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
-WMIMNV.esp
-ThrowableFixes.esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
-	MigCrippled.esp
-	MigGaussFix.esp
-	PyromaniacEffectsBuff.esp
-	Dirty Pre-War Businesswear Fix.esp
-	Female White Glove Society Mask.esp
-	LessFlickeryCityOfNewVegas.esp
+MigCrippled.esp
+MigGaussFix.esp
+PyromaniacEffectsBuff.esp
+WMIMNV.esp
+ThrowableFixes.esp
+Dirty Pre-War Businesswear Fix.esp
+LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
-JIP Improved Recipe Menu.esp
 Vanilla UI Plus.esp
-map_icon_overhaul.esp
+JIP Improved Recipe Menu.esp
 Better Character Creation.esp
+Delayed Malcolm.esp
+Ending Slideshows Ultimate Edition Overhaul.esp
+Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
-	Delayed Malcolm.esp
-	Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
-ImmersiveRecoil.esp
 JamFix.esp
-JustAssortedMods.esp
-MeleeCleave.esp
 MigAAMines.esp
 MigKao.esp
+migWellRested.esp
+Honest Hearts Workbench Crate Luck.esp
+Lobotomitess.esp
+Rigged Shotgun Restoration - Lore-Friendly.esp
+Alternative Repairing.esp
+Alternative Repairing - Honest Hearts.esp
+Alternative Repairing - Lonesome Road.esp
+JustAssortedMods.esp
+Fast Travel Requirements.esp
+MeleeCleave.esp
 NPCsSprint.esp
-Player Combat Priority.esp
 hz_Precise VATS.esp
-Quick Grenade Hotkey.esp
+RAD.esp
 Simple Explosive Entry.esp
 Simple Reputation and Disguises.esp
-migWellRested.esp
-	Honest Hearts Workbench Crate Luck.esp
-	Lobotomitess.esp
-	Meat's Back on the Menu Boys.esp
-	Rigged Shotgun Restoration - Lore-Friendly.esp
+Meat's Back on the Menu Boys.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSUE Tweaks.esp
 YUP - JSUE Patch.esp
 WMIM - JSUE Patch.esp
 Throwable Fixes - JSUE Patch.esp
+Female White Glove Society Mask JSUE.esp
 Misc Gameplay Merge - JSUE Patch.esp
+MigArmorDegen.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Miscellaneous Tweaks.esp
 Less Map Markers.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-RAD.esp
+Player Combat Priority.esp
+NV Economy Improved.esp
 Unfound Loot.esp
-	Alternative Repairing.esp
-	Alternative Repairing - Honest Hearts.esp
-	Alternative Repairing - Lonesome Road.esp
-	MigArmorDegen.esp
-	MigAnatomy.esp
-	MigMeltdown.esp
-	MigFortune.esp
-	MigTeslaChain.esp
-	Improved Traits.esp
-	Improved Traits Improved.esp
-	Improved Traits - JSUE Patch.esp
-	FNVOppositeTraits.esp
-	FNVOppositeTraits Improved.esp
-	FNVOppositeTraits Improved - JSUE Patch.esp
-	Fast Travel Requirements.esp
+MigAnatomy.esp
+MigMeltdown.esp
+MigFortune.esp
+MigTeslaChain.esp
+Improved Traits.esp
+Improved Traits Improved.esp
+Improved Traits - JSUE Patch.esp
+FNVOppositeTraits.esp
+FNVOppositeTraits Improved.esp
+FNVOppositeTraits Improved - JSUE Patch.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Raiders Tweaks.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
+Diagonal movement.esp
+ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
+360Movement.esp
+360Movement - Diagonal movement Patch.esp
+Companions Combat-Ready.esp
+Empty Weapons.esp
 FOVSlider.esp
-MCPipBoy2000MK6_clock.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
 Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
-	Diagonal movement.esp
-	360Movement.esp
-	360Movement - Diagonal movement Patch.esp
-	Companions Combat-Ready.esp
-	Companion Radiation Suit.esp
-	Empty Weapons.esp
-	Bathroom Doors Overhaul - ALL IN ONE.esp
-	Windows of the Mojave v1.2.1.esp
-	Lucky 38 intro poster.esp
-	ImprovedGeckoLeatherArmor.esp
-	ImprovedGeckoLeatherArmor JSUE Patch.esp
-	Metal Helmet Female Replacements.esp
-	lexx_armored_pagloves.esp
-	Alsatian NCR Guard Dogs.esp
-	CIB Bighorners.esp
-	CIB Bighorners - HH.esp
-	lexx_brahmin-variant.esp
-	Skinny Bears.esp
-	All Weapon Sounds Overhaul.esp
-	All Weapon Sounds Overhaul WMIM Patch.esp
-	Explosive Sounds Overhaul.esp
-	hz_Empty Clicks.esp
-	Immersive Primary Needs.esp
-	More Accurate Geiger Clicking.esp
-Vurt's WFO.esp
+Alsatian NCR Guard Dogs.esp
+CIB Bighorners.esp
+CIB Bighorners - HH.esp
+lexx_brahmin-variant.esp
+Companion Radiation Suit.esp
+Skinny Bears.esp
+Bathroom Doors Overhaul - ALL IN ONE.esp
+Lucky 38 intro poster.esp
+Windows of the Mojave v1.2.1.esp
+Metal Helmet Female Replacements.esp
+MCPipBoy2000MK6_clock.esp
+lexx_armored_pagloves.esp
+ImprovedGeckoLeatherArmor.esp
+ImprovedGeckoLeatherArmor JSUE Patch.esp
+Burning Campfire.esp
+BC2.esp
+IMPACT.esp
+dD - Enhanced Blood Main NV.esp
+All Weapon Sounds Overhaul.esp
+All Weapon Sounds Overhaul WMIM Patch.esp
+Explosive Sounds Overhaul.esp
+ImmersivePickupSoundsFNV.esp
+Immersive Primary Needs.esp
+hz_Empty Clicks.esp
+More Accurate Geiger Clicking.esp
 Little More Lamplight.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Better Strip View.esp
-	vegasglow.esp
-	More Subtle New Vegas Light Pollution Better Strip View Patch.esp
 Lucky 38 Lights Redone.esp
+vegasglow.esp
+More Subtle New Vegas Light Pollution Better Strip View Patch.esp
 Strip Lighting Overhaul.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
-FNV RWL All DLC - Brighter Nights.esp
-FNV RWL All DLC - No Overcast Weather.esp
-FNV Realistic Wasteland Lighting - All DLC Tweaks.esp
 FNV RWL All DLC - Strip Lights AIO Patch.esp
 Mojave Nights.esp
+Vurt's WFO.esp
 FNVLODGen.esp
 tmzLODadditions.esp
 ```
