@@ -408,7 +408,7 @@ Removes some map markers in an attempt to make exploration more interesting. [**
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
 
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%201.0.7z)  
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
 NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
 
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
@@ -544,7 +544,7 @@ Additional files to install:
 Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
 
 Additional files to install:
-- [**Brahmin Variant Redux YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Brahmin%20Variant%20Redux%202.6%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+- [**Brahmin Variant Redux YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Brahmin%20Variant%20Redux%202.6%20YUP%20ESP%20Replacer%20(Dec%2022nd).7z). Forwards YUP fixes.
 
 [**Companion Radiation Suit**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Companion%20Radiation%20Suit%201.5%20YUP.7z)  
 Companions wear a Radiation Suit when you do. [**Link**](https://www.nexusmods.com/newvegas/mods/64224) to original mod by **Mastahbossu**. YUP fixes forwarded by **Sigourn**.
@@ -1173,7 +1173,7 @@ ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
 Companions Combat-Ready.esp
-Empty Weapons.esp
+EmptyWeapons.esp
 FOVSlider.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
