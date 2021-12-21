@@ -774,76 +774,85 @@ NVTF Custom INI
 FNV Mod Limit Fix
 Improved Lighting Shaders
 Console Paste Support
-Navmesh Fixes and Improvements
 Yukichigai Unofficial Patch - YUP
 Landscape Disposition Fix
+Navmesh Fixes and Improvements
+Unofficial Patch NVSE Plus
+lStewieAl's Tweaks
+lStewieAl's Tweaks INI
+Ammo Burst Case Count Fix
+Ammo Script Fixes
+Critical and Effects - Fixes and Tweaks
+Crippled Limb Reaction Enforcer
+Gauss Rifle VATS Fix - JIP
+Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 Throwable Weapon Fixes
-Unofficial Patch NVSE Plus
-Ammo Burst Case Count Fix
-Ammo Script Fixes
-Critical and Effects - Fixes and Tweaks
-lStewieAl's Tweaks
-lStewieAl's Tweaks INI
-	Crippled Limb Reaction Enforcer
-	Gauss Rifle VATS Fix - JIP
-	Universal Pyromaniac Buff for Fire Effects
-	Dirty Pre-War Businesswear Fix
-	Female White Glove Society Mask Fix
-	Gun Runners Kiosk Glass Fix Alternate Version
-	Less Flickery City of New Vegas
-	No More Dust Devils (and Whirlwinds)
-	No Muzzle Flash Lights
+Dirty Pre-War Businesswear Fix
+Female White Glove Society Mask JSUE
+Gun Runners Kiosk Glass Fix Alternate Version
+Less Flickery City of New Vegas
+No More Dust Devils (and Whirlwinds)
+No Muzzle Flash Lights
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
-JIP Improved Recipe Menu
 Vanilla UI Plus (New Vegas)
 Clean Vanilla HUD
 Clean Companion Wheel
+JIP Improved Recipe Menu
+Satellite World Map
+Satellite Maps DLC
+Vanilla Loading Screens HD
 Consistent Pip-Boy Icons
 Consistent Addon Icons
 Consistent Glow Icons
 Consistent Pip-Boy Icons Vanilla UI Plus Patch
-	Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
-Satellite World Map
-Satellite Maps DLC
+Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Better Character Creation
+Delayed Malcolm
+Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
-Simple DLC Delay
-Snowglobe Tweaks Fix
-	Delayed Malcolm
-	Ending Slideshows Ultimate Edition Overhaul
-Essential DLC Enhancements Merged
-Follower Formula Redone
-Follower Tweaks
-Immersive Recoil 2.0
-Jamming Fix and Optional Tweaks
-JAM - Just Assorted Mods
-JAM - Just Assorted Mods Custom INI
-Melee Cleave (a.k.a. Sweep)
-Misc Gameplay Merge
-Mine and Explosion Tweaks
-Mostly Unarmed Tweaks
-NPCs Sprint In Combat
-Player Combat Priority
-Precise VATS (and actually useful Perception)
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
+Simple DLC Delay
+Snowglobe Tweaks Fix
+Essential DLC Enhancements Merged
+Follower Formula Redone
+Follower Formula Redone ESP Replacer
+Follower Tweaks
+Jamming Fix and Optional Tweaks
+Misc Gameplay Merge
+Misc Gameplay Merge YUP ESM Replacer
+Mine and Explosion Tweaks
+Mostly Unarmed Tweaks
+Well Rested Overhaul YUP
+Honest Hearts Workbench Crate Luck
+Lobotomite Tweaks
+Rigged Shotgun Restoration - Lore-Friendly
+Alternative Repairing
+Alternative Repairing ESP Replacer
+Alternative Repairing Custom INI
+JAM - Just Assorted Mods
+JAM - Just Assorted Mods Custom INI
+Immersive Fast Travel Requirements
+Melee Cleave (a.k.a. Sweep)
+NPCs Sprint In Combat
+Precise VATS (and actually useful Perception)
+RAD - Radiation (is) Actually Dangerous
+RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
-Simple Reputation and Disguises
-Well Rested Overhaul
-	Honest Hearts Workbench Crate Luck
-	Lobotomite Tweaks
-	Meat's Back On The Menu Boys
-	Rigged Shotgun Restoration - Lore-Friendly
+Simple Reputation and Disguises ESP Replacer
+Meat's Back On The Menu Boys
+Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition Tweaks
 JSawyer Ultimate Edition Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
+Armor Damage Overhaul
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -851,24 +860,19 @@ Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Miscellaneous Tweaks Collection
 Less Map Markers
 Mojave Arsenal
+Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-RAD - Radiation (is) Actually Dangerous
-RAD - Radiation (is) Actually Dangerous - Overhaul
+Player Combat Priority
+New Vegas Economy Improved
 Unfound Loot
 Unfound Loot Custom INI
-	Alternative Repairing
-	Alternative Repairing ESP Replacer
-	Alternative Repairing Custom INI
-	Consistent Pip-Boy Icons Mod Patches
-	Armor Damage Overhaul
-	Anatomic Perks
-	Meltdown NVSE Upgrade
-	Miss Fortune NVSE Upgrade
-	Tesla Cannon Chaining
-	Improved Traits
-	FNV Opposite Traits (YUP OWB)
-	Improved Opposite Traits and JSUE Patches
-	Immersive Fast Travel Requirements
+Anatomic Perks
+Meltdown NVSE Upgrade ESP Replacer
+Meltdown NVSE Upgrade Custom INI
+Miss Fortune NVSE Upgrade
+Improved Traits
+FNV Opposite Traits ESP Replacer
+Improved Opposite Traits and JSUE Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
@@ -879,18 +883,19 @@ Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
+Diagonal Movement
+Immersive Recoil
+Immersive Recoil Custom INI
 Viewmodel Recoil
 B42 Weapon Inertia
-Diagonal Movement
 NV Compatibility Skeleton
 360 Movement
+Companions Combat-Ready
+Empty Weapons
+Tweaked Standing Idle
+Tweaked Standing Idle Fix
 FOV Slider
 FOV Slider Custom INI
-Pip-Boy 2000 Mk VI
-Pip-Boy 2000 Mk VI Working Date and Clock
-Pip-Boy 2000 Mk VI Working Buttons
-Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
-NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -898,73 +903,88 @@ Character Expansions Revised - UW
 Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
 FaceGen Tint Fixes for Character Expansions Revised
+Alsatian NCR Guard Dogs
+Bighorner Model Variants
+Bighorner Model Variants YUP ESP Replacer
+Brahmin Variant Redux
+Brahmin Variant Redux YUP ESP Replacer
+Companion Radiation Suit
+Securitrons in CRT
+OWB in CRT
+Healthier Yao Guai
+Bathroom Doors Overhaul
+Bathroom Doors Overhaul YUP ESP Replacer
+Lucky 38 Intro Poster
+Lucky 38 Mainframe No Fingerprints
+McCarran Escalator Glass
+McCarran Main Terminal Transparent Glass
+Windows of the Mojave
+Windows Redux
+Lonesome Road Carbon Shadow Fix
+Pip-Boy 2000 Mk VI
+Pip-Boy 2000 Mk VI Working Date and Clock
+Pip-Boy 2000 Mk VI Working Buttons
+Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
+NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+Lower-sitting Ranger Hat
+Metal Helmets - Female Replacements
+Power Armor Gloves
+Power Armor Gloves YUP ESP Replacer
+Simple Glowing Ranger Visors
+Unisex Motorcycle Helmets
+Worn-Out Scope Crosshair Replacers
+Honest Hearts Gecko Leathers Improved
+Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
+Y-17 Trauma Override Harness GLOVES
+Better Gas Leak Effect
+Burning Campfire REDONE
+Burning Campfire REDONE 2
+IMPACT
+IMPACT - Compatibility Edition
+EXE - Effect teXtures Enhanced
+HQ Dust Storm FX
+HQ Dust Storm FX - Dust Storm Meshes
+HD Mist
 A Little More Lamplight
+A Little More Lamplight YUP ESP Replacer
 Simple Interior Lighting Overhaul
 Strip Lights Region Fix
 Lucky 38 Lights Redone
+More Subtle New Vegas Light Pollution - Slightly Brighter
+More Subtle New Vegas Light Pollution Better Strip View Patch
 Strip Lighting Overhaul
+Subtle Light Beams and Rays
 FNV Realistic Wasteland Lighting
-FNV RWL All DLC - Patch Collection
-FNV Realistic Wasteland Lighting - All DLC Tweaks
+FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer
 FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
-	Companions Combat-Ready
-	Companion Radiation Suit
-	Empty Weapons
-	Tweaked Standing Idle
-	Tweaked Standing Idle Fix
-	Better Gas Leak Effect
-	HQ Dust Storm FX
-	HQ Dust Storm FX - Dust Storm Meshes
-	HD Mist
-	More Subtle New Vegas Light Pollution - Slightly Brighter
-	More Subtle New Vegas Light Pollution Better Strip View Patch
-	Subtle Light Beams and Rays
-	Bathroom Doors Overhaul
-	Windows of the Mojave
-	Windows Redux
-	McCarran Main Terminal Transparent Glass
-	McCarran Escalator Glass
-	Lucky 38 Intro Poster
-	Lucky 38 Mainframe No Fingerprints
-	Honest Hearts Gecko Leathers Improved
-	Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
-	Lower-sitting Ranger Hat
-	Metal Helmets - Female Replacements
-	Power Armor Gloves
-	Simple Glowing Ranger Visors
-	Unisex Motorcycle Helmets
-	Worn-Out Scope Crosshair Replacers
-	Alsatian NCR Guard Dogs
-	Bighorner Model Variants
-	Brahmin Variant Redux
-	Securitrons in CRT
-	OWB in CRT
-	Healthier Yao Guai
-	Y-17 Trauma Override Harness GLOVES
-	Lonesome Road Carbon Shadow Fix
-	All Weapon Sounds Overhaul
-	All Weapon Sounds Overhaul ESP Replacer
-	All Weapon Sounds Overhaul WMIM Patch
-	All Explosion Sounds Overhaul
-	All Explosion Sounds Overhaul SCRIPT Version
-	Classic Level Up Sounds
-	Classic XP Sound
-	Empty Clicks
-	Empty Clicks Custom INI
-	Immersive Primary Needs
-	More Accurate Geiger Clicking
-	No Cocking Sound on Rifle Equip
-	Female Nuka-Cola Drinking Sound Replacer
+All Weapon Sounds Overhaul
+All Weapon Sounds Overhaul ESP Replacer
+All Weapon Sounds Overhaul WMIM Patch
+All Explosion Sounds Overhaul
+All Explosion Sounds Overhaul SCRIPT Version
+Immersive Pickup Sounds - Compatibility Version
+Immersive Primary Needs
+Empty Clicks
+Empty Clicks Custom INI
+More Accurate Geiger Clicking
+No Cocking Sound on Rifle Equip
+Female Nuka-Cola Drinking Sound Replacer
+Classic Level Up Sounds
+Classic XP Sound
+Improved LOD Noise Texture
 FNVLODGen Resources
+FNVLODGen Resources ESP Replacer
 LOD Additions and Improvements
+LOD Additions and Improvements YUP ESP Replacer
 FNV LOD Supplementation
 TCM's LOD Overhaul
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
 Better Strip View
+Better Strip View ESP Replacer
 ```
 </details>
 
