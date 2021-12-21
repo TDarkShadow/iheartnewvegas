@@ -833,40 +833,6 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
-	<summary>Follower Formula Redone</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Follower Formula Redone.esp**
-
-Instructions:
-- Forward the **Script (End)** section for record **0015D05F**
-- Forward the **Script (End)** section for record **0015D040**
-</details>
-
-<details>
-	<summary>Misc Gameplay Merge</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Misc Gameplay Merge.esm**
-
-Instructions:
-- Forward the **Equipment Type** field for record **015EACF**
-</details>
-
-<details>
-	<summary>Mostly Unarmed Tweaks</summary>
-
-Plugins to load:
-- **WMIMNV.eps**
-- **MigKao.esp**
-
-Instructions:
-- Forward the **Sound - Melee - Swing** field for record **0013316D**
-</details>
-
-<details>
 	<summary>Simple Reputation and Disguises</summary>
 
 Plugins to load:
