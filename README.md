@@ -52,7 +52,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 ### How many plugins and mods are there?
 
-I tried to keep the amount of recommended mods relatively short and to the point. There are roughly 90 recommended (a.k.a. "essential") mods and 80 plugins total. Including the Optional mods takes the count to roughly 145 mods and 120 plugins total.
+There are roughly 220 mods and 135 plugins total, including NVSE plugins, patches, and ESP replacers.
 
 ### How much space do I need to install these mods?
 
