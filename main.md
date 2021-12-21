@@ -503,22 +503,11 @@ Replaces and adds bathrooms doors all over the Mojave Wasteland. People can fina
 - FOMOD options to install:
   - [X] ALL IN ONE.
 
-[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
-Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
-
-Additional files to install:
-- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
-
-> This mod makes a dramatic difference in how these interiors feel.
-
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
 
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
-
-[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
-Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 
 [**McCarran Escalator Glass**](https://www.nexusmods.com/newvegas/mods/63284)  
 Retextures the escalator glass at McCarran so that it isn't as much of an eyesore now.
@@ -527,18 +516,14 @@ Retextures the escalator glass at McCarran so that it isn't as much of an eyesor
 Mesh replacer.
 - Only install **McCarran_Glass_transparency_Vanilla_version**.
 
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-- Install the **Slightly Brighter** main file.
+[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
+Fixes inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
 Additional files to install:
-- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
+- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
 
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> This restores interior light rays.
+[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
+Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 
 ### Weather and lighting
 
@@ -568,6 +553,19 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [ ] Extras None
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+- Install the **Slightly Brighter** main file.
+
+Additional files to install:
+- [**More Subtle New Vegas Light Pollution Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20Better%20Strip%20View%20Patch.7z).
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> This restores interior light rays.
 
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
