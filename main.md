@@ -1232,7 +1232,7 @@ tmzLODadditions.esp
 
 ### FNVEdit instructions
 
-The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked. It's possible you haven't installed all of them, so simply skip the corresponding instructions.
+The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked.
 
 To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
 
@@ -1413,11 +1413,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>December 19th</summary>
+	<summary>December 21st</summary>
 
-- Removed optional sections. Because the optional mods is where this guide begins to distinguish itself from **Viva New Vegas**, there was no point to keep them hidden. Instead, a star has been added next to each mod, to identify the most recommended of them.
-- Separated mods inside a same category into sub-categories, mirroring my Morrowind guide.
-- Removed most FNVEdit instructions in favor of ESP replacers. The few instructions remaining were left untouched since they address regularly updated mods.
+- Moved Mod Organizer 2 instructions to the **Setup** document.
+- Moved xNVSE plugins to the **Main** document, after instructions on how to install Mod Organizer 2 have been given in **Setup**.
+- Merged optional mods with the rest. These are what set this guide apart from **Viva New Vegas**, meaning there was no point in keeping them hidden.
+- Separated categories into sub-categories, mirroring my Morrowind guide.
+- Removed most **FNVEdit** instructions in favor of ESP replacers. Mods that are regularly updated still include FNVEdit instructions.
 - 🆕 (User interface, Menus) Added **Vanilla Loading Screens HD**.
 - 🆕 (Overhauls, Balance) Added **New Vegas Economy Improved**.
 - 🆕 (Visuals, VFX) Added **Burning Campfire REDONE**.
