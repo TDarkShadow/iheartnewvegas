@@ -833,58 +833,6 @@ To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2
 Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
 
 <details>
-	<summary>Simple Reputation and Disguises</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Simple Reputation and Disguises.esp**
-
-Instructions:
-- Delete the **pwbReputationCell** record (under Cell).
-- Delete the **Load Screen** tab.
-- Delete the **pwbRepDisguiseQuest** record (under Quest).
-- Delete all records minus **pwbRepPrimmScript** (under Script).
-- Forward the **00134B64** field for record **0005C682**
-- Forward the **00134B65** field for record **0005C682**
-- Forward the **Relations** section for record **000D7F56**
-</details>
-
-<details>
-	<summary>Well Rested Overhaul</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **migWellRested.esp**
-
-Instructions:
-- Forward the **Prompt** field for record **00136240**
-- Forward the **Response Text** field for record **001569BC**
-</details>
-
-<details>
-	<summary>Tesla Cannon Chaining</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **JSawyer Ultimate.esp**
-- **MigTeslaChain.esp**
-
-Instructions:
-- Forward the **Critical Data** **On Death** flag and **Health** fields for record **0301199E**
-</details>
-
-<details>
-	<summary>JSawyer Ultimate Edition</summary>
-
-Plugins to load:
-- **Female White Glove Society Mask.esp**
-- **JSawyer Ultimate.esp**
-
-Instructions:
-- Forward the **Female Biped Model** field for record **001168A4**
-</details>
-
-<details>
 	<summary>Miscellaneous Tweaks Collection</summary>
 
 Plugins to load:
@@ -894,17 +842,6 @@ Plugins to load:
 Instructions:
 - Forward the **Ingredients** section for record **0201103D**
 - Forward the **Ingredients** section for record **02011108**
-</details>
-
-<details>
-	<summary>Less Map Markers</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Less Map Markers.esp**
-
-Instructions:
-- Forward the **Name** field for record **0015E8AA**
 </details>
 
 <details>
@@ -935,56 +872,6 @@ Instructions:
 </details>
 
 <details>
-	<summary>Meltdown NVSE Upgrade</summary>
-
-Plugins to load:
-- **MigMeltdown.esp**
-
-Instructions:
-- Forward the vanilla **Conditions** section for record **0014609A**
-</details>
-
-<details>
-	<summary>FNV Opposite Traits</summary>
-
-Plugins to load:
-- **FNVOppositeTraits.esp**
-
-Instructions:
-- Delete the **Worldspace** tab. It contains dirty edits.
-</details>
-
-<details>
-	<summary>Action Camera</summary>
-
-Plugins to load:
-- **Action Camera.esp**
-
-Instructions:
-- Delete the **Quest** and **Script** tabs. They are responsible for the shoulder-swapping feature of the mod, which we are not interested in.
-</details>
-
-<details>
-	<summary>A Little More Lamplight</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Little More Lamplight.esp**
-
-Instructions:
-- Forward the **Rotation** field for record **001294D6**.
-</details>
-
-<details>
-	<summary>Better Strip View</summary>
-
-Instructions:
-- Run **FNVEditQuickAutoClean**.
-- Double-click **Better Strip View.esp**.
-- Close the window when the process is finished.
-</details>
-
-<details>
 	<summary>FNV Realistic Wasteland Lighting</summary>
 
 Plugins to load:
@@ -1000,95 +887,6 @@ Instructions:
 - Forward the **Region Data Entry** (**Sound**) section for record **020110C0**
 </details>
 
-<details>
-	<summary>Companion Radiation Suit</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Companion Radiation Suit.esp**
-
-Instructions:
-- Forward the **Male biped model* and **Female biped model** sections for record **00033078**
-</details>
-
-<details>
-	<summary>Bathroom Doors Overhaul</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **Bathroom Doors Overhaul - ALL IN ONE.esp**
-
-Instructions:
-- Forward the **Ownership** section for record **0010E02A**
-- Forward the **Enconter Zone** section for record **001385C4**
-</details>
-
-<details>
-	<summary>Power Armor Gloves</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **lexx_armored_pagloves.esp**
-
-Instructions:
-- Forward the **FormIDs** section for record **0001515B**
-</details>
-
-<details>
-	<summary>Bighorner Model Variants</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **CIB Bighorners.esp**
-
-Instructions:
-- Forward the **Record flags** section for record **0015C7D4**
-</details>
-
-<details>
-	<summary>Brahmin Variant Redux</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **lexx_brahmin-variant.esp**
-
-Instructions:
-- Forward the **Record flags** section for record **0001D3CD**
-- Forward the **Record flags** section for record **0008EF28**
-- Forward the **Flags (sorted)** (under ACBS - Configuration) section for record **00094BCE**. Forward the **Level** (15 instead of 1250). Delete the **Packages** section.
-- Forward the **Record flags** section for record **00116AF4**
-- Forward the **Record flags** section for record **0014CF65**. Forward the **Flags (sorted)** (under ACBS - Configuration) section. Forward the **Level** (15 instead of 1250). Delete the **Packages** section.
-
-Additional instructions:
-- Run **FNVEditQuickAutoClean**.
-- Double-click **lexx_brahmin-variant.esp**.
-- Close the window when the process is finished.
-</details>
-
-<details>
-	<summary>FNVLODGen Resources</summary>
-
-Plugins to load:
-- **Vurt's WFO.esp**
-- **FNVLODGen.esp**
-
-Instructions:
-- Foward the new **Record Flags** fields for record **001093CE**
-</details>
-
-<details>
-	<summary>LOD Additions and Improvements</summary>
-
-Plugins to load:
-- **YUP - Base Game + All DLC.esm**
-- **tmzLODadditions.esp**
-
-Instructions:
-- Forward the **Record Flags** fields for record **001680AF**
-- Forward the **Record Flags** fields for record **0015F5F6**
-- Forward the **Record Flags** fields for record **0015F5F7**
-</details>
-		
 ### Generating LOD
 
 With all our mods and resources installed, we can finally generate our LOD.
