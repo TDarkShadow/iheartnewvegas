@@ -1263,12 +1263,13 @@ Instructions:
 
 With all our mods and resources installed, we can finally generate our LOD.
 
-> ⚠️ Having too many LOD mods installed can cause **FNVLODGen** to fail at generating LOD appropriately. At the moment, the only scenario where I've found this to happen is at the Old Mormon Fort.
-
 - Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**.
+- Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**. Leave the rest of the options as is.
 - Click **Generate**. The process will take some time.
 - After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
+
+> ⚠️ Having too many LOD mods installed can cause **FNVLODGen** to fail at generating LOD appropriately. At the moment, the only scenario where I've found this to happen is at the Old Mormon Fort. Hence why are generating its LOD separate from the rest of the worldspaces.
+
 - Now disable the following mods:
   - **LOD Additions and Improvements**
   - **LOD Additions and Improvements YUP ESP Replacer**
@@ -1278,7 +1279,11 @@ With all our mods and resources installed, we can finally generate our LOD.
 - On the list of worldspaces, check **FreesideFortWorld "Old Mormon Fort"** only.
 - Click **Generate**. The process will take some time.
 - After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
-- Re-enabled the previously disabled LOD mods. Remember to adjust their load order accordingly.
+
+> ⚠️ Remember to re-enable the disabled LOD mods, and adjusting the plugin order accordingly.
+
+Now all that's left is to install our generated LOD.
+
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
