@@ -1391,6 +1391,7 @@ Key | Function | Added by
 F6 | Create full save | lStewieAl's Tweaks
 F10 | Reload current loaded save | lStewieAl's Tweaks
 Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
+R (double tap) | Switch ammunition | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
