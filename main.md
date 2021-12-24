@@ -1264,7 +1264,7 @@ Instructions:
 With all our mods and resources installed, we can finally generate our LOD.
 
 - Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**. Leave the rest of the options as is.
+- Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**.
 - Click **Generate**. The process will take some time.
 - After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
 
@@ -1276,11 +1276,11 @@ With all our mods and resources installed, we can finally generate our LOD.
   - **FNV LOD Supplementation**
   - **TCM's LOD Overhaul**
 - Run **FNVLODGen** in MO2.
-- On the list of worldspaces, check **FreesideFortWorld "Old Mormon Fort"** only.
+- Right click on the list of worldspaces, and click **Select None**. Check **FreesideFortWorld "Old Mormon Fort"**.
 - Click **Generate**. The process will take some time.
 - After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
 
-> ⚠️ Remember to re-enable the disabled LOD mods, and adjusting the plugin order accordingly.
+> ⚠️ Remember to re-enable the disabled LOD mods.
 
 Now all that's left is to install our generated LOD.
 
