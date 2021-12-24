@@ -1295,6 +1295,7 @@ Now all that's left is to install our generated LOD.
 
 **Mojave Arsenal**:
 - Enable **Low Condition Loot**.
+- Disable **New Ammo**.
 - Disable **Custom Weapons**.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
