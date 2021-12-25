@@ -1461,8 +1461,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>December 23rd</summary>
+	<summary>December 25th</summary>
 
+Merry Christmas!
+	
 - Many visual mods have been moved to **LOD Resources** since they require LOD generation to work as intended.
 - 🆕 (Overhauls, Balance) Added **JSawyer Ultimate Edition - Vanilla-ish Companion Suite**.
 - 🆕 (Visuals, Environment) Added **Lightweight Strip Overhaul**. Includes a patch for **Uncut Wasteland**.
