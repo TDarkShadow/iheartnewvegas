@@ -374,8 +374,8 @@ Additional files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
-[**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer.7z)  
-Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Edited for compatibility with **Mojave Arsenal** and **Mojave Raiders**.
+[**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer%20(Dec%2023rd).7z)  
+Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Edited for compatibility with **Mojave Arsenal** and **Mojave Raiders**, and to revert HP and melee damage tweaks to Feral Ghoul Reavers.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -1417,6 +1417,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - ⚠️ (Mod keybindings) Added new ammo switch hotkey.
 - ⚠️ (Patches, NVSE) Updated **lStewieAl's Tweaks Custom INI**. Items you buy no longer have a minimum value of 1 cap. This led to unreasonable scenarios, such as an ammo case having the same value as a complete bullet of the same type.
+- ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks ESP Replacer**. Feral Ghoul Reavers have had their HP and melee damage tweaks reverted to vanilla. Qolore is only human, after all.
 - ⚠️ (Generating LOD) Expanded LOD generation instructions, bypassing a bug with the Lucky 38 vanishing from the Old Mormon Fort worldspace.
 </details>
 	
