@@ -367,6 +367,7 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files).
 - [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
+- [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes most of **PushTheWinButton**'s nerfs to companions, which would make them damn near useless in combat.
 - [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
   - BAIN options to install:
     - [X] AIO Fixes
@@ -570,6 +571,19 @@ Replaces and adds bathrooms doors all over the Mojave Wasteland. People can fina
 Additional files to install:
 - [**Bathroom Doors Overhaul YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bathroom%20Doors%20Overhaul%201.3%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
+[**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
+Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
+
+Files to install:
+- **Lightweight Strip Overhaul** (Main files).
+- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files).
+
+[**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
+Replaces the dated palm trees seen on the Strip with more detailed models.
+
+[**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406)  
+Improves the appearance of the Strip planters.
+
 [**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
 Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
 
@@ -695,23 +709,14 @@ Simple scripted interior lighting overhaul which darkens interior. Automatically
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
-[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
-Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
-- Check the following option in the FOMOD installer.
-  - [ ] The Living Desert
-  - [X] Uncut Wasteland
-  - [ ] Vault 22 Flora Overhaul Remastered
+> ⚠️ This mod overwrites **The Strip Planters Fixed**. We will load that mod after this one in the **Mod order** section.
 
-[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
-Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
-- Check the following option in the FOMOD installer.
-  - [X] Gold Lights
-  - [ ] Silver Lights
-  - [ ] Extras Inside the Strip
-  - [X] Extras Everywhere
-  - [ ] Extras None
-  - [X] Pollution Gold Tint
-  - [X] Patch for Better Strip View
+Additional files to install:
+- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z). Addresses terrain conflicts with **Lightweight Strip Overhaul**.
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the exaggerated glow of New Vegas.
+- Install **Slightly Brighter** (Main files).
 
 [**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
 Removes the fake interior light rays and tones the exterior light beams down dramatically. 
@@ -725,9 +730,10 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 
 Additional files to install:
 - [**FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%205.542%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes and solves compatibility issues with **DLC Enhancements**.
-- [**FNV RWL All DLC - Strip Lights AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Strip%20Lights%20AIO%20Patch.7z). Solves conflicts with **Strip Lights Region Fix** and **Lucky 38 Lights Redone**.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z). Original SweetFX preset by **xCamoLegend**.
   - Extract the contents of the archive in your **Root** folder.
+
+> ⚠️ Weather mods such as this one should always load near last your load order. We will address this in the **Mod order** section.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -813,8 +819,41 @@ Additional files to install:
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
 
+[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
+Adds the Strip signs and moves the Strip buildings to where they should be.
+
+Additional files to install:
+- [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z). Cleaned by **Sigourn**.
+- [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z). Addresses conflicts with pollution light placement.
+
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
+
+[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
+Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
+- Check the following option in the FOMOD installer.
+  - [ ] The Living Desert
+  - [X] Uncut Wasteland
+  - [ ] Vault 22 Flora Overhaul Remastered
+
+Additional files to install:
+- [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z). Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
+
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
+- Check the following option in the FOMOD installer.
+  - [X] Gold Lights
+  - [ ] Silver Lights
+  - [ ] Extras Inside the Strip
+  - [X] Extras Everywhere
+  - [ ] Extras None
+  - [X] Pollution Gold Tint
+  - [X] Patch for Better Strip View
+
+> ⚠️ This mod overwrites **More Subtle New Vegas Light Pollution**. We will load that mod after this one in the **Mod order** section.
+
+[**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
+Ensures compatibility between **FNV Realistic Wasteland Lighting** and **Better Strip View**, **Strip Lights Region Fix**, **Mormon Fort Region Fix**, and **Lucky 38 Lights Redone**.
 
 [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
 Adds more tree and plant variants, implements 3D LODs, and improves grass.
@@ -823,12 +862,6 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Edited to remove all new trees and variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
-
-[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds the Strip signs and moves the Strip buildings to where they should be.
-
-Additional files to install:
-- [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z). Cleaned by **Sigourn**.
 
 ## Finishing touches
 
@@ -939,6 +972,7 @@ Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition - Qolore's Tweaks
+JSawyer Ultimate Edition - Vanilla-ish Companion Suite
 JSawyer Ultimate Edition Fixes
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks Collection
@@ -999,6 +1033,9 @@ OWB in CRT
 Healthier Yao Guai
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
+LSO - A Lightweight Strip Overhaul
+Lightweight Strip Overhaul - Uncut Wasteland Patch
+Palm Tree Replacer
 Lucky 38 Intro Poster
 Lucky 38 Mainframe No Fingerprints
 McCarran Escalator Glass
@@ -1034,12 +1071,11 @@ A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Simple Interior Lighting Overhaul
 Strip Lighting Overhaul
-Strip Lights Region Fix
-Lucky 38 Lights Redone
+Strip Lighting Overhaul LSO Patch
+The Strip Planters Fixed
 Subtle Light Beams and Rays
 FNV Realistic Wasteland Lighting
 FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer
-FNV RWL All DLC - Strip Lights AIO Patch
 Mojave Nights
 Night Sky Tweaks
 All Weapon Sounds Overhaul
@@ -1062,12 +1098,17 @@ FNVLODGen Resources ESP Replacer
 LOD Additions and Improvements
 LOD Additions and Improvements YUP ESP Replacer
 FNV LOD Supplementation
+Better Strip View
+Better Strip View ESP Replacer
+Better Strip View More Subtle New Vegas Light Pollution Patch
 TCM's LOD Overhaul
+Strip Lights Region Fix
+Mormon Fort Region Fix
+Lucky 38 Lights Redone
+More Subtle New Vegas Light Pollution (Slightly Brighter)
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
-Better Strip View
-Better Strip View ESP Replacer
 ```
 </details>
 
@@ -1140,6 +1181,7 @@ Meat's Back on the Menu Boys.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate - Qolore's Tweaks.esp
+JSawyer Ultimate - Vanilla-ish Companion Suite.esp
 JSawyer Ultimate - AIO Fixes.esp
 Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks.esp
@@ -1208,12 +1250,18 @@ hz_Empty Clicks.esp
 More Accurate Geiger Clicking.esp
 Little More Lamplight.esp
 Strip Lighting Overhaul.esp
+Strip Lighting Overhaul LSO Patch.esp
+vegasglow.esp
+Better Strip View.esp
+Better Strip View vegasglow Patch.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
-Better Strip View.esp
+Mormon Fort Region Fix.esp
 Lucky 38 Lights Redone.esp
+Mormon Fort Region Fix - Lucky 38 Lights Redone.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
 FNV RWL All DLC - Strip Lights AIO Patch.esp
+FNV RWL All DLC - Worldspace Patch.esp
 Mojave Nights.esp
 Vurt's WFO.esp
 FNVLODGen.esp
@@ -1415,9 +1463,19 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>December 23rd</summary>
 
+- Many visual mods have been moved to **LOD Resources** since they require LOD generation to work as intended.
+- 🆕 (Overhauls, Balance) Added **JSawyer Ultimate Edition - Vanilla-ish Companion Suite**.
+- 🆕 (Visuals, Environment) Added **Lightweight Strip Overhaul**. Includes a patch for **Uncut Wasteland**.
+- 🆕 (Visuals, Environment) Added **Palm Tree Replacer**.
+- 🆕 (Visuals, Environment) Added **The Strip Planters Fixed**.
+- 🆕 (Visuals, Weather and Lighting) Re-added **More Subtle New Vegas Light Pollution**. Upon consulting real life pictures and having a better understanding on what light pollution actually is, I've come to the conclusion that this is much better than vanilla.
+- 🆕 (Visuals, Weather and Lighting) Added **Strip Lighting Overhaul LSO Patch**.
+- 🆕 (LOD Resources) Added **Better Strip View More Subtle New Vegas Light Pollution Patch**.
+- 🆕 (LOD Resources) Added **Mormon Fort Region Fix**.
 - ⚠️ (Mod keybindings) Added new ammo switch hotkey.
 - ⚠️ (Patches, NVSE) Updated **lStewieAl's Tweaks Custom INI**. Items you buy no longer have a minimum value of 1 cap. This led to unreasonable scenarios, such as an ammo case having the same value as a complete bullet of the same type.
 - ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks ESP Replacer**. Feral Ghoul Reavers have had their HP and melee damage tweaks reverted to vanilla. Qolore is only human, after all.
+- ⚠️ (LOD Resources) Updated **FNV RWL All DLC - Worldspace Patch** (formerly **Strip Lights AIO Patch**).
 - ⚠️ (Generating LOD) Expanded LOD generation instructions, bypassing a bug with the Lucky 38 vanishing from the Old Mormon Fort worldspace.
 </details>
 	
