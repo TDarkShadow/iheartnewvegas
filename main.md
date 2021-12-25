@@ -1413,6 +1413,14 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>December 23rd</summary>
+
+- ⚠️ (Mod keybindings) Added new ammo switch hotkey.
+- ⚠️ (Patches, NVSE) Updated **lStewieAl's Tweaks Custom INI**. Items you buy no longer have a minimum value of 1 cap. This led to unreasonable scenarios, such as an ammo case having the same value as a complete bullet of the same type.
+- ⚠️ (Generating LOD) Expanded LOD generation instructions, bypassing a bug with the Lucky 38 vanishing from the Old Mormon Fort worldspace.
+</details>
+	
+<details>
 	<summary>December 21st Hot Update</summary>
 
 - ⚠️ (Overhauls, Balance) Updated **JSUE Tweaks** to remove redundant records already included in **Miscellaneous Tweaks Collection**. Also renamed the mod to **JSawyer Ultimate Edition - Qolore's Tweaks**.
