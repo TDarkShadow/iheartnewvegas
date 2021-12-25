@@ -12,7 +12,28 @@ The guide presented here assumes you have already followed all instructions foun
 
 This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** and **Improved Vanilla Male Body** body replaceres. Do note, however, that this guide is intended for my personal use only, and you shouldn't expect anything on the way of support if you decide to go through with it.
 
-## Preliminary steps
+## Face and hair textures add-on
+
+[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
+Adds animated eyelashes to NPCs and the player character.
+- Install the **tkEyelashesFNV** main file.
+- Hide both plugins.
+
+Additional files to install:
+- [**Eyelashes New Vegas ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Eyelashes%20New%20Vegas%20ESP%20Replacer.7z). Fixed version of the main plugin.
+
+[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
+Improves teeth, eyelashes, and eyebrow textures.
+- Install all three main files.
+
+[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
+Improves eye textures.
+- Install the **00 - Natural Eyes - Shadow** main file.
+
+[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
+Removes shine from vanilla hairs.
+
+## Preliminary steps for Body replacers add-on
 
 The following mods should be reinstalled if you plan on using **TYPE 4**.
 
@@ -42,27 +63,6 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
   - SetBipedModelPathAlt ArmorNVCaesar 1 "FIXforLegionArmors\CaesarFemale.nif"
 
 > This will revert the female model tweaks in favor of **TYPE 4**'s adjusted models.
-
-## Face and hair textures add-on
-
-[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
-Adds animated eyelashes to NPCs and the player character.
-- Install the **tkEyelashesFNV** main file.
-- Hide both plugins.
-
-Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Eyelashes%20New%20Vegas%20ESP%20Replacer.7z). Fixed version of the main plugin.
-
-[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
-Improves teeth, eyelashes, and eyebrow textures.
-- Install all three main files.
-
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
-Improves eye textures.
-- Install the **00 - Natural Eyes - Shadow** main file.
-
-[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
-Removes shine from vanilla hairs.
 
 ## Body replacers add-on
 
