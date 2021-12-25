@@ -1,6 +1,6 @@
 # LEFT MY ♥ IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 21st, 2021
+Last updated: December 25th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/Banner.jpg)
 
@@ -41,6 +41,10 @@ HDD | 1TB
 Monitor | Samsung 24" 1080p @ 60Hz
 
 ## Frequently asked questions
+
+### What are the key differences between this guide and Viva New Vegas?
+
+Scope and hand-holdiness. My guide is much bigger. It also demands more from its users. My guide lacks no major instructions, however, it is the user that needs to follow them to the letter. If you decide to skip them, it's on you. Expect no support from me.
 
 ### Is this guide compatible with A World of Pain/Strip Open/Freeside Open?
 
