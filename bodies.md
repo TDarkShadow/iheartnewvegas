@@ -85,8 +85,11 @@ Additional files to install:
   - Hide the **meshes\armor\enclavescientist** folder.
 - [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2015th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
 
-[**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
-Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+Optional files to install:
+- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642). Less revealing variations for a number of outfits.
+- [**TYPE 4 - Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993). Less revealing variations for a number of outfits.
+  - If using **More Modest TYPE 4 Body and Armor**, hide **jumpsuit fix.esp**.
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
@@ -141,6 +144,8 @@ TYPE 4 - Body and Armors
 TYPE 4 - Armor Fixes
 TYPE 4 Patches
 T6M Neck Adjusted Outfit Replacers
+More Modest TYPE 4 Body and Armor
+TYPE 4 - Alternative Outfits
 Improved Vanilla Male Body - Seamless - 4K
 00 - Outfit Conversions - Hotfix
 Mannequin Races
