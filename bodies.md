@@ -85,6 +85,20 @@ Additional files to install:
   - Hide the **meshes\armor\enclavescientist** folder.
 - [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2015th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
 
+[**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
+Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
+
+[**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
+High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
+- Install the **01 - Improved Male Body - FOMOD Installer** main file.
+- FOMOD options to install:
+  - [X] 00 - Main
+  - [X] 05 - Underwear Options
+    - [X] 08 - Legacy Underwear
+
+Additional files to install:
+- **00 - Outfit Conversions - Hotfix** (under Update files). Work in progress outfit conversion for most of the openfoot meshes.
+
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
 
@@ -108,20 +122,6 @@ Additional files to install:
 - **03 - Body Hairy Clean** (under Optional files).
 - **05 - Face Vanilla Feel** (under Optional files).
 
-[**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z)  
-Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
-
-[**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
-High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-- Install the **01 - Improved Male Body - FOMOD Installer** main file.
-- FOMOD options to install:
-  - [X] 00 - Main
-  - [X] 05 - Underwear Options
-    - [X] 08 - Legacy Underwear
-
-Additional files to install:
-- **00 - Outfit Conversions - Hotfix** (under Update files). Work in progress outfit conversion for most of the openfoot meshes.
-
 ## Finishing touches
 
 ### Mod order and load order
@@ -140,12 +140,13 @@ Natural Eyes
 TYPE 4 - Body and Armors
 TYPE 4 - Armor Fixes
 TYPE 4 Patches
-Mannequin Races
-Mannequin Races - TYPE 4
 T6M Neck Adjusted Outfit Replacers
-Body and Face Textures Workshop
 Improved Vanilla Male Body - Seamless - 4K
 00 - Outfit Conversions - Hotfix
+Mannequin Races
+Mannequin Races - TYPE 4
+Body and Face Textures Workshop
+
 ```
 </details>
 
