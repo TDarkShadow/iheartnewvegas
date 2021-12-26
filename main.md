@@ -832,9 +832,7 @@ Adds extra meshes for LOD generation.
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 - Check the following option in the FOMOD installer.
-  - [ ] The Living Desert
   - [X] Uncut Wasteland
-  - [ ] Vault 22 Flora Overhaul Remastered
 
 Additional files to install:
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z). Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
@@ -843,10 +841,7 @@ Additional files to install:
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
 - Check the following option in the FOMOD installer.
   - [X] Gold Lights
-  - [ ] Silver Lights
-  - [ ] Extras Inside the Strip
   - [X] Extras Everywhere
-  - [ ] Extras None
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
