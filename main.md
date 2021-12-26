@@ -909,7 +909,7 @@ Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 Throwable Weapon Fixes
 Dirty Pre-War Businesswear Fix
-Female White Glove Society Mask JSUE
+Female White Glove Society Mask
 Gun Runners Kiosk Glass Fix Alternate Version
 Less Flickery City of New Vegas
 No More Dust Devils (and Whirlwinds)
@@ -998,14 +998,12 @@ Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
-Improved LOD Noise Texture
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Anniversary Anim Pack - General Bugfix Bonus Patch
 Diagonal Movement
 360 Movement
 Immersive Recoil
-Immersive Recoil Custom INI
 Viewmodel Recoil
 B42 Weapon Inertia
 NV Compatibility Skeleton
@@ -1064,6 +1062,7 @@ Burning Campfire REDONE 2
 IMPACT
 IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
+Enhanced Blood Textures
 HQ Dust Storm FX
 HQ Dust Storm FX - Dust Storm Meshes
 HD Mist
@@ -1133,6 +1132,7 @@ Landscape Disposition Fix.esm
 Navmesh Fixes and Improvements.esm
 Misc Gameplay Merge.esm
 Character Expansions Revised.esm
+Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
@@ -1205,6 +1205,7 @@ FNVOppositeTraits Improved.esp
 FNVOppositeTraits Improved - JSUE Patch.esp
 Uncut Wasteland.esp
 Uncut Wasteland Tweaks.esp
+Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
@@ -1260,7 +1261,6 @@ Mormon Fort Region Fix.esp
 Lucky 38 Lights Redone.esp
 Mormon Fort Region Fix - Lucky 38 Lights Redone.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
-FNV RWL All DLC - Strip Lights AIO Patch.esp
 FNV RWL All DLC - Worldspace Patch.esp
 Mojave Nights.esp
 Vurt's WFO.esp
@@ -1459,6 +1459,19 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 26th Hotfix</summary>
+
+- ⚠️ Fixed issues in **Mod order** and **Load order**. Many thanks to user **Belmor** for spotting these!
+  - Added **Lightweight Strip Overhaul.esm** and **Lightweight Strip Overhaul - Uncut Wasteland Patch.esp** to load order.
+  - Added **Enhanced Blood Textures** to mod order.
+  - Added **FNV RWL All DLC - Worldspace Patch.esp** to load order.
+  - Removed JSUE suffix from **Female White Glove Society Mask** in mod order.
+  - Removed **Immersive Recoil Custom INI** from mod order.
+  - Removed duplicate **Improved LOD Noise Texture** from mod under (before Animations).
+  - Removed **FNV RWL All DLC - Strip Lights AIO Patch.esp** from load order.
+</details>
 
 <details>
 	<summary>December 25th</summary>
