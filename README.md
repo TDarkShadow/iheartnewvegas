@@ -2,7 +2,7 @@
 
 Last updated: December 25th, 2021
 
-![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.png)
+![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
 ## Contact info
 
