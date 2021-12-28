@@ -4,6 +4,8 @@
 
 # NEW VEGAS SETUP
 
+![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/8064e94210b0914d6edbf0790d145e40d0c1890da78130c3d3c28f18bdae483e_bg_crop_1920x655.jpg)
+
 ## Requirements
 
 - An english copy of the game from [**GOG**](https://www.gog.com/game/fallout_new_vegas_ultimate_edition).
