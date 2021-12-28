@@ -67,14 +67,14 @@ Extension of the New Vegas Script Extender that enables hotkeys for pasting and 
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs, combined into one ESM.
-- Install the **YUP - Base Game and All DLC** main file.
+- Install **YUP - Base Game and All DLC** (Main files).
 
 [**Landscape Disposition Fix**](https://www.nexusmods.com/newvegas/mods/73937/)  
 Small mod fixing several hundred vanilla floating objects, underground or above ground.
 
 [**Navmesh Fixes and Improvements**](https://www.nexusmods.com/newvegas/mods/62041)  
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles, all while retaining the original triangle ordering at the cell edges whenever possible for maximum compatibility. Also makes improvements to the majority of the affected navmeshes, like adding gaps for obstacles such as rocks and trees.
-- Install the **Navmesh Fixes and Improvements - Base Game and ALL DLC** main file.
+- Install **Navmesh Fixes and Improvements - Base Game and ALL DLC** (Main files).
 
 ### NVSE bug fixes
 
@@ -200,14 +200,14 @@ Cleans up HUD textures (such as the compass ticks or other arrows) that have wen
 
 [**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
 Cleans up textures surrounding the Companion Wheel.
-- Install the **Clean Companion Wheel 256x256 Edition** main file.
+- Install **Clean Companion Wheel 256x256 Edition** (Main files).
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
-- Install the **Satellite World Map** main file.
+- Install **Satellite World Map** (Main files).
 
 Additional files to install:
 - [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
@@ -219,7 +219,7 @@ Doubles the resolution of the textures of loading screen artwork, improving cris
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
-- Install the **1. Consistent Pip-boy Icons** main file.
+- Install **1. Consistent Pip-boy Icons**  (Main files).
 
 Additional files to install:
 - **2. Consistent Addon Icons** (Main files).
@@ -236,7 +236,7 @@ Improves the character creation by speeding up the process, adding specialized g
 
 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
 Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
-- Only install **Delayed Malcolm (random)**.
+- Only install **Delayed Malcolm (random)** (Main files).
 
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
@@ -247,7 +247,7 @@ Increases the speed of the Pip-Boy animation.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
-- Install the **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** main files.
+- Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files).
 
 Additional files to install:
 - **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
@@ -308,7 +308,7 @@ Makes the Old World Blues Lobotomites more challenging by equiparating their tra
 
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
-- Install the **Rigged Shotgun Restoration - Lore-Friendly** main file.
+- Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
 
 ### Features and mechanics
 
@@ -445,7 +445,7 @@ Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compa
 
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
-- Install the **Uncut Wasteland plus NPCs** main file.
+- Install **Uncut Wasteland plus NPCs** (Main files).
 
 Additional files to install:
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland. Made by **Qolore**.
@@ -460,7 +460,7 @@ Additional files to install:
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
-- Install the **Mojave Wildlife - Vanilla No Chanced Spawns Version** main file.
+- Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
 
 ## VISUALS
 
