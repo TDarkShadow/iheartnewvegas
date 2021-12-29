@@ -83,13 +83,14 @@ Additional files to install:
 - [**TYPE 4 Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
   - Hide the **meshes\armor\enclavescientist** folder.
-- [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2015th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
+- [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2029th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
 
 Optional files to install:
-- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers.7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits.
-- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642). Less revealing variations for a number of outfits.
-- [**TYPE 4 - Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993). Less revealing variations for a number of outfits.
-  - If using **More Modest TYPE 4 Body and Armor**, hide **jumpsuit fix.esp**.
+- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
+- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642). More modest variations for a number of outfits.
+  - A patch for **TYPE 4** is [**available here**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z), solving mismatching textures for a number of Pre-War outfits.
+- [**TYPE 4 - Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993). More modest variations for a number of outfits.
+  - If using **More Modest TYPE 4 Body and Armor**, hide **jumpsuit fix.esp**, or else you will get mismatching textures.
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
@@ -145,6 +146,7 @@ TYPE 4 - Armor Fixes
 TYPE 4 Patches
 T6M Neck Adjusted Outfit Replacers
 More Modest TYPE 4 Body and Armor
+More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
 TYPE 4 - Alternative Outfits
 Improved Vanilla Male Body - Seamless - 4K
 00 - Outfit Conversions - Hotfix
@@ -166,6 +168,8 @@ TYPE 4 Dirty Pre-War Businesswear Fix.esp
 TYPE 4 JSUE Patch.esp
 TYPE 4 Power Armor Gloves Patch.esp
 TYPE 4 Eyelashes NV Patch.esp
+TYPE 4 Black Combat Armor Fix JSUE.esp
+More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ImprovedGeckoLeatherArmor.esp
 ImprovedGeckoLeatherArmor JSUE Patch.esp
 Mannequin Rce.esp
