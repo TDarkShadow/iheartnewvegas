@@ -37,7 +37,7 @@ Extension of the New Vegas Script Extender which enables having custom animation
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Extension of the New Vegas Script Extender that implements structured exception handling and sanity checking to reduce frequency of game crashes.
-.
+
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
