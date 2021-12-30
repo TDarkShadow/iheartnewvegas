@@ -634,6 +634,7 @@ Additional files to install:
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
+- Install **No Pip-Boy Glove - No ESP** (Main files).
 
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
