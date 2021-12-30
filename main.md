@@ -183,8 +183,6 @@ Greatly improves the user interface without compromising the original style.
 - Download the mod using the **DOWNLOAD NOW!** button.
 - FOMOD options to install:
   - [X] Default Font Tweaks
-  - [ ] Classic Pip-Boy Font
-  - [ ] No Font Tweaks
   - [X] Plugin
   - [X] WASD Compatible 
 
@@ -224,6 +222,8 @@ Additional files to install:
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
 - **3. Consistent Glow Icons** (Main files).
+  - FOMOD options to install:
+    - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files).
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
