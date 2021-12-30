@@ -154,18 +154,16 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 Fixes the White Glove Society Mask mesh for female characters.
 - Install **Female White Glove Society Mask** (Main files).
 
-[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
-Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
-- Only install **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files).
-
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
 
 [**No More Dust Devils (and Whirlwinds)**](https://www.nexusmods.com/newvegas/mods/74167)  
 Improves game performance by removing all the dust devils and whirlwinds from the game (and any DLC/mod that might use them). Optionally removes tumbleweeds too.
 
-[**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/)  
-Improves game performance in combat by disabling lights cast on the environment by enemy muzzle flashes. Optionally removes player muzzle flashes too.
+[**No More Muzzle Flash Lights**](https://www.nexusmods.com/newvegas/mods/73742)  
+Improves game performance in combat by disabling lights cast on the environment by player and enemy muzzle flashes.
+
+> ℹ️ For an alternative mod that disables enemy muzzle flashes only, check out [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/).
 
 ## USER INTERFACE
 
@@ -253,6 +251,9 @@ Additional files to install:
 - **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
 - **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
 
+[**Motion Sickness Destroyer**](https://www.nexusmods.com/newvegas/mods/65732)  
+Removes all motion blur, double vision, and other nasty nauseous effects from Imagespaces and Imagespace Modifers. Compatible with every single mod.
+
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
@@ -319,6 +320,12 @@ Additional files to install:
 - [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
 - [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
 
+[**B42 Inspect**](https://www.nexusmods.com/newvegas/mods/71624)  
+Adds a fully animated ammunition and weapon condition checking system to the game, complete with scratch made animations and a custom HUD element. The ammo check HUD displays the name of the weapon, the ammo type you're using, the rounds left in your current mag and how much ammo you have left in total. Condition checking HUD simply shows you weapons condition.
+
+[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
+Adds melee attacks for non-melee weapons.
+
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
@@ -332,6 +339,8 @@ Makes fast travel cost one Purified Water and one of either a Trail Mix or Carav
 
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
+
+> ℹ️ For an alternative mod that restricts this feature to a Perk, check out [**Melee Cleave (a.k.a. Sweep) but as a Perk**](https://www.nexusmods.com/newvegas/mods/74703).
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
@@ -571,6 +580,10 @@ Replaces and adds bathrooms doors all over the Mojave Wasteland. People can fina
 Additional files to install:
 - [**Bathroom Doors Overhaul YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bathroom%20Doors%20Overhaul%201.3%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
 
+[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
+Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
+- Only install **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files).
+
 [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
 
@@ -617,6 +630,9 @@ Additional files to install:
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+
+[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the completely useless Pip-Boy glove from player and NPCs.
 
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
@@ -905,10 +921,9 @@ WMIM ESP Replacer
 Throwable Weapon Fixes
 Dirty Pre-War Businesswear Fix
 Female White Glove Society Mask
-Gun Runners Kiosk Glass Fix Alternate Version
 Less Flickery City of New Vegas
 No More Dust Devils (and Whirlwinds)
-No Muzzle Flash Lights
+No More Muzzle Flash Lights
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -932,6 +947,7 @@ Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
 Plasma Weapon Iron Sights - Iron Sight Recoil Animations
+Motion Sickness Destroyer
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
@@ -952,6 +968,8 @@ Rigged Shotgun Restoration - Lore-Friendly
 Alternative Repairing
 Alternative Repairing ESP Replacer
 Alternative Repairing Custom INI
+B42 Inspect
+B42 Melee Bash
 JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
 Immersive Fast Travel Requirements
@@ -1026,6 +1044,7 @@ OWB in CRT
 Healthier Yao Guai
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
+Gun Runners Kiosk Glass Fix Alternate Version
 LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Palm Tree Replacer
@@ -1041,6 +1060,7 @@ Pip-Boy 2000 Mk VI Working Date and Clock
 Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
+No Pip-Boy Glove
 Lower-sitting Ranger Hat
 Metal Helmets - Female Replacements
 Power Armor Gloves
@@ -1148,6 +1168,7 @@ Delayed Malcolm.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
+Motion Sickness Reduction Mod.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
@@ -1164,6 +1185,8 @@ Rigged Shotgun Restoration - Lore-Friendly.esp
 Alternative Repairing.esp
 Alternative Repairing - Honest Hearts.esp
 Alternative Repairing - Lonesome Road.esp
+B42Inspect.esp
+B42Bash.esp
 JustAssortedMods.esp
 Fast Travel Requirements.esp
 MeleeCleave.esp
@@ -1374,17 +1397,6 @@ uWMChanceMax=15
 
 > ℹ️ Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
 
-**No Muzzle Flash Lights (Optional)**:
-- Double-click the installed mod to open the **Information...** window.
-- Click the **INI Files** tab, and make the following adjustments in **NMFL.ini**.
-- Click on the diskette icon to save your changes.
-
-```
-iMuzzleFlashLightsMode = 1
-```
-
-> ℹ️ Disables muzzle flash lights for both player and NPCs.
-
 **Ending Slideshows Ultimate Edition Overhaul (Optional)**:
 - Double-click the installed mod to open the **Information...** window.
 - Click the **INI Files** tab, and make the following adjustments in **Ending Slideshows Ultimate Edition Overhaul.ini**.
@@ -1444,6 +1456,9 @@ Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
 Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
+O | Check weapon ammo | B42 Inspect
+P | Check weapon condition | B42 Inspect
+X | Weapon bash | B42 Melee Bash
 G | Equip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
@@ -1454,6 +1469,18 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>December 30th</summary>
+
+- Added mention to **Melee Cleave (a.k.a. Sweep) but as a Perk**.
+- Moved **Gun Runners Kiosk Glass Fix** to Visuals, Environment.
+- 🆕 **No More Muzzle Flash Lights** (Mesh fixes and optimization). Replaces **No Muzzle Flash Light**.
+- 🆕 **Motion Sickness Destroyer** (Gameplay QOL).
+- 🆕 **B42 Inspect** (Gameplay, Features and mechanics).
+- 🆕 **B42 Melee Bash** (Gameplay, Features and mechanics).
+- 🆕 **No Pip-Boy Glove** (Visuals, Equipment).
+</details>
 
 <details>
 	<summary>December 26th Hotfix</summary>
