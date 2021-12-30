@@ -397,6 +397,7 @@ Additional files to install:
 Upscales icons from a selection of mods.
 - FOMOD options to install:
   - [X] Alternative Repairing
+  - [X] B42 Melee Bash
   - [X] Mojave Arsenal
 
 > ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
