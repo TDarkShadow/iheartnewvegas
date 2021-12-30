@@ -18,7 +18,7 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 
 ## About
 
-**Left My Heart In New Vegas** (a.k.a. **I ♥ New Vegas**) is a modular modding guide for **Fallout: New Vegas**. **I♥NV** is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay, NPC, and town overhauls, as well as the hundreds of texture and mesh replacers that New Vegas players tend to install.
+**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. The end result is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay, NPC, and town overhauls, as well as the hundreds of texture and mesh replacers that New Vegas players tend to install.
 
 This guide is split in two sections:
 
@@ -50,7 +50,7 @@ Scope and hand-holdiness. My guide is much bigger. It also demands more from its
 
 My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving.
 
-### Is this mod compatible with I♥NV?
+### Is this mod compatible with the guide?
 
 I can only try to give an educated guess. At the end of the day, there's no substitute for reading a mod's description and checking for compatibility in **FNVEdit**. 
 
@@ -68,7 +68,7 @@ Depends on how thorough you are about it. It shouldn't take you longer than five
 
 ### How often is the guide updated?
 
-I♥NV is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+It is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
 ### Is there a Wabbajack installer for the guide available?
 
