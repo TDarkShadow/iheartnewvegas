@@ -749,7 +749,7 @@ High quality retexture for night sky and moon.
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-## AUDIO ADD-ON
+## AUDIO
 
 ### SFX
 
