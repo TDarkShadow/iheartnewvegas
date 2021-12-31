@@ -1122,6 +1122,7 @@ Strip Lights Region Fix
 Mormon Fort Region Fix
 Lucky 38 Lights Redone
 More Subtle New Vegas Light Pollution (Slightly Brighter)
+FNV RWL All DLC - Worldspace Patch
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
