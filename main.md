@@ -420,7 +420,7 @@ Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
-- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
+- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Reduces loot scarcity, and heightens the impact Luck has on it.
 
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
 Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
@@ -447,7 +447,7 @@ Overhauls vanilla traits and adds two new ones.
 New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits. [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. Cleaned by **Sigourn**.
 
 [**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
-Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by Qolore7.
+Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by **Qolore7**.
 
 ## CONTENT
 
@@ -458,7 +458,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install **Uncut Wasteland plus NPCs** (Main files).
 
 Additional files to install:
-- [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Small collection of bug fixes and tweaks for Uncut Wasteland. Made by **Qolore**.
+- [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Forwards **YUP** fixes, omits the NPC restorations at the Ultra-Luxe Bathhouse, and replaces static Destitute Travelers with leveled, random NPCs. Made by **Qolore**.
 
 ### Enemies
 
@@ -466,7 +466,7 @@ Additional files to install:
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
-- [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Resolves conflicts between a handful of leveled lists contained in JSawyer Ultimate and Mojave Raiders, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles, to reflect JSawyer Ultimate's ammo change.
+- [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933). Overrides **JSUE**'s edits to Raider/Fiend leveled lists, and ensures that raiders spawn with .22LR rounds when using Varmint Rifles.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
