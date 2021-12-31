@@ -285,6 +285,9 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
+[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
+
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
 
@@ -406,21 +409,18 @@ Upscales icons from a selection of mods.
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
 - Install **New Vegas Economy Improved** (Main files).
 
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
+
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
 - Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
 
 Additional files to install:
 - [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Adjusts loot scarcity.
-
-[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
-
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
 
 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
 Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
@@ -959,6 +959,7 @@ Follower Formula Redone
 Follower Formula Redone ESP Replacer
 Follower Tweaks
 Jamming Fix and Optional Tweaks
+Less Map Markers
 Misc Gameplay Merge
 Misc Gameplay Merge YUP ESM Replacer
 Mine and Explosion Tweaks
@@ -995,11 +996,10 @@ Mojave Arsenal
 Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 New Vegas Economy Improved
-Unfound Loot
-Unfound Loot Custom INI
-Less Map Markers
 Player Combat Priority
 Thrown Weapon Tweaks
+Unfound Loot
+Unfound Loot Custom INI
 Armor Damage Overhaul
 Anatomic Perks
 Meltdown NVSE Upgrade ESP Replacer
@@ -1179,6 +1179,7 @@ DLC Enhancements.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
 JamFix.esp
+Less Map Markers.esp
 MigAAMines.esp
 MigKao.esp
 migWellRested.esp
@@ -1209,10 +1210,9 @@ Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 NV Economy Improved.esp
-Unfound Loot.esp
-Less Map Markers.esp
 Player Combat Priority.esp
 Thrown Weapon Tweaks.esp
+Unfound Loot.esp
 MigArmorDegen.esp
 MigAnatomy.esp
 MigMeltdown.esp
