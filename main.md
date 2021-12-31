@@ -374,9 +374,9 @@ Upgrades the Tesla Cannon so that it can now actually chain between targets, as 
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files).
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game.
 - [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
-- [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes most of **PushTheWinButton**'s nerfs to companions, which would make them damn near useless in combat.
+- [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes **JSUE**-exclusive nerfs to companions, and decreases carry weight for companions as in the original mod.
 - [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
   - BAIN options to install:
     - [X] AIO Fixes
