@@ -358,7 +358,7 @@ Additional files to install:
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
 [**Simple Reputation and Disguises**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Reputation%20and%20Disguises%201.3.0%20ESP%20Replacer.7z)  
-Reduces reputation penalties for crimes and restores Primm's reputation. [**Link**] to original mod by **PushTheWinButton**. Edit by **Sigourn**.
+Reduces reputation penalties for crimes and restores Primm's reputation. [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. Edit by **Sigourn**.
 
 [**Meat's Back On The Menu Boys**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
 Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. YUP fixes forwarded by **Sigourn**.
