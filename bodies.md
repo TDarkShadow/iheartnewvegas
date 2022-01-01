@@ -77,7 +77,7 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 - Hide the **meshes\characters\ _male\locomotion** folder.
 - Hide the **meshes\pipboy3000** folder.
 
-> This removes the changes to the Radiation Suit and related outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
+> This removes controversial changes to the Radiation Suit outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
 Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
