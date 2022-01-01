@@ -317,11 +317,13 @@ Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun ea
 ### Features and mechanics
 
 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
-Adds repair parts for you to craft and buy, though crafting will likely be your main method of acquiring them. The goal is not to completely revamp item repair, but instead to give you more options and add a bit of satisfaction to scavenging junk.
+Adds Repair Tools, required to perform repairs, and repair parts for you to craft and buy, giving you alternate methods of repairing equipment.
 
 Additional files to install:
 - [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
 - [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
+
+> ℹ️ For an alternative mod that only features the Repair Tools mechanic, check out [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884?).
 
 [**B42 Inspect**](https://www.nexusmods.com/newvegas/mods/71624)  
 Adds a fully animated ammunition and weapon condition checking system to the game, complete with scratch made animations and a custom HUD element. The ammo check HUD displays the name of the weapon, the ammo type you're using, the rounds left in your current mag and how much ammo you have left in total. Condition checking HUD simply shows you weapons condition.
