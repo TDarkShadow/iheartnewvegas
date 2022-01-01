@@ -80,10 +80,15 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 > This removes the changes to the Radiation Suit and related outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
 Additional files to install:
-- [**TYPE 4 Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
+- [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
   - Hide the **meshes\armor\enclavescientist** folder.
-- [**TYPE 4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2029th).7z). Patches **TYPE 4** for compatibility with **Yukichigai Unofficial Patch**, **JSawyer Ultimate Edition**, **Power Armor Gloves**, and **Eyelashes New Vegas**.
+- [**TYPE4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2029th).7z). Patches **TYPE 4** for a variety of mods.
+  - Check the following options in the BAIN installer:
+    - [X] 00 YUP Patch
+    - [X] 01 JSUE Patch
+    - [X] 02 PA Gloves Patch
+    - [X] 03 Eyelashes FNV Patch
 
 Optional files to install:
 - [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
@@ -141,9 +146,9 @@ Eyelashes New Vegas ESP Replacer
 HD Teeth and Natural Eyelashes and Eyebrows
 Vanilla Hair - No Shine
 Natural Eyes
-TYPE 4 - Body and Armors
-TYPE 4 - Armor Fixes
-TYPE 4 Patches
+TYPE4 - Body and Armors
+TYPE4 - Armor Fixes
+TYPE4 Patches
 T6M Neck Adjusted Outfit Replacers
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
@@ -163,11 +168,11 @@ Body and Face Textures Workshop
 ```
 tkEyelashesFNV.esp
 T4-plugin.esp
-TYPE 4 YUP Patch.esp
+T4 YUP Patch.esp
+T4 JSUE Patch.esp
+T4 PA Gloves Patch.esp
+T4 Eyelashes FNV Patch.esp
 TYPE 4 Dirty Pre-War Businesswear Fix.esp
-TYPE 4 JSUE Patch.esp
-TYPE 4 Power Armor Gloves Patch.esp
-TYPE 4 Eyelashes NV Patch.esp
 TYPE 4 Black Combat Armor Fix JSUE.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ImprovedGeckoLeatherArmor.esp
