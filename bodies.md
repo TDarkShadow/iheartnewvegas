@@ -83,7 +83,7 @@ Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
   - Hide the **meshes\armor\enclavescientist** folder.
-- [**TYPE4 Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE%204%20Patches%20(Dec%2029th).7z). Patches **TYPE 4** for a variety of mods.
+- [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893). Patches **TYPE 4** for a variety of mods.
   - Check the following options in the BAIN installer:
     - [X] 00 YUP Patch
     - [X] 01 JSUE Patch
