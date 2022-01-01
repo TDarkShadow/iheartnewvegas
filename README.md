@@ -58,6 +58,8 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 There are roughly 265 mods and 155 plugins total, including NVSE plugins, patches, and ESP replacers.
 
+Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount of plugins required to solve issues.
+
 ### How much space do I need to install these mods?
 
 Roughly 6GB.
