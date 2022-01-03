@@ -316,8 +316,7 @@ Makes the Old World Blues Lobotomites more challenging by equiparating their tra
 Adds Repair Tools, required to perform repairs, and repair parts for you to craft and buy, giving you alternate methods of repairing equipment.
 
 Additional files to install:
-- [**Alternative Repairing ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20ESP%20Replacer.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits.
-- [**Alternative Repairing Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Custom%20INI%201.0.3.7z). Adds a prefix to parts; disables weapon and armor degradation tweaks; lowers threshold at which apparel is considered clothing.
+- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Tweaks.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing.
 
 > ℹ️ For an alternative mod that only features the Repair Tools mechanic, check out [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884?).
 
@@ -420,11 +419,8 @@ Overhauls armor degradation so that it is based on the damage your armor receive
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
 The Here and Now perk now includes the original effects from Living Anatomy. 
 
-[**Meltdown NVSE Upgrade**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%201.3.2%20ESP%20Replacer.7z)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described. [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**. Perk requirements reverted by **Sigourn**.
-
-Additional files to install:
-- [**Meltdown NVSE Upgrade Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%20Custom%20INI.7z). Disables the Rampage feature and the Meltdown feature for companions.
+[**Meltdown NVSE Upgrade Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%201.3.2%20Tweaked.7z)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described. Perk requirements reverted, Rampage feature disabled, and Meltdown feature for companions disabled. [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
@@ -945,8 +941,7 @@ Rigged Shotgun Restoration - Lore-Friendly
 Well Rested Overhaul YUP
 Lobotomite Tweaks
 Alternative Repairing
-Alternative Repairing ESP Replacer
-Alternative Repairing Custom INI
+Alternative Repairing Tweaks
 B42 Inspect
 B42 Melee Bash
 JAM - Just Assorted Mods
@@ -975,8 +970,7 @@ Unfound Loot
 Unfound Loot Custom INI
 Armor Damage Overhaul
 Anatomic Perks
-Meltdown NVSE Upgrade ESP Replacer
-Meltdown NVSE Upgrade Custom INI
+Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
 Improved Traits
 FNV Opposite Traits ESP Replacer
@@ -1441,6 +1435,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>January 3rd</summary>
 
 - 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
+- ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
+- ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
 - 🚫 **Delayed Malcolm** (Gameplay QOL). Addresses a non-issue: a better mod would simply get rid of this stupid quest altogether.
 - 🚫 **Honest Hearts Workbench Crate Luck** (Gameplay, Tweaks). Addresses a non-issue: most players rightfully wouldn't know about workbench crates spawning skill books if it wasn't pointed out to them. 
 - 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
