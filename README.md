@@ -1,6 +1,6 @@
 # LEFT MY HEART IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: December 30th, 2021
+Last updated: January 3rd, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
@@ -56,7 +56,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 ### How many plugins and mods are there?
 
-There are roughly 265 mods and 155 plugins total, including NVSE plugins, patches, and ESP replacers.
+There are roughly 255 mods and 150 plugins total, including NVSE plugins, patches, and ESP replacers.
 
 Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount of plugins required to solve issues.
 
