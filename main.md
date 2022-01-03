@@ -217,13 +217,13 @@ Lore-friendly overhaul of New Vegas icons to make them more consistent in terms 
 - Install **1. Consistent Pip-boy Icons**  (Main files).
 
 Additional files to install:
-- **2. Consistent Addon Icons** (Main files).
+- **2. Consistent Addon Icons** (Main files). **Merge** with the main file.
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
-- **3. Consistent Glow Icons** (Main files).
+- **3. Consistent Glow Icons** (Main files). **Merge** with the main file.
   - FOMOD options to install:
     - [X] Main File
-- **6. Vanilla UI Plus Patch** (Optional files).
+- **6. Vanilla UI Plus Patch** (Optional files). **Merge** with the main file.
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375). Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
 ## GAMEPLAY QOL
@@ -240,11 +240,11 @@ Increases the speed of the Pip-Boy animation.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
-- Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files).
+- Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files). **Merge** both main files.
 
 Additional files to install:
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files).
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). **Merge** with the main file.
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). **Merge** with the main file.
 
 [**Motion Sickness Destroyer**](https://www.nexusmods.com/newvegas/mods/65732)  
 Removes all motion blur, double vision, and other nasty nauseous effects from Imagespaces and Imagespace Modifers. Compatible with every single mod.
@@ -364,7 +364,7 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game.
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
 - [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
 - [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes **JSUE**-exclusive nerfs to companions, and decreases carry weight for companions as in the original mod.
 - [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
@@ -442,7 +442,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install **Uncut Wasteland plus NPCs** (Main files).
 
 Additional files to install:
-- **Uncut Wasteland Pole Remover** (Optional files). Removes restored utility poles with glitched animations.
+- **Uncut Wasteland Pole Remover** (Optional files). Removes restored utility poles with glitched animations. **Merge** with the main file.
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Forwards **YUP** fixes, omits the NPC restorations at the Ultra-Luxe Bathhouse, and replaces static Destitute Travelers with leveled, random NPCs. Made by **Qolore**.
 
 ### Enemies
@@ -466,7 +466,7 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 
 Additional files to install:
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
-  - Install both main files.
+  - Install both main files. **Merge** both main files.
 
 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds proper diagonal movement animations.
@@ -516,10 +516,10 @@ Additional files to install:
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
 Additional files to install:
-- **Character Expansions Revised - YUP** (Optional files).
-- **Character Expansions Revised - JSU** (Optional files).
-- **Character Expansions Revised - UW** (Optional files).
-- **Character Expansions Revised - MR** (Optional files).
+- **Character Expansions Revised - YUP** (Optional files). **Merge** with the main file.
+- **Character Expansions Revised - JSU** (Optional files). **Merge** with the main file.
+- **Character Expansions Revised - UW** (Optional files). **Merge** with the main file.
+- **Character Expansions Revised - MR** (Optional files). **Merge** with the main file.
 - [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
@@ -529,32 +529,14 @@ Fixes colored tints on character faces. Meant to be used alongside **Character E
 [**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
 Replaces the vanilla NCR vicious dogs with German Shepard models.
 
-[**Bighorner Model Variants**](https://www.nexusmods.com/newvegas/mods/62672)  
-Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
-- Install **Bighorner Model Variants - Standard**.
+[**Bighorner Model Variants Merged**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bighorner%20Model%20Variants%20Merged.7z)  
+Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls. [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**.
 
-Additional files to install:
-- [**Bighorner Model Variants YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bighorner%20Model%20Variants%202.0%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+[**Simple Brahmin Variants Redux**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Brahmin%20Variants%20Redux.7z)  
+Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night. [**Link**](https://www.nexusmods.com/newvegas/mods/58871) to original mod by **Lexx**.
 
-[**Brahmin Variant Redux**](https://www.nexusmods.com/newvegas/mods/58871)  
-Expands the range of brahmin in the game, adding healthy brahmin variants and randomizing the amount of horns on their heads. Brahmin calfs have been made more distinct from standard brahmin as well.
-
-Additional files to install:
-- [**Brahmin Variant Redux YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Brahmin%20Variant%20Redux%202.6%20YUP%20ESP%20Replacer%20(Dec%2022nd).7z). Forwards YUP fixes.
-
-[**Companion Radiation Suit**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Companion%20Radiation%20Suit%201.5%20YUP.7z)  
-Companions wear a Radiation Suit when you do. [**Link**](https://www.nexusmods.com/newvegas/mods/64224) to original mod by **Mastahbossu**. YUP fixes forwarded by **Sigourn**.
-
-[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
-Adds CRT lines to the monitors of Securitrons.
-
-Additional files to install:
-- **OWB in CRT** (Optional files).
-
-[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
-The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
-- Only install **Real Bears** (Optional files).
-- Hide **Big Bears.esp**.
+[**Healthier Yao Guai Pluginless**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Healthier%20Yao%20Guai%20Pluginless.7z)  
+The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures. [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**.
 
 ### Environment
 
@@ -606,7 +588,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 - Install the **Pip-Boy 2000 Mk VI replacer version** main file.
 
 Additional files to install:
-- **Working date and clock for replacer** (Optional files).
+- **Working date and clock for replacer** (Optional files). **Merge** with the main file.
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999). Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z). Makes the Pip-Boy's buttons functional. Made by AleksMarch.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z). Makes NPCs wear the new Pip-Boy 2000 Mk VI.
@@ -691,6 +673,12 @@ Additional files to install:
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
 - Only install **HD Mist 2K**.
+
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
+Adds CRT lines to the monitors of Securitrons.
+
+Additional files to install:
+- **OWB in CRT** (Optional files). **Merge** in MO2.
 
 ### Weather and lighting
 
@@ -910,17 +898,11 @@ Satellite World Map
 Satellite Maps DLC
 Vanilla Loading Screens HD
 Consistent Pip-Boy Icons
-Consistent Addon Icons
-Consistent Glow Icons
-Consistent Pip-Boy Icons Vanilla UI Plus Patch
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Better Character Creation
 Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
-Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
-Laser Weapon Iron Sights - Iron Sight Recoil Animations
-Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
-Plasma Weapon Iron Sights - Iron Sight Recoil Animations
+Laser Weapon Iron Sights
 Motion Sickness Destroyer
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
@@ -954,7 +936,6 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
 JSawyer Ultimate Edition
-JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition - Qolore's Tweaks
 JSawyer Ultimate Edition - Vanilla-ish Companion Suite
 JSawyer Ultimate Edition Fixes
@@ -976,14 +957,12 @@ Improved Traits
 FNV Opposite Traits ESP Replacer
 Improved Opposite Traits and JSUE Patches
 Uncut Wasteland Plus NPCs
-Uncut Wasteland Pole Remover
 Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
-Anniversary Anim Pack - General Bugfix Bonus Patch
 Diagonal Movement
 360 Movement
 Immersive Recoil
@@ -997,21 +976,12 @@ Tweaked Standing Idle Fix
 FOV Slider
 FOV Slider Custom INI
 Character Expansions Revised
-Character Expansions Revised - YUP
-Character Expansions Revised - JSU
-Character Expansions Revised - UW
-Character Expansions Revised - MR
 Character Expansions Revised - AIO Patch
 FaceGen Tint Fixes for Character Expansions Revised
 Alsatian NCR Guard Dogs
-Bighorner Model Variants
-Bighorner Model Variants YUP ESP Replacer
-Brahmin Variant Redux
-Brahmin Variant Redux YUP ESP Replacer
-Companion Radiation Suit
-Securitrons in CRT
-OWB in CRT
-Healthier Yao Guai
+Simple Bighorner Variants
+Simple Brahmin Variants
+Simple Healthier Yao Guai
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
 Gun Runners Kiosk Glass Fix Alternate Version
@@ -1024,7 +994,6 @@ McCarran Main Terminal Transparent Glass
 Windows of the Mojave
 Windows Redux
 Pip-Boy 2000 Mk VI
-Pip-Boy 2000 Mk VI Working Date and Clock
 Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
@@ -1047,8 +1016,8 @@ IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 HQ Dust Storm FX
-HQ Dust Storm FX - Dust Storm Meshes
 HD Mist
+Securitrons in CRT
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Simple Interior Lighting Overhaul
@@ -1207,11 +1176,8 @@ Character Expansions Revised - UW.esp
 Character Expansions Revised - MR.esp
 Character Expansions Revised - AIO Patch.esp
 Alsatian NCR Guard Dogs.esp
-CIB Bighorners.esp
-CIB Bighorners - HH.esp
-lexx_brahmin-variant.esp
-Companion Radiation Suit.esp
-Skinny Bears.esp
+Bighorner Model Variants Merged.esp
+Simple Brahmin Variants Redux.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
 Windows of the Mojave v1.2.1.esp
 Metal Helmet Female Replacements.esp
@@ -1436,11 +1402,15 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 3rd</summary>
 
+- Added **Merge** instructions for a number of mods, in cases where you need to download multiple files from the same page. This will unclutter your mod order while changing no functionality whatsoever.
 - 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
 - ⚠️ **lStewieAl's Tweaks Custom INI**. Updated. Luck affects gambling once again, broken items can't be equipped anymore, and broken armor is automatically unequipped as a balance measure to prevent benefitting from the effects of broken equipment.
 - ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
 - ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
 - ⚠️ **Uncut Wasteland** (Content). Added **Uncut Wasteland Pole Remover**.
+- ⚠️ **Bighorner Model Variants** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a single plugin (instead of two).
+- ⚠️ **Brahmin Variant Redux** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a stripped down, more compatible version of the original mod.
+- ⚠️ **Healthier Yao Guai** (Visuals, Creatures and NPCs). Replaced the original mod with a download that consists of a pluginless mod.
 - 🚫 **Delayed Malcolm** (Gameplay QOL). Addresses a non-issue: a better mod would simply get rid of this stupid quest altogether.
 - 🚫 **Honest Hearts Workbench Crate Luck** (Gameplay, Tweaks). Addresses a non-issue: most players rightfully wouldn't know about workbench crates spawning skill books if it wasn't pointed out to them. 
 - 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
@@ -1448,6 +1418,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 **Tesla Cannon Chaining** (Gameplay, Features and Mechanics). Addresses a non-issue.
 - 🚫 **Lucky 38 Intro Poster** (Visuals, Environment). Addresses a non-issue.
 - 🚫 **Lonesome Road Carbon Shadow Fix** (Visuals, Environment). Addresses a non-issue.
+- 🚫 **Companion Radiation Suit** (Visuals, Creatures and NPCs). Heavily irradiated areas are few and far between in the game, and having multiple companions at once could turn this mod into an annoyance as you can't instantly tell who is who.
 - 🚫 **Classic Level Up Sounds** (Audio). It's not that I didn't like the mod, but it is the kind of nostalgia pandering I'm not interested in anymore.
 - 🚫 **Classic XP Sound** (Audio). Same as above.
 </details>
