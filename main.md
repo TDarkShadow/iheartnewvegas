@@ -232,10 +232,6 @@ Additional files to install:
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-[**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598)  
-Delays the appearance of Malcolm Holmes, instead of allowing him to appear as soon as you pick your first Sunset Sarsaparilla Star bottle cap.
-- Only install **Delayed Malcolm (random)** (Main files).
-
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
 
@@ -273,6 +269,9 @@ Requires the player to discover the snow globe display in the Lucky 38 President
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
+[**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
+Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes. Based off [**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183) by **PushTheWinButton**.
+
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
 
@@ -289,30 +288,27 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**.
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
 
 Additional files to install:
-- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files). We will install **JSawyer Ultimate Edition** in **Overhauls**.
+- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files). Patches the mod for compatibility with **JSawyer Ultimate Edition**.
 - [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
-Gameplay tweaks and fixes for mines.
+Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
-Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player, plus a few more changes related to unarmed combat for player and NPCs.
-
-[**Well Rested Overhaul**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628)   to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
-
-[**Honest Hearts Workbench Crate Luck**](https://www.nexusmods.com/newvegas/mods/62415)  
-Forces the Honest Hearts workbench crates (the only source of skill books in the Honest Hearts DLC) to obey the player character's Luck as opposed to generating random loot. The lone bottle of Nuka-Cola Quantum now also obey's the player character's Luck. 
-
-[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
-Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player; tweaks the effects of Unarmed special attacks; allows NPCs to use Unarmed special attacks.
 
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
+
+[**Well Rested Overhaul**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
+
+[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
+Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
 ### Features and mechanics
 
@@ -361,15 +357,6 @@ Additional files to install:
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
-
-[**Simple Reputation and Disguises**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Reputation%20and%20Disguises%201.3.0%20ESP%20Replacer.7z)  
-Reduces reputation penalties for crimes and restores Primm's reputation. [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. Edit by **Sigourn**.
-
-[**Meat's Back On The Menu Boys**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)  
-Corporal William Farber will sell meat in the McCarran Mess, after you have found suppliers for him. [**Link**](https://www.nexusmods.com/newvegas/mods/57175) to original mod by **wavion**. YUP fixes forwarded by **Sigourn**.
-
-[**Tesla Cannon Chaining**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Tesla%20Cannon%20Chaining%202.2%20YUP.7z)  
-Upgrades the Tesla Cannon so that it can now actually chain between targets, as it was suggested from the game files but which doesn't actually happen the way it would have been intended in Broken Steel. The Tesla Beaton Prototype is turned into a continuous beam attack weapon. [**Link**](https://www.nexusmods.com/newvegas/mods/65711) to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
 
 ## OVERHAULS
 
@@ -600,9 +587,6 @@ Replaces the dated palm trees seen on the Strip with more detailed models.
 [**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406)  
 Improves the appearance of the Strip planters.
 
-[**Lucky 38 Intro Poster**](https://www.nexusmods.com/newvegas/mods/54430)  
-Adds the Lucky 38 poster seen on the game's intro cinematic to the Lucky 38.
-
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
 
@@ -618,9 +602,6 @@ Fixes inconsistencies with cell interiors where the buildings had outside window
 
 Additional files to install:
 - [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225). Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
-
-[**Lonesome Road Carbon Shadow Fix**](https://www.nexusmods.com/newvegas/mods/64022)  
-Corrects the burnt silhouette texture found in Lonesome Road to be accurate to real life.
 
 ### Equipment
 
@@ -805,12 +786,6 @@ Increases the Pip-Boy Geiger clicking beyond the vanilla default.
 [**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
 Removes the cocking sound that plays every time you equip a rifle.
 
-[**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)  
-Replaces level up sound and level up screen music with sounds from classic Fallout games.
-	
-[**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)  
-Replaces exp gain sound with the sound from classic Fallout games.
-
 [**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
 Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
 - Install the **Female Nuka-Cola Drinking Sound replacer** main file.
@@ -944,7 +919,6 @@ Consistent Glow Icons
 Consistent Pip-Boy Icons Vanilla UI Plus Patch
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Better Character Creation
-Delayed Malcolm
 Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -957,6 +931,7 @@ Quick Grenade Hotkey Tweaks
 Simple DLC Delay
 Snowglobe Tweaks Fix
 Essential DLC Enhancements Merged
+Faction Warning and Reputation Tweaks
 Follower Formula Redone
 Follower Formula Redone ESP Replacer
 Follower Tweaks
@@ -966,10 +941,9 @@ Misc Gameplay Merge
 Misc Gameplay Merge YUP ESM Replacer
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
-Well Rested Overhaul YUP
-Honest Hearts Workbench Crate Luck
-Lobotomite Tweaks
 Rigged Shotgun Restoration - Lore-Friendly
+Well Rested Overhaul YUP
+Lobotomite Tweaks
 Alternative Repairing
 Alternative Repairing ESP Replacer
 Alternative Repairing Custom INI
@@ -984,9 +958,6 @@ Precise VATS (and actually useful Perception)
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
-Simple Reputation and Disguises ESP Replacer
-Meat's Back On The Menu Boys
-Tesla Cannon Chaining
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Edition - Qolore's Tweaks
@@ -1052,13 +1023,11 @@ Gun Runners Kiosk Glass Fix Alternate Version
 LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Palm Tree Replacer
-Lucky 38 Intro Poster
 Lucky 38 Mainframe No Fingerprints
 McCarran Escalator Glass
 McCarran Main Terminal Transparent Glass
 Windows of the Mojave
 Windows Redux
-Lonesome Road Carbon Shadow Fix
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Date and Clock
 Pip-Boy 2000 Mk VI Working Buttons
@@ -1107,8 +1076,6 @@ Empty Clicks
 Empty Clicks Custom INI
 More Accurate Geiger Clicking
 No Cocking Sound on Rifle Equip
-Classic Level Up Sounds
-Classic XP Sound
 Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
@@ -1169,7 +1136,6 @@ The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
 Better Character Creation.esp
-Delayed Malcolm.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
@@ -1178,16 +1144,16 @@ Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Snowglobe Tweaks.esp
 DLC Enhancements.esp
+Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
 JamFix.esp
 Less Map Markers.esp
 MigAAMines.esp
 MigKao.esp
-migWellRested.esp
-Honest Hearts Workbench Crate Luck.esp
-Lobotomitess.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
+migWellRested.esp
+Lobotomitess.esp
 Alternative Repairing.esp
 Alternative Repairing - Honest Hearts.esp
 Alternative Repairing - Lonesome Road.esp
@@ -1200,8 +1166,6 @@ NPCsSprint.esp
 hz_Precise VATS.esp
 RAD.esp
 Simple Explosive Entry.esp
-Simple Reputation and Disguises.esp
-Meat's Back on the Menu Boys.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate - Qolore's Tweaks.esp
@@ -1219,7 +1183,6 @@ MigArmorDegen.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
-MigTeslaChain.esp
 Improved Traits.esp
 Improved Traits Improved.esp
 Improved Traits - JSUE Patch.esp
@@ -1254,7 +1217,6 @@ lexx_brahmin-variant.esp
 Companion Radiation Suit.esp
 Skinny Bears.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
-Lucky 38 intro poster.esp
 Windows of the Mojave v1.2.1.esp
 Metal Helmet Female Replacements.esp
 MCPipBoy2000MK6_clock.esp
@@ -1474,6 +1436,20 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 3rd</summary>
+
+- 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
+- 🚫 **Delayed Malcolm** (Gameplay QOL). Addresses a non-issue: a better mod would simply get rid of this stupid quest altogether.
+- 🚫 **Honest Hearts Workbench Crate Luck** (Gameplay, Tweaks). Addresses a non-issue: most players rightfully wouldn't know about workbench crates spawning skill books if it wasn't pointed out to them. 
+- 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
+- 🚫 **Meat's Back On The Menu Boys** (Gameplay, Features and Mechanics). Addresses a non-issue: even if being able to purchase meat is nice, the mess hall is located in such an inconvenient location that players are much more likely to get their food someplace else.
+- 🚫 **Tesla Cannon Chaining** (Gameplay, Features and Mechanics). Addresses a non-issue.
+- 🚫 **Lucky 38 Intro Poster** (Visuals, Environment). Addresses a non-issue.
+- 🚫 **Lonesome Road Carbon Shadow Fix** (Visuals, Environment). Addresses a non-issue.
+- 🚫 **Classic Level Up Sounds** (Audio). It's not that I didn't like the mod, but it is the kind of nostalgia pandering I'm not interested in anymore.
+- 🚫 **Classic XP Sound** (Audio). Same as above.
 
 <details>
 	<summary>December 30th</summary>
