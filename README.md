@@ -18,7 +18,13 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 
 ## About
 
-**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. The end result is a highly compatible, highly stable, vanilla-friendly game focused on enhanced gameplay and a vanilla+ aesthetic. This means the guide avoids big gameplay, NPC, and town overhauls, as well as the hundreds of texture and mesh replacers that New Vegas players tend to install.
+**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. The end result focuses on the following pillars:
+
+- Making the game more difficult, yet at the same time more rewarding.
+- Improving a number of aspects the game suffered from as a result of console-oriented development, such as the user interface, and restoring content cut to cater to console performance.
+- Improving the RPG aspects, by modifying how a number of mechanics work in order to make player choice more significant, and expanding or adding new mechanics altogether.
+- Improving the first-person shooter aspects, with more detailed animations and more satisfying combat.
+- Improving visuals in a subtle way that feels like the game could have released like that from the start, avoiding very high resolution textures or very detailed meshes.
 
 This guide is split in two sections:
 
