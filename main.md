@@ -1450,6 +1450,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 **Lonesome Road Carbon Shadow Fix** (Visuals, Environment). Addresses a non-issue.
 - 🚫 **Classic Level Up Sounds** (Audio). It's not that I didn't like the mod, but it is the kind of nostalgia pandering I'm not interested in anymore.
 - 🚫 **Classic XP Sound** (Audio). Same as above.
+</details>
 
 <details>
 	<summary>December 30th</summary>
