@@ -85,7 +85,7 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Dec%2023rd).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%203rd).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
   - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
@@ -95,10 +95,8 @@ Additional files to install:
   - Throwables can be held and released, like grenades.
   - Entering VATS costs AP.
   - Opening Pip-Boy in combat costs AP.
-  - Broken items can be equipped.
   - Living Anatomy perk shows Damage Resistance.
   - Unconscious actors can be looted.
-  - Luck doesn't affect gambling.
   - Manual reloading.
   - VATS' range is tied to current weapon's range.
   - Slower backpedalling.
@@ -110,6 +108,7 @@ Additional files to install:
   - Repairing items gives XP.
   - Robotic companions heal with Scrap Metal instead of Stimpaks.
   - Sneak attack critical hits can only be dealt with melee weapons.
+  - Broken armor is automatically unequipped.
   - Weapon mods can be unequipped.
 
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
@@ -1438,6 +1437,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>January 3rd</summary>
 
 - 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
+- ⚠️ **lStewieAl's Tweaks Custom INI**. Updated. Luck affects gambling once again, broken items can't be equipped anymore, and broken armor is automatically unequipped as a balance measure to prevent benefitting from the effects of broken equipment.
 - ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
 - ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
 - ⚠️ **Uncut Wasteland** (Content). Added **Uncut Wasteland Pole Remover**.
