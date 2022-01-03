@@ -443,6 +443,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 - Install **Uncut Wasteland plus NPCs** (Main files).
 
 Additional files to install:
+- **Uncut Wasteland Pole Remover** (Optional files). Removes restored utility poles with glitched animations.
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Forwards **YUP** fixes, omits the NPC restorations at the Ultra-Luxe Bathhouse, and replaces static Destitute Travelers with leveled, random NPCs. Made by **Qolore**.
 
 ### Enemies
@@ -976,6 +977,7 @@ Improved Traits
 FNV Opposite Traits ESP Replacer
 Improved Opposite Traits and JSUE Patches
 Uncut Wasteland Plus NPCs
+Uncut Wasteland Pole Remover
 Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
@@ -1184,6 +1186,7 @@ FNVOppositeTraits.esp
 FNVOppositeTraits Improved.esp
 FNVOppositeTraits Improved - JSUE Patch.esp
 Uncut Wasteland.esp
+Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
@@ -1437,6 +1440,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
 - ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
 - ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
+- ⚠️ **Uncut Wasteland** (Content). Added **Uncut Wasteland Pole Remover**.
 - 🚫 **Delayed Malcolm** (Gameplay QOL). Addresses a non-issue: a better mod would simply get rid of this stupid quest altogether.
 - 🚫 **Honest Hearts Workbench Crate Luck** (Gameplay, Tweaks). Addresses a non-issue: most players rightfully wouldn't know about workbench crates spawning skill books if it wasn't pointed out to them. 
 - 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
