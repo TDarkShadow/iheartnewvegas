@@ -268,11 +268,8 @@ A collection of small essential gameplay improvements for the official DLCs that
 [**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes. Based off [**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183) by **PushTheWinButton**.
 
-[**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
-Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most.
-
-Additional files to install:
-- [**Follower Formula Redone YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+[**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -280,15 +277,15 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
-[**Less Map Markers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. YUP fixes forwarded by **Sigourn**.
+[**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
 
 Additional files to install:
 - [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files). Patches the mod for compatibility with **JSawyer Ultimate Edition**.
-- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
+- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). 
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
@@ -300,8 +297,8 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
 
-[**Well Rested Overhaul**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**. YUP fixes forwarded by **Sigourn**.
+[**Well Rested Overhaul YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**.
 
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
