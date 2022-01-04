@@ -383,15 +383,6 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 
-[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
-Upscales icons from a selection of mods.
-- FOMOD options to install:
-  - [X] Alternative Repairing
-  - [X] B42 Melee Bash
-  - [X] Mojave Arsenal
-
-> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
-
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
 - Install **New Vegas Economy Improved** (Main files).
@@ -409,8 +400,14 @@ Dynamically lowers the amount of loot in the game.
 Additional files to install:
 - [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Reduces loot scarcity, and heightens the impact Luck has on it.
 
-[**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267)  
-Overhauls armor degradation so that it is based on the damage your armor receives, instead of the damage the player receives. This means that high level armor, which on top of having more durability also has better DT and DR, will degrade faster than before.
+[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
+Upscales icons from a selection of mods.
+- FOMOD options to install:
+  - [X] Alternative Repairing
+  - [X] B42 Melee Bash
+  - [X] Mojave Arsenal
+
+> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
 
 ### Perks and traits
 
@@ -942,20 +939,19 @@ JSawyer Ultimate Edition Fixes
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks Collection
 Mojave Arsenal
-Consistent Pip-Boy Icons Mod Patches
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 New Vegas Economy Improved
 Player Combat Priority
 Thrown Weapon Tweaks
 Unfound Loot
 Unfound Loot Custom INI
-Armor Damage Overhaul
 Anatomic Perks
 Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
 Improved Traits
 FNV Opposite Traits ESP Replacer
 Improved Opposite Traits and JSUE Patches
+Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
 Mojave Raiders
@@ -1143,7 +1139,6 @@ NV Economy Improved.esp
 Player Combat Priority.esp
 Thrown Weapon Tweaks.esp
 Unfound Loot.esp
-MigArmorDegen.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
@@ -1416,6 +1411,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
 - 🚫 **Meat's Back On The Menu Boys** (Gameplay, Features and Mechanics). Addresses a non-issue: even if being able to purchase meat is nice, the mess hall is located in such an inconvenient location that players are much more likely to get their food someplace else.
 - 🚫 **Tesla Cannon Chaining** (Gameplay, Features and Mechanics). Addresses a non-issue.
+- 🚫 **Armor Damage Overhaul** (Overhauls, Balance). While I see the logic behind the mod, I can't say it works well enough during gameplay.
 - 🚫 **Lucky 38 Intro Poster** (Visuals, Environment). Addresses a non-issue.
 - 🚫 **Lonesome Road Carbon Shadow Fix** (Visuals, Environment). Addresses a non-issue.
 - 🚫 **Companion Radiation Suit** (Visuals, Creatures and NPCs). Heavily irradiated areas are few and far between in the game, and having multiple companions at once could turn this mod into an annoyance as you can't instantly tell who is who.
