@@ -368,7 +368,7 @@ Additional files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
-[**Miscellaneous Tweaks Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer%20(Dec%2031).7z)  
+[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer%20(Dec%2031).7z)  
 Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Removed conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, reverted health and melee damage buffs to Feral Ghoul Reavers, and removed most map markers added.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
