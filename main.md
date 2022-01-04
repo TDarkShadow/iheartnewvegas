@@ -527,6 +527,9 @@ Makes Brahmin look healthier, keeping the vanilla sick variant for specific case
 [**Healthier Yao Guai Pluginless**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Healthier%20Yao%20Guai%20Pluginless.7z)  
 The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures. [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**.
 
+[**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
+Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
+
 ### Environment
 
 [**Bathroom Doors Overhaul**](https://www.nexusmods.com/newvegas/mods/69486)  
@@ -617,9 +620,6 @@ Additional files to install:
   - BAIN options to install:
     - [X] 00 ESP Replacer
     - [X] 01 JSUE Patch
-
-[**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
-Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
 
 ### VFX
 
@@ -960,6 +960,7 @@ Alsatian NCR Guard Dogs
 Simple Bighorner Variants
 Simple Brahmin Variants
 Simple Healthier Yao Guai
+Y-17 Trauma Override Harness GLOVES
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
 Gun Runners Kiosk Glass Fix Alternate Version
@@ -983,7 +984,6 @@ Simple Glowing Ranger Visors
 Worn-Out Scope Crosshair Replacers
 Honest Hearts Gecko Leathers Improved
 Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
-Y-17 Trauma Override Harness GLOVES
 Better Gas Leak Effect
 Burning Campfire REDONE
 Burning Campfire REDONE 2
@@ -1377,6 +1377,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 Last cull before the next big update.
 
+- ⚠️ **Y-17 Trauma Override Harness GLOVES** (Visuals, Creatures and NPCs). Moved to this section.
 - 🚫 **Vanilla Loading Screens HD** (User Interface). The vanilla loading screens look like shit, upscaling or not.
 - 🚫 **Unisex Motorcycle Helmets** (Visuals, Equipment). Some appreciate the vanilla Spaceballs helmet.
 </details>
