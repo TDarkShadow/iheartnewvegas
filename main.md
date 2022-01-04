@@ -284,7 +284,7 @@ Removes some map markers in an attempt to make exploration more interesting. [**
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
 
 Additional files to install:
-- [**Misc Gameplay Merge JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files). Patches the mod for compatibility with **JSawyer Ultimate Edition**.
+- **Misc Gameplay Merge JSawyer Ultimate Edition Patch** (Optional files).
 - [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). 
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
