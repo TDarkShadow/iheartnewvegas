@@ -169,7 +169,7 @@ New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities 
 Earlier we installed [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mods/62552?), which makes Fallout: New Vegas 4GB Aware, and automatically loads NVSE if present.
 
 From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
-- Click on the currently selected executable in Mod Organizer 2, and choose **Edit...** from the drop down menu.
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click **Fallout Launcher**, and tick **Hide in user interface**.
 - Click **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**, and then **OK**.
