@@ -663,7 +663,7 @@ Remakes blood visual effects, including the addition of new types of wounds base
 Retextures dust storms so they aren't as much of an eyesore now.
 
 Additional files to install:
-- **Dust Storm Meshes** (Optional files).
+- **Dust Storm Meshes** (Optional files). **Merge** with the main file.
 
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
