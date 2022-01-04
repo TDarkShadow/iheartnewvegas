@@ -207,9 +207,6 @@ High-res satellite map for the Mojave Wasteland.
 Additional files to install:
 - [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292). High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
 
-[**Vanilla Loading Screens HD**](https://www.nexusmods.com/newvegas/mods/63222)  
-Doubles the resolution of the textures of loading screen artwork, improving crispness and fidelity.
-
 ### Icons
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
@@ -607,9 +604,6 @@ Makes the visors of all the Ranger Helmets have a glowing effect.
 
 > ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
 
-[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
-Replaces the male Motorcycle helmet with its female counterpart.
-
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install the **Worn-Out Scopes** main file.
@@ -885,7 +879,6 @@ Clean Companion Wheel
 JIP Improved Recipe Menu
 Satellite World Map
 Satellite Maps DLC
-Vanilla Loading Screens HD
 Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Ending Slideshows Ultimate Edition Overhaul
@@ -987,7 +980,6 @@ Lower-sitting Ranger Hat
 Metal Helmets - Female Replacements
 Power Armor Gloves YUP
 Simple Glowing Ranger Visors
-Unisex Motorcycle Helmets
 Worn-Out Scope Crosshair Replacers
 Honest Hearts Gecko Leathers Improved
 Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
@@ -1379,6 +1371,14 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 4th</summary>
+
+Last cull before the next big update.
+
+- 🚫 **Vanilla Loading Screens HD** (User Interface). The vanilla loading screens look like shit, upscaling or not.
+- 🚫 **Unisex Motorcycle Helmets** (Visuals, Equipment). Some appreciate the vanilla Spaceballs helmet.
 
 <details>
 	<summary>January 3rd</summary>
