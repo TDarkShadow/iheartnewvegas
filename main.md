@@ -50,7 +50,7 @@ Extension of the New Vegas Script Extender that enables borderless window mode f
 Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
 Additional files to install:
-- [**Viva New Vegas NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables a number of settings to achieve the best balance between performance and stability.
+- [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z). Enables a number of settings to achieve the best balance between performance and stability. Made by **Qolore**.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
