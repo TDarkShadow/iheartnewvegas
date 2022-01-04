@@ -368,7 +368,7 @@ Additional files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
-[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20ESP%20Replacer%20(Dec%2031).7z)  
+[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaked%202.5.7z)  
 Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Removed conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, reverted health and melee damage buffs to Feral Ghoul Reavers, and removed most map markers added.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
@@ -515,7 +515,7 @@ Additional files to install:
 - [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
-Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link to original mod.**](https://www.nexusmods.com/newvegas/mods/71577?)
+Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**.
 - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
 
 [**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
@@ -931,7 +931,7 @@ JSawyer Ultimate Edition - Qolore's Tweaks
 JSawyer Ultimate Edition - Vanilla-ish Companion Suite
 JSawyer Ultimate Edition Fixes
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
-Miscellaneous Tweaks Collection
+Miscellaneous Tweaks Collection Tweaked
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 New Vegas Economy Improved
