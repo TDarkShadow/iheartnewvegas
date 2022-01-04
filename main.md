@@ -430,7 +430,7 @@ Overhauls vanilla traits, adds two new ones, and expands the idea of opposite tr
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**, edited to fix issues and disable an overpowered trait. 
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**, cleaned.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**, edited to remove unnecessary records.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
