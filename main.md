@@ -266,7 +266,9 @@ A collection of small essential gameplay improvements for the official DLCs that
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes. Based off [**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183) by **PushTheWinButton**.
 
 [**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
-Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**.
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**, edited to include YUP fixes.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -275,7 +277,9 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
 [**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting. [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**.
+Removes some map markers in an attempt to make exploration more interesting.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**, edited to include YUP fixes.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
@@ -295,7 +299,9 @@ Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun ea
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
 
 [**Well Rested Overhaul YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services. [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**.
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**, edited to include YUP fixes.
 
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
@@ -366,7 +372,9 @@ Additional files to install:
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
 [**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaked%202.5.7z)  
-Collection of gameplay and balance tweaks. [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. Removed conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, reverted health and melee damage buffs to Feral Ghoul Reavers, and removed most map markers added.
+Collection of gameplay and balance tweaks.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, and remove most map markers added for consistency with **Less Map Markers**.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -382,7 +390,7 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
 
 [**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats. Made by **Sigourn**.
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
 
 [**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
 Dynamically lowers the amount of loot in the game.
@@ -407,16 +415,22 @@ Distributes the effect from the Living Anatomy perk to see the target's HP and D
 The Here and Now perk now includes the original effects from Living Anatomy. 
 
 [**Meltdown NVSE Upgrade Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%201.3.2%20Tweaked.7z)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described. Perk requirements reverted, Rampage feature disabled, and Meltdown feature for companions disabled. [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**.
+Overhauls the Meltdown perk to bring its workings under control and actually work as described.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**, edited to revert Perk requirements to vanilla, disable the player-only Rampage feature, and disable the companion Meltdown feature.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
 
 [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
-Overhauls vanilla traits, adds two new ones, and expands the idea of opposite traits (present in two vanilla traits) to the game's other traits. [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**, and [**link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. Fixes to both mods by **Qolore7**.
+Overhauls vanilla traits, adds two new ones, and expands the idea of opposite traits (present in two vanilla traits) to the game's other traits.
 - BAIN options to install:
   - [X] 00 Improved Traits and Opposite Traits
   - [X] 01 JSUE Patch
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**, edited to fix issues and disable an overpowered trait. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**, cleaned.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
@@ -512,20 +526,28 @@ Additional files to install:
 - [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
-Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**.
+Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. 
 - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
 
 [**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
 Replaces the vanilla NCR vicious dogs with German Shepard models.
 
 [**Bighorner Model Variants Merged**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bighorner%20Model%20Variants%20Merged.7z)  
-Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls. [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**.
+Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**, edited to merge ESPs and include YUP fixes.
 
 [**Simple Brahmin Variants Redux**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Brahmin%20Variants%20Redux.7z)  
-Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night. [**Link**](https://www.nexusmods.com/newvegas/mods/58871) to original mod by **Lexx**.
+Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58871) to original mod by **Lexx**, edited to include YUP fixes and simplify its implementation, removing horn variations.
 
 [**Healthier Yao Guai Pluginless**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Healthier%20Yao%20Guai%20Pluginless.7z)  
-The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures. [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**.
+The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**, edited to make it a pluginless replacer.
 
 [**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
 Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
@@ -599,7 +621,9 @@ Replaces the female Metal Armor helmets with their male counterparts.
 > ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
 
 [**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
-Adds armored gloves to all Power Armors in the game. [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx*.
+Adds armored gloves to all Power Armors in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx*, edited to remove unnecessary records and include YUP fixes.
 
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
