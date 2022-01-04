@@ -598,11 +598,8 @@ Replaces the female Metal Armor helmets with their male counterparts.
 
 > ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
 
-[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
-Adds armored gloves to all Power Armors in the game.
-
-Additional files to install:
-- [**Power Armor Gloves YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP%20ESP%20Replacer.7z). Forwards YUP fixes.
+[**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
+Adds armored gloves to all Power Armors in the game. [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx*.
 
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
@@ -901,11 +898,10 @@ Simple DLC Delay
 Snowglobe Tweaks Fix
 Essential DLC Enhancements Merged
 Faction Warning and Reputation Tweaks
-Follower Formula Redone
-Follower Formula Redone ESP Replacer
+Follower Formula Redone YUP
 Follower Tweaks
 Jamming Fix and Optional Tweaks
-Less Map Markers
+Less Map Markers YUP
 Misc Gameplay Merge
 Misc Gameplay Merge YUP ESM Replacer
 Mine and Explosion Tweaks
@@ -945,7 +941,7 @@ Miss Fortune NVSE Upgrade
 Improved Traits and Opposite Traits
 Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
-Uncut Wasteland Plus NPCs
+Uncut Wasteland
 Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
@@ -989,8 +985,7 @@ NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
 Lower-sitting Ranger Hat
 Metal Helmets - Female Replacements
-Power Armor Gloves
-Power Armor Gloves YUP ESP Replacer
+Power Armor Gloves YUP
 Simple Glowing Ranger Visors
 Unisex Motorcycle Helmets
 Worn-Out Scope Crosshair Replacers
