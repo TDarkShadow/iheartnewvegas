@@ -228,9 +228,6 @@ Additional files to install:
 
 ## GAMEPLAY QOL
 
-[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
-Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
-
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
 
@@ -421,14 +418,14 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
 
-[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
-Overhauls vanilla traits and adds two new ones.
+[**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
+Overhauls vanilla traits, adds two new ones, and expands the idea of opposite traits (present in two vanilla traits) to the game's other traits. [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**, and [**link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. Fixes to both mods by **Qolore7**.
+- BAIN options to install:
+  - [X] 00 Improved Traits and Opposite Traits
+  - [X] 01 JSUE Patch
 
-[**FNV Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Opposite%20Traits%201.4%20ESP%20Replacer.7z)  
-New Vegas has two Traits with opposite effects. This mod expands this idea to the game's other Traits. [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. Cleaned by **Sigourn**.
-
-[**Improved Opposite Traits and JSUE Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Opposite%20Traits%20and%20JSUE%20Patches.7z)  
-Fixes issues with **Improved Traits**, patches **FNV Opposite Traits** for compatibility with **Improved Traits**, and patches both mods for compatibility with **JSawyer Ultimate Edition**. Original patches by **Qolore7**.
+[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
+Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
 ## CONTENT
 
@@ -897,7 +894,6 @@ Satellite Maps DLC
 Vanilla Loading Screens HD
 Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
-Better Character Creation
 Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
 Laser Weapon Iron Sights
@@ -949,9 +945,8 @@ Unfound Loot Custom INI
 Anatomic Perks
 Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
-Improved Traits
-FNV Opposite Traits ESP Replacer
-Improved Opposite Traits and JSUE Patches
+Improved Traits and Opposite Traits
+Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Tweaks
@@ -1096,7 +1091,6 @@ LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
-Better Character Creation.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
@@ -1143,12 +1137,11 @@ Unfound Loot.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
-Improved Traits.esp
-Improved Traits Improved.esp
-Improved Traits - JSUE Patch.esp
 FNVOppositeTraits.esp
-FNVOppositeTraits Improved.esp
-FNVOppositeTraits Improved - JSUE Patch.esp
+Improved Traits.esp
+Improved FNVOppositeTraits.esp
+Improved Traits and FNVOppositeTraits JSUE Patch.esp
+Better Character Creation.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
@@ -1403,6 +1396,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ **lStewieAl's Tweaks Custom INI**. Updated. Luck affects gambling once again, broken items can't be equipped anymore, and broken armor is automatically unequipped as a balance measure to prevent benefitting from the effects of broken equipment.
 - ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
 - ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
+- ⚠️ **Improved Traits** and **FNV Opposite Traits** (Overhauls, Traits). Replaced the original mods and ESP replacers with a single download that contains both fixed mods, the Improved Traits patch for Opposite Traits, and the JSawyer Ultimate patch.
+- ⚠️ **Better Character Creation** (Overhauls, Perks and Traits). Moved into this section as it includes the changes removed to Improved Traits Improved.
 - ⚠️ **Uncut Wasteland** (Content). Added **Uncut Wasteland Pole Remover**.
 - ⚠️ **Bighorner Model Variants** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a single plugin (instead of two).
 - ⚠️ **Brahmin Variant Redux** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a stripped down, more compatible version of the original mod.
