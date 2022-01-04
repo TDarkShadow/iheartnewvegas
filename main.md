@@ -1379,6 +1379,7 @@ Last cull before the next big update.
 
 - 🚫 **Vanilla Loading Screens HD** (User Interface). The vanilla loading screens look like shit, upscaling or not.
 - 🚫 **Unisex Motorcycle Helmets** (Visuals, Equipment). Some appreciate the vanilla Spaceballs helmet.
+</details>
 
 <details>
 	<summary>January 3rd</summary>
