@@ -463,7 +463,8 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 
 Additional files to install:
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320). Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
-  - Install both main files. **Merge** both main files.
+  - Install **AnniAnimPack_BugFix 1.3** (Main files).
+  - Install **Bonus Patch** (Main files). **Merge** into the other main file.
 
 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds proper diagonal movement animations.
