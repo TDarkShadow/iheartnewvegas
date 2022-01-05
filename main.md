@@ -373,7 +373,7 @@ Additional files to install:
 [**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20Tweaked.7z)  
 Collection of gameplay and balance tweaks.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, remove most new map markers for consistency with **Less Map Markers**, and to add a new Mojave Express dropbox outside Camp McCarran.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, remove most new map markers for consistency with **Less Map Markers**, add a new Mojave Express dropbox outside Camp McCarran, and tie Honest Hearts recipes to reaching Zion (circumventing bugs with mods that remove the Southern Passage map marker).
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
