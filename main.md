@@ -143,11 +143,8 @@ Additional files to install:
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 A collection of visual and audio fixes and tweaks for throwable weapons, focused on projectiles.
 
-[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
+[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.1.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 01 Vanilla
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
@@ -310,9 +307,11 @@ Makes the Old World Blues Lobotomites more challenging by equiparating their tra
 
 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
 Adds Repair Tools, required to perform repairs, and repair parts for you to craft and buy, giving you alternate methods of repairing equipment.
+- Hide **Alternative Repairing - Honest Hearts.esp**.
+- Hide **Alternative Repairing - Lonesome Road.esp**.
 
 Additional files to install:
-- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%20Tweaks.7z). Forwards **Yukichigai Unofficial Patch** fixes, including extending the Weapon Repair Kit sound fix to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing.
+- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%202.7.12%20Tweaks.7z). Merges DLC esps with the main esp; forwards YUP fixes, including extending the Weapon Repair Kit sound fix to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing; merges DLC esps with the main esp.
 
 > ℹ️ For an alternative mod that only features the Repair Tools mechanic, check out [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884?).
 
@@ -364,23 +363,25 @@ Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
 - [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
 - [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes **JSUE**-exclusive nerfs to companions, and decreases carry weight for companions as in the original mod.
-- [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for **Yukichigai Unofficial Patch**, **Weapon Mesh Improvement Mod**, and **Throwable Weapon Fixes**.
+- [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for YUP, WMIM, and Throwable Weapon Fixes.
   - BAIN options to install:
     - [X] AIO Fixes
   - Hide **Female White Glove Society.esp**. This collection already includes it.
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
 
-[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaked%202.5.7z)  
+[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20Tweaked.7z)  
 Collection of gameplay and balance tweaks.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, and remove most map markers added for consistency with **Less Map Markers**.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, remove most new map markers for consistency with **Less Map Markers**, and to add a new Mojave Express dropbox outside Camp McCarran.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
+- [**JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Push's%20Tweaks%20-%20Mojave%20Arsenal%20Patch.7z). Addresses a recipe conflict with Push's Tweaks.
+- [**JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20-%20Miscellaneous%20Tweaks%20Patch.7z). Addresses a vendor leveled list conflict with Miscellaneous Tweaks.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
@@ -947,6 +948,8 @@ Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks Collection Tweaked
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
+JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch
+JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch
 New Vegas Economy Improved
 Player Combat Priority
 Thrown Weapon Tweaks
@@ -1118,8 +1121,6 @@ Rigged Shotgun Restoration - Lore-Friendly.esp
 migWellRested.esp
 Lobotomitess.esp
 Alternative Repairing.esp
-Alternative Repairing - Honest Hearts.esp
-Alternative Repairing - Lonesome Road.esp
 B42Inspect.esp
 B42Bash.esp
 JustAssortedMods.esp
@@ -1138,6 +1139,8 @@ Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
+JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
+JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
 Thrown Weapon Tweaks.esp
@@ -1211,44 +1214,6 @@ Vurt's WFO.esp
 FNVLODGen.esp
 tmzLODadditions.esp
 ```
-</details>
-
-### FNVEdit instructions
-
-The following mods have conflict issues that need to be addressed, or otherwise aspects we want to see tweaked.
-
-To make these edits, you will have to launch **FNVEdit** through Mod Organizer 2. Under each spoiler you will find:
-
-- The **plugins** that need to be loaded. This can be one, when it comes to editing a single plugin, or more, when it comes to forwarding changes from one mod to another. Forwarding a change means applying the same change to a mod that sits later in the load order. We will always apply the change to the plugin corresponding to the mod we are trying to fix. This will always be the plugin listed *last* under each spoiler.
-- The **instructions** to follow, and the **record** which those instructions have to be applied to. To search for a given record, copy the record ID (which you will find in **bold** at the end of the instructions) and paste it into FNVEdit's **FormID filter** (the empty box labeled **FormID** after you've loaded your plugins in FNVEdit), and then press Enter. This will search for that given record.
-
-Once you've made your edits, you need to exit FNVEdit, and **Save** your changes when prompted.
-
-<details>
-	<summary>Mojave Arsenal</summary>
-
-Plugins to load:
-- **Unofficial Patch NVSE Plus.esp**
-- **JSawyer Ultimate - Push's Tweaks.esp**
-- **Miscellaneous Tweaks.esp**
-- **Mojave Arsenal.esp**
-
-Instructions:
-- Forward the **Ingredients** section for record **00140A66**
-- Forward the **Conditions** section for record **02010CD9**
-- Forward the **Description** field for record **05000A4B**
-</details>
-
-<details>
-	<summary>JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)</summary>
-
-Plugins to load:
-- **Miscellaneous Tweaks.esp**
-- **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp**
-
-Instructions:
-- Forward the three **Leveled List Entries** for record **0011FBCF**
-- When asked to, add **Miscellaneous Tweaks.esp** as a master file.
 </details>
 
 ### Generating LOD
@@ -1395,6 +1360,17 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 5th</summary>
+
+- ⚠️ (Patches) **Dirty Pre-War Businesswear Fix**. Updated link, no longer requires BAIN instructions.
+- ⚠️ (Gameplay Features and Mechanics) **Alternative Repairing Tweaks**. Updated link, now has instructions to merge the two DLC esps.
+- ⚠️ (Overhauls) **Miscellaneous Tweaks Collection Tweaked**. Updated link, now features an additional Mojave Express dropbox outside Camp McCarran.
+- 🆕 (Overhauls) **JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**.
+- 🆕 (Overhauls) **JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**.
+- Removed **FNVEdit Instructions**, as I've provided patches for the offending mods.
+</details>
 
 <details>
 	<summary>January 4th</summary>
