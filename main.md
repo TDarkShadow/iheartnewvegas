@@ -229,6 +229,12 @@ Merges the DLC ending slideshows with the main game's ending slideshow for one c
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
 
+[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
+Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
+
+Additional files to install:
+- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
+
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 - Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** and **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files). **Merge** both main files.
@@ -500,37 +506,26 @@ Companions ready their weapons when you do.
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
-[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
-Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
-
-Additional files to install:
-- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Enables Headtracking and face animations.
-
-### Camera
-
-[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
-Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-
-Additional files to install:
-- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z). Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install next.
-
 ### Creatures and NPCs
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
+- Hide **Character Expansions Revised - Extras.esp**.
 
 Additional files to install:
-- **Character Expansions Revised - YUP** (Optional files). **Merge** with the main file.
-- **Character Expansions Revised - JSU** (Optional files). **Merge** with the main file.
-- **Character Expansions Revised - UW** (Optional files). **Merge** with the main file.
-- **Character Expansions Revised - MR** (Optional files). **Merge** with the main file.
-- [**Character Expansions Revised - AIO Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between all of the above patches.
+- [**Character Expansions Revised - Complete**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between this mod and YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders.
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. 
 - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
+
+[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662)  
+Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor. 
+
+Additional files to install:
+- [**Tweaked Standing Idle Fix**](https://www.nexusmods.com/newvegas/mods/57041). Fixes headtracking and face animations being disabled.
 
 [**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232/)  
 Replaces the vanilla NCR vicious dogs with German Shepard models.
@@ -681,12 +676,6 @@ Additional files to install:
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
 - Only install **HD Mist 2K**.
-
-[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
-Adds CRT lines to the monitors of Securitrons.
-
-Additional files to install:
-- **OWB in CRT** (Optional files). **Merge** in MO2.
 
 ### Weather and lighting
 
@@ -908,6 +897,8 @@ Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
+FOV Slider
+FOV Slider Custom INI
 Laser Weapon Iron Sights
 Motion Sickness Destroyer
 Quick Grenade Hotkey
@@ -976,13 +967,11 @@ B42 Weapon Inertia
 NV Compatibility Skeleton
 Companions Combat-Ready
 Empty Weapons
+Character Expansions Revised
+Character Expansions Revised - Complete
+FaceGen Tint Fixes for Character Expansions Revised
 Tweaked Standing Idle
 Tweaked Standing Idle Fix
-FOV Slider
-FOV Slider Custom INI
-Character Expansions Revised
-Character Expansions Revised - AIO Patch
-FaceGen Tint Fixes for Character Expansions Revised
 Alsatian NCR Guard Dogs
 Simple Bighorner Variants
 Simple Brahmin Variants
@@ -1020,7 +1009,6 @@ EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 HQ Dust Storm FX
 HD Mist
-Securitrons in CRT
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Simple Interior Lighting Overhaul
@@ -1103,6 +1091,7 @@ The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
+FOVSlider.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Motion Sickness Reduction Mod.esp
@@ -1168,13 +1157,7 @@ VM_Recoil.esp
 B42Inertia.esp
 Companions Combat-Ready.esp
 EmptyWeapons.esp
-FOVSlider.esp
-Character Expansions Revised - Extras.esp
-Character Expansions Revised - YUP.esp
-Character Expansions Revised - JSU.esp
-Character Expansions Revised - UW.esp
-Character Expansions Revised - MR.esp
-Character Expansions Revised - AIO Patch.esp
+Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
 Simple Brahmin Variants Redux.esp
@@ -1360,6 +1343,15 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 5th follow up</summary>
+
+- ⚠️ (Gameplay QOL) **FOV Slider**. Moved to this section.
+- ⚠️ (Visuals, Creatures and NPCs) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
+- ⚠️ (Visuals, Creatures and NPCs) **Tweaked Standing Idle**. Moved to this section.
+- 🚫 (Visuals, Creatures and NPCs) **Securitrons in CRT**. To be replaced in the next update.
+</details>
 
 <details>
 	<summary>January 5th</summary>
