@@ -1432,6 +1432,8 @@ Last cull before the next big update.
 </details>
 
 <details>
+	<summary>2021 changelog</summary>
+<details>
 	<summary>December 30th</summary>
 
 - Added mention to **Melee Cleave (a.k.a. Sweep) but as a Perk**.
@@ -1614,6 +1616,7 @@ Merry Christmas!
 - Completed Keybindings section.
 - Added Mojave Arsenal configuration instructions.
 - Added SweetFX optional configuration instructions.
+</details>
 </details>
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
