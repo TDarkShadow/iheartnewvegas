@@ -1324,7 +1324,7 @@ R (double tap) | Switch ammunition | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 N | Toggle Pip-Boy light | lStewieAl's Tweaks
-N | Toggle scope night vision | lStewieAl's Tweaks
+N | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
@@ -1332,8 +1332,8 @@ Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 O | Check weapon ammo | B42 Inspect
 P | Check weapon condition | B42 Inspect
-X | Weapon bash | B42 Melee Bash
-G | Equip grenade/mine | Quick Grenade Hotkey
+X | Melee weapon bash | B42 Melee Bash
+G | Equip/unequip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
