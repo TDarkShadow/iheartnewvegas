@@ -81,6 +81,15 @@ Fixes virtually every navmesh where the edge connections were missing or pointin
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
+
+[**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
+Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Also makes NPCs get some more debuffs from crippling like the player does.
+
+[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
+Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
+
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
@@ -110,24 +119,6 @@ Additional files to install:
   - Sneak attack critical hits can only be dealt with melee weapons.
   - Broken armor is automatically unequipped.
   - Weapon mods can be unequipped.
-
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
-
-[**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
-Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Also makes NPCs get some more debuffs from crippling like the player does.
-
-[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
-Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
-
-[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
-Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
 
 ### Mesh fixes and optimization
 
@@ -222,9 +213,6 @@ Additional files to install:
 
 ## GAMEPLAY QOL
 
-[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
-Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
-
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
@@ -255,12 +243,18 @@ Additional files to install:
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
-[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
-Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
-
 ## GAMEPLAY
 
 ### Tweaks
+
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
+
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
@@ -301,6 +295,12 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
 
+[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
+Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
+
 [**Well Rested Overhaul YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
@@ -331,7 +331,7 @@ Adds melee attacks for non-melee weapons.
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 Additional files to install:
-- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Dec%2014th).7z). Disables Visual Objectives, Hold Breath, and Bullet Time. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Reduces Sprint speed.
+- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z). Disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
@@ -345,9 +345,6 @@ Makes melee attacks hit multiple enemies.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
-
-[**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
-Requires the player's crosshair to be aiming at the target in order to activate VATS, and makes VATS activation range and target switching distance be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
@@ -478,14 +475,11 @@ Additional files to install:
   - Install **AnniAnimPack_BugFix 1.3** (Main files).
   - Install **Bonus Patch** (Main files). **Merge** into the other main file.
 
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds proper diagonal movement animations.
+[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
+Companions ready their weapons when you do.
 
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
-- FOMOD options to install:
-  - [X] Full 360 Sneak Options
-  - [X] Diagonal Movement Patch
+[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
+Slides stay locked back on empty handguns.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -496,15 +490,19 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
+[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds proper diagonal movement animations.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
+- FOMOD options to install:
+  - [X] Full 360 Sneak Options
+  - [X] Diagonal Movement Patch
+
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
-- Install the default FOMOD options.
-
-[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
-Companions ready their weapons when you do.
-
-[**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
-Slides stay locked back on empty handguns.
+- FOMOD options to install:
+  - [X] Vanilla Weights.
 
 ### Creatures and NPCs
 
@@ -867,14 +865,11 @@ Yukichigai Unofficial Patch - YUP
 Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
-lStewieAl's Tweaks
-lStewieAl's Tweaks INI
 Ammo Burst Case Count Fix
-Ammo Script Fixes
-Critical and Effects - Fixes and Tweaks
 Crippled Limb Reaction Enforcer
 Gauss Rifle VATS Fix - JIP
-Universal Pyromaniac Buff for Fire Effects
+lStewieAl's Tweaks
+lStewieAl's Tweaks INI
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
@@ -895,7 +890,6 @@ Satellite World Map
 Satellite Maps DLC
 Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
-Ending Slideshows Ultimate Edition Overhaul
 Faster Pip-Boy Animation
 FOV Slider
 FOV Slider Custom INI
@@ -904,7 +898,9 @@ Motion Sickness Destroyer
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
-Snowglobe Tweaks Fix
+Ammo Script Fixes
+Critical and Effects - Fixes and Tweaks
+Ending Slideshows Ultimate Edition Overhaul
 Essential DLC Enhancements Merged
 Faction Warning and Reputation Tweaks
 Follower Formula Redone YUP
@@ -916,6 +912,8 @@ Misc Gameplay Merge YUP ESM Replacer
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 Rigged Shotgun Restoration - Lore-Friendly
+Snowglobe Tweaks Fix
+Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
 Lobotomite Tweaks
 Alternative Repairing
@@ -927,7 +925,6 @@ JAM - Just Assorted Mods Custom INI
 Immersive Fast Travel Requirements
 Melee Cleave (a.k.a. Sweep)
 NPCs Sprint In Combat
-Precise VATS (and actually useful Perception)
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
@@ -959,14 +956,14 @@ JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
-Diagonal Movement
-360 Movement
+Companions Combat-Ready
+Empty Weapons
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
+Diagonal Movement
+360 Movement
 NV Compatibility Skeleton
-Companions Combat-Ready
-Empty Weapons
 Character Expansions Revised
 Character Expansions Revised - Complete
 FaceGen Tint Fixes for Character Expansions Revised
@@ -1078,11 +1075,8 @@ Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
-AmmoScriptFixes.esp
-CriticalEffectFixes.esp
 MigCrippled.esp
 MigGaussFix.esp
-PyromaniacEffectsBuff.esp
 WMIMNV.esp
 ThrowableFixes.esp
 Dirty Pre-War Businesswear Fix.esp
@@ -1090,14 +1084,15 @@ LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
-Ending Slideshows Ultimate Edition Overhaul.esp
 FOVSlider.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Motion Sickness Reduction Mod.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
-Snowglobe Tweaks.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
@@ -1107,6 +1102,8 @@ Less Map Markers.esp
 MigAAMines.esp
 MigKao.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
+PyromaniacEffectsBuff.esp
+Snowglobe Tweaks.esp
 migWellRested.esp
 Lobotomitess.esp
 Alternative Repairing.esp
@@ -1116,7 +1113,6 @@ JustAssortedMods.esp
 Fast Travel Requirements.esp
 MeleeCleave.esp
 NPCsSprint.esp
-hz_Precise VATS.esp
 RAD.esp
 Simple Explosive Entry.esp
 JSawyer Ultimate.esp
@@ -1149,14 +1145,14 @@ Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
-Diagonal movement.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
+Companions Combat-Ready.esp
+EmptyWeapons.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
-Companions Combat-Ready.esp
-EmptyWeapons.esp
+Diagonal movement.esp
+360Movement.esp
+360Movement - Diagonal movement Patch.esp
 Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
@@ -1227,7 +1223,21 @@ Now all that's left is to install our generated LOD.
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
 
+### Settings config
+
+The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
+
+**Gameplay**:
+- Set **Killcam Mode** to None.
+- Set **Difficulty** to Hard.
+
+**Controls -> Action Mapping**:
+- Set **VATS** to Esc in order to disable the keybinding.
+- Set **Ammo Swap** to Esc in order to disable the keybinding.
+
 ### MCM config
+
+The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
 
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
@@ -1244,7 +1254,7 @@ Now all that's left is to install our generated LOD.
 - Enable **Repair Tools**.
 - Set **Repair Kits** to **Multi-use**.
 
-### INI CONFIG
+### INI config
 
 **JIP LN NVSE Plugin**:
 - Double-click the installed mod to open the **Information...** window.
@@ -1253,12 +1263,15 @@ Now all that's left is to install our generated LOD.
 
 ```
 bEnableFO3Repair=1
+
+bLocalizedDTDR=1
+
 bNPCWeaponMods=1
 uWMChanceMin=5
 uWMChanceMax=15
 ```
 
-> ℹ️ Enables Fallout 3-style repair, as well as a chance for random NPCs to have weapon mods.
+> ℹ️ Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods.
 
 **Vanilla UI Plus**:
 - Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
@@ -1336,6 +1349,7 @@ X | Melee weapon bash | B42 Melee Bash
 G | Equip/unequip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
+V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
@@ -1345,12 +1359,28 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>January 6th</summary>
+
+- ⚠️ (Gameplay, Tweaks) **Ammo Script Fixes**. Moved to this section, as the pure bug fixes are already included in UPNVSE+.
+- ⚠️ (Gameplay, Tweaks) **Critical and Effects - Fixes and Tweaks**. Moved to this section, as it includes far too many gameplay tweaks to be considered "just" a bug fix.
+- ⚠️ (Gameplay, Tweaks) **Ending Slideshows Ultimate Edition Overhaul**. Moved to this section, as it is not a QOL improvement. Don't really know what would the "proper" category be for it, but since it affects when do you see the gameplay consequences of your actions...
+- ⚠️ (Gameplay, Tweaks) **Snowglobe Tweaks**. Moved to this section, as it is not a QOL improvement, and affects how snow globe rewards work.
+- ⚠️ (Gameplay, Tweaks) **Universal Pyromaniac Buff for Fire Effects**. Moved to this section, as it is not a bug fix.
+- ⚠️ (Gameplay, Features and Mechanics) **Just Assorted Mods Custom INI**. Updated to enable Bullet Time. Configured for the V hotkey.
+- ⚠️ (Visuals, Animations) **NV Compatibility Skeleton**. Changed FOMOD instructions to use the vanilla weights option.
+- ⚠️ (Settings Config) New section.
+- ⚠️ (MCM Config) Added instructions to configure the settings on a new save.
+- ⚠️ (INI Config) Added instructions to enable bLocalizedDTDR.
+- 🚫 (Gameplay, Features and Mechanics) **Precise VATS**. Turned out to be very infuriating in the late game. Plus VATS will be replaced in the next major update.
+</details>
+
+<details>
 	<summary>January 5th follow up</summary>
 
 - ⚠️ (Gameplay QOL) **FOV Slider**. Moved to this section.
 - ⚠️ (Visuals, Creatures and NPCs) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
 - ⚠️ (Visuals, Creatures and NPCs) **Tweaked Standing Idle**. Moved to this section.
-- 🚫 (Visuals, Creatures and NPCs) **Securitrons in CRT**. To be replaced in the next update.
+- 🚫 (Visuals, Creatures and NPCs) **Securitrons in CRT**. To be replaced in the next major update.
 </details>
 
 <details>
