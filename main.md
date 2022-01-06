@@ -347,7 +347,7 @@ Makes melee attacks hit multiple enemies.
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
 [**Precise VATS (and actually useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
-Requires the player's crosshair to be aiming at the target in order to activate VATS, namd makes the VATS activation range and target switching distance to be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
+Requires the player's crosshair to be aiming at the target in order to activate VATS, and makes VATS activation range and target switching distance be dynamic and dependent on a few factors, including Perception level, weapon scope, Enhanced Sensors and Spotter Perks, and Power Armor.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
