@@ -368,7 +368,7 @@ Additional files to install:
 - [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for YUP, WMIM, and Throwable Weapon Fixes.
   - BAIN options to install:
     - [X] AIO Fixes
-  - Hide **Female White Glove Society.esp**. This collection already includes it.
+  - From **Female White Glove Society Mask Fix** (which we installed earlier), hide **Female White Glove Society.esp**. This collection already includes a patched ESP. You still need the mesh for the fix, so don't disable the mod altogether.
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
