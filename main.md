@@ -327,7 +327,7 @@ Additional files to install:
 Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 
 [**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting.
+Removes many map markers to make exploration more interesting.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**, edited to include YUP fixes.
 
@@ -337,7 +337,8 @@ Makes melee attacks hit multiple enemies.
 > ℹ️ For an alternative mod that restricts this feature to a Perk, check out [**Melee Cleave (a.k.a. Sweep) but as a Perk**](https://www.nexusmods.com/newvegas/mods/74703).
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
+Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
+
 Additional files to install:
 - [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
 
