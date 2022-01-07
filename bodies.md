@@ -20,7 +20,7 @@ Adds animated eyelashes to NPCs and the player character.
 - Hide both plugins.
 
 Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Eyelashes%20New%20Vegas%20ESP%20Replacer.7z). Fixed version of the main plugin.
+- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files). Fixed version of the main plugin.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
