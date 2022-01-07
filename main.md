@@ -300,7 +300,7 @@ Adds Repair Tools, required to perform repairs, and repair parts for you to craf
 - Hide **Alternative Repairing - Lonesome Road.esp**.
 
 Additional files to install:
-- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%202.7.12%20Tweaks.7z). Merges DLC esps with the main esp; forwards YUP fixes, including extending the Weapon Repair Kit sound fix to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing; merges DLC esps with the main esp.
+- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%202.7.12%20Tweaks.7z). Forwards YUP fixes; merges all ESPs into a single one; adds the Weapon Repair Kit sound fix from YUP to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing.
 
 > ℹ️ For an alternative mod that only features the Repair Tools mechanic, check out [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884?).
 
