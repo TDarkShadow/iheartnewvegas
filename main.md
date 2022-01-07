@@ -253,12 +253,6 @@ Fixes several problems at the core level with how ammo scripts and effects work,
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
 
-[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
-Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
-
-[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
-A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
-
 [**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes. Based off [**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183) by **PushTheWinButton**.
 
@@ -305,6 +299,12 @@ Makes the Pyromaniac perk affect *all* the lingering fire damage effects from we
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**, edited to include YUP fixes.
+
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
+
+[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
+A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
@@ -893,8 +893,6 @@ Quick Grenade Hotkey Tweaks
 Simple DLC Delay
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
-Ending Slideshows Ultimate Edition Overhaul
-Essential DLC Enhancements Merged
 Faction Warning and Reputation Tweaks
 Follower Formula Redone YUP
 Follower Tweaks
@@ -908,6 +906,8 @@ Rigged Shotgun Restoration - Lore-Friendly
 Snowglobe Tweaks Fix
 Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
+Ending Slideshows Ultimate Edition Overhaul
+Essential DLC Enhancements Merged
 Lobotomite Tweaks
 Alternative Repairing
 Alternative Repairing Tweaks
@@ -1083,8 +1083,6 @@ Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
-Ending Slideshows Ultimate Edition Overhaul.esp
-DLC Enhancements.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
 Follower Tweaks.esp
@@ -1096,6 +1094,8 @@ Rigged Shotgun Restoration - Lore-Friendly.esp
 PyromaniacEffectsBuff.esp
 Snowglobe Tweaks.esp
 migWellRested.esp
+Ending Slideshows Ultimate Edition Overhaul.esp
+DLC Enhancements.esp
 Lobotomitess.esp
 Alternative Repairing.esp
 B42Inspect.esp
