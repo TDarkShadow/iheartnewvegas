@@ -403,7 +403,7 @@ Upscales icons from a selection of mods.
   - [X] B42 Melee Bash
   - [X] Mojave Arsenal
 
-> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for both of these mods).
+> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for all these mods).
 
 ### Perks and traits
 
