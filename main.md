@@ -396,13 +396,6 @@ Prevents the game from becoming too easy by making enemies more likely to target
 [**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
 NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
 
-[**Unfound Loot**](https://eddoursul.win/mods/unfound-loot/)  
-Dynamically lowers the amount of loot in the game.
-- Install the **Unfound Loot 1.0rc2** main file located at the bottom of the page.
-
-Additional files to install:
-- [**Unfound Loot Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Unfound%20Loot%20Custom%20INI%201.0.3.7z). Reduces loot scarcity, and heightens the impact Luck has on it.
-
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
 - FOMOD options to install:
@@ -941,8 +934,6 @@ JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch
 New Vegas Economy Improved
 Player Combat Priority
 Thrown Weapon Tweaks
-Unfound Loot
-Unfound Loot Custom INI
 Anatomic Perks
 Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
@@ -1129,7 +1120,6 @@ JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
 Thrown Weapon Tweaks.esp
-Unfound Loot.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
@@ -1358,6 +1348,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
 
+<details>
+	<summary>January 7th</summary>
+
+- 🚫 (Overhauls, Balance) **Unfound Loot**. Who knew that removing loot from already barebones interiors would make them even more barebones and less interesting to visit... Honestly, JSawyer Ultimate already has an INI for reducing loot. People are free to play with it, which is a much better alternative (in my opinion) that stripping interiors of the content that makes them stand out.
+</details>
+	
 <details>
 	<summary>January 6th</summary>
 
