@@ -256,28 +256,11 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 [**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes. Based off [**Simple Reputation and Disguises**](https://www.nexusmods.com/newvegas/mods/62183) by **PushTheWinButton**.
 
-[**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
-Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**, edited to include YUP fixes.
-
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
-
-[**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
-Removes some map markers in an attempt to make exploration more interesting.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**, edited to include YUP fixes.
-
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
-
-Additional files to install:
-- **Misc Gameplay Merge JSawyer Ultimate Edition Patch** (Optional files).
-- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
@@ -327,6 +310,11 @@ Adds a fully animated ammunition and weapon condition checking system to the gam
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
 
+[**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**, edited to include YUP fixes.
+
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
@@ -338,10 +326,20 @@ Additional files to install:
 [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
 Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 
+[**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
+Removes some map markers in an attempt to make exploration more interesting.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**, edited to include YUP fixes.
+
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
 > ℹ️ For an alternative mod that restricts this feature to a Perk, check out [**Melee Cleave (a.k.a. Sweep) but as a Perk**](https://www.nexusmods.com/newvegas/mods/74703).
+
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by **Qolore**, ranging from quality of life improvements, gameplay tweaks, and visual tweaks.
+Additional files to install:
+- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z). Forwards YUP fixes.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
@@ -370,8 +368,9 @@ Additional files to install:
   - BAIN options to install:
     - [X] AIO Fixes
   - Hide **Female White Glove Society.esp**. This collection already includes it.
+- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
-> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower.
+> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 [**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20Tweaked.7z)  
 Collection of gameplay and balance tweaks.
@@ -895,11 +894,7 @@ Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
 Faction Warning and Reputation Tweaks
 Follower Formula Redone YUP
-Follower Tweaks
 Jamming Fix and Optional Tweaks
-Less Map Markers YUP
-Misc Gameplay Merge
-Misc Gameplay Merge YUP ESM Replacer
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 Rigged Shotgun Restoration - Lore-Friendly
@@ -915,8 +910,12 @@ B42 Inspect
 B42 Melee Bash
 JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
+Follower Tweaks
 Immersive Fast Travel Requirements
+Less Map Markers YUP
 Melee Cleave (a.k.a. Sweep)
+Misc Gameplay Merge
+Misc Gameplay Merge YUP ESM Replacer
 NPCs Sprint In Combat
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
@@ -1084,10 +1083,8 @@ Simple DLC Delay.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 Faction Warning and Reputation Tweaks.esp
-Follower Formula Redone.esp
 Follower Tweaks.esp
 JamFix.esp
-Less Map Markers.esp
 MigAAMines.esp
 MigKao.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
@@ -1100,8 +1097,10 @@ Lobotomitess.esp
 Alternative Repairing.esp
 B42Inspect.esp
 B42Bash.esp
+Follower Formula Redone.esp
 JustAssortedMods.esp
 Fast Travel Requirements.esp
+Less Map Markers.esp
 MeleeCleave.esp
 NPCsSprint.esp
 RAD.esp
