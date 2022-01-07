@@ -35,13 +35,12 @@ Removes shine from vanilla hairs.
 
 ## Preliminary steps for Body replacers add-on
 
-The following mods should be reinstalled if you plan on using **TYPE 4**.
+The following mod should be uninstalled if you plan to use TYPE4.
 
 [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
-- BAIN options to install:
-  - [X] 00 Core
-  - [X] 02 TYPE 4
+
+The following mod should be reinstalled if you plan to use TYPE4.
 
 [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
 - BAIN options to install:
@@ -78,6 +77,8 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 - Hide the **meshes\pipboy3000** folder.
 
 > This removes controversial changes to the Radiation Suit outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
+
+> ℹ️ If you don't want female nudity, you need to delete **femaleupperbody.nif** and **femaletribalupperbody.nif** (found in **meshes\characters\_male** folder), and remove the underscore from **_femaleupperbody.nif** and **_femaletribalupperbody** (also found in the same folder).
 
 Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
