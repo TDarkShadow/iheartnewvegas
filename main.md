@@ -94,7 +94,7 @@ Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%203rd).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
+- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z). Enables many quality of life improvements, as well as gameplay and balance tweaks.
 - Major gameplay tweaks include:
   - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
   - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
@@ -259,6 +259,13 @@ Replaces the faction armor warning pop-ups with corner messages, and lowers repu
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
+[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124?)  
+Removes the scope from the Hunting Revolver and makes it a separate weapon mod.
+- Install **Hunting Revolver Iron Sights** (Main files).
+
+Additional files to install:
+- [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z). Updates the icon on the Hunting Revolver to reflect its new appearance.
+
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
@@ -310,6 +317,17 @@ Adds a fully animated ammunition and weapon condition checking system to the gam
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
 
+[**Bottle Rinse Repeat**](https://eddoursul.win/mods/bottle-rinse-repeat/)  
+Adds the ability to fill bottles from any source, upgrade bottles with better water, and milk Brahmin.
+- Install **Bottle Rinse Repeat 3.0** (Main files).
+
+Additional files to install:
+- **Bottle Rinse Repeat - Hardcore Mode** (Optional files). Player receives water one level lower than in the source (e.g. bottling water at a Purified Water source will earn Dirty Water instead).
+- [**Bottle Rinse Repeat - Smaller Milk Icon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bottle%20Rinse%20Repeat%20-%20Smaller%20Milk%20Icon.7z). Minor icon tweak that fixes a pet peeve I have regarding the size of the default milk icon.
+
+[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
+Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
+
 [**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
 
@@ -320,11 +338,9 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 
 Additional files to install:
 - [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z). Disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
+- [**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839). Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
-
-[**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)  
-Makes fast travel cost one Purified Water and one of either a Trail Mix or Caravan Lunch, with a perk to lower/remove the requirement. Trail Mixes and Caravan Lunches have also been added to vendor inventories.
 
 [**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
 Removes many map markers to make exploration more interesting.
@@ -344,6 +360,9 @@ Additional files to install:
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
+
+[**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
+NPCs will now use aid items in combat. They will not consume their loot; instead, they will simulate consuming items they can potentially carrying.
 
 [**RAD - Radiation (is) Actually Dangerous**](https://www.nexusmods.com/newvegas/mods/61343)  
 Makes radiation work like in Fallout 4, by damaging your max health.
@@ -384,11 +403,15 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 - [**JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Push's%20Tweaks%20-%20Mojave%20Arsenal%20Patch.7z). Addresses a recipe conflict with Push's Tweaks.
+- [**JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z). Addresses leveled list conflicts, and patches the standard Hunting Revolver to use its GRA-variant mods.
 - [**JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20-%20Miscellaneous%20Tweaks%20Patch.7z). Addresses a vendor leveled list conflict with Miscellaneous Tweaks.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
 - Install **New Vegas Economy Improved** (Main files).
+
+[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
+After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
@@ -443,6 +466,9 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 Additional files to install:
 - **Uncut Wasteland Pole Remover** (Optional files). Removes restored utility poles with glitched animations. **Merge** with the main file.
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z). Forwards **YUP** fixes, omits the NPC restorations at the Ultra-Luxe Bathhouse, and replaces static Destitute Travelers with leveled, random NPCs. Made by **Qolore**.
+
+[**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
+Restores some cut but fully-functional NPCs to the Strip.
 
 ### Enemies
 
@@ -526,6 +552,15 @@ Implements bighorner resources by **CIB**, so that there's now a visual differen
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**, edited to merge ESPs and include YUP fixes.
 
+[**Securitrons On Alert**](https://www.nexusmods.com/newvegas/mods/69245)  
+Retextures Securitrons' screens, and changes them when they enter combat mode.
+- FOMOD options to install:
+  - [X] 256x256 textures.
+  - [X] Colorized + Scan Lines.
+  - [X] Black and White + Red + Scan Lines.
+
+> ℹ️ Many will argue that color screens have no place in a Fallout game. Then again, I strongly encourage you to give them a look when you reach the Strip. The colorful screens work surprisingly well alongside the colorful Strip.
+
 [**Simple Brahmin Variants Redux**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Brahmin%20Variants%20Redux.7z)  
 Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night.
 
@@ -566,6 +601,12 @@ Replaces the dated palm trees seen on the Strip with more detailed models.
 [**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406)  
 Improves the appearance of the Strip planters.
 
+[**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
+Removes the stains in the Lucky 38 and also retextures the walls and floors to give it a cleaner appearence.
+
+Additional files to install:
+- **Clean Lucky 38 Mesh Fix** (Update files).
+
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
 
@@ -584,6 +625,33 @@ Additional files to install:
 
 ### Equipment
 
+[**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
+Adds overlays for various headwear items, From facemasks, to glasses, to helmets. Overlays will stack if you can wear the items together.
+- FOMOD options to install:
+  - [X] Medium (2K) Resolution
+
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
+- Install the **Worn-Out Scopes** main file.
+
+[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
+
+[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
+Replaces the female Metal Armor helmets with their male counterparts.
+- Hide **textures\interface**.
+
+> ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
+
+[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
+Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes YUP fixes for the meshes.
+
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets have a glowing effect.
+- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
+
+> ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
 - Install the **Pip-Boy 2000 Mk VI replacer version** main file.
@@ -598,29 +666,10 @@ Additional files to install:
 Removes the completely useless Pip-Boy glove from player and NPCs.
 - Install **No Pip-Boy Glove - No ESP** (Main files).
 
-[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
-Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
-
-[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
-Replaces the female Metal Armor helmets with their male counterparts.
-- Hide **textures\interface**.
-
-> ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
-
 [**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
 Adds armored gloves to all Power Armors in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx*, edited to remove unnecessary records and include YUP fixes.
-
-[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
-Makes the visors of all the Ranger Helmets have a glowing effect.
-- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
-
-> ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
-
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-- Install the **Worn-Out Scopes** main file.
 
 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
 Gives Gecko-backed outfits an unique look.
@@ -657,6 +706,12 @@ Remakes all visual effects in the game.
 
 [**Enhanced Blood Textures**](https://www.nexusmods.com/newvegas/mods/34917)  
 Remakes blood visual effects, including the addition of new types of wounds based on weapon type.
+
+[**Gore Overhaul**](https://www.nexusmods.com/newvegas/mods/67666)  
+Retextures the gore assets to give them a severely detailed look with attention to minor details. Also improves on the exploding head meshes to give it more gore bits.
+
+Additional files to install:
+- [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z). Optimizes the ludicrously excessive assets, without noticeably sacrificing quality.
 
 [**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
 Retextures dust storms so they aren't as much of an eyesore now.
@@ -894,7 +949,9 @@ Simple DLC Delay
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
 Faction Warning and Reputation Tweaks
-Follower Formula Redone YUP
+Follower Tweaks
+Hunting Revolver Iron Sights
+Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
@@ -909,15 +966,20 @@ Alternative Repairing
 Alternative Repairing Tweaks
 B42 Inspect
 B42 Melee Bash
+Bottle Rinse Repeat
+Bottle Rinse Repeat - Hardcore Mode
+Bottle Rinse Repeat - Smaller Milk Icon
 JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
-Follower Tweaks
-Immersive Fast Travel Requirements
+JAM Animation Replacers
+Enhanced Vision
+Follower Formula Redone YUP
 Less Map Markers YUP
 Melee Cleave (a.k.a. Sweep)
 Misc Gameplay Merge
 Misc Gameplay Merge YUP ESM Replacer
 NPCs Sprint In Combat
+NPCs Use Aid Items
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
@@ -930,8 +992,10 @@ Miscellaneous Tweaks Collection Tweaked
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch
+JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch
 JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch
 New Vegas Economy Improved
+No Stealing After Repair
 Player Combat Priority
 Thrown Weapon Tweaks
 Anatomic Perks
@@ -942,6 +1006,7 @@ Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland
 Uncut Wasteland Tweaks
+The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
@@ -961,9 +1026,10 @@ FaceGen Tint Fixes for Character Expansions Revised
 Tweaked Standing Idle
 Tweaked Standing Idle Fix
 Alsatian NCR Guard Dogs
-Simple Bighorner Variants
-Simple Brahmin Variants
-Simple Healthier Yao Guai
+Bighorner Model Variants Merged
+Securitrons on Alert
+Simple Brahmin Variants Redux
+Healthier Yao Guai Pluginless
 Y-17 Trauma Override Harness GLOVES
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
@@ -971,21 +1037,24 @@ Gun Runners Kiosk Glass Fix Alternate Version
 LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Palm Tree Replacer
+Clean Lucky 38
 Lucky 38 Mainframe No Fingerprints
 McCarran Escalator Glass
 McCarran Main Terminal Transparent Glass
 Windows of the Mojave
 Windows Redux
+Helmet Overlay
+Worn-Out Scope Crosshair Replacers
+Lower-sitting Ranger Hat
+Metal Helmets - Female Replacements
+Improved Duster Coats - YUP Edition
+Simple Glowing Ranger Visors
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
-Lower-sitting Ranger Hat
-Metal Helmets - Female Replacements
 Power Armor Gloves YUP
-Simple Glowing Ranger Visors
-Worn-Out Scope Crosshair Replacers
 Honest Hearts Gecko Leathers Improved
 Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
 Better Gas Leak Effect
@@ -995,6 +1064,8 @@ IMPACT
 IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
+Gore Overhaul
+Gore Overhaul Optimized
 HQ Dust Storm FX
 HD Mist
 A Little More Lamplight
@@ -1063,6 +1134,7 @@ Navmesh Fixes and Improvements.esm
 Misc Gameplay Merge.esm
 Character Expansions Revised.esm
 Lightweight Strip Overhaul.esm
+Helmet Overlay.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
@@ -1098,12 +1170,14 @@ Lobotomitess.esp
 Alternative Repairing.esp
 B42Inspect.esp
 B42Bash.esp
+Bottle Rinse Repeat.esp
+Enhanced Vision.esp
 Follower Formula Redone.esp
 JustAssortedMods.esp
-Fast Travel Requirements.esp
 Less Map Markers.esp
 MeleeCleave.esp
 NPCsSprint.esp
+NPC Use Aid.esp
 RAD.esp
 Simple Explosive Entry.esp
 JSawyer Ultimate.esp
@@ -1116,6 +1190,7 @@ Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
+JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
@@ -1131,6 +1206,7 @@ Better Character Creation.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
+Uncut Strip NPCs.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
@@ -1146,8 +1222,10 @@ Diagonal movement.esp
 Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
+SecuritronsOnAlert.esp
 Simple Brahmin Variants Redux.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
+cleanlucky38.esp
 Windows of the Mojave v1.2.1.esp
 Metal Helmet Female Replacements.esp
 MCPipBoy2000MK6_clock.esp
@@ -1156,8 +1234,8 @@ ImprovedGeckoLeatherArmor.esp
 ImprovedGeckoLeatherArmor JSUE Patch.esp
 Burning Campfire.esp
 BC2.esp
-IMPACT.esp
 dD - Enhanced Blood Main NV.esp
+IMPACT.esp
 All Weapon Sounds Overhaul.esp
 All Weapon Sounds Overhaul WMIM Patch.esp
 Explosive Sounds Overhaul.esp
@@ -1232,6 +1310,9 @@ The following settings need to be configured after you've already started a new 
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
+
+**Enhanced Vision**:
+- Set **Vision mode hotkey** to **N**.
 
 **Mojave Arsenal**:
 - Enable **Low Condition Loot**.
@@ -1326,18 +1407,18 @@ Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
 R (double tap) | Switch ammunition | lStewieAl's Tweaks
 I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
-N | Toggle Pip-Boy light | lStewieAl's Tweaks
-N | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
+Hold Tab | Toggle scope night vision when aiming down the scope | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
 Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
+G | Equip/unequip grenade/mine | Quick Grenade Hotkey
+C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 O | Check weapon ammo | B42 Inspect
 P | Check weapon condition | B42 Inspect
 X | Melee weapon bash | B42 Melee Bash
-G | Equip/unequip grenade/mine | Quick Grenade Hotkey
-C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
+N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 H | Open weapon wheel | Just Assorted Mods
 V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
@@ -1347,6 +1428,29 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 8th</summary>
+
+- 🆕 (Gameplay, Tweaks) **Hunting Revolver Iron Sights**.
+- 🆕 (Gameplay, Features and Mechanics) **Bottle Rinse Repeat**.
+- 🆕 (Gameplay, Features and Mechanics) **Enhanced Vision**.
+- 🆕 (Gameplay, Features and Mechanics) **JAM Animation Replacers**.
+- 🆕 (Gameplay, Features and Mechanics) **NPCs Use Aid Items**.
+- 🆕 (Overhauls, Balance) **JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch**.
+- 🆕 (Overhauls, Balance) **No Stealing After Repair**.
+- 🆕 (Content) **The Strip NPCs Uncut - Content Restoration**.
+- 🆕 (Visuals, Environment) **Clean Lucky 38**.
+- 🆕 (Visuals, Equipment) **Helmet Overlay**.
+- 🆕 (Visuals, Equipment) **Improved Duster Coats - YUP Edition**.
+- 🆕 (Visuals, Creatures and NPCs) **Securitrons On Alert**.
+- 🆕 (Visuals, VFX) **Gore Overhaul**.
+- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed N keybinding (reserved for **Enhanced Vision** instead).
+- ⚠️ (Load order) Intentionally moved **dD - Enhanced Blood Main NV.esp** before **IMPACT.esp**, since the latter has superior bullet injury decals.
+- ⚠️ (MCM config) Updated with **Enhanced Vision**.
+- ⚠️ (Mod keybindings) Updated with **Enhanced Vision**.
+- 🚫 (Gameplay, Features and Mechanics) **Immersive Fast Travel Requirements**. The problem with New Vegas' world is its uninspired design and lack of random encounters. Enforcing requirements to fast travel to begin with, seems to me, like a poor idea after playing with this mod for a long time.
+</details>
 
 <details>
 	<summary>January 7th</summary>
