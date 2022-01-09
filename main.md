@@ -530,7 +530,9 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 - Hide **Character Expansions Revised - Extras.esp**.
 
 Additional files to install:
-- [**Character Expansions Revised - Complete**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20AIO%20Patch.7z). Ensures compatibility between this mod and YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders.
+- [**Character Expansions Revised - Additional Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20Additional%20Patches.7z). Ensures compatibility between this mod and YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders.
+  - BAIN options to install:
+    - [X] 00 Complete
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. 
@@ -1021,7 +1023,7 @@ Diagonal Movement
 360 Movement
 NV Compatibility Skeleton
 Character Expansions Revised
-Character Expansions Revised - Complete
+Character Expansions Revised - Additional Patches
 FaceGen Tint Fixes for Character Expansions Revised
 Tweaked Standing Idle
 Tweaked Standing Idle Fix
