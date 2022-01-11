@@ -1230,8 +1230,8 @@ Bathroom Doors Overhaul - ALL IN ONE.esp
 cleanlucky38.esp
 Windows of the Mojave v1.2.1.esp
 Metal Helmet Female Replacements.esp
+Power Armor Gloves.esp
 MCPipBoy2000MK6_clock.esp
-lexx_armored_pagloves.esp
 ImprovedGeckoLeatherArmor.esp
 ImprovedGeckoLeatherArmor JSUE Patch.esp
 Burning Campfire.esp
