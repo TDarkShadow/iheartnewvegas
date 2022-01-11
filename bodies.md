@@ -161,6 +161,7 @@ tkEyelashesFNV.esp
 T4-plugin.esp
 T4 YUP Patch.esp
 T4 Dirty Pre-War Businesswear Fix.esp
+T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
 T4 PA Gloves Patch.esp
 T4 Eyelashes FNV Patch.esp
