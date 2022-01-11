@@ -20,15 +20,15 @@ Adds animated eyelashes to NPCs and the player character.
 - Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
 Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files). Fixed version of the main plugin.
+- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files). Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
-- Install all three main files.
+- Install all Main files.
 
 [**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
-- Install the **00 - Natural Eyes - Shadow** main file.
+- Install **00 - Natural Eyes - Shadow** (Main files).
 
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
@@ -37,7 +37,7 @@ Removes shine from vanilla hairs.
 
 [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
-- Uninstall this mod.
+- Uninstall this mod. It is included in **TYPE4 Patches**, which we will install later.
 
 [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
 Includes **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
