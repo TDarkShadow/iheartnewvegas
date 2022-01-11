@@ -671,7 +671,7 @@ Removes the completely useless Pip-Boy glove from player and NPCs.
 [**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
 Adds armored gloves to all Power Armors in the game.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx*, edited to remove unnecessary records and include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**, edited to remove unnecessary records and include YUP fixes.
 
 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
 Gives Gecko-backed outfits an unique look.
