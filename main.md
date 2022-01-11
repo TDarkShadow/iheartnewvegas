@@ -1238,7 +1238,7 @@ Burning Campfire.esp
 BC2.esp
 dD - Enhanced Blood Main NV.esp
 IMPACT.esp
-All Weapon Sounds Overhaul.esp
+All Weapon Sounds Overhaul .esp
 All Weapon Sounds Overhaul WMIM Patch.esp
 Explosive Sounds Overhaul.esp
 ImmersivePickupSoundsFNV.esp
