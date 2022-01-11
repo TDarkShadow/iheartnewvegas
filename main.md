@@ -288,7 +288,7 @@ Makes the Pyromaniac perk affect *all* the lingering fire damage effects from we
 [**Well Rested Overhaul YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Well%20Rested%20Overhaul%201.0%20YUP.7z)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**, edited to include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**. The featured version includes YUP fixes.
 
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
@@ -331,7 +331,7 @@ Power Armor helmets and other high-tech gear now enable enhanced vision modes li
 [**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**, edited to include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -345,7 +345,7 @@ Additional files to install:
 [**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
 Removes many map markers to make exploration more interesting.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**, edited to include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. The featured version includes YUP fixes.
 
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
@@ -395,7 +395,7 @@ Additional files to install:
 [**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20Tweaked.7z)  
 Collection of gameplay and balance tweaks.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**, edited to remove conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, revert health and melee damage buffs to Feral Ghoul Reavers, remove most new map markers for consistency with **Less Map Markers**, add a new Mojave Express dropbox outside Camp McCarran, and tie Honest Hearts recipes to reaching Zion (circumventing bugs with mods that remove the Southern Passage map marker).
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. The featured version removes conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, reverts health and melee damage buffs to Feral Ghoul Reavers, removes most new map markers for consistency with **Less Map Markers**, adds a new Mojave Express dropbox outside Camp McCarran, and ties Honest Hearts recipes to reaching Zion (circumventing bugs with mods that remove the Southern Passage map marker, and mirrors how other DLC recipes work).
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -437,7 +437,7 @@ The Here and Now perk now includes the original effects from Living Anatomy.
 [**Meltdown NVSE Upgrade Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Meltdown%20NVSE%20Upgrade%201.3.2%20Tweaked.7z)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**, edited to revert Perk requirements to vanilla, disable the player-only Rampage feature, and disable the companion Meltdown feature.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65718) to original mod by **miguick**. The featured version reverts Perk requirements to vanilla, disables the player-only Rampage feature, and disables the companion Meltdown feature.
 
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709)  
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
@@ -448,9 +448,9 @@ Overhauls vanilla traits, adds two new ones, and expands the idea of opposite tr
   - [X] 00 Improved Traits and Opposite Traits
   - [X] 01 JSUE Patch
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**, edited to fix issues and disable an overpowered trait. 
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**. The featured plugin fixes a handful of oversights and disables an overpowered trait. 
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**, edited to remove unnecessary records.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. The featured plugin was cleaned.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
@@ -552,7 +552,7 @@ Replaces the vanilla NCR vicious dogs with German Shepard models.
 [**Bighorner Model Variants Merged**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Bighorner%20Model%20Variants%20Merged.7z)  
 Implements bighorner resources by **CIB**, so that there's now a visual difference between bighorners, their calfs, and their bulls.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**, edited to merge ESPs and include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**. The featured version merges both ESPs into a single one and includes YUP fixes.
 
 [**Securitrons On Alert**](https://www.nexusmods.com/newvegas/mods/69245)  
 Retextures Securitrons' screens, and changes them when they enter combat mode.
@@ -566,12 +566,12 @@ Retextures Securitrons' screens, and changes them when they enter combat mode.
 [**Simple Brahmin Variants Redux**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Brahmin%20Variants%20Redux.7z)  
 Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58871) to original mod by **Lexx**, edited to include YUP fixes and simplify its implementation, removing horn variations.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58871) to original mod by **Lexx**. The featured version simplifies the mod by removing the different horned/no horns/one horn variations, and includes YUP fixes.
 
 [**Healthier Yao Guai Pluginless**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Healthier%20Yao%20Guai%20Pluginless.7z)  
 The Yao Guai asset was created for Fallout 3. It looks like a heavily mutated creature, which clashes with Honest Heart's far more healthy and less irradiated enemies. This mod makes Yao Guai blend in better with the other Zoin creatures.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**, edited to make it a pluginless replacer.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/49707) to original mod by **Sinvence**. The featured version is a pluginless replacer.
 
 [**Y-17 Trauma Override Harness GLOVES**](https://www.nexusmods.com/newvegas/mods/56301)  
 Adds gloves to Y-17 Trauma Override Harness, fixing the inconsistency of skeletons being able to move their hands without help.
@@ -671,7 +671,7 @@ Removes the completely useless Pip-Boy glove from player and NPCs.
 [**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
 Adds armored gloves to all Power Armors in the game.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**, edited to remove unnecessary records and include YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
 
 [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
 Gives Gecko-backed outfits an unique look.
@@ -880,7 +880,7 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Edited to remove all new trees and variants, making it a pure mesh and texture replacer for additional trees not covered by the **Vanilla Tree Replacer** file.
+- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z). Removes all new trees and their variants, making it a pure mesh and texture replacer.
 
 ## Finishing touches
 
