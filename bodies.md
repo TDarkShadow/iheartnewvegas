@@ -17,7 +17,7 @@ This document will guide you through the installation of face and hair textures,
 [**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
 Adds animated eyelashes to NPCs and the player character.
 - Install the **tkEyelashesFNV** main file.
-- Hide both plugins.
+- Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
 Additional files to install:
 - [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files). Fixed version of the main plugin.
@@ -35,19 +35,15 @@ Removes shine from vanilla hairs.
 
 ## Preliminary steps for Body replacers add-on
 
-The following mod should be uninstalled if you plan to use TYPE4.
-
 [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
+- Uninstall this mod.
 
-The following mod should be reinstalled if you plan to use TYPE4.
-
-[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Forwards **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Includes **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+- Reinstall this mod.
 - BAIN options to install:
   - [X] 00 ESP Replacer Compatibility Version
   - [X] 01 JSUE Patch Compatibility Version
-
-The following mod should be edited if you plan on using **TYPE 4**.
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
@@ -61,76 +57,73 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
   - SetBipedModelPathAlt ArmorNVCLCenturion 1 "FIXforLegionArmors\CenturionFemale.nif"
   - SetBipedModelPathAlt ArmorNVCaesar 1 "FIXforLegionArmors\CaesarFemale.nif"
 
-> This will revert the female model tweaks in favor of **TYPE 4**'s adjusted models.
+> ℹ️ This reverts the renamed female models in favor of **TYPE 4**'s models.
 
 ## Body replacers add-on
 
 [**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
 Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
-- Delete the following records in **FNVEdit**.
-  - ArmorRadiationSuit
-  - ArmorRadiationSuitAdvanced
-  - MS03EnvironmentSuit
-  - CSArmorRadiationSuit
-- Hide the **meshes\armor\enclavescientist** folder.
 - Hide the **meshes\characters\ _male\locomotion** folder.
 - Hide the **meshes\pipboy3000** folder.
 
-> This removes controversial changes to the Radiation Suit outfits, and fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
+> ℹ️ This fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
 > ℹ️ If you don't want female nudity, you need to delete **femaleupperbody.nif** and **femaletribalupperbody.nif** (found in **meshes\characters\_male** folder), and remove the underscore from **_femaleupperbody.nif** and **_femaletribalupperbody** (also found in the same folder).
 
 Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
-  - Install the **T4 Armor Mesh Fixes (Vanilla)** Main file.
+  - Install **T4 Armor Mesh Fixes (Vanilla)** (Main files).
   - Hide the **meshes\armor\enclavescientist** folder.
 - [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893). Patches **TYPE 4** for a variety of mods.
   - Check the following options in the BAIN installer:
     - [X] 00 YUP Patch
-    - [X] 01 JSUE Patch
-    - [X] 02 PA Gloves Patch
-    - [X] 03 Eyelashes FNV Patch
+    - [X] 01 Dirty Pre-War Businesswear Fix
+    - [X] 02 Vanilla Radiation Suits
+    - [X] 03 JSUE Patch
+    - [X] 04 PA Gloves Patch
+    - [X] 05 Eyelashes FNV Patch
 
 Optional files to install:
 - [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
 - [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642). More modest variations for a number of outfits.
-  - A patch for **TYPE 4** is [**available here**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z), solving mismatching textures for a number of Pre-War outfits.
-- [**TYPE 4 - Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993). More modest variations for a number of outfits.
-  - If using **More Modest TYPE 4 Body and Armor**, hide **jumpsuit fix.esp**, or else you will get mismatching textures.
+  - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-- Install the **01 - Improved Male Body - FOMOD Installer** main file.
+- Install **01 - Improved Male Body - FOMOD Installer** (Main files).
 - FOMOD options to install:
   - [X] 00 - Main
   - [X] 05 - Underwear Options
     - [X] 08 - Legacy Underwear
 
 Additional files to install:
-- **00 - Outfit Conversions - Hotfix** (under Update files). Work in progress outfit conversion for most of the openfoot meshes.
+- **00 - Outfit Conversions - Hotfix** (Update files). **Merge** with the main file. Work in progress outfit conversion for most of the openfoot meshes.
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
 
 Additional files to install:
-- **00 - EGM files for hairs** (under Optional files).
+- **00 - EGM files for hairs** (Optional files). **Merge** with the main file.
 
 [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
 TYPE4 textures and meshes for Mannequin Races.
 
 Additional files to install:
-- **01 - TYPE4 Underwear** (under Optional files).
+- **01 - TYPE4 Underwear** (Optional files). **Merge** with the main file.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
-- Install the **00 - Default Version - CORE** and **00b - Raider Textures** main files.
+- Install **00 - Default Version - CORE** (Main files).
+- Install **00b - Raider Textures** (Main files). **Merge** with the main file.
 
 Additional files to install:
-- **00 - Dead Money DLC - Christine face** (under Update files).
-- **01 - Old Female** (under Update files).
-- **01 - Detailed Face Normalmap** (under Optional files).
-- **03 - Body Hairy Clean** (under Optional files).
-- **05 - Face Vanilla Feel** (under Optional files).
+- **00 - Dead Money DLC - Christine face** (Update files). **Merge** with the main file.
+- **01 - Old Female** (Update files). **Merge** with the main file.
+- **01 - Detailed Face Normalmap** (Optional files). **Merge** with the main file.
+- **03 - Body Hairy Clean** (Optional files). **Merge** with the main file.
+- **05 - Face Vanilla Feel** (Optional files). **Merge** with the main file.
+
+> ℹ️ This mod is entirely optional, as **TYPE4** already includes seamless textures for its bodies. However, I find they look a bit jarring compared to **Improved Vanilla Male Body**, hence why I recommend installing these textures on top.
 
 ## Finishing touches
 
@@ -153,9 +146,7 @@ TYPE4 Patches
 T6M Neck Adjusted Outfit Replacers
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
-TYPE 4 - Alternative Outfits
 Improved Vanilla Male Body - Seamless - 4K
-00 - Outfit Conversions - Hotfix
 Mannequin Races
 Mannequin Races - TYPE 4
 Body and Face Textures Workshop
@@ -170,10 +161,10 @@ Body and Face Textures Workshop
 tkEyelashesFNV.esp
 T4-plugin.esp
 T4 YUP Patch.esp
+T4 Dirty Pre-War Businesswear Fix.esp
 T4 JSUE Patch.esp
 T4 PA Gloves Patch.esp
 T4 Eyelashes FNV Patch.esp
-TYPE 4 Dirty Pre-War Businesswear Fix.esp
 TYPE 4 Black Combat Armor Fix JSUE.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ImprovedGeckoLeatherArmor.esp
