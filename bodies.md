@@ -145,6 +145,7 @@ TYPE4 Patches
 T6M Neck Adjusted Outfit Replacers
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
+Improved Duster Coats - YUP Edition
 Improved Vanilla Male Body - Seamless - 4K
 Mannequin Races
 Mannequin Races - TYPE 4
