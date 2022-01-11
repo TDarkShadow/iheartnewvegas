@@ -76,7 +76,7 @@ Additional files to install:
 - [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files). Patches **TYPE 4** for a variety of mods.
   - Check the following options in the BAIN installer:
     - [X] 00 YUP Patch
-    - [X] 01 Dirty Pre-War Businesswear Fix
+    - [X] 01 TYPE4 Fixes
     - [X] 02 Vanilla Radiation Suits
     - [X] 03 JSUE Patch
     - [X] 04 PA Gloves Patch
@@ -161,7 +161,7 @@ Body and Face Textures Workshop
 tkEyelashesFNV.esp
 T4-plugin.esp
 T4 YUP Patch.esp
-T4 Dirty Pre-War Businesswear Fix.esp
+T4 Fixes.esp
 T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
 T4 PA Gloves Patch.esp
