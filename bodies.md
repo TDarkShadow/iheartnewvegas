@@ -39,7 +39,8 @@ Removes shine from vanilla hairs.
 Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 - Uninstall this mod.
 
-[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z). Includes **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
+[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
+Includes **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
 - Reinstall this mod.
 - BAIN options to install:
   - [X] 00 ESP Replacer Compatibility Version
