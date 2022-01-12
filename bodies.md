@@ -20,7 +20,8 @@ Adds animated eyelashes to NPCs and the player character.
 - Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
 Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files). Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
+- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files)  
+  Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
@@ -72,9 +73,11 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 > ℹ️ If you don't want female nudity, you need to delete **femaleupperbody.nif** and **femaletribalupperbody.nif** (found in **meshes\characters\_male** folder), and remove the underscore from **_femaleupperbody.nif** and **_femaletribalupperbody** (also found in the same folder).
 
 Additional files to install:
-- [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885). Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
+- [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
+  Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
   - Install **T4 Armor Mesh Fixes (Vanilla)** (Main files).
-- [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files). Patches **TYPE 4** for a variety of mods.
+- [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
+  Patches **TYPE 4** for a variety of mods.
   - Check the following options in the BAIN installer:
     - [X] 00 YUP Patch
     - [X] 01 TYPE4 Fixes
@@ -84,8 +87,10 @@ Additional files to install:
     - [X] 05 Eyelashes FNV Patch
 
 Optional files to install:
-- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z). Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
-- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642). More modest variations for a number of outfits.
+- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z)  
+  Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
+- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+  More modest variations for a number of outfits.
   - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
@@ -97,7 +102,9 @@ High poly, improved and seamless version of the male body. Compatible with vanil
     - [X] 08 - Legacy Underwear
 
 Additional files to install:
-- **00 - Outfit Conversions - Hotfix** (Update files). **Merge** with the main file. Work in progress outfit conversion for most of the openfoot meshes.
+- **00 - Outfit Conversions - Hotfix** (Update files)  
+  Work in progress outfit conversion for most of the openfoot meshes.
+  - **Merge** with the main file. 
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
