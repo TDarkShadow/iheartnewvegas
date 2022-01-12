@@ -139,7 +139,6 @@ Fixes the Dirty Pre-War Businesswear having the incorrect texture.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
-- Install **Female White Glove Society Mask** (Main files).
 
 [**Less Flickery City of New Vegas**](https://www.nexusmods.com/newvegas/mods/72061)  
 Fixes the intense flickering in the city of New Vegas (such as when looking from Goodsprings Cemetery) due to extra white proxy meshes clipping into the object LOD meshes.
@@ -382,12 +381,6 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
-- [**JSawyer Ultimate Edition - Qolore's Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Qolore's%20Tweaks.7z). Disables the new Wasteland Merchant and Deranged Bright Brotherhood members, and tweaks Bright Brotherhood loot. Made by **Qolore**.
-- [**JSawyer Ultimate Edition - Vanilla-ish Companion Suite**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Vanilla-ish%20Companion%20Suite.7z). Removes **JSUE**-exclusive nerfs to companions, and decreases carry weight for companions as in the original mod.
-- [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(Dec%2021).7z). Includes patches for YUP, WMIM, and Throwable Weapon Fixes.
-  - BAIN options to install:
-    - [X] AIO Fixes
-  - From **Female White Glove Society Mask Fix** (which we installed earlier), hide **Female White Glove Society.esp**. This collection already includes a patched ESP. You still need the mesh for the fix, so don't disable the mod altogether.
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
@@ -402,9 +395,14 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933). Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
-- [**JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Push's%20Tweaks%20-%20Mojave%20Arsenal%20Patch.7z). Addresses a recipe conflict with Push's Tweaks.
-- [**JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z). Addresses leveled list conflicts, and patches the standard Hunting Revolver to use its GRA-variant mods.
-- [**JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20-%20Miscellaneous%20Tweaks%20Patch.7z). Addresses a vendor leveled list conflict with Miscellaneous Tweaks.
+
+[**JSawyer Ultimate Edition - Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
+Multitude of patches to finish off our JSUE install.
+- BAIN options to install:
+  - [X] 00 Tweaks: carries over fixes from YUP, WMIM, and Throwable Weapon Fixes; modifies the Companion Suite perk to restore companion damage while nerfing their carry weight; tweaks how the Healing Powder formula works to make it slightly more useful in combat; disables the restored Wasteland Merchant and the new Deranged Bright Brotherhood members, as well as tweaking the loot of Bright Brotherhood members.
+  - [X] 01 Push's Tweaks + Mojave Arsenal: addresses a recipe conflict.
+  - [X] 02 JSUE Mojave Arsenal + Hunting Revolver Iron Sights: addresses leveled list conflicts, and patches the standard Hunting Revolver to use its GRA-variant mods.
+  - [X] 03 JSUE Mojave Arsenal + Miscellanous Tweaks: addresses a vendor leveled list conflict.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
