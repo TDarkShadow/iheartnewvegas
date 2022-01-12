@@ -381,7 +381,6 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
-- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921) (Optional files).
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
@@ -403,6 +402,10 @@ Multitude of patches to finish off our JSUE install.
   - [X] 01 Push's Tweaks + Mojave Arsenal: addresses a recipe conflict.
   - [X] 02 JSUE Mojave Arsenal + Hunting Revolver Iron Sights: addresses leveled list conflicts, and patches the standard Hunting Revolver to use its GRA-variant mods.
   - [X] 03 JSUE Mojave Arsenal + Miscellanous Tweaks: addresses a vendor leveled list conflict.
+
+Additional files to install:
+- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
+  Patches JSawyer Ultimate for compatibility with Misc Gameplay Merge.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
@@ -984,11 +987,11 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
 JSawyer Ultimate Edition
-Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks Collection Tweaked
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 JSawyer Ultimate Edition - Tweaks and Patches
+Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 New Vegas Economy Improved
 No Stealing After Repair
 Player Combat Priority
@@ -1178,13 +1181,13 @@ Simple Explosive Entry.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate - Sigourn's Tweaks.esp
-Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
+Misc Gameplay Merge - JSUE Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
 Thrown Weapon Tweaks.esp
