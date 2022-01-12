@@ -984,16 +984,11 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
 JSawyer Ultimate Edition
-JSawyer Ultimate Edition - Qolore's Tweaks
-JSawyer Ultimate Edition - Vanilla-ish Companion Suite
-JSawyer Ultimate Edition Fixes
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks Collection Tweaked
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch
-JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch
-JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch
+JSawyer Ultimate Edition - Tweaks and Patches
 New Vegas Economy Improved
 No Stealing After Repair
 Player Combat Priority
@@ -1182,9 +1177,7 @@ RAD.esp
 Simple Explosive Entry.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate - Qolore's Tweaks.esp
-JSawyer Ultimate - Vanilla-ish Companion Suite.esp
-JSawyer Ultimate - AIO Fixes.esp
+JSawyer Ultimate - Sigourn's Tweaks.esp
 Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks.esp
 Mojave Arsenal.esp
@@ -1428,6 +1421,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 12th</summary>
+
+- ⚠️ (Overhauls, Balance) Drastically simplified **JSawyer Ultimate Edition** installation instructions when it comes to patches. Additionally, because **Female White Glove Society Mask Fix** is now a scripted and pluginless fix, no ESP hiding instructions are needed anymore.
+</details>
 
 <details>
 	<summary>January 8th</summary>
