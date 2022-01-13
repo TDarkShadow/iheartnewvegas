@@ -105,13 +105,13 @@ Optional files to install:
   - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
 - [**T6M Outfits Selection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Outfits%20Selection.7z)  
   - [X] 00 Prostitute Outfits  
-    - Less skimpy outfits for prostitutes.
+    Less skimpy outfits for prostitutes.
   - [X] 01 Raider Outfits  
-    - Less skimpy outfits for raiders.
+    Less skimpy outfits for raiders.
   - [X] 02 Combat Armor
-    - Less goofy looking Combat Armor.
+    Less goofy looking Combat Armor.
   - [X] 03 Combat Armor JSUE Patch
-    - Patches the mod for compatibility with JSawyer Ultimate Edition.
+    Patches the mod for compatibility with JSawyer Ultimate Edition.
 - [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
   Gives an unique appearance to Christine's outfit from Dead Money.
 
