@@ -108,9 +108,9 @@ Optional files to install:
     Less skimpy outfits for prostitutes.
   - [X] 01 Raider Outfits  
     Less skimpy outfits for raiders.
-  - [X] 02 Combat Armor
+  - [X] 02 Combat Armor  
     Less goofy looking Combat Armor.
-  - [X] 03 Combat Armor JSUE Patch
+  - [X] 03 Combat Armor JSUE Patch  
     Patches the mod for compatibility with JSawyer Ultimate Edition.
 - [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
   Gives an unique appearance to Christine's outfit from Dead Money.
