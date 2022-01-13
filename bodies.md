@@ -89,6 +89,8 @@ Additional files to install:
 Optional files to install:
 - [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z)  
   Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
+- [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
+  Gives an unique appearance to Christine's outfit from Dead Money.
 - [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
   More modest variations for a number of outfits.
   - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
@@ -151,6 +153,7 @@ TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
 TYPE4 Patches
 T6M Neck Adjusted Outfit Replacers
+T6M Christine's Outfit
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
 Improved Duster Coats - YUP Edition
@@ -175,6 +178,7 @@ T4 JSUE Patch.esp
 T4 PA Gloves Patch.esp
 T4 Eyelashes FNV Patch.esp
 TYPE 4 Black Combat Armor Fix JSUE.esp
+ChristineOutfit.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ImprovedGeckoLeatherArmor.esp
 ImprovedGeckoLeatherArmor JSUE Patch.esp
