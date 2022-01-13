@@ -686,7 +686,7 @@ Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower 
 
 [**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
 Replaces the female Metal Armor helmets with their male counterparts.
-- Hide **textures\interface**.
+- Hide the **textures\interface** folder.
 
 > ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
 
