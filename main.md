@@ -1333,12 +1333,14 @@ bEnableFO3Repair=1
 
 bLocalizedDTDR=1
 
+bVoiceModulationFix=0
+
 bNPCWeaponMods=1
 uWMChanceMin=5
 uWMChanceMax=15
 ```
 
-> ℹ️ Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods.
+> ℹ️ Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
 
 **Vanilla UI Plus**:
 - Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
