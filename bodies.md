@@ -148,7 +148,7 @@ Additional files to install:
 - [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
   TYPE4 textures and meshes for Mannequin Races.
 
-> ℹ️ This mod offers better head meshes for creating your own character.
+> ℹ️ This mod offers better head meshes for creating your own character. Unfortunately, the included textures are not my cup of tea, and I recommend you copy and paste your TYPE4 textures of choice in order to overwrite the ones from this mod.
 
 ## Finishing touches
 
