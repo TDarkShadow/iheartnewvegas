@@ -100,6 +100,9 @@ Additional files to install:
     - [X] 05 Eyelashes FNV Patch
 
 Optional files to install:
+- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+  Less skimpy outfits.
+  - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
 - [**T6M Outfits Selection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Outfits%20Selection.7z)  
   - [X] 00 Prostitute Outfits  
     - Less skimpy outfits for prostitutes.
@@ -111,13 +114,6 @@ Optional files to install:
     - Patches the mod for compatibility with JSawyer Ultimate Edition.
 - [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
   Gives an unique appearance to Christine's outfit from Dead Money.
-- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-  More modest variations for a number of outfits.
-  - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
-
-Additional files to install:
-- **01 - TYPE4 Underwear** (Optional files)  
-  - **Merge** with the main file.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
@@ -147,6 +143,9 @@ Additional files to install:
   - **Merge** with the main file.
 - [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
   TYPE4 textures and meshes for Mannequin Races.
+  - Install **00 - Mannequin Races TYPE4** (Main files).
+  - Install **01 - TYPE4 Underwear** (Optional files).
+    - **Merge** with the main file.
 
 > ℹ️ This mod offers better head meshes for creating your own character. Unfortunately, the included textures are not my cup of tea, and I recommend you copy and paste your TYPE4 textures of choice in order to overwrite the ones from this mod.
 
