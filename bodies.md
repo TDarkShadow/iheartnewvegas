@@ -63,6 +63,19 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
 
 ## Body replacers add-on
 
+[**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
+High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
+- Install **01 - Improved Male Body - FOMOD Installer** (Main files).
+- FOMOD options to install:
+  - [X] 00 - Main
+  - [X] 05 - Underwear Options
+    - [X] 08 - Legacy Underwear
+
+Additional files to install:
+- **00 - Outfit Conversions - Hotfix** (Update files)  
+  Work in progress outfit conversion for most of the openfoot meshes.
+  - **Merge** with the main file. 
+
 [**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
 Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
 - Hide the **meshes\characters\ _male\locomotion** folder.
@@ -102,29 +115,6 @@ Optional files to install:
   More modest variations for a number of outfits.
   - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
 
-[**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
-High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-- Install **01 - Improved Male Body - FOMOD Installer** (Main files).
-- FOMOD options to install:
-  - [X] 00 - Main
-  - [X] 05 - Underwear Options
-    - [X] 08 - Legacy Underwear
-
-Additional files to install:
-- **00 - Outfit Conversions - Hotfix** (Update files)  
-  Work in progress outfit conversion for most of the openfoot meshes.
-  - **Merge** with the main file. 
-
-[**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
-Adds seven new custom races to Fallout New Vegas.
-
-Additional files to install:
-- **00 - EGM files for hairs** (Optional files)  
-  - **Merge** with the main file.
-
-[**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
-TYPE4 textures and meshes for Mannequin Races.
-
 Additional files to install:
 - **01 - TYPE4 Underwear** (Optional files)  
   - **Merge** with the main file.
@@ -149,6 +139,17 @@ Additional files to install:
 
 > ℹ️ This mod is entirely optional, as **TYPE4** already includes seamless textures for its bodies. However, I find they look a bit jarring compared to **Improved Vanilla Male Body**, hence why I recommend installing these textures on top.
 
+[**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
+Adds seven new custom races to Fallout New Vegas.
+
+Additional files to install:
+- **00 - EGM files for hairs** (Optional files)  
+  - **Merge** with the main file.
+- [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
+  TYPE4 textures and meshes for Mannequin Races.
+
+> ℹ️ This mod offers better head meshes for creating your own character.
+
 ## Finishing touches
 
 ### Mod order and load order
@@ -164,6 +165,7 @@ Eyelashes New Vegas ESP Replacer
 HD Teeth and Natural Eyelashes and Eyebrows
 Vanilla Hair - No Shine
 Natural Eyes
+Improved Vanilla Male Body - Seamless - 4K
 TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
 TYPE4 Patches
@@ -171,14 +173,14 @@ T6M Outfits Selection
 T6M Christine's Outfit
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
-Improved Duster Coats - YUP Edition
-Improved Vanilla Male Body - Seamless - 4K
+Body and Face Textures Workshop
 Mannequin Races
 Mannequin Races - TYPE 4
-Body and Face Textures Workshop
-
+Improved Duster Coats - YUP Edition
 ```
 </details>
+
+> ℹ️ **Improved Duster Coats - YUP Edition** needs to load after TYPE4 to overwrite its Combat Ranger meshes.
 
 <details>
 <summary>Load order</summary>
