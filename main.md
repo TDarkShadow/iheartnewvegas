@@ -424,7 +424,6 @@ Additional files to install:
   Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 
 [**JSawyer Ultimate Edition - Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
-Multitude of patches to finish off our JSUE install.
 - BAIN options to install:
   - [X] 00 Tweaks  
     Carries over fixes from YUP, WMIM, and Throwable Weapon Fixes; modifies the Companion Suite perk to restore companion damage while nerfing their carry weight; tweaks how the Healing Powder formula works to make it slightly more useful in combat; disables the restored Wasteland Merchant and the new Deranged Bright Brotherhood members, as well as tweaking the loot of Bright Brotherhood members.
@@ -476,12 +475,11 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 Makes Miss Fortune's effects more consistent. Will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions.
 
 [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
-Overhauls vanilla traits, adds two new ones, and expands the idea of opposite traits (present in two vanilla traits) to the game's other traits.
 - BAIN options to install:
   - [X] 00 Improved Traits and Opposite Traits  
-    Install Improved Traits, Opposite Traits, and Improved Opposite Traits.
+    Installs Improved Traits, overhauling vanilla traits and adding two new ones; Opposite Traits, expanding the idea of opposite traits to the game's other traits; patches Opposite Traits to reflect the tweaks to vanilla traits from Improved Traits.
   - [X] 01 JSUE Patch  
-    Patches all mods for JSawyer Ultimate Edition.
+    Patches all three plugins for JSawyer Ultimate Edition.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**. The featured plugin fixes a handful of oversights and disables an overpowered trait. 
 
@@ -679,7 +677,7 @@ Adds overlays for various headwear items, From facemasks, to glasses, to helmets
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-- Install the **Worn-Out Scopes** main file.
+- Install **Worn-Out Scopes** (Main files).
 
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
@@ -695,13 +693,13 @@ Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang strai
 
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
-- Install **Simple Glowing Ranger Visors (No Neck Covers)**.
+- Install **Simple Glowing Ranger Visors (No Neck Covers)** (Main files).
 
 > ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-- Install the **Pip-Boy 2000 Mk VI replacer version** main file.
+- Install **Pip-Boy 2000 Mk VI replacer version** (Main files).
 
 Additional files to install:
 - **Working date and clock for replacer** (Optional files)  
@@ -728,10 +726,11 @@ Gives Gecko-backed outfits an unique look.
 
 Additional files to install:
 - [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
-  Includes **YUP** fixes; adds a patch for JSawyer Ultimate Edition.
   - BAIN options to install:
-    - [X] 00 ESP Replacer
-    - [X] 01 JSUE Patch
+    - [X] 00 ESP Replacer  
+      Includes YUP fixes.
+    - [X] 01 JSUE Patch  
+      Patches the mod for compatibility with JSawyer Ultimate Edition.
 
 ### VFX
 
@@ -777,7 +776,7 @@ Additional files to install:
 
 [**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
-- Only install **HD Mist 2K**.
+- Install **HD Mist 2K** (Main files).
 
 ### Weather and lighting
 
@@ -812,7 +811,7 @@ Removes the fake interior light rays and tones the exterior light beams down dra
 
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
-- Install the **FNV Realistic Wasteland Lighting - All DLC** main file.
+- Install **FNV Realistic Wasteland Lighting - All DLC** (Main files).
 
 Additional files to install:
 - [**FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%205.542%20YUP%20ESP%20Replacer.7z)  
@@ -830,7 +829,7 @@ High quality retexture for night sky and moon.
     - [X] 80% Moon size.
     - [X] Enhanced Night Sky.
     - [X] Low-glow Moon.
-- Copy **textures\sky\skystars.dds** and paste it inside **textures\NVDLC02\sky**.
+- Copy the **textures\sky\skystars.dds** file and paste it inside the **textures\NVDLC02\sky** folder.
 
 > ℹ️ This will also apply the new night sky texture to Zion.
 
@@ -921,7 +920,7 @@ Adds extra meshes for LOD generation.
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
-- Check the following option in the FOMOD installer.
+- FOMOD options to install:
   - [X] Uncut Wasteland
 
 Additional files to install:
@@ -930,7 +929,7 @@ Additional files to install:
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
-- Check the following option in the FOMOD installer.
+- FOMOD options to install:
   - [X] Gold Lights
   - [X] Extras Everywhere
   - [X] Pollution Gold Tint
