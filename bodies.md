@@ -78,7 +78,7 @@ Additional files to install:
   - Install **T4 Armor Mesh Fixes (Vanilla)** (Main files).
 - [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
   Patches **TYPE 4** for a variety of mods.
-  - Check the following options in the BAIN installer:
+  - BAIN options to install:
     - [X] 00 YUP Patch
     - [X] 01 TYPE4 Fixes
     - [X] 02 Vanilla Radiation Suits
@@ -87,8 +87,15 @@ Additional files to install:
     - [X] 05 Eyelashes FNV Patch
 
 Optional files to install:
-- [**T6M Neck Adjusted Outfit Replacers**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Neck%20Adjusted%20Outfit%20Replacers%20(Dec%2029th).7z)  
-  Outfit replacers for Combat Armor (including variations), Prostitute Outfits, and Raider Outfits. Includes a patch for **TYPE 4**, solving mismatching textures for Black Combat Armor and Van Graff Combat Armor. Note that it was designed with **JSUE** in mind.
+- [**T6M Outfits Selection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Outfits%20Selection.7z)  
+  - [X] 00 Prostitute Outfits  
+    - Less skimpy outfits for prostitutes.
+  - [X] 01 Raider Outfits  
+    - Less skimpy outfits for raiders.
+  - [X] 02 Combat Armor
+    - Less goofy looking Combat Armor.
+  - [X] 03 Combat Armor JSUE Patch
+    - Patches the mod for compatibility with JSawyer Ultimate Edition.
 - [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
   Gives an unique appearance to Christine's outfit from Dead Money.
 - [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
@@ -112,25 +119,33 @@ Additional files to install:
 Adds seven new custom races to Fallout New Vegas.
 
 Additional files to install:
-- **00 - EGM files for hairs** (Optional files). **Merge** with the main file.
+- **00 - EGM files for hairs** (Optional files)  
+  - **Merge** with the main file.
 
 [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
 TYPE4 textures and meshes for Mannequin Races.
 
 Additional files to install:
-- **01 - TYPE4 Underwear** (Optional files). **Merge** with the main file.
+- **01 - TYPE4 Underwear** (Optional files)  
+  - **Merge** with the main file.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
 - Install **00 - Default Version - CORE** (Main files).
-- Install **00b - Raider Textures** (Main files). **Merge** with the main file.
+- Install **00b - Raider Textures** (Main files).
+  - **Merge** with the main file.
 
 Additional files to install:
-- **00 - Dead Money DLC - Christine face** (Update files). **Merge** with the main file.
-- **01 - Old Female** (Update files). **Merge** with the main file.
-- **01 - Detailed Face Normalmap** (Optional files). **Merge** with the main file.
-- **03 - Body Hairy Clean** (Optional files). **Merge** with the main file.
-- **05 - Face Vanilla Feel** (Optional files). **Merge** with the main file.
+- **00 - Dead Money DLC - Christine face** (Update files)
+  - **Merge** with the main file.
+- **01 - Old Female** (Update files)  
+  - **Merge** with the main file.
+- **01 - Detailed Face Normalmap** (Optional files)  
+  - **Merge** with the main file.
+- **03 - Body Hairy Clean** (Optional files)  
+  - **Merge** with the main file.
+- **05 - Face Vanilla Feel** (Optional files)  
+  - **Merge** with the main file.
 
 > ℹ️ This mod is entirely optional, as **TYPE4** already includes seamless textures for its bodies. However, I find they look a bit jarring compared to **Improved Vanilla Male Body**, hence why I recommend installing these textures on top.
 
@@ -152,7 +167,7 @@ Natural Eyes
 TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
 TYPE4 Patches
-T6M Neck Adjusted Outfit Replacers
+T6M Outfits Selection
 T6M Christine's Outfit
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
@@ -177,7 +192,7 @@ T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
 T4 PA Gloves Patch.esp
 T4 Eyelashes FNV Patch.esp
-TYPE 4 Black Combat Armor Fix JSUE.esp
+T6M Combat Armor.esp
 ChristineOutfit.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ImprovedGeckoLeatherArmor.esp
