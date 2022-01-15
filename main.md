@@ -293,12 +293,18 @@ Allows mines to be triggered by flying NPCs if close enough to them; makes EMP m
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player; tweaks the effects of Unarmed special attacks; allows NPCs to use Unarmed special attacks.
 
+[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
+After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
+
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
@@ -382,6 +388,13 @@ Additional files to install:
 - [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z)  
   Includes YUP fixes.
 
+[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
+Collection of gameplay and balance tweaks.
+
+Additional files to install:
+- [**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
+  Nerfs Feral Ghoul Reavers, removes most new map markers for consistency with Less Map Markers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
+
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
@@ -405,16 +418,20 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
+> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
+
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
   INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
-
-> ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
-
-[**Miscellaneous Tweaks Collection Tweaked**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%202.5%20Tweaked.7z)  
-Collection of gameplay and balance tweaks.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71847) to original mod by **Qolore**. The featured version removes conflicting edits with **Mojave Arsenal** and **Mojave Raiders**, reverts health and melee damage buffs to Feral Ghoul Reavers, removes most new map markers for consistency with **Less Map Markers**, adds a new Mojave Express dropbox outside Camp McCarran, and ties Honest Hearts recipes to reaching Zion (circumventing bugs with mods that remove the Southern Passage map marker, and mirrors how other DLC recipes work).
+- [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
+  BAIN options to install:
+  - [X] 00 Tweaks  
+    Carries over fixes from YUP, WMIM, and Throwable Weapon Fixes; modifies the Companion Suite perk to restore companion damage while nerfing their carry weight; tweaks how the Healing Powder formula works to make it slightly more useful in combat; disables the restored Wasteland Merchant and the new Deranged Bright Brotherhood members, as well as tweaking the loot of Bright Brotherhood members.
+  - [X] 01 Push's Tweaks + Bottle Rinse Repeat
+    Addresses leveled list conflicts.
+  - [X] 02 Push's Tweaks + Miscellanous Tweaks  
+    Addresses conflicts with Datura Antivenom and Healing Poultice.
+- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -422,34 +439,14 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
   Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
-
-[**JSawyer Ultimate Edition - Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
-- BAIN options to install:
-  - [X] 00 Tweaks  
-    Carries over fixes from YUP, WMIM, and Throwable Weapon Fixes; modifies the Companion Suite perk to restore companion damage while nerfing their carry weight; tweaks how the Healing Powder formula works to make it slightly more useful in combat; disables the restored Wasteland Merchant and the new Deranged Bright Brotherhood members, as well as tweaking the loot of Bright Brotherhood members.
-  - [X] 01 Push's Tweaks + Mojave Arsenal  
-    Addresses a recipe conflict.
-  - [X] 02 JSUE Mojave Arsenal + Hunting Revolver Iron Sights  
-    Addresses leveled list conflicts, and patches the standard Hunting Revolver to use its GRA-variant mods.
-  - [X] 03 JSUE Mojave Arsenal + Miscellanous Tweaks  
-    Addresses a vendor leveled list conflict.
-
-Additional files to install:
-- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
-  Patches JSawyer Ultimate for compatibility with Misc Gameplay Merge.
-
-[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
-Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
-- Install **New Vegas Economy Improved** (Main files).
-
-[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
-After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
-
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
+- [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
+  BAIN options to install:
+  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)
+    Addresses conflicts with four leveled lists and incorporates GRA mods into the standard Hunting Revolver.
+  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)
+    Addresses conflicts with a leveled list and two recipes.
+  - [X] 02 JSUE Push's Tweaks
+    Addresses a conflict with the Powder Charge recipe.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
@@ -459,6 +456,13 @@ Upscales icons from a selection of mods.
   - [X] Mojave Arsenal
 
 > ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for all these mods).
+
+[**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
+Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
+- Install **New Vegas Economy Improved** (Main files).
+
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
 
 ### Perks and traits
 
@@ -1023,8 +1027,10 @@ Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
+No Stealing After Repair
 Rigged Shotgun Restoration - Lore-Friendly
 Snowglobe Tweaks Fix
+Thrown Weapon Tweaks
 Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
 Ending Slideshows Ultimate Edition Overhaul
@@ -1046,21 +1052,21 @@ Less Map Markers YUP
 Melee Cleave (a.k.a. Sweep)
 Misc Gameplay Merge
 Misc Gameplay Merge YUP ESM Replacer
+Miscellaneous Tweaks Collection
+Miscellaneous Tweaks Collection Tweaks
 NPCs Sprint In Combat
 NPCs Use Aid Items
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Simple Explosive Entry
 JSawyer Ultimate Edition
-Miscellaneous Tweaks Collection Tweaked
+JSawyer Ultimate Edition Tweaks and Patches
 Mojave Arsenal
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-JSawyer Ultimate Edition - Tweaks and Patches
+Mojave Arsenal Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 New Vegas Economy Improved
-No Stealing After Repair
 Player Combat Priority
-Thrown Weapon Tweaks
 Anatomic Perks
 Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
@@ -1224,6 +1230,7 @@ JamFix.esp
 MigAAMines.esp
 MigKao.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
+Thrown Weapon Tweaks.esp
 PyromaniacEffectsBuff.esp
 Snowglobe Tweaks.esp
 migWellRested.esp
@@ -1239,23 +1246,25 @@ Follower Formula Redone.esp
 JustAssortedMods.esp
 Less Map Markers.esp
 MeleeCleave.esp
+Miscellaneous Tweaks.esp
+Miscellaneous Tweaks... Tweaks.esp
 NPCsSprint.esp
 NPC Use Aid.esp
 RAD.esp
 Simple Explosive Entry.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate - Sigourn's Tweaks.esp
-Miscellaneous Tweaks.esp
+JSawyer Ultimate - Push's Tweaks - Bottle Rinse Repeat Patch.esp
+JSawyer Ultimate - Push's Tweaks - Miscellaneous Tweaks Patch.esp
+JSawyer Ultimate Tweaks.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
+JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
 Misc Gameplay Merge - JSUE Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
-Thrown Weapon Tweaks.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
@@ -1491,6 +1500,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 15th</summary>
+
+- ⚠️ (Overhauls, Balance) Separated **JSawyer Ultimate Edition** and **Mojave Arsenal** patches into their respective installation instructions. An entirely new patch was added for **Bottle Rinse Repeat**, the **Sigourn's Tweaks** plugin was renamed to just **Tweaks** (since it also includes tweaks from Qolore), and I modified existing patches to remove unnecessary edits or edits that should have been present in the other plugins.
+</details>
 
 <details>
 	<summary>January 12th</summary>
