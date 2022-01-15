@@ -647,9 +647,7 @@ Improves the appearance of the Strip planters.
 
 [**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
 Removes the stains in the Lucky 38 and also retextures the walls and floors to give it a cleaner appearence.
-
-Additional files to install:
-- **Clean Lucky 38 Mesh Fix** (Update files)
+- Only install **Clean Lucky 38 Mesh Fix** (Update files).
 
 [**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
 Mesh replacer to remove the huge fingerprint seen on Mr. House's screen.
