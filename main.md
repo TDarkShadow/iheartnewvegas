@@ -529,6 +529,9 @@ Additional files to install:
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
   Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
 
+[**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
+Restores some cut but fully-functional NPCs to the Strip.
+
 ### Enemies
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
@@ -1125,6 +1128,7 @@ Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland
 Uncut Wasteland Tweaks
+The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
@@ -1335,6 +1339,7 @@ Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
+Uncut Strip NPCs.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
@@ -1604,7 +1609,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
 - ⚠️ (MCM Config) Added instructions for **B42 Inspect** and **RAD - Radiation is Actually Dangerous**.
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
-- 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Though not featured in the guide, it's not compatible with Simple Open Strip, and I didn't want to take that choice away from players.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
 - 🚫 (Visuals) **Securitrons on Alert**. Replaced with **Securitrons in CRT**. Over time the novelty of the mod wore out for me, and I preferred the simpler alternative.
 </details>
