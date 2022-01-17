@@ -1071,6 +1071,9 @@ Satellite World Map
 Satellite Maps DLC
 Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
+Vanilla Loading Screens ESRGAN
+All-New Splash Screens and Song
+Classic Main Background and Title
 Faster Pip-Boy Animation
 FOV Slider
 FOV Slider Custom INI
@@ -1095,6 +1098,7 @@ No Stealing After Repair
 Reload Reloaded
 Rigged Shotgun Restoration - Lore-Friendly
 Snowglobe Tweaks Fix
+Standarized NCR Supply Caches - Scaler Moon Edition
 Thrown Weapon Tweaks
 Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
@@ -1156,6 +1160,8 @@ Chill Companions
 Companions Combat-Ready
 Diagonal Movement
 360 Movement
+Player Headtracking
+Ragdolls
 NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
@@ -1605,18 +1611,24 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January WIP Update</summary>
 
-- 🆕 (xNVSE Plugins) **yUI - User Interface**.
-- 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
-- 🆕 (Gameplay) **Khans Friendly to Fiends**.
-- 🆕 (Gameplay) **Reload Reloaded**.
-- 🆕 (Overhauls) **Repair Tools**.
-- 🆕 (Content) **Canvas Backpacks - Remade**.
-- 🆕 (Visuals) **Clean Animations**.
-- 🆕 (Visuals) **Chill Companions**.
-- 🆕 (Visuals) **Securitrons in CRT**.
-- 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
-- 🆕 (LOD) **Vurt's Improved Plants**.
-- 🆕 (LOD) **Hectrol Tumbleweed Deluxe**.
+- 🆕 (xNVSE Plugins) **yUI - User Interface**
+- 🆕 (User Interface) **Vanilla Loading Screens ESRGAN**
+- 🆕 (User Interface) **All-New Splash Screens and Song**
+- 🆕 (User Interface) **Classic Main Background and Title**
+- 🆕 (Gameplay QOL) **Stars Turned Face Up**
+- 🆕 (Gameplay) **Khans Friendly to Fiends**
+- 🆕 (Gameplay) **Reload Reloaded**
+- 🆕 (Gameplay) **Standarized NCR Supply Caches**
+- 🆕 (Overhauls) **Repair Tools**
+- 🆕 (Content) **Canvas Backpacks - Remade**
+- 🆕 (Visuals) **Clean Animations**
+- 🆕 (Visuals) **Chill Companions**
+- 🆕 (Visuals) **Player Headtracking**
+- 🆕 (Visuals) **Ragdolls**
+- 🆕 (Visuals) **Securitrons in CRT**
+- 🆕 (LOD) **Hoover Dam Jets Restored and Distant**
+- 🆕 (LOD) **Vurt's Improved Plants**
+- 🆕 (LOD) **Hectrol Tumbleweed Deluxe**
 - ⚠️ (Visuals) Added additional instructions to **Anniversary Animation Pack** for compatibility with **Weapon Mesh Improvement Mod**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
