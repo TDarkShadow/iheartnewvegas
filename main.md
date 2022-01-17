@@ -1764,7 +1764,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 Last cull before the next big update.
 
 - ⚠️ **Y-17 Trauma Override Harness GLOVES** (Visuals, Creatures and NPCs). Moved to this section.
-- 🚫 **Vanilla Loading Screens HD** (User Interface). The vanilla loading screens look like shit, upscaling or not.
 - 🚫 **Unisex Motorcycle Helmets** (Visuals, Equipment). Some appreciate the vanilla Spaceballs helmet.
 </details>
 
