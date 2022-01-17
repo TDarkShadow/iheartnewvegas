@@ -1453,6 +1453,17 @@ uWMChanceMax=15
 
 > ℹ️ Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
 
+**yUI - User Ynterface**:
+- Double-click the installed mod to open the **Information...** window.
+- Click the **INI Files** tab, and make the following adjustments in **jip_nvse.ini**.
+- Click on the diskette icon to save your changes.
+
+```
+bMatchingCursor = 1
+```
+
+> ℹ️ Matches cursor color to HUD color.
+
 **Vanilla UI Plus**:
 - Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
 
