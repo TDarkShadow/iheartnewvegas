@@ -168,10 +168,10 @@ Improved Vanilla Male Body - Seamless - 4K
 TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
 TYPE4 Patches
-T6M Outfits Selection
-T6M Christine's Outfit
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
+T6M Outfits Selection
+T6M Christine's Outfit
 Body and Face Textures Workshop
 Mannequin Races
 Mannequin Races - TYPE 4
