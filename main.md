@@ -568,11 +568,22 @@ Additional files to install:
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
 
 Additional files to install:
+- **Weapon Mesh Improvement Mod Patch** (Optional files)  
+  Includes WMIM mesh fixes.
+  - **Merge** with the main file.
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
   Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install **AnniAnimPack_BugFix 1.3** (Main files).
   - Install **Bonus Patch** (Main files).
     - **Merge** with the main file.
+
+[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
+Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
+
+Additional files to install:
+- **FNV Clean Animations - Update 2.2.2** (Update files)  
+  Updates the mod with fixes.
+  - **Merge** with the main file.
 
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
@@ -1136,6 +1147,7 @@ Canvas Backpacks - Remade
 Canvas Backpacks - Remade Tweaks
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
+FNV Clean Animations
 Empty Weapons
 Immersive Recoil
 Viewmodel Recoil
@@ -1599,11 +1611,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Gameplay) **Reload Reloaded**.
 - 🆕 (Overhauls) **Repair Tools**.
 - 🆕 (Content) **Canvas Backpacks - Remade**.
+- 🆕 (Visuals) **Clean Animations**.
 - 🆕 (Visuals) **Chill Companions**.
 - 🆕 (Visuals) **Securitrons in CRT**.
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
 - 🆕 (LOD) **Vurt's Improved Plants**.
 - 🆕 (LOD) **Hectrol Tumbleweed Deluxe**.
+- ⚠️ (Visuals) Added additional instructions to **Anniversary Animation Pack** for compatibility with **Weapon Mesh Improvement Mod**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
