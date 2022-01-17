@@ -992,6 +992,11 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
   Removes all new trees and their variants, making it a pure mesh and texture replacer.
+- [**Vurt's Improved Plants**](https://www.nexusmods.com/newvegas/mods/66898)  
+  Another mod by the same author, addressing the ugly prickly pear cactus, banana plant, maize plants.
+- [**Hectrol Tumbleweed Deluxe**](https://www.nexusmods.com/newvegas/mods/40333)  
+  Much better looking texture for the tumbleweed, even at vanilla resolution.
+  - Only install **Hectrol Tumbleweed Deluxe 512 Retex** (Optional files).
 
 ## Finishing touches
 
@@ -1225,6 +1230,8 @@ FNV RWL All DLC - Worldspace Patch
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
 Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
+Vurt's Improved Plants
+Hectrol Tumbleweed Deluxe
 ```
 </details>
 
@@ -1590,6 +1597,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Visuals) **Chill Companions**.
 - 🆕 (Visuals) **Securitrons in CRT**.
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
+- 🆕 (LOD) Vurt's Improved Plants**.
+- 🆕 (LOD) Hectrol Tumbleweed Deluxe**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
