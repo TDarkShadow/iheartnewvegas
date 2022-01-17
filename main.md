@@ -229,6 +229,21 @@ Additional files to install:
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
   Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
+### Main menu and splash screens
+
+[**Vanilla Loading Screens ESRGAN 4X**](https://www.nexusmods.com/newvegas/mods/71254/)  
+Makes loading screens much more crisp with AI upscaling.
+
+[**All-New Splash Screens and Song**](https://www.nexusmods.com/newvegas/mods/63834)  
+Replaces the splash screens and song when launching your game.
+
+Additional files to install:
+- **Intro Song - Vats of Goo by Mark Morgan** (Optional files)  
+  Replaces the intro song with that of Fallout.
+
+[**Classic Main Background and Title**](https://www.nexusmods.com/newvegas/mods/74971)  
+Replaces the main menu with one similar to classic Fallout's.
+
 ## GAMEPLAY QOL
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
@@ -327,6 +342,10 @@ Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun ea
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Requires the player to discover the snow globe display in the Lucky 38 Presidental Suite before being able to sell the snow globes to Jane. DLC snow globes now need to be sold to Jane, and the Dead Money snow globe rewards 2,000 caps instead of 2,000 Sierra Madre chips.
+
+[**Standarized NCR Supply Caches**](https://www.nexusmods.com/newvegas/mods/74145)  
+Swaps out the current, barely-useful supply cache loot table with a static one, whose contents are scaled with the player level.
+- Only install **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files).
 
 [**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
 NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
@@ -611,6 +630,12 @@ Adds 360 degrees movement with procedural leaning and auto vanity mode, like mod
 - FOMOD options to install:
   - [X] Full 360 Sneak Options
   - [X] Diagonal Movement Patch
+
+[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
+Enables headtracking for the player character, rotating their head in the direction of the closest actor.
+
+[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
+Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
@@ -1277,6 +1302,7 @@ YUP - Base Game + ALL DLC.esm
 Landscape Disposition Fix.esm
 Navmesh Fixes and Improvements.esm
 Misc Gameplay Merge.esm
+Ragdolls.esm
 Character Expansions Revised.esm
 Lightweight Strip Overhaul.esm
 Helmet Overlay.esm
@@ -1312,6 +1338,7 @@ Rigged Shotgun Restoration - Lore-Friendly.esp
 Thrown Weapon Tweaks.esp
 PyromaniacEffectsBuff.esp
 Snowglobe Tweaks.esp
+Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
 migWellRested.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
@@ -1363,6 +1390,7 @@ JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 QwibNewBackpacks.esp
 QwibNewBackpacks Tweaks JSUE.esp
+rockbiter_AnimationSounds.esp
 EmptyWeapons.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
@@ -1372,6 +1400,7 @@ Companions Combat-Ready.esp
 Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
+Player Headtracking.esp
 Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
