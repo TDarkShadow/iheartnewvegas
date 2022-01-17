@@ -433,7 +433,8 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
-  INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game. **Merge** with the main file.
+  INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game.
+  - **Merge** with the main file.
 - [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
   BAIN options to install:
   - [X] 00 Tweaks  
@@ -443,6 +444,7 @@ Additional files to install:
   - [X] 02 Push's Tweaks + Miscellanous Tweaks  
     Addresses conflicts with Datura Antivenom and Healing Poultice.
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
+  Addresses a handful of conflicts between both mods.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
