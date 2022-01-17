@@ -507,9 +507,6 @@ Additional files to install:
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
   Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
 
-[**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
-Restores some cut but fully-functional NPCs to the Strip.
-
 ### Enemies
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
@@ -677,6 +674,8 @@ Adds overlays for various headwear items, From facemasks, to glasses, to helmets
 - FOMOD options to install:
   - [X] Medium (2K) Resolution
 
+> ℹ️ The mod has the unfortunate effect of displaying the helmet overlay during ending slideshows if your character is wearing a helmet. This is because of how the slideshows were designed. It is very much recommended you unequip your helmet whenever you are about to finish the game or DLCs (provided you haven't installed (Ending Slideshows Ultimate Edition Overhaul).
+
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install **Worn-Out Scopes** (Main files).
@@ -788,9 +787,6 @@ Enhances the shoddy work on the vanilla functional streetlamps and lights of Out
 Additional files to install:
 - [**A Little More Lamplight YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP%20ESP%20Replacer.7z)  
   Includes YUP fixes.
-
-[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
-Simple scripted interior lighting overhaul which darkens interior. Automatically works with any mod.
 
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
@@ -1075,7 +1071,6 @@ Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland
 Uncut Wasteland Tweaks
-The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
@@ -1139,7 +1134,6 @@ HQ Dust Storm FX
 HD Mist
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
-Simple Interior Lighting Overhaul
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
 The Strip Planters Fixed
@@ -1276,7 +1270,6 @@ Better Character Creation.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
-Uncut Strip NPCs.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
@@ -1500,6 +1493,22 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>JWIP Update</summary>
+
+- 🆕 (xNVSE Plugins) **yUI - User Interface**.
+- 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
+- 🆕 (Gameplay Tweaks) **Khans Friendly to Fiends**.
+- 🆕 (Content) **Canvas Backpacks - Remade**.
+- 🆕 (Visuals) **Chill Companions**.
+- 🆕 (Visuals) **Smaller Holotapes**.
+- 🆕 (Visuals) **Hoover Dam Jets Restored and Distant**.
+- ⚠️ (Visuals) Added important disclaimer to **Helmet Overlay**.
+- ⚠️ (Visuals) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
+- 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Incompatible with **Simple Open Strip**. Though not featured in the guide, I don't want to take the choice away from players.
+- 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy it made interiors. Vanilla is better, in my opinion.
+</details>
 
 <details>
 	<summary>January 15th</summary>
