@@ -1591,7 +1591,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>JWIP Update</summary>
+	<summary>January WIP Update</summary>
 
 - 🆕 (xNVSE Plugins) **yUI - User Interface**.
 - 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
