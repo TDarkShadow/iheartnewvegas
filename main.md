@@ -639,10 +639,10 @@ Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit re
 
 Additional files to install:
 - [**Ragdolls Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Tweaks%20and%20Patches.7z)  
-  INI config and compatibility patches for YUP and DLC Enhancements.
+  Custom INI and compatibility patches for YUP and DLC Enhancements.
   - BAIN options to install:
     - [X] 00 Core  
-      Includes INI config and YUP patch.
+      Includes custom INI and YUP patch.
     - [X] 01 DLC Enhancements  
       Patches Ghost People to have headtracking.
 
