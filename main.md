@@ -637,6 +637,13 @@ Enables headtracking for the player character, rotating their head in the direct
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
+Additional files to install:
+- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
+  Addresses conflicts with YUP and DLC Enhancements.
+  - BAIN options to install:
+    - [X] 00 YUP
+    - [X] 01 DLC Enhancements
+
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
 - FOMOD options to install:
@@ -1187,6 +1194,7 @@ Diagonal Movement
 360 Movement
 Player Headtracking
 Ragdolls
+Ragdolls Patches
 NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
@@ -1401,6 +1409,8 @@ Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
 Player Headtracking.esp
+Ragdolls - YUP Patch.esp
+Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
