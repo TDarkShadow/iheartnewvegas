@@ -318,6 +318,9 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to
 [**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
 After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
 
+[**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
+Fixes issues with Agility and Strength modifiers for reloading and throwing weapons; makes sneak critical hit damage scale with Sneak; allows grenade throwing range to be affected by Strength.
+
 [**Rigged Shotgun Restoration (with Dead Money support)**](https://www.nexusmods.com/newvegas/mods/66863)  
 Restores Fallout 3's rigged shotgun functionality: disarming a rigged shotgun earns you a single shotgun and a 20 gauge shell.
 - Install **Rigged Shotgun Restoration - Lore-Friendly** (Main files).
@@ -1072,6 +1075,7 @@ Khans Friendly to Fiends Patches
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 No Stealing After Repair
+Reload Reloaded
 Rigged Shotgun Restoration - Lore-Friendly
 Snowglobe Tweaks Fix
 Thrown Weapon Tweaks
@@ -1276,6 +1280,7 @@ JamFix.esp
 Khans Friendly to Fiends.esp
 MigAAMines.esp
 MigKao.esp
+Reload Reloaded.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
 Thrown Weapon Tweaks.esp
 PyromaniacEffectsBuff.esp
@@ -1567,6 +1572,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (xNVSE Plugins) **yUI - User Interface**.
 - 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
 - 🆕 (Gameplay) **Khans Friendly to Fiends**.
+- 🆕 (Gameplay) **Reload Reloaded**.
 - 🆕 (Overhauls) **Repair Tools**.
 - 🆕 (Content) **Canvas Backpacks - Remade**.
 - 🆕 (Visuals) **Chill Companions**.
