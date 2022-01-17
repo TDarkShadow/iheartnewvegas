@@ -636,14 +636,12 @@ Implements bighorner resources by **CIB**, so that there's now a visual differen
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62672) to original mod by **miguick**. The featured version merges both ESPs into a single one and includes YUP fixes.
 
-[**Securitrons On Alert**](https://www.nexusmods.com/newvegas/mods/69245)  
-Retextures Securitrons' screens, and changes them when they enter combat mode.
-- FOMOD options to install:
-  - [X] 256x256 textures
-  - [X] Colorized + Scan Lines
-  - [X] Black and White + Red + Scan Lines
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258/)  
+Adds CRT lines to the monitors of Securitrons.
 
-> ℹ️ Many will argue that color screens have no place in a Fallout game. Then again, I strongly encourage you to give them a look when you reach the Strip. The colorful screens work surprisingly well alongside the colorful Strip.
+Additional files to install:
+- **OWB in CRT** (Optional files)  
+  Adds CRT scanlines to brainbots and Old World Blues Securitrons.
 
 [**Simple Brahmin Variants Redux**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Simple%20Brahmin%20Variants%20Redux.7z)  
 Makes Brahmin look healthier, keeping the vanilla sick variant for specific cases. Brahmin calfs have been made distinct from standard brahmin, and lamps on pack Brahmin emit light during the night.
@@ -1145,7 +1143,7 @@ Tweaked Standing Idle
 Tweaked Standing Idle Fix
 Alsatian NCR Guard Dogs
 Bighorner Model Variants Merged
-Securitrons on Alert
+Securitrons in CRT
 Simple Brahmin Variants Redux
 Healthier Yao Guai Pluginless
 Y-17 Trauma Override Harness GLOVES
@@ -1347,7 +1345,6 @@ Diagonal movement.esp
 Character Expansions Revised - Complete.esp
 Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
-SecuritronsOnAlert.esp
 Simple Brahmin Variants Redux.esp
 Khans Friendly to Fiends - Complete.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
@@ -1576,6 +1573,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Overhauls) **Repair Tools**.
 - 🆕 (Content) **Canvas Backpacks - Remade**.
 - 🆕 (Visuals) **Chill Companions**.
+- 🆕 (Visuals) **Securitrons in CRT**.
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
@@ -1583,6 +1581,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
 - 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Though not featured in the guide, it's not compatible with Simple Open Strip, and I didn't want to take that choice away from players.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
+- 🚫 (Visuals) **Securitrons on Alert**. Replaced with **Securitrons in CRT**. Over time the novelty of the mod wore out for me, and I preferred the simpler alternative.
 </details>
 
 <details>
