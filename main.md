@@ -1166,6 +1166,7 @@ Simple Explosive Entry
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition Tweaks and Patches
 Mojave Arsenal
+Mojave Arsenal Custom INI
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Mojave Arsenal Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
@@ -1199,7 +1200,8 @@ Diagonal Movement
 360 Movement
 Player Headtracking
 Ragdolls
-Ragdolls Tweaks Patches
+Ragdolls Custom INI
+Ragdolls Patches
 NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
@@ -1518,15 +1520,6 @@ The following settings need to be configured after you've already started a new 
 **Enhanced Vision**:
 - Set **Vision mode hotkey** to **N**.
 
-**Mojave Arsenal**:
-- Enable **Low Condition Loot**.
-- Disable **New Ammo**.
-- Disable **Custom Weapons**.
-- Enable **Optimized Ammo**.
-- Enable **Pulse Slug Recipes**.
-
-> ℹ️ Balances loot from enemies and that purchasable from vendors; custom weapons will no longer be found, in favor of all weapons being moddable; enables new recipes.
-
 **RAD**:
 - Enable **Hardcore**.
 - Enable **Alternate**.
@@ -1673,11 +1666,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**
 - 🆕 (LOD) **Vurt's Improved Plants**
 - 🆕 (LOD) **Hectrol Tumbleweed Deluxe**
+- ⚠️ (Overhauls) Added custom INI for **Mojave Arsenal**.
 - ⚠️ (Visuals) Added additional instructions to **Anniversary Animation Pack** for compatibility with **Weapon Mesh Improvement Mod**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
-- ⚠️ (MCM Config) Added instructions for **B42 Inspect** and **RAD - Radiation is Actually Dangerous**.
+- ⚠️ (MCM Config) Added instructions for **B42 Inspect** and **RAD - Radiation is Actually Dangerous**. Removed instructions for **Mojave Arsenal**.
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
 - 🚫 (Visuals) **Securitrons on Alert**. Replaced with **Securitrons in CRT**. Over time the novelty of the mod wore out for me, and I preferred the simpler alternative.
