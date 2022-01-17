@@ -1436,6 +1436,11 @@ The following settings need to be configured after you've already started a new 
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
 
+**B42 Inspect**:
+- Enable **Minimalistic**.
+
+> ℹ️ Switches the weapon statistics and condition pop-ups to a much more immersive one-liner above the AP bar.
+
 **Enhanced Vision**:
 - Set **Vision mode hotkey** to **N**.
 
@@ -1445,6 +1450,16 @@ The following settings need to be configured after you've already started a new 
 - Disable **Custom Weapons**.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
+
+> ℹ️ Balances loot from enemies and that purchasable from vendors; custom weapons will no longer be found, in favor of all weapons being moddable; enables new recipes.
+
+**RAD**:
+- Enable **Hardcore**.
+- Enable **Alternate**.
+- Enable **Incremental**.
+- Enable **JSawyer Incremental**.
+
+> ℹ️ Sleep deprivation affects max AP; makes all needs affect max AP, with sleep deprivation setting in later than hunger and thirst; makes needs affect max AP at rates similar to how needs cause stat penalties; makes the former setting follow JSawyer's stat penalties progression.
 
 ### INI config
 
@@ -1578,6 +1593,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
+- ⚠️ (MCM Config) Added instructions for **B42 Inspect** and **RAD - Radiation is Actually Dangerous**.
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
 - 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Though not featured in the guide, it's not compatible with Simple Open Strip, and I didn't want to take that choice away from players.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
