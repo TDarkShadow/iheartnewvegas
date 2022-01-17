@@ -951,12 +951,18 @@ Additional files to install:
 [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
+[**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
+Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
+
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 - FOMOD options to install:
   - [X] Uncut Wasteland
 
 Additional files to install:
+- **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)  
+  Includes Hoover Dam Jets Restored and Distant region edits.
+  - **Merge** into the main file.
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
   Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Original mod by **Nehred**.
 
@@ -1205,6 +1211,7 @@ Better Strip View
 Better Strip View ESP Replacer
 Better Strip View More Subtle New Vegas Light Pollution Patch
 TCM's LOD Overhaul
+Hoover Dam Jets Restored and Distant
 Strip Lights Region Fix
 Mormon Fort Region Fix
 Lucky 38 Lights Redone
@@ -1360,8 +1367,10 @@ Strip Lighting Overhaul LSO Patch.esp
 vegasglow.esp
 Better Strip View.esp
 Better Strip View vegasglow Patch.esp
+Distant Water Jets.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
+Strip Lights Region Fix - Distant Water Jets.esp
 Mormon Fort Region Fix.esp
 Lucky 38 Lights Redone.esp
 Mormon Fort Region Fix - Lucky 38 Lights Redone.esp
@@ -1554,16 +1563,16 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - 🆕 (xNVSE Plugins) **yUI - User Interface**.
 - 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
-- 🆕 (Gameplay Tweaks) **Khans Friendly to Fiends**.
+- 🆕 (Gameplay) **Khans Friendly to Fiends**.
 - 🆕 (Overhauls) **Repair Tools**.
 - 🆕 (Content) **Canvas Backpacks - Remade**.
 - 🆕 (Visuals) **Chill Companions**.
-- 🆕 (Visuals) **Hoover Dam Jets Restored and Distant**.
+- 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
-- ⚠️ (Visuals) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
-- 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**.
-- 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Incompatible with **Simple Open Strip**. Though not featured in the guide, I don't want to take the choice away from players.
-- 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy it made interiors. Vanilla is better, in my opinion.
+- ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
+- 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
+- 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Though not featured in the guide, it's not compatible with Simple Open Strip, and I didn't want to take that choice away from players.
+- 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
 </details>
 
 <details>
