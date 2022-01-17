@@ -472,6 +472,8 @@ Additional files to install:
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
+- [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
+  Disables most GRA features, and enables low condition loot.
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
   Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 - [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
@@ -638,13 +640,13 @@ Enables headtracking for the player character, rotating their head in the direct
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
 Additional files to install:
-- [**Ragdolls Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Tweaks%20and%20Patches.7z)  
-  Custom INI and compatibility patches for YUP and DLC Enhancements.
+- [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
+  Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
+- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
+  Compatibility patches for YUP and DLC Enhancements.
   - BAIN options to install:
-    - [X] 00 Core  
-      Includes custom INI and YUP patch.
-    - [X] 01 DLC Enhancements  
-      Patches Ghost People to have headtracking.
+    - [X] 00 YUP
+    - [X] 01 DLC Enhancements
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A skeleton with compatibility for the latest mods.
