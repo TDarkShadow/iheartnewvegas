@@ -20,26 +20,34 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 > ℹ️ Modern alternative to [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832) which should be used in its place.
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
-Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
+Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 - Download the main file using the **Mod Manager Download** option.
 - Install this mod in Mod Organizer 2.
 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
-Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks, and restored broken game features.
+Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
 [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
-Extension of the New Vegas Script Extender which adds new functions, engine bug fixes and tweaks.
+Adds new functions, engine bug fixes and tweaks.
 - Click the **ShowOffNVSE.7z** under **Assets** to download it.
 - Install manually in Mod Organizer 2.
  
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
-Extension of the New Vegas Script Extender which enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
+Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
+
+[**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
+Aims to fix UI bugs and add new UI features. 
+
+Additional files to install:
+- **Matched Cursor - Fallout New Vegas** (Optional files)  
+  Matches cursor color to HUD color.
+  - **Merge** with the main file.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
-Extension of the New Vegas Script Extender that implements structured exception handling and sanity checking to reduce frequency of game crashes.
+Implements structured exception handling and sanity checking to reduce frequency of game crashes.
 
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
-Extension of the New Vegas Script Extender that enables borderless window mode for safe alt-tabbing.
+Enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
 - Extract the contents of the archive. Renamed the **SKSE** folder to **NVSE**, and merge the folder with your **Fallout New Vegas\Data\NVSE** folder.
 - Launch Mod Organizer 2.
@@ -47,20 +55,20 @@ Extension of the New Vegas Script Extender that enables borderless window mode f
 - Set **bFull Screen** to 0.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
-Extension of the New Vegas Script Extender that fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
+Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
 Additional files to install:
 - [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z)  
   Enables a number of settings to achieve the best balance between performance and stability. Made by **Qolore**.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
-Extension of the New Vegas Script Extender that allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
+Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
 
 [**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
-Extension of the New Vegas Script Extender that almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
+Almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
-Extension of the New Vegas Script Extender that enables hotkeys for pasting and enhanced movement/deletion.
+Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
 ## PATCHES
 
@@ -165,6 +173,7 @@ Allows any number of mods to be configured from a single menu, accessible throug
 
 Additional files to install:
 - **MCM BugFix 2** (Optional files)
+  - **Merge** with the main file.
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -195,7 +204,7 @@ High-res satellite map for the Mojave Wasteland.
 
 Additional files to install:
 - [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
-  High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and  Lonesome Road.
+  High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
 
 ### Icons
 
@@ -257,6 +266,9 @@ Additional files to install:
 
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+
+[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
+Turns all Sunset Sarsaparilla star bottle caps face up, allowing you to spot them more easily.
 
 ## GAMEPLAY
 
@@ -534,9 +546,6 @@ Additional files to install:
   - Install **Bonus Patch** (Main files).
     - **Merge** with the main file.
 
-[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
-Companions ready their weapons when you do.
-
 [**Empty Weapons**](https://www.nexusmods.com/newvegas/mods/67245)  
 Slides stay locked back on empty handguns.
 
@@ -548,6 +557,12 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
+
+[**Chill Companions**](https://eddoursul.win/mods/chill-companions/)  
+When companions are in a familiar and safe environment, they automatically go into sandbox mode. Instead of following you, they wander around, eat, sleep, and sit.
+
+[**Companions Combat-Ready**](https://www.nexusmods.com/newvegas/mods/66391)  
+Companions ready their weapons when you do.
 
 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds proper diagonal movement animations.
@@ -971,6 +986,7 @@ JIP LN NVSE Plugin
 JohnnyGuitar NVSE
 ShowOffNVSE
 kNVSE Animation Plugin
+yUI - User Ynterface
 NVAC - New Vegas Anti Crash
 NVTF - New Vegas Tick Fix
 NVTF Custom INI
@@ -1014,6 +1030,7 @@ Motion Sickness Destroyer
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
+Stars Turned Face Up
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
 Faction Warning and Reputation Tweaks
@@ -1076,11 +1093,12 @@ JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
-Companions Combat-Ready
 Empty Weapons
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
+Chill Companions
+Companions Combat-Ready
 Diagonal Movement
 360 Movement
 NV Compatibility Skeleton
@@ -1216,6 +1234,7 @@ PlasmaWeaponIronSights.esp
 Motion Sickness Reduction Mod.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
+Stars Turned Face Up.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
 Faction Warning and Reputation Tweaks.esp
@@ -1274,11 +1293,12 @@ Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
-Companions Combat-Ready.esp
 EmptyWeapons.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
+Chill Companions.esp
+Companions Combat-Ready.esp
 Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
