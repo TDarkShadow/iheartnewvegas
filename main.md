@@ -1602,8 +1602,8 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Visuals) **Chill Companions**.
 - 🆕 (Visuals) **Securitrons in CRT**.
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
-- 🆕 (LOD) Vurt's Improved Plants**.
-- 🆕 (LOD) Hectrol Tumbleweed Deluxe**.
+- 🆕 (LOD) **Vurt's Improved Plants**.
+- 🆕 (LOD) **Hectrol Tumbleweed Deluxe**.
 - ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
