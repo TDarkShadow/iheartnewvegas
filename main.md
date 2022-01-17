@@ -299,6 +299,16 @@ Additional files to install:
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
+[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
+Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans (as per the lore). Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
+
+Additional files to install:
+- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)  
+  Addresses conflicts with Mojave Raiders, Simple Brahmin Variants Redux, and Character Expansions Revised, all featured in this guide.
+  - BAIN options to install:
+    - [X] 00 Complete  
+      Addresses conflicts with all three mods. Recommended option for users of the guide.
+
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
 
@@ -336,17 +346,6 @@ A collection of small essential gameplay improvements for the official DLCs that
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
 ### Features and mechanics
-
-[**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510)  
-Adds Repair Tools, required to perform repairs, and repair parts for you to craft and buy, giving you alternate methods of repairing equipment.
-- Hide **Alternative Repairing - Honest Hearts.esp**.
-- Hide **Alternative Repairing - Lonesome Road.esp**.
-
-Additional files to install:
-- [**Alternative Repairing Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Alternative%20Repairing%202.7.12%20Tweaks.7z)  
-  Includes YUP fixes; merges all ESPs into a single one; adds the Weapon Repair Kit sound fix from YUP to all new Kits; custom INI adds a prefix to parts, disables weapon and armor degradation tweaks, and lowers threshold at which apparel is considered clothing.
-
-> ℹ️ For an alternative mod that only features the Repair Tools mechanic, check out [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884?).
 
 [**B42 Inspect**](https://www.nexusmods.com/newvegas/mods/71624)  
 Adds a fully animated ammunition and weapon condition checking system to the game, complete with scratch made animations and a custom HUD element. The ammo check HUD displays the name of the weapon, the ammo type you're using, the rounds left in your current mag and how much ammo you have left in total. Condition checking HUD simply shows you weapons condition.
@@ -463,7 +462,6 @@ Additional files to install:
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
 - FOMOD options to install:
-  - [X] Alternative Repairing
   - [X] B42 Melee Bash
   - [X] Mojave Arsenal
 
@@ -475,6 +473,13 @@ Fully-scripted, lightweight, and compatible item value overhaul, taking into con
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+
+[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
+Makes repairing more difficult by making each repair require a consumable Repair Tools item.
+
+Additional files to install:
+- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
+  - **Merge** with the main file.
 
 ### Perks and traits
 
@@ -531,6 +536,21 @@ Additional files to install:
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
+
+### Equipment
+
+[**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
+Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
+
+Additional files to install:
+- **Strapless Update** (Optional files)  
+  Removes the leather straps.
+  - **Merge** with the main file.
+- [**Canvas Backpacks - Remade Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20Tweaks.7z)  
+  Edits the icons and stats of the backpacks.
+  - BAIN options to install:
+    - [00] JSUE  
+      Gives JSUE-appropriate stats to the backpacks, increasing their value, reducing their carry weight capacity, and adding more penalties for equipping them.
 
 ## VISUALS
 
@@ -1038,6 +1058,8 @@ Follower Tweaks
 Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
+Khans Friendly to Fiends
+Khans Friendly to Fiends Patches
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 No Stealing After Repair
@@ -1049,8 +1071,6 @@ Well Rested Overhaul YUP
 Ending Slideshows Ultimate Edition Overhaul
 Essential DLC Enhancements Merged
 Lobotomite Tweaks
-Alternative Repairing
-Alternative Repairing Tweaks
 B42 Inspect
 B42 Melee Bash
 Bottle Rinse Repeat
@@ -1080,6 +1100,7 @@ Mojave Arsenal Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 New Vegas Economy Improved
 Player Combat Priority
+Repair Tools
 Anatomic Perks
 Meltdown NVSE Upgrade Tweaked
 Miss Fortune NVSE Upgrade
@@ -1091,6 +1112,8 @@ Uncut Wasteland Tweaks
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
+Canvas Backpacks - Remade
+Canvas Backpacks - Remade Tweaks
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 Empty Weapons
@@ -1240,6 +1263,7 @@ CriticalEffectFixes.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Tweaks.esp
 JamFix.esp
+Khans Friendly to Fiends.esp
 MigAAMines.esp
 MigKao.esp
 Rigged Shotgun Restoration - Lore-Friendly.esp
@@ -1250,7 +1274,6 @@ migWellRested.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
 DLC Enhancements.esp
 Lobotomitess.esp
-Alternative Repairing.esp
 B42Inspect.esp
 B42Bash.esp
 Bottle Rinse Repeat.esp
@@ -1278,6 +1301,8 @@ JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
 Misc Gameplay Merge - JSUE Patch.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
+Repair Tools.esp
+Repair Tools - JSU (Push's Tweaks) Patch.esp
 MigAnatomy.esp
 MigMeltdown.esp
 MigFortune.esp
@@ -1293,6 +1318,8 @@ Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
+QwibNewBackpacks.esp
+QwibNewBackpacks Tweaks JSUE.esp
 EmptyWeapons.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
@@ -1307,6 +1334,7 @@ Alsatian NCR Guard Dogs.esp
 Bighorner Model Variants Merged.esp
 SecuritronsOnAlert.esp
 Simple Brahmin Variants Redux.esp
+Khans Friendly to Fiends - Complete.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
 cleanlucky38.esp
 Windows of the Mojave v1.2.1.esp
@@ -1403,10 +1431,6 @@ The following settings need to be configured after you've already started a new 
 - Disable **Custom Weapons**.
 - Enable **Optimized Ammo**.
 - Enable **Pulse Slug Recipes**.
-
-**Alternative Repairing**:
-- Enable **Repair Tools**.
-- Set **Repair Kits** to **Multi-use**.
 
 ### INI config
 
@@ -1520,12 +1544,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (xNVSE Plugins) **yUI - User Interface**.
 - 🆕 (Gameplay QOL) **Stars Turned Face Up**. 
 - 🆕 (Gameplay Tweaks) **Khans Friendly to Fiends**.
+- 🆕 (Overhauls) **Repair Tools**.
 - 🆕 (Content) **Canvas Backpacks - Remade**.
 - 🆕 (Visuals) **Chill Companions**.
-- 🆕 (Visuals) **Smaller Holotapes**.
 - 🆕 (Visuals) **Hoover Dam Jets Restored and Distant**.
-- ⚠️ (Visuals) Added important disclaimer to **Helmet Overlay**.
+- ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (Visuals) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
+- 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**.
 - 🚫 (Content) **The Strip NPCs Uncut - Content Restoration**. Incompatible with **Simple Open Strip**. Though not featured in the guide, I don't want to take the choice away from players.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy it made interiors. Vanilla is better, in my opinion.
 </details>
