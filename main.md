@@ -674,7 +674,7 @@ Fixes Gun Runners' kiosk glass texture. Also adds a window speak thru.
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
 
 Files to install:
-- **Lightweight Strip Overhaul** (Main files)
+- **Lightweight Strip Overhaul - No Walls** (Main files)
 - **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
 
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
@@ -890,6 +890,7 @@ Replaces every explosion sound in the game.
 Additional files to install:
 - **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)  
   Scripted version that vastly improves compatibility with other mods.
+  - **Merge** with the main file.
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
@@ -964,7 +965,7 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 Additional files to install:
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)  
   Includes Hoover Dam Jets Restored and Distant region edits.
-  - **Merge** into the main file.
+  - **Merge** with the main file.
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
   Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Original mod by **Nehred**.
 
@@ -1570,6 +1571,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Content) **Canvas Backpacks - Remade**.
 - 🆕 (Visuals) **Chill Companions**.
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**.
+- ⚠️ (Visuals) Changed suggested main file for **Lightweight Strip Overhaul**.
 - ⚠️ (Visuals) Added ending slides disclaimer to **Helmet Overlay**.
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
