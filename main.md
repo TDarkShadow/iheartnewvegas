@@ -246,6 +246,9 @@ Replaces the main menu with one similar to classic Fallout's.
 
 ## GAMEPLAY QOL
 
+[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
+A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
+
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
@@ -314,16 +317,6 @@ Additional files to install:
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
-[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
-Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans (as per the lore). Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
-
-Additional files to install:
-- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)  
-  Addresses conflicts with Mojave Raiders, Simple Brahmin Variants Redux, and Character Expansions Revised, all featured in this guide.
-  - BAIN options to install:
-    - [X] 00 Complete  
-      Addresses conflicts with all three mods. Recommended option for users of the guide.
-
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
 
@@ -360,9 +353,6 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
 Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
-
-[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
-A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
 [**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
 Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
@@ -553,7 +543,7 @@ Additional files to install:
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
-### Enemies
+### Expanded content
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
@@ -565,6 +555,16 @@ Additional files to install:
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
+
+[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
+Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans (as per the lore). Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
+
+Additional files to install:
+- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)  
+  Addresses conflicts with Mojave Raiders, Simple Brahmin Variants Redux, and Character Expansions Revised, all featured in this guide.
+  - BAIN options to install:
+    - [X] 00 Complete  
+      Addresses conflicts with all three mods. Recommended option for users of the guide.
 
 ### Equipment
 
@@ -1111,6 +1111,7 @@ Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Vanilla Loading Screens ESRGAN
 All-New Splash Screens and Song
 Classic Main Background and Title
+Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
 FOV Slider
 FOV Slider Custom INI
@@ -1127,8 +1128,6 @@ Follower Tweaks
 Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
-Khans Friendly to Fiends
-Khans Friendly to Fiends Patches
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 No Stealing After Repair
@@ -1140,7 +1139,6 @@ Thrown Weapon Tweaks
 Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
 Ending Slideshows Ultimate Edition Overhaul
-Essential DLC Enhancements Merged
 Lobotomite Tweaks
 B42 Inspect
 B42 Melee Bash
@@ -1185,6 +1183,8 @@ The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
+Khans Friendly to Fiends
+Khans Friendly to Fiends Patches
 Canvas Backpacks - Remade
 Canvas Backpacks - Remade Tweaks
 Anniversary Anim Pack
@@ -1333,6 +1333,7 @@ LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
+DLC Enhancements.esp
 FOVSlider.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
@@ -1345,7 +1346,6 @@ CriticalEffectFixes.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Tweaks.esp
 JamFix.esp
-Khans Friendly to Fiends.esp
 MigAAMines.esp
 MigKao.esp
 Reload Reloaded.esp
@@ -1356,7 +1356,6 @@ Snowglobe Tweaks.esp
 Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
 migWellRested.esp
 Ending Slideshows Ultimate Edition Overhaul.esp
-DLC Enhancements.esp
 Lobotomitess.esp
 B42Inspect.esp
 B42Bash.esp
@@ -1403,6 +1402,7 @@ Uncut Strip NPCs.esp
 Mojave Raiders.esp
 JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
+Khans Friendly to Fiends.esp
 QwibNewBackpacks.esp
 QwibNewBackpacks Tweaks JSUE.esp
 rockbiter_AnimationSounds.esp
