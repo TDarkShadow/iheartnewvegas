@@ -298,6 +298,9 @@ Fixes several problems at the core level with how ammo scripts and effects work,
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
 
+[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
+Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
+
 [**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes.
 
@@ -316,6 +319,9 @@ Additional files to install:
 
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
+
+[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
+Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
 [**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
 Allows mines to be triggered by flying NPCs if close enough to them; makes EMP mines triggerable only by robots and Power Armored NPCs; causes mines to detonate instantly if directly stepped on; makes lingering effects from explosions (such as fire) continue to cause damage if an actor walks by them.
@@ -350,12 +356,6 @@ Makes the Pyromaniac perk affect *all* the lingering fire damage effects from we
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/64628) to original mod by **miguick**. The featured version includes YUP fixes.
-
-[**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595)  
-Merges the DLC ending slideshows with the main game's ending slideshow for one complete "Ultimate Edition" package. Updates the vanilla slideshow to the standards later adopted in the DLC.
-
-[**Lobotomite Tweaks**](https://www.nexusmods.com/newvegas/mods/61706)  
-Makes the Old World Blues Lobotomites more challenging by equiparating their traits with those of a freshly operated player.
 
 ### Features and mechanics
 
@@ -765,9 +765,20 @@ Adds overlays for various headwear items, From facemasks, to glasses, to helmets
 
 > ℹ️ The mod has the unfortunate effect of displaying the helmet overlay during ending slideshows if your character is wearing a helmet. This is because of how the slideshows were designed. It is very much recommended you unequip your helmet whenever you are about to finish the game or DLCs (provided you haven't installed (Ending Slideshows Ultimate Edition Overhaul).
 
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-- Install **Worn-Out Scopes** (Main files).
+[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
+Gives Gecko-backed outfits an unique look.
+- Only install **Improved Gecko Textures for vanilla bodies** (Optional files).
+
+Additional files to install:
+- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
+  - BAIN options to install:
+    - [X] 00 ESP Replacer  
+      Includes YUP fixes.
+    - [X] 01 JSUE Patch  
+      Patches the mod for compatibility with JSawyer Ultimate Edition.
+
+[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
+Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes YUP fixes for the meshes.
 
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the NCR Ranger Hat and Zion Park Ranger Hat so they sit slightly lower on the head.
@@ -777,9 +788,6 @@ Replaces the female Metal Armor helmets with their male counterparts.
 - Hide the **textures\interface** folder.
 
 > ℹ️ This hides unnecessary textures that also overwrite those from **Consistent Pip-Boy Icons**.
-
-[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
-Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes YUP fixes for the meshes.
 
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
@@ -810,29 +818,14 @@ Adds armored gloves to all Power Armors in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
 
-[**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)  
-Gives Gecko-backed outfits an unique look.
-- Only install **Improved Gecko Textures for vanilla bodies** (Optional files).
-
-Additional files to install:
-- [**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
-  - BAIN options to install:
-    - [X] 00 ESP Replacer  
-      Includes YUP fixes.
-    - [X] 01 JSUE Patch  
-      Patches the mod for compatibility with JSawyer Ultimate Edition.
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
+- Install **Worn-Out Scopes** (Main files).
 
 ### VFX
 
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
-
-[**Burning Campfire Redone**](https://www.nexusmods.com/newvegas/mods/63623)  
-Lights up campfires when activating them.
-
-Additional files to install:
-- [**Burning Campfire Redone 2**](https://www.nexusmods.com/newvegas/mods/68181)  
-  Improves the original mod and adds support for Honest Hearts' campfires.
 
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
@@ -1123,11 +1116,13 @@ Simple DLC Delay
 Stars Turned Face Up
 Ammo Script Fixes
 Critical and Effects - Fixes and Tweaks
+Ending Slideshows Ultimate Edition Overhaul
 Faction Warning and Reputation Tweaks
 Follower Tweaks
 Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
+Lobotomite Tweaks
 Mine and Explosion Tweaks
 Mostly Unarmed Tweaks
 No Stealing After Repair
@@ -1138,8 +1133,6 @@ Standarized NCR Supply Caches - Scaler Moon Edition
 Thrown Weapon Tweaks
 Universal Pyromaniac Buff for Fire Effects
 Well Rested Overhaul YUP
-Ending Slideshows Ultimate Edition Overhaul
-Lobotomite Tweaks
 B42 Inspect
 B42 Melee Bash
 Bottle Rinse Repeat
@@ -1210,9 +1203,9 @@ Tweaked Standing Idle
 Tweaked Standing Idle Fix
 Alsatian NCR Guard Dogs
 Bighorner Model Variants Merged
+Healthier Yao Guai Pluginless
 Securitrons in CRT
 Simple Brahmin Variants Redux
-Healthier Yao Guai Pluginless
 Y-17 Trauma Override Harness GLOVES
 Bathroom Doors Overhaul
 Bathroom Doors Overhaul YUP ESP Replacer
@@ -1227,10 +1220,11 @@ McCarran Main Terminal Transparent Glass
 Windows of the Mojave
 Windows Redux
 Helmet Overlay
-Worn-Out Scope Crosshair Replacers
+Honest Hearts Gecko Leathers Improved
+Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
+Improved Duster Coats - YUP Edition
 Lower-sitting Ranger Hat
 Metal Helmets - Female Replacements
-Improved Duster Coats - YUP Edition
 Simple Glowing Ranger Visors
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Buttons
@@ -1238,11 +1232,8 @@ Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
 Power Armor Gloves YUP
-Honest Hearts Gecko Leathers Improved
-Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
+Worn-Out Scope Crosshair Replacers
 Better Gas Leak Effect
-Burning Campfire REDONE
-Burning Campfire REDONE 2
 IMPACT
 IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
@@ -1343,9 +1334,11 @@ Simple DLC Delay.esp
 Stars Turned Face Up.esp
 AmmoScriptFixes.esp
 CriticalEffectFixes.esp
+Ending Slideshows Ultimate Edition Overhaul.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Tweaks.esp
 JamFix.esp
+Lobotomitess.esp
 MigAAMines.esp
 MigKao.esp
 Reload Reloaded.esp
@@ -1355,8 +1348,6 @@ PyromaniacEffectsBuff.esp
 Snowglobe Tweaks.esp
 Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
 migWellRested.esp
-Ending Slideshows Ultimate Edition Overhaul.esp
-Lobotomitess.esp
 B42Inspect.esp
 B42Bash.esp
 Bottle Rinse Repeat.esp
@@ -1426,13 +1417,11 @@ Khans Friendly to Fiends - Complete.esp
 Bathroom Doors Overhaul - ALL IN ONE.esp
 cleanlucky38.esp
 Windows of the Mojave v1.2.1.esp
-Metal Helmet Female Replacements.esp
-Power Armor Gloves.esp
-MCPipBoy2000MK6_clock.esp
 ImprovedGeckoLeatherArmor.esp
 ImprovedGeckoLeatherArmor JSUE Patch.esp
-Burning Campfire.esp
-BC2.esp
+Metal Helmet Female Replacements.esp
+MCPipBoy2000MK6_clock.esp
+Power Armor Gloves.esp
 dD - Enhanced Blood Main NV.esp
 IMPACT.esp
 All Weapon Sounds Overhaul .esp
@@ -1673,6 +1662,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - ⚠️ (LOD) Added additional instructions to **Strip Lights Region Fix** for compatibility with **Hoover Dam Jets Restored and Distant**.
 - ⚠️ (MCM Config) Added instructions for **B42 Inspect** and **RAD - Radiation is Actually Dangerous**. Removed instructions for **Mojave Arsenal**.
 - 🚫 (Gameplay) **Alternative Repairing**. Replaced by **Repair Tools**. Much simpler and also less forgiving alternative.
+- 🚫 (Visuals) **Burning Campfire Redone**. The burning lighting effect can be extremely garish, quite often.
 - 🚫 (Visuals) **Simple Interior Lighting Overhaul**. Playing with it further made me realize how muddy interiors were with it.
 - 🚫 (Visuals) **Securitrons on Alert**. Replaced with **Securitrons in CRT**. Over time the novelty of the mod wore out for me, and I preferred the simpler alternative.
 </details>
