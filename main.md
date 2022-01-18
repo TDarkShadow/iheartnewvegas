@@ -818,6 +818,9 @@ Adds armored gloves to all Power Armors in the game.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
 
+[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892)  
+Replaces the male Motorcycle helmet with its female counterpart.
+
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install **Worn-Out Scopes** (Main files).
@@ -1232,6 +1235,7 @@ Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
 Power Armor Gloves YUP
+Unisex Motorcycle Helmets
 Worn-Out Scope Crosshair Replacers
 IMPACT
 IMPACT - Compatibility Edition
@@ -1652,6 +1656,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 (Visuals) **Player Headtracking**
 - 🆕 (Visuals) **Ragdolls**
 - 🆕 (Visuals) **Securitrons in CRT**
+- 🆕 (Visuals) **Unisex Motorcycle Helmets**
 - 🆕 (LOD) **Hoover Dam Jets Restored and Distant**
 - 🆕 (LOD) **Vurt's Improved Plants**
 - 🆕 (LOD) **Hectrol Tumbleweed Deluxe**
@@ -1750,7 +1755,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 Last cull before the next big update.
 
 - ⚠️ **Y-17 Trauma Override Harness GLOVES** (Visuals, Creatures and NPCs). Moved to this section.
-- 🚫 **Unisex Motorcycle Helmets** (Visuals, Equipment). Some appreciate the vanilla Spaceballs helmet.
 </details>
 
 <details>
