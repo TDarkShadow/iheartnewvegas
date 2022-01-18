@@ -209,6 +209,8 @@ Additional files to install:
 - **6. Vanilla UI Plus Patch** (Optional files)  
   Patch for Vanilla UI Plus.
   - **Merge** with the main file.
+
+Optional files to install:
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
   Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
@@ -383,10 +385,9 @@ Additional files to install:
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
 - FOMOD options to install:
-  - [X] B42 Melee Bash
   - [X] Mojave Arsenal
 
-> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options (which include patches for all these mods).
+> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options.
 
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
@@ -575,10 +576,6 @@ Files to install:
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
-Additional files to install:
-- [**Windows Redux**](https://www.nexusmods.com/newvegas/mods/70225)  
-  Retexture of the window, mainly seen in The Tops if using the Windows of the Mojave mod.
-
 ### Equipment
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
@@ -591,11 +588,24 @@ Adds overlays for various headwear items, From facemasks, to glasses, to helmets
 [**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
 Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes YUP fixes for the meshes.
 
+[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the completely useless Pip-Boy glove from player and NPCs.
+- Install **No Pip-Boy Glove - No ESP** (Main files).
+
+[**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
+Adds armored gloves to all Power Armors in the game.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
+
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets have a glowing effect.
 - Install **Simple Glowing Ranger Visors (No Neck Covers)** (Main files).
 
 > ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
+- Install **Worn-Out Scopes** (Main files).
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -611,26 +621,11 @@ Additional files to install:
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
   Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
-[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless Pip-Boy glove from player and NPCs.
-- Install **No Pip-Boy Glove - No ESP** (Main files).
-
-[**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
-Adds armored gloves to all Power Armors in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
-
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-- Install **Worn-Out Scopes** (Main files).
-
 ### VFX
 
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
 - Install **IMPACT - The Michael Bay** (Main files).
-
-> ℹ️ My computer can run this version without issues. Check the **Readme** front page to compare your build against mine and decide for yourself which option you'd like to install.
 
 Additional files to install:
 - [**IMPACT - Compatibility Edition**](https://www.nexusmods.com/newvegas/mods/62050)  
