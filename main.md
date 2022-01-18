@@ -1639,7 +1639,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>January WIP Update</summary>
+	<summary>January 18th</summary>
 
 - 🆕 (xNVSE Plugins) **yUI - User Interface**
 - 🆕 (User Interface) **Vanilla Loading Screens ESRGAN**
