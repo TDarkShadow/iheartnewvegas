@@ -513,9 +513,6 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
-[**Chill Companions**](https://eddoursul.win/mods/chill-companions/)  
-When companions are in a familiar and safe environment, they automatically go into sandbox mode. Instead of following you, they wander around, eat, sleep, and sit.
-
 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds proper diagonal movement animations.
 
@@ -910,7 +907,6 @@ FNV Clean Animations
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
-Chill Companions
 Diagonal Movement
 360 Movement
 Player Headtracking
@@ -1067,7 +1063,6 @@ rockbiter_AnimationSounds.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
-Chill Companions.esp
 Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
