@@ -644,20 +644,6 @@ Additional files to install:
 - [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
-
-[**Dust Storm FX HQ**](https://www.nexusmods.com/newvegas/mods/53863)  
-Retextures dust storms so they aren't as much of an eyesore now.
-
-Additional files to install:
-- **Dust Storm Meshes** (Optional files)  
-  **Merge** with the main file.
-
-[**Mist HD**](https://www.nexusmods.com/newvegas/mods/58955)  
-Retextures mist so that it isn't as much of an eyesore now.
-- Install **HD Mist 2K** (Main files).
-
 ### Weather and lighting
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
@@ -845,19 +831,14 @@ Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
-Crippled Limb Reaction Enforcer
-Gauss Rifle VATS Fix - JIP
 lStewieAl's Tweaks
 lStewieAl's Tweaks INI
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
 Throwable Weapon Fixes
-Dirty Pre-War Businesswear Fix
 Female White Glove Society Mask
 Less Flickery City of New Vegas
-No More Dust Devils (and Whirlwinds)
-No More Muzzle Flash Lights
 UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
@@ -869,43 +850,22 @@ Satellite World Map
 Satellite Maps DLC
 Consistent Pip-Boy Icons
 Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
-Vanilla Loading Screens ESRGAN
-All-New Splash Screens and Song
-Classic Main Background and Title
 Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
 FOV Slider
 FOV Slider Custom INI
+Hunting Revolver Iron Sights
+Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Laser Weapon Iron Sights
-Motion Sickness Destroyer
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
-Stars Turned Face Up
-Ammo Script Fixes
-Critical and Effects - Fixes and Tweaks
-Ending Slideshows Ultimate Edition Overhaul
 Faction Warning and Reputation Tweaks
 Follower Tweaks
-Hunting Revolver Iron Sights
-Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Jamming Fix and Optional Tweaks
-Lobotomite Tweaks
-Mine and Explosion Tweaks
-Mostly Unarmed Tweaks
 No Stealing After Repair
 Reload Reloaded
-Rigged Shotgun Restoration - Lore-Friendly
-Snowglobe Tweaks Fix
-Standarized NCR Supply Caches - Scaler Moon Edition
 Thrown Weapon Tweaks
-Universal Pyromaniac Buff for Fire Effects
-Well Rested Overhaul YUP
-B42 Inspect
-B42 Melee Bash
-Bottle Rinse Repeat
-Bottle Rinse Repeat - Hardcore Mode
-Bottle Rinse Repeat - Smaller Milk Icon
 JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
 JAM Animation Replacers
@@ -933,8 +893,6 @@ New Vegas Economy Improved
 Player Combat Priority
 Repair Tools
 Anatomic Perks
-Meltdown NVSE Upgrade Tweaked
-Miss Fortune NVSE Upgrade
 Improved Traits and Opposite Traits
 Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
@@ -944,19 +902,15 @@ The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
-Khans Friendly to Fiends
-Khans Friendly to Fiends Patches
 Canvas Backpacks - Remade
 Canvas Backpacks - Remade Tweaks
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 FNV Clean Animations
-Empty Weapons
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
 Chill Companions
-Companions Combat-Ready
 Diagonal Movement
 360 Movement
 Player Headtracking
@@ -967,32 +921,11 @@ NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
 FaceGen Tint Fixes for Character Expansions Revised
-Tweaked Standing Idle
-Tweaked Standing Idle Fix
-Alsatian NCR Guard Dogs
-Bighorner Model Variants Merged
-Healthier Yao Guai Pluginless
-Securitrons in CRT
-Simple Brahmin Variants Redux
-Y-17 Trauma Override Harness GLOVES
-Bathroom Doors Overhaul
-Bathroom Doors Overhaul YUP ESP Replacer
-Gun Runners Kiosk Glass Fix Alternate Version
 LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
-Palm Tree Replacer
-Clean Lucky 38
-Lucky 38 Mainframe No Fingerprints
-McCarran Escalator Glass
-McCarran Main Terminal Transparent Glass
 Windows of the Mojave
-Windows Redux
 Helmet Overlay
-Honest Hearts Gecko Leathers Improved
-Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch
 Improved Duster Coats - YUP Edition
-Lower-sitting Ranger Hat
-Metal Helmets - Female Replacements
 Simple Glowing Ranger Visors
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Buttons
@@ -1000,7 +933,6 @@ Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
 Power Armor Gloves YUP
-Unisex Motorcycle Helmets
 Worn-Out Scope Crosshair Replacers
 IMPACT
 IMPACT - Compatibility Edition
@@ -1008,14 +940,10 @@ EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
-Better Gas Leak Effect
-Dust Storm FX HQ
-Mist HD
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
-The Strip Planters Fixed
 Subtle Light Beams and Rays
 FNV Realistic Wasteland Lighting
 FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer
@@ -1026,12 +954,7 @@ All Weapon Sounds Overhaul ESP Replacer
 All Weapon Sounds Overhaul WMIM Patch
 All Explosion Sounds Overhaul
 All Explosion Sounds Overhaul SCRIPT Version
-Immersive Pickup Sounds - Compatibility Version
 Immersive Primary Needs
-Empty Clicks
-Empty Clicks Custom INI
-More Accurate Geiger Clicking
-No Cocking Sound on Rifle Equip
 Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
@@ -1050,10 +973,6 @@ Lucky 38 Lights Redone
 More Subtle New Vegas Light Pollution (Slightly Brighter)
 FNV RWL All DLC - Worldspace Patch
 Wasteland Flora and Terrain Overhaul
-Wasteland Flora and Terrain Overhaul ESP Replacer
-Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
-Vurt's Improved Plants
-Hectrol Tumbleweed Deluxe
 ```
 </details>
 
