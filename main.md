@@ -313,12 +313,10 @@ Removes many map markers to make exploration more interesting.
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+[**Misc Gameplay Merge YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP.7z)  
 Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
 
-Additional files to install:
-- [**Misc Gameplay Merge YUP ESM Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP%20ESM%20Replacer.7z)  
-  Includes YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73921) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
@@ -453,16 +451,6 @@ Additional files to install:
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
-
-[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
-Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans (as per the lore). Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
-
-Additional files to install:
-- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)  
-  Addresses conflicts with Mojave Raiders, Simple Brahmin Variants Redux, and Character Expansions Revised, all featured in this guide.
-  - BAIN options to install:
-    - [X] 00 Complete  
-      Addresses conflicts with all three mods. Recommended option for users of the guide.
 
 ### Equipment
 
@@ -643,12 +631,10 @@ Additional files to install:
 
 ### Weather and lighting
 
-[**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
+[**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
-Additional files to install:
-- [**A Little More Lamplight YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP%20ESP%20Replacer.7z)  
-  Includes YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
 
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
@@ -669,18 +655,15 @@ Removes the fake interior light rays and tones the exterior light beams down dra
 
 > ℹ️ This restores interior light rays.
 
-[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
+[**FNV Realistic Wasteland Lighting**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20All%20DLC%205.542%20YUP.7z)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
-- Install **FNV Realistic Wasteland Lighting - All DLC** (Main files).
 
 Additional files to install:
-- [**FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%205.542%20YUP%20ESP%20Replacer.7z)  
-  Includes YUP fixes; includes music in Zion from DLC Enhancements.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z)  
-  SweetFX preset by **xCamoLegend**.
+  SweetFX preset by **Camo**.
   - Extract the contents of the archive in your **Root** folder.
 
-> ⚠️ Weather mods such as this one should always load near last your load order. We will address this in the **Mod order** section.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/52037) to original mod by **Sal203** and **Camo**. The featured version includes YUP fixes.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -870,8 +853,7 @@ Enhanced Vision
 Follower Formula Redone YUP
 Less Map Markers YUP
 Melee Cleave (a.k.a. Sweep)
-Misc Gameplay Merge
-Misc Gameplay Merge YUP ESM Replacer
+Misc Gameplay Merge YUP
 Miscellaneous Tweaks Collection
 Miscellaneous Tweaks Collection Tweaks
 NPCs Sprint In Combat
@@ -936,13 +918,11 @@ EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
-A Little More Lamplight
-A Little More Lamplight YUP ESP Replacer
+A Little More Lamplight YUP
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
 Subtle Light Beams and Rays
-FNV Realistic Wasteland Lighting
-FNV Realistic Wasteland Lighting - All DLC YUP ESP Replacer
+FNV Realistic Wasteland Lighting - All DLC YUP
 Mojave Nights
 Night Sky Tweaks
 All Weapon Sounds Overhaul
