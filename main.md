@@ -824,9 +824,6 @@ Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic
 
 ### VFX
 
-[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
-Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
-
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
 - Install **IMPACT - The Michael Bay** (Main files).
@@ -850,14 +847,17 @@ Additional files to install:
 - [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Makes the gas leak effect much more visible. Accidentally blowing yourself up won't be as common now.
+
+[**Dust Storm FX HQ**](https://www.nexusmods.com/newvegas/mods/53863)  
 Retextures dust storms so they aren't as much of an eyesore now.
 
 Additional files to install:
 - **Dust Storm Meshes** (Optional files)  
   **Merge** with the main file.
 
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+[**Mist HD**](https://www.nexusmods.com/newvegas/mods/58955)  
 Retextures mist so that it isn't as much of an eyesore now.
 - Install **HD Mist 2K** (Main files).
 
@@ -1233,15 +1233,15 @@ NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
 No Pip-Boy Glove
 Power Armor Gloves YUP
 Worn-Out Scope Crosshair Replacers
-Better Gas Leak Effect
 IMPACT
 IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
-HQ Dust Storm FX
-HD Mist
+Better Gas Leak Effect
+Dust Storm FX HQ
+Mist HD
 A Little More Lamplight
 A Little More Lamplight YUP ESP Replacer
 Strip Lighting Overhaul
