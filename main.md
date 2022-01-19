@@ -273,9 +273,6 @@ Files to install:
 Additional files to install:
 - [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)
 
-[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
-Turns all Sunset Sarsaparilla star bottle caps face up, allowing you to spot them more easily.
-
 ## GAMEPLAY
 
 ⭐ [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
@@ -857,7 +854,6 @@ Quick Grenade Hotkey Tweaks
 Simple DLC Delay
 Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
-Stars Turned Face Up
 B42 Melee Bash
 Enhanced Vision
 Faction Warning and Reputation Tweaks
@@ -1039,7 +1035,6 @@ PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Hunting Revolver Iron Sights.esp
-Stars Turned Face Up.esp
 B42Bash.esp
 Enhanced Vision.esp
 Faction Warning and Reputation Tweaks.esp
