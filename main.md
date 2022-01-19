@@ -321,9 +321,6 @@ Swaps out the current, barely-useful supply cache loot table with a static one, 
 Files to install:
 - **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files)
 
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons, and Throwing Hatchet's damage is reduced.
-
 ## OVERHAULS
 
 ⭐ [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
@@ -338,26 +335,23 @@ Files to install:
 Additional files to install:
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
   Incorporates YUP, WMIM, and Throwable Weapon Fixes. Disables the out of place Wasteland Adventurer.
-- [**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)
 - [**Misc Gameplay Merge - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
+- [**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)
 
 ⭐ [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)
-- [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
-  BAIN options to install:
-  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)
-  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)
-  - [X] 02 JSUE Push's Tweaks
+- [**Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Hunting%20Revolver%20Iron%20Sights%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)
+- [**Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)
+- [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
 - FOMOD options to install:
+  - [X] B42 Melee Bash
   - [X] Mojave Arsenal
-
-> ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options.
 
 ⭐ [**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
 Simple and comprehensive loot scarcity mod using event-based scripting.
@@ -379,13 +373,14 @@ Files to install:
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
 ⭐ [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
-- BAIN options to install:
-  - [X] 00 Improved Traits and Opposite Traits
-  - [X] 01 JSUE Patch
+Expands on the idea of opposite traits, and improves both vanilla and new traits.
+
+Additional files to install:
+- [**Improved Traits and Opposite Traits - JSawyer Ultimate Edition Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits%20-%20JSawyer%20Ultimate%20Edition%20Patch.7z)
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**. The featured plugin fixes a handful of oversights and disables an overpowered trait. 
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. The featured plugin was cleaned.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. The featured plugin is clean.
 
 ⭐ [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
@@ -396,6 +391,9 @@ The Here and Now perk now includes the original effects from Living Anatomy.
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
+
+Files to install:
+- **Cannibal Reborn** (Main files)
 
 Additional files to install:
 - [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
@@ -420,17 +418,19 @@ Restores some cut but fully-functional NPCs to the Strip.
 ⭐ [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
+Files to install:
+- **Mojave Raiders** (Main files)
+- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
+
 Additional files to install:
 - [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)
 
 ⭐ [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
 Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans. Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
 
-Additional files to install:
-- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)
-  - BAIN options to install:
-    - [X] 00 Mojave Raiders
-    - [X] 01 Character Expansions Revised
+Files to install:
+- **Khans Friendly to Fiends** (Main files)
+- **Mojave Raiders Patch** (Main files)
 
 ⭐ [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -446,10 +446,7 @@ Files to install:
 - **Strapless Update** (Optional files)  
 
 Additional files to install:
-- [**Canvas Backpacks - Remade Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20Tweaks.7z)  
-  Edits the icons and rebalances the stats of backpacks.
-  - BAIN options to install:
-    - [00] JSUE  
+- [**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20-%20JSawyer%20Ultimate%20Edition%20Patch.7z)  
 
 ## AUDIO
 
@@ -470,6 +467,9 @@ Files to install:
 
 ⭐ [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
+
+Files to install:
+- **Project Nevada - Immersive Primary Needs 1.1**
 
 [**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
 Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
@@ -848,7 +848,6 @@ RAD - Radiation (is) Actually Dangerous - Overhaul
 Reload Reloaded
 Simple Explosive Entry
 Standarized NCR Supply Caches - Scaler Moon Edition
-Thrown Weapon Tweaks
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition Tweaks and Patches
 Mojave Arsenal
@@ -1004,17 +1003,16 @@ RAD.esp
 Reload Reloaded.esp
 Simple Explosive Entry.esp
 Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
-Thrown Weapon Tweaks.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate - Push's Tweaks - Miscellaneous Tweaks Patch.esp
 JSawyer Ultimate Tweaks.esp
+Misc Gameplay Merge - JSUE Patch.esp
+Miscellaneous Tweaks - JSUE - Push's Tweaks Patch.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch.esp
-JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
-JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
-Misc Gameplay Merge - JSUE Patch.esp
+Hunting Revolver Iron Sights - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
+Miscellaneous Tweaks - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
+Mojave Arsenal - JSUE - Push's Tweaks Patch.esp
 Famine.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
