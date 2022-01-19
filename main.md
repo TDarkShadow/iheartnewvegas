@@ -860,7 +860,6 @@ Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
-LOD Additions and Improvements YUP ESP Replacer
 FNV LOD Supplementation
 Better Strip View
 Better Strip View ESP Replacer
