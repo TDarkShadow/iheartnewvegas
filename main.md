@@ -517,11 +517,12 @@ Adds weapon inertia, causing weapons to slightly lag behind camera movement to g
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
+Files to install:
+- **Ragdolls** (Main files)
+
 Additional files to install:
-- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
-  - BAIN options to install:
-    - [X] 00 YUP
-    - [X] 01 DLC Enhancements
+- [**Ragdolls YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20YUP%20Patch.7z)
+- [**Ragdolls DLC Enhancements Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20DLC%20Enhancements%20Patch.7z)
 
 ⭐ [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
@@ -532,13 +533,16 @@ A compatible skeleton for many animation mods.
 
 ⭐ [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
-- Hide **Character Expansions Revised - Extras.esp**.
+
+Files to install:
+- **Character Expansions Revised** (Main files)
+- **Character Expansions Revised - YUP** (Optional files)
+- **Character Expansions Revised - JSU** (Optional files)
+- **Character Expansions Revised - UW** (Optional files)
 
 Additional files to install:
-- [**Character Expansions Revised - Additional Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20Additional%20Patches.7z)  
-  - BAIN options to install:
-    - [X] 00 Complete
-      All in one merge of Extras.esp, YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders patches.
+- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)
+  Updated Mojave Raiders patch, and compatibility patches for both JSawyer Ultimate Edition and Uncut Wasteland Patches when used alongside the Mojave Raiders Patch.
 - [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
   Fixes colored tints on character faces.
   - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
@@ -612,7 +616,7 @@ Additional files to install:
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
 Additional files to install:
-- **A Little More Lamplight ESP Replacer**  
+- **A Little More Lamplight YUP Patch**  
   Incorporates YUP fixes.
 
 ⭐ [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
@@ -645,7 +649,7 @@ Files to install:
 - **FNV RWL All DLC - Patch Collection** (Optional files)
 
 Additional files to install:
-- **FNV Realistic Wasteland Lighting ESP Replacer**  
+- **FNV Realistic Wasteland Lighting YUP Patch**  
   Incorporates YUP fixes.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z)  
   SweetFX preset by **Camo**.
