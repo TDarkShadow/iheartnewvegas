@@ -222,8 +222,9 @@ Files to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
 
-[**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
-Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
+Additional files to install:
+- [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
+  Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
 ## GAMEPLAY QOL
 
