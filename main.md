@@ -240,14 +240,6 @@ Additional files to install:
 - [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
   Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
 
-[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124?)  
-Removes the scope from the Hunting Revolver and makes it a separate weapon mod.
-- Install **Hunting Revolver Iron Sights** (Main files).
-
-Additional files to install:
-- [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)  
-  Updates the Hunting Revolver icon to remove its scope.
-
 ⭐ [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
@@ -266,6 +258,14 @@ Additional files to install:
 
 ⭐ [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
+
+[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124?)  
+Removes the scope from the Hunting Revolver and makes it a separate weapon mod.
+- Install **Hunting Revolver Iron Sights** (Main files).
+
+Additional files to install:
+- [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)  
+  Updates the Hunting Revolver icon to remove its scope.
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
 Turns all Sunset Sarsaparilla star bottle caps face up, allowing you to spot them more easily.
@@ -980,11 +980,12 @@ Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
 DLC Enhancements.esp
 FOVSlider.esp
-Hunting Revolver Iron Sights.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
+Hunting Revolver Iron Sights.esp
+Stars Turned Face Up.esp
 Enhanced Vision.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
