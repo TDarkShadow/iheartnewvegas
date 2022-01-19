@@ -56,10 +56,6 @@ Enables borderless window mode for safe alt-tabbing.
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
-Additional files to install:
-- [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z)  
-  Enables a number of settings to achieve the best balance between performance and stability. Made by **Qolore**.
-
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
 
@@ -95,33 +91,6 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
 ⭐ [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
-
-Additional files to install:
-- [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z)  
-  Enables many quality of life improvements, as well as gameplay and balance tweaks. Major gameplay tweaks include:
-  - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
-  - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
-  - Increased XP for discovering locations. Meant to be used alongside **Less Map Markers** (Overhauls section).
-  - Binoculars can zoom in and out.
-  - Holding the attack button for grenades decreases their detonation timer.
-  - Throwables can be held and released, like grenades.
-  - Entering VATS costs AP.
-  - Opening Pip-Boy in combat costs AP.
-  - Living Anatomy perk shows Damage Resistance.
-  - Unconscious actors can be looted.
-  - Manual reloading.
-  - VATS' range is tied to current weapon's range.
-  - Slower backpedalling.
-  - Owned items can't be grabbed and moved around.
-  - Skill level requirement for skill checks is hidden.
-  - Dialogue topics are numbered.
-  - Pickpocket formula takes into account item weight, target Perception, and detection value.
-  - Agility affects reload jams.
-  - Repairing items gives XP.
-  - Robotic companions heal with Scrap Metal instead of Stimpaks.
-  - Sneak attack critical hits can only be dealt with melee weapons.
-  - Broken armor is automatically unequipped.
-  - Weapon mods can be unequipped.
 
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
@@ -243,10 +212,6 @@ Files to install:
 ⭐ [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
-Additional files to install:
-- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
-  Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
-
 ⭐ [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
@@ -306,8 +271,6 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 Additional files to install:
-- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z)  
-  Disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
 - [**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
   Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
@@ -384,8 +347,6 @@ Additional files to install:
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
-- [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
-  Disables most GRA features, and enables low condition loot.
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)
 - [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
   BAIN options to install:
@@ -556,8 +517,6 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
 Additional files to install:
-- [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
-  Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
 - [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
   - BAIN options to install:
     - [X] 00 YUP
@@ -751,8 +710,6 @@ Adds extra meshes for LOD generation.
 Adds visible Strip signs and moves the Strip buildings to where they should be.
 
 Additional files to install:
-- [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z)  
-  Cleans the ESP of dirty records.
 - [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
 
 ⭐ [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
@@ -815,7 +772,6 @@ kNVSE Animation Plugin
 yUI - User Ynterface
 NVAC - New Vegas Anti Crash
 NVTF - New Vegas Tick Fix
-NVTF Custom INI
 FNV Mod Limit Fix
 Improved Lighting Shaders
 Console Paste Support
@@ -851,7 +807,6 @@ Vanilla HD Missing Icon for Consistent Pip Boy Icons - No More Farting Vault Boy
 Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
 FOV Slider
-FOV Slider Custom INI
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Laser Weapon Iron Sights
 Quick Grenade Hotkey
@@ -865,7 +820,6 @@ Faction Warning and Reputation Tweaks
 Follower Tweaks
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
-JAM - Just Assorted Mods Custom INI
 JAM Animation Replacers
 Enhanced Vision
 Follower Formula Redone YUP
@@ -886,7 +840,6 @@ Thrown Weapon Tweaks
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition Tweaks and Patches
 Mojave Arsenal
-Mojave Arsenal Custom INI
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Mojave Arsenal Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
@@ -924,7 +877,6 @@ Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
 Ragdolls
-Ragdolls Custom INI
 Ragdolls Patches
 Chill Companions
 Diagonal Movement
@@ -972,6 +924,7 @@ Mormon Fort Region Fix
 Lucky 38 Lights Redone
 More Subtle New Vegas Light Pollution (Slightly Brighter)
 FNV RWL All DLC - Worldspace Patch
+FNV Custom INIs
 ```
 </details>
 
