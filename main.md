@@ -21,8 +21,6 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
-- Download the main file using the **Mod Manager Download** option.
-- Install this mod in Mod Organizer 2.
 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
