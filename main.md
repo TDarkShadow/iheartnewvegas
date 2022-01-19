@@ -759,6 +759,9 @@ Additional files to install:
 ⭐ [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
 
+Files to install:
+- **Better Strip View** (Main files)
+
 Additional files to install:
 - [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
 
