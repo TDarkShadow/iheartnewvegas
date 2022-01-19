@@ -211,6 +211,10 @@ Optional files to install:
 
 ## GAMEPLAY QOL
 
+```
+The focus of this section is to provide many quality of life improvements that should have been like that from the start, and which do not significantly alter the game's overall gameplay.
+```
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
@@ -253,6 +257,10 @@ Additional files to install:
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
 ## GAMEPLAY
+
+```
+The focus of this section is to overhaul the game's basic gameplay, by providing numerous tweaks to existing mechanics, as well as new mechanics altogether.
+```
 
 [**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
 Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
@@ -331,6 +339,10 @@ NPCs no longer consume thrown weapons, and Throwing Hatchet's damage is reduced.
 
 ## OVERHAULS
 
+```
+The focus of this section is to overhaul the game's balance, as well as improve on the game's perks and traits.
+```
+
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
@@ -408,6 +420,10 @@ Improves the character creation by speeding up the process, adding specialized g
 
 ## CONTENT
 
+```
+The focus of this section is to expand the game's content, by adding new NPCs, enemies (both human and creatures), as well as new equipment.
+```
+
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install **Uncut Wasteland plus NPCs** (Main files).
@@ -445,6 +461,10 @@ Additional files to install:
 
 ## AUDIO
 
+```
+The focus of this section is to provide more immersive audio.
+```
+
 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
 Replaces every gun sound in the game, from ballistic to energy weapons.
 
@@ -473,6 +493,10 @@ Replacer for the male drinking sound the game plays whenever you consume a Nuka-
 ## VISUALS
 
 ### Animations
+
+```
+The focus of this section is to provide more detailed and satisfying animations for the gunplay of the game.
+```
 
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newvegas/mods/67728), [**Iron Sights Recoil Animations**](https://www.nexusmods.com/newvegas/mods/67760), [**Fire Animation Variants**](https://www.nexusmods.com/newvegas/mods/67841), as well as new, previously unreleased animations.
@@ -519,7 +543,11 @@ A skeleton with compatibility for the latest mods.
 - FOMOD options to install:
   - [X] Vanilla Weights
 
-### Creatures and NPCs
+### NPCs
+
+```
+The focus of this section is to improvide the lackluster visuals of the game's NPCs.
+```
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -538,6 +566,10 @@ Fixes colored tints on character faces. Meant to be used alongside **Character E
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
 
 ### Equipment
+
+```
+The focus of this section is to provide more immersive equipment visuals, as well as replacing the Pip-Boy with one more reminiscent of that of the classic Fallout games.
+```
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
 Adds overlays for various headwear items, From facemasks, to glasses, to helmets. Overlays will stack if you can wear the items together.
@@ -569,6 +601,10 @@ Additional files to install:
 
 ### VFX
 
+```
+The focus of this section is to provide more satisfying visual effects for the game's gunplay.
+```
+
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
 - Install **IMPACT - The Michael Bay** (Main files).
@@ -591,6 +627,10 @@ Additional files to install:
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
 ### Environment
+
+```
+The focus of this section is to improve on the game's atmosphere, by increasing the appeal of the Strip as well as the game's weather and lighting.
+```
 
 [**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
@@ -648,6 +688,10 @@ High quality retexture for night sky and moon.
 Fixes the bright night sky horizons.
 
 ## LOD
+
+```
+The focus of this section is to provide more detailed LOD, increasing the detail and amount of meshes rendered in the distance.
+```
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
