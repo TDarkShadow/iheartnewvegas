@@ -1169,6 +1169,7 @@ With all our mods and resources installed, we can finally generate our LOD.
   - **LOD Additions and Improvements YUP ESP Replacer**
   - **FNV LOD Supplementation**
   - **TCM's LOD Overhaul**
+  - **Much Needed LOD**
 - Run **FNVLODGen** in MO2.
 - Right click on the list of worldspaces, and click **Select None**. Check **FreesideFortWorld "Old Mormon Fort"**.
 - Click **Generate**. The process will take some time.
