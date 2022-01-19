@@ -934,7 +934,6 @@ Simple Explosive Entry.esp
 Thrown Weapon Tweaks.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate - Push's Tweaks - Bottle Rinse Repeat Patch.esp
 JSawyer Ultimate - Push's Tweaks - Miscellaneous Tweaks Patch.esp
 JSawyer Ultimate Tweaks.esp
 Mojave Arsenal.esp
