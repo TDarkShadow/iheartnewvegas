@@ -1675,74 +1675,65 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 15th</summary>
 
-- ⚠️ (Overhauls, Balance) Separated **JSawyer Ultimate Edition** and **Mojave Arsenal** patches into their respective installation instructions. An entirely new patch was added for **Bottle Rinse Repeat**, the **Sigourn's Tweaks** plugin was renamed to just **Tweaks** (since it also includes tweaks from Qolore), and I modified existing patches to remove unnecessary edits or edits that should have been present in the other plugins.
+- ⚠️ (Overhauls) Separated **JSawyer Ultimate Edition** and **Mojave Arsenal** patches into their respective installation instructions. An entirely new patch was added for **Bottle Rinse Repeat**, the **Sigourn's Tweaks** plugin was renamed to just **Tweaks** (since it also includes tweaks from Qolore), and I modified existing patches to remove unnecessary edits or edits that should have been present in the other plugins.
 </details>
 
 <details>
 	<summary>January 12th</summary>
 
-- ⚠️ (Overhauls, Balance) Drastically simplified **JSawyer Ultimate Edition** installation instructions when it comes to patches. Additionally, because **Female White Glove Society Mask Fix** is now a scripted and pluginless fix, no ESP hiding instructions are needed anymore.
+- ⚠️ (Overhauls) Drastically simplified **JSawyer Ultimate Edition** installation instructions when it comes to patches. Additionally, because **Female White Glove Society Mask Fix** is now a scripted and pluginless fix, no ESP hiding instructions are needed anymore.
 </details>
 
 <details>
 	<summary>January 8th</summary>
 
-- 🆕 (Gameplay, Tweaks) **Hunting Revolver Iron Sights**.
-- 🆕 (Gameplay, Features and Mechanics) **Bottle Rinse Repeat**.
-- 🆕 (Gameplay, Features and Mechanics) **Enhanced Vision**.
-- 🆕 (Gameplay, Features and Mechanics) **JAM Animation Replacers**.
-- 🆕 (Gameplay, Features and Mechanics) **NPCs Use Aid Items**.
-- 🆕 (Overhauls, Balance) **JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch**.
-- 🆕 (Overhauls, Balance) **No Stealing After Repair**.
-- 🆕 (Content) **The Strip NPCs Uncut - Content Restoration**.
-- 🆕 (Visuals, Environment) **Clean Lucky 38**.
-- 🆕 (Visuals, Equipment) **Helmet Overlay**.
-- 🆕 (Visuals, Equipment) **Improved Duster Coats - YUP Edition**.
-- 🆕 (Visuals, Creatures and NPCs) **Securitrons On Alert**.
-- 🆕 (Visuals, VFX) **Gore Overhaul**.
+- 🆕 (Gameplay) **Hunting Revolver Iron Sights**
+- 🆕 (Gameplay) **Bottle Rinse Repeat**
+- 🆕 (Gameplay) **Enhanced Vision**
+- 🆕 (Gameplay) **JAM Animation Replacers**
+- 🆕 (Gameplay) **NPCs Use Aid Items**
+- 🆕 (Overhauls) **JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch**
+- 🆕 (Overhauls) **No Stealing After Repair**
+- 🆕 (Content) **The Strip NPCs Uncut - Content Restoration**
+- 🆕 (Visuals) **Clean Lucky 38**
+- 🆕 (Visuals) **Helmet Overlay**
+- 🆕 (Visuals) **Improved Duster Coats - YUP Edition**
+- 🆕 (Visuals) **Securitrons On Alert**
+- 🆕 (Visuals) **Gore Overhaul**
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed N keybinding (reserved for **Enhanced Vision** instead).
 - ⚠️ (Load order) Intentionally moved **dD - Enhanced Blood Main NV.esp** before **IMPACT.esp**, since the latter has superior bullet injury decals.
 - ⚠️ (MCM config) Updated with **Enhanced Vision**.
 - ⚠️ (Mod keybindings) Updated with **Enhanced Vision**.
-- 🚫 (Gameplay, Features and Mechanics) **Immersive Fast Travel Requirements**. The problem with New Vegas' world is its uninspired design and lack of random encounters. Enforcing requirements to fast travel to begin with, seems to me, like a poor idea after playing with this mod for a long time.
+- 🚫 (Gameplay) **Immersive Fast Travel Requirements**
 </details>
 
 <details>
 	<summary>January 7th</summary>
 
-- 🚫 (Overhauls, Balance) **Unfound Loot**. Who knew that removing loot from already barebones interiors would make them even more barebones and less interesting to visit... Honestly, JSawyer Ultimate already has an INI for reducing loot. People are free to play with it, which is a much better alternative (in my opinion) that stripping interiors of the content that makes them stand out.
+- 🚫 (Overhauls) **Unfound Loot**
 </details>
 	
 <details>
 	<summary>January 6th</summary>
 
-- ⚠️ (Gameplay, Tweaks) **Ammo Script Fixes**. Moved to this section, as the pure bug fixes are already included in UPNVSE+.
-- ⚠️ (Gameplay, Tweaks) **Critical and Effects - Fixes and Tweaks**. Moved to this section, as it includes far too many gameplay tweaks to be considered "just" a bug fix.
-- ⚠️ (Gameplay, Tweaks) **Ending Slideshows Ultimate Edition Overhaul**. Moved to this section, as it is not a QOL improvement. Don't really know what would the "proper" category be for it, but since it affects when do you see the gameplay consequences of your actions...
-- ⚠️ (Gameplay, Tweaks) **Snowglobe Tweaks**. Moved to this section, as it is not a QOL improvement, and affects how snow globe rewards work.
-- ⚠️ (Gameplay, Tweaks) **Universal Pyromaniac Buff for Fire Effects**. Moved to this section, as it is not a bug fix.
-- ⚠️ (Gameplay, Features and Mechanics) **Just Assorted Mods Custom INI**. Updated to enable Bullet Time. Configured for the V hotkey.
-- ⚠️ (Visuals, Animations) **NV Compatibility Skeleton**. Changed FOMOD instructions to use the vanilla weights option.
-- ⚠️ (Settings Config) New section.
+- ⚠️ (Gameplay) **Just Assorted Mods Custom INI**. Updated to enable Bullet Time. Configured for the V hotkey.
+- ⚠️ (Visuals) **NV Compatibility Skeleton**. Changed FOMOD instructions to use the vanilla weights option.
 - ⚠️ (MCM Config) Added instructions to configure the settings on a new save.
 - ⚠️ (INI Config) Added instructions to enable bLocalizedDTDR.
-- 🚫 (Gameplay, Features and Mechanics) **Precise VATS**. Turned out to be very infuriating in the late game. Plus VATS will be replaced in the next major update.
+- 🚫 (Gameplay) **Precise VATS**
 </details>
 
 <details>
 	<summary>January 5th follow up</summary>
 
-- ⚠️ (Gameplay QOL) **FOV Slider**. Moved to this section.
-- ⚠️ (Visuals, Creatures and NPCs) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
-- ⚠️ (Visuals, Creatures and NPCs) **Tweaked Standing Idle**. Moved to this section.
-- 🚫 (Visuals, Creatures and NPCs) **Securitrons in CRT**. To be replaced in the next major update.
+- ⚠️ (Visuals) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
 </details>
 
 <details>
 	<summary>January 5th</summary>
 
 - ⚠️ (Patches) **Dirty Pre-War Businesswear Fix**. Updated link, no longer requires BAIN instructions.
-- ⚠️ (Gameplay Features and Mechanics) **Alternative Repairing Tweaks**. Updated link, now has instructions to merge the two DLC esps.
+- ⚠️ (Gameplay) **Alternative Repairing Tweaks**. Updated link, now has instructions to merge the two DLC esps.
 - ⚠️ (Overhauls) **Miscellaneous Tweaks Collection Tweaked**. Updated link, now features an additional Mojave Express dropbox outside Camp McCarran.
 - 🆕 (Overhauls) **JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**.
 - 🆕 (Overhauls) **JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**.
@@ -1750,38 +1741,30 @@ Shift+Movement | Sprint | Just Assorted Mods
 </details>
 
 <details>
-	<summary>January 4th</summary>
-
-Last cull before the next big update.
-
-- ⚠️ **Y-17 Trauma Override Harness GLOVES** (Visuals, Creatures and NPCs). Moved to this section.
-</details>
-
-<details>
 	<summary>January 3rd</summary>
 
 - Added **Merge** instructions for a number of mods, in cases where you need to download multiple files from the same page. This will unclutter your mod order while changing no functionality whatsoever.
-- 🆕 **Faction Warning and Reputation Tweaks** (Gameplay, Tweaks).
-- ⚠️ **lStewieAl's Tweaks Custom INI**. Updated. Luck affects gambling once again, broken items can't be equipped anymore, and broken armor is automatically unequipped as a balance measure to prevent benefitting from the effects of broken equipment.
-- ⚠️ **Alternative Repairing** (Gameplay, Features and Mechanics). ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
-- ⚠️ **Meltdown NVSE Upgrade** (Overhauls, Balance). ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
-- ⚠️ **Improved Traits** and **FNV Opposite Traits** (Overhauls, Traits). Replaced the original mods and ESP replacers with a single download that contains both fixed mods, the Improved Traits patch for Opposite Traits, and the JSawyer Ultimate patch.
-- ⚠️ **Better Character Creation** (Overhauls, Perks and Traits). Moved into this section as it includes the changes removed to Improved Traits Improved.
-- ⚠️ **Uncut Wasteland** (Content). Added **Uncut Wasteland Pole Remover**.
-- ⚠️ **Bighorner Model Variants** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a single plugin (instead of two).
-- ⚠️ **Brahmin Variant Redux** (Visuals, Creatures and NPCs). Replaced the original mod and ESP replacer with a single download that consists of a stripped down, more compatible version of the original mod.
-- ⚠️ **Healthier Yao Guai** (Visuals, Creatures and NPCs). Replaced the original mod with a download that consists of a pluginless mod.
-- 🚫 **Delayed Malcolm** (Gameplay QOL). Addresses a non-issue: a better mod would simply get rid of this stupid quest altogether.
-- 🚫 **Honest Hearts Workbench Crate Luck** (Gameplay, Tweaks). Addresses a non-issue: most players rightfully wouldn't know about workbench crates spawning skill books if it wasn't pointed out to them. 
-- 🚫 **Simple Reputation and Disguises** (Gameplay, Features and Mechanics). Replaced with **Faction Warning and Reputation Tweaks**.
-- 🚫 **Meat's Back On The Menu Boys** (Gameplay, Features and Mechanics). Addresses a non-issue: even if being able to purchase meat is nice, the mess hall is located in such an inconvenient location that players are much more likely to get their food someplace else.
-- 🚫 **Tesla Cannon Chaining** (Gameplay, Features and Mechanics). Addresses a non-issue.
-- 🚫 **Armor Damage Overhaul** (Overhauls, Balance). While I see the logic behind the mod, I can't say it works well enough during gameplay.
-- 🚫 **Lucky 38 Intro Poster** (Visuals, Environment). Addresses a non-issue.
-- 🚫 **Lonesome Road Carbon Shadow Fix** (Visuals, Environment). Addresses a non-issue.
-- 🚫 **Companion Radiation Suit** (Visuals, Creatures and NPCs). Heavily irradiated areas are few and far between in the game, and having multiple companions at once could turn this mod into an annoyance as you can't instantly tell who is who.
-- 🚫 **Classic Level Up Sounds** (Audio). It's not that I didn't like the mod, but it is the kind of nostalgia pandering I'm not interested in anymore.
-- 🚫 **Classic XP Sound** (Audio). Same as above.
+- 🆕 (Gameplay) **Faction Warning and Reputation Tweaks**
+- ⚠️ (Patches) **lStewieAl's Tweaks Custom INI**. Updated. Luck affects gambling once again, broken items can't be equipped anymore, and broken armor is automatically unequipped as a balance measure to prevent benefitting from the effects of broken equipment.
+- ⚠️ (Gameplay) **Alternative Repairing**. ESP replacer and custom INI merged into a single **Alternative Repairing Tweaks** file.
+- ⚠️ (Overhauls) **Meltdown NVSE Upgrade**. ESP replacer and custom INI merged into a single **Meltdown NVSE Upgrade Tweaked** file.
+- ⚠️ (Overhauls) **Improved Traits** and **FNV Opposite Traits**. Replaced the original mods and ESP replacers with a single download that contains both fixed mods, the Improved Traits patch for Opposite Traits, and the JSawyer Ultimate patch.
+- ⚠️ (Overhauls) **Better Character Creation**. Moved into this section as it includes the changes removed to Improved Traits Improved.
+- ⚠️ (Content) **Uncut Wasteland**. Added **Uncut Wasteland Pole Remover**.
+- ⚠️ (Visuals) **Bighorner Model Variants**. Replaced the original mod and ESP replacer with a single download that consists of a single plugin (instead of two).
+- ⚠️ (Visuals) **Brahmin Variant Redux**. Replaced the original mod and ESP replacer with a single download that consists of a stripped down, more compatible version of the original mod.
+- ⚠️ (Visuals) **Healthier Yao Guai**. Replaced the original mod with a download that consists of a pluginless mod.
+- 🚫 (Gameplay) **Delayed Malcolm**
+- 🚫 (Gameplay) **Honest Hearts Workbench Crate Luck**
+- 🚫 (Gameplay) **Simple Reputation and Disguises**
+- 🚫 (Gameplay) **Meat's Back On The Menu Boys**
+- 🚫 (Gameplay) **Tesla Cannon Chaining**
+- 🚫 (Overhauls) **Armor Damage Overhaul**
+- 🚫 (Visuals) **Lucky 38 Intro Poster**
+- 🚫 (Visuals) **Lonesome Road Carbon Shadow Fix**
+- 🚫 (Visuals) **Companion Radiation Suit**
+- 🚫 (Audio) **Classic Level Up Sounds**
+- 🚫 (Audio) **Classic XP Sound**
 </details>
 
 <details>
@@ -1789,13 +1772,11 @@ Last cull before the next big update.
 <details>
 	<summary>December 30th</summary>
 
-- Added mention to **Melee Cleave (a.k.a. Sweep) but as a Perk**.
-- Moved **Gun Runners Kiosk Glass Fix** to Visuals, Environment.
-- 🆕 **No More Muzzle Flash Lights** (Mesh fixes and optimization). Replaces **No Muzzle Flash Light**.
-- 🆕 **Motion Sickness Destroyer** (Gameplay QOL).
-- 🆕 **B42 Inspect** (Gameplay, Features and mechanics).
-- 🆕 **B42 Melee Bash** (Gameplay, Features and mechanics).
-- 🆕 **No Pip-Boy Glove** (Visuals, Equipment).
+- 🆕 (Patches) **No More Muzzle Flash Lights**
+- 🆕 (Gameplay) **Motion Sickness Destroyer**
+- 🆕 (Gameplay) **B42 Inspect**
+- 🆕 (Gameplay) **B42 Melee Bash**
+- 🆕 (Visuals) **No Pip-Boy Glove**
 </details>
 
 <details>
@@ -1817,14 +1798,14 @@ Last cull before the next big update.
 Merry Christmas!
 	
 - Many visual mods have been moved to **LOD Resources** since they require LOD generation to work as intended.
-- 🆕 (Overhauls, Balance) Added **JSawyer Ultimate Edition - Vanilla-ish Companion Suite**.
-- 🆕 (Visuals, Environment) Added **Lightweight Strip Overhaul**. Includes a patch for **Uncut Wasteland**.
-- 🆕 (Visuals, Environment) Added **Palm Tree Replacer**.
-- 🆕 (Visuals, Environment) Added **The Strip Planters Fixed**.
-- 🆕 (Visuals, Weather and Lighting) Re-added **More Subtle New Vegas Light Pollution**. Upon consulting real life pictures and having a better understanding on what light pollution actually is, I've come to the conclusion that this is much better than vanilla.
-- 🆕 (Visuals, Weather and Lighting) Added **Strip Lighting Overhaul LSO Patch**.
-- 🆕 (LOD Resources) Added **Better Strip View More Subtle New Vegas Light Pollution Patch**.
-- 🆕 (LOD Resources) Added **Mormon Fort Region Fix**.
+- 🆕 (Overhauls) **JSawyer Ultimate Edition - Vanilla-ish Companion Suite**
+- 🆕 (Visuals) **Lightweight Strip Overhaul**. Includes a patch for **Uncut Wasteland**.
+- 🆕 (Visuals) **Palm Tree Replacer**
+- 🆕 (Visuals **The Strip Planters Fixed**
+- 🆕 (Visuals) **More Subtle New Vegas Light Pollution**
+- 🆕 (Visuals) **Strip Lighting Overhaul LSO Patch**
+- 🆕 (LOD Resources) **Better Strip View More Subtle New Vegas Light Pollution Patch**
+- 🆕 (LOD Resources) **Mormon Fort Region Fix**
 - ⚠️ (Mod keybindings) Added new ammo switch hotkey.
 - ⚠️ (Patches, NVSE) Updated **lStewieAl's Tweaks Custom INI**. Items you buy no longer have a minimum value of 1 cap. This led to unreasonable scenarios, such as an ammo case having the same value as a complete bullet of the same type.
 - ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks ESP Replacer**. Feral Ghoul Reavers have had their HP and melee damage tweaks reverted to vanilla. Qolore is only human, after all.
@@ -1835,12 +1816,11 @@ Merry Christmas!
 <details>
 	<summary>December 21st Hot Update</summary>
 
-- ⚠️ (Overhauls, Balance) Updated **JSUE Tweaks** to remove redundant records already included in **Miscellaneous Tweaks Collection**. Also renamed the mod to **JSawyer Ultimate Edition - Qolore's Tweaks**.
-- ⚠️ (Overhauls, Balance) Updated **JSawyer Ultimate Edition Fixes**. Removed redundant records from the YUP patch, and made an AIO plugin to reduce plugin count. 
-- ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks Collection** for compatibility with **Mojave Arsenal** and **Mojave Raiders**. Functionally the mod remains the same when following the recommended load order.
-- ⚠️ (Overhauls, Balance) Replaced **Mojave Raiders Tweaks** with **Thrown Weapon Tweaks**.
+- ⚠️ (Overhauls) Updated **JSUE Tweaks** to remove redundant records already included in **Miscellaneous Tweaks Collection**. Also renamed the mod to **JSawyer Ultimate Edition - Qolore's Tweaks**.
+- ⚠️ (Overhauls) Updated **JSawyer Ultimate Edition Fixes**. Removed redundant records from the YUP patch, and made an AIO plugin to reduce plugin count. 
+- ⚠️ (Overhauls) Updated **Miscellaneous Tweaks Collection** for compatibility with **Mojave Arsenal** and **Mojave Raiders**. Functionally the mod remains the same when following the recommended load order.
+- ⚠️ (Overhauls) Replaced **Mojave Raiders Tweaks** with **Thrown Weapon Tweaks**.
 - ⚠️ (INI Config) Increased max amount of dialogue topics in **Vanilla UI Plus**.
-- 🚫 (Visuals, Weather and Lighting) Removed **More Subtle New Vegas Light Pollution**.
 </details>
 
 <details>
@@ -1848,31 +1828,28 @@ Merry Christmas!
 
 - Moved Mod Organizer 2 instructions to the **Setup** document.
 - Moved xNVSE plugins to the **Main** document, after instructions on how to install Mod Organizer 2 have been given in **Setup**.
-- Merged optional mods with the rest. These are what set this guide apart from **Viva New Vegas**, meaning there was no point in keeping them hidden.
 - Separated categories into sub-categories, mirroring my Morrowind guide.
 - Removed most **FNVEdit** instructions in favor of ESP replacers. Mods that are regularly updated still include FNVEdit instructions.
-- ⚠️ (Visuals, Weather and lighting) Modified **FNV Realistic Wasteland Lighting** installation instructions.
-- 🆕 (User interface, Menus) Added **Vanilla Loading Screens HD**.
-- 🆕 (Overhauls, Balance) Added **New Vegas Economy Improved**.
-- 🆕 (Visuals, VFX) Added **Burning Campfire REDONE**.
-- 🆕 (Visuals, VFX) Added **IMPACT**.
-- 🆕 (Visuals, VFX) Added **EXE - Effect teXtures Enhanced**.
-- 🆕 (Visuals, VFX) Added **Enhanced Blood Textures**.
-- 🆕 (Audio) Added **Immersive Pickup Sounds**.
+- ⚠️ (Visuals) Modified **FNV Realistic Wasteland Lighting** installation instructions.
+- 🆕 (Overhauls **New Vegas Economy Improved**
+- 🆕 (Visuals) **IMPACT**
+- 🆕 (Visuals) **EXE - Effect teXtures Enhanced**
+- 🆕 (Visuals) **Enhanced Blood Textures**
+- 🆕 (Audio) **Immersive Pickup Sounds**
 </details>
 
 <details>
 	<summary>December 19th</summary>
 
-- 🆕 (Visuals, Optional) Added **Alsatian NCR Guard Dogs**.
-- 🆕 (Visuals, Optional) Added **Bighorner Model Variants**. This mod includes **FNVEdit instructions**.
-- 🆕 (Visuals, Optional) Added **Brahmin Variant Redux**. This mod includes **FNVEdit instructions**.
+- 🆕 (Visuals) **Alsatian NCR Guard Dogs**.
+- 🆕 (Visuals) **Bighorner Model Variants**.
+- 🆕 (Visuals) **Brahmin Variant Redux**.
 </details>
 
 <details>
 	<summary>December 17th</summary>
 
-- 🆕 (Visuals) Added **FaceGen Tint Fixes for Character Expansions Revised**.
+- 🆕 (Visuals) **FaceGen Tint Fixes for Character Expansions Revised**.
 - ⚠️ (INI Config) Tweaked Pip-Boy HUD color. Added HUD color tweak.
 - ⚠️ (FNVEdit instructions) Expanded instructions for **Simple Reputation and Disguises**; added instructions for **Follower Formula Redone**, **Misc Gameplay Merge**, **Companion Radiation Suit**, and **Ending Slideshows Ultimate Edition Overhaul**. Removed FNVEdit instructions for **Dirty Pre-War Businesswear Fix**. All these have been made with the latest **Yukichigai Unofficial Patch** update in mind.
 </details>
@@ -1881,12 +1858,12 @@ Merry Christmas!
 	<summary>December 15th</summary>
 
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed Q for drop item hotkey in Pip-Boy (right-clicking does the same job), disabled weapon range affecting V.A.T.S. (as **Precise VATS** already does something similar), increased XP for discovering locations, and incorporated **Action Camera**'s GMST tweaks.
-- 🆕 (Patches, Optional) Added **Crippled Limb Reaction Enforcer**.
-- 🆕 (Gameplay, Optional) Added **Mine and Explosion Tweaks**.
-- 🆕 (Visuals, Optional) Added **Empty Clicks Custom INI**.
-- 🆕 (Visuals, Optional) Added **Windows of the Mojave**.
-- 🆕 (Visuals, Optional) Added **Window Redux**.
-- 🚫 (Visuals, Optional) Removed **Action Camera**. Now included in **lStewieAl's Tweaks Custom INI**.
+- 🆕 (Patches) Added **Crippled Limb Reaction Enforcer**.
+- 🆕 (Gameplay) **Mine and Explosion Tweaks**.
+- 🆕 (Visuals) **Empty Clicks Custom INI**.
+- 🆕 (Visuals) **Windows of the Mojave**.
+- 🆕 (Visuals) **Window Redux**.
+- 🚫 (Visuals) **Action Camera**. Now included in **lStewieAl's Tweaks Custom INI**.
 </details>
 
 <details>
@@ -1896,13 +1873,13 @@ Merry Christmas!
 - ⚠️ (User interface) Added additional files for **Consistent Pip-Boy Icons**.
 - ⚠️ (Gameplay) Updated **Just Assorted Mods Custom INI**. Improved compatibility with **Diagonal movement**.
 - ⚠️ (Visuals) Updated **FNV Realistic Wasteland Lighting - All DLC Tweaks**. It now includes fog tweaks in addition to light tweaks.
-- 🆕 (User interface) Added **Clean Companion Wheel**.
-- 🆕 (Gameplay) Added **Simple Reputation and Disguises**. This mod includes **FNVEdit instructions**.
-- 🆕 (Visuals) Added **Simple Interior Lighting Overhaul**.
-- 🆕 (Visuals) Added **Subtle Light Beams and Rays**.
-- 🆕 (Visuals, Optional) Added **Companions Combat-Ready**.
-- 🆕 (Visuals, Optional) Added **Companion Radiation Suit**.
-- 🆕 (Visuals, Optional) Added **Empty Weapons**.
+- 🆕 (User interface) **Clean Companion Wheel**.
+- 🆕 (Gameplay) **Simple Reputation and Disguises**.
+- 🆕 (Visuals) **Simple Interior Lighting Overhaul**.
+- 🆕 (Visuals) **Subtle Light Beams and Rays**.
+- 🆕 (Visuals) **Companions Combat-Ready**.
+- 🆕 (Visuals) **Companion Radiation Suit**.
+- 🆕 (Visuals) **Empty Weapons**.
 </details>
 
 <details>
@@ -1911,47 +1888,39 @@ Merry Christmas!
 - All **I♥NV**-only mods linked from github.
 - Expanded **Mod Keybindings** section.
 - Expanded description of **lStewieAl's Tweaks Custom INI**.
-- 🆕 (Patches) Added [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
-- 🆕 (Gameplay) Added [**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)
-- 🆕 (Overhauls) Added [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
-- 🆕 (Visuals) Added [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
-- 🆕 (Audio) Added [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
+- 🆕 (Patches) [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
+- 🆕 (Gameplay) [**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)
+- 🆕 (Overhauls) [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
+- 🆕 (Visuals) [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
+- 🆕 (Audio) [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). 
 - ⚠️ (falloutcustom.ini) Updated fDlgFocus setting in **falloutcustom.ini**.
-- 🚫 (Patches) Removed [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
+- 🚫 (Patches) [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
 </details>
 
 <details>
 	<summary>December 11th</summary>
 
-- Renamed "In-game Mod Config" and "Mod Config" to "MCM Config" and "INI Config", respectively.
-- 🆕 [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/) (Patches, Optional)
-- 🆕 [**Delayed Malcolm**](https://www.nexusmods.com/newvegas/mods/74598) (Gameplay QOL, Optional)
-- 🆕 [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595) (Gameplay QOL, Optional). This mod includes optional INI instructions.
-- 🆕 [**VNV JSawyer Ultimate Edition Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z) (Overhauls)
-- 🆕 [**Armor Damage Overhaul**](https://www.nexusmods.com/newvegas/mods/73267) (Overhauls, Optional)
-- 🆕 [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing) (Visuals)
-- 🆕 [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333) (Visuals, Optional)
-- 🆕 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940) (Visuals, Optional)
-- 🆕 [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) (Visuals, Optional). This mod includes FNVEdit instructions.
-- 🆕 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628) (Visuals, Optional)
-- 🆕 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870) (Audio, Optional)
-- 🆕 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946) (Audio, Optional)
-- 🆕 [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807) (Audio, Optional)
-- 🆕 [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514) (Audio, Optional)
-- ⚠️ Updated **Unfound Loot Custom INI** to increase the influence of Luck in loot removal, and to make loot removal less dramatic at high Luck. Now loot reduction will range from 90% to 25% (1 Luck and 10 Luck, respectively, as opposed to 90% to 80%).
-- ⚠️ Updated **Alternative Repairing Custom INI** to lower threshold at which apparel is considered clothing. Now JSUE-edited outfits like Leather Armor and Armored Vault Jumpsuits will be repaired with Light Armor Parts.
-- ⚠️ Updated **FOV Slider Custom INI** to lower weapon FOV.
-- 🚫 **WMIM Mesh Fix**. Already included in **WMIM ESP Replacer**.
+- 🆕 (Patches) [**No Muzzle Flash Lights**](https://c6-dev.github.io/mods/no_muzzle_flash_lights/)
+- 🆕 (Gameplay QOL) [**Ending Slideshows Ultimate Edition Overhaul**](https://www.nexusmods.com/newvegas/mods/74595). This mod includes optional INI instructions.
+- 🆕 (Visuals) [**Pip-Boy 2000 Mk VI Working Buttons**](https://drive.google.com/file/d/1aOW7BEOM2HfIs2IbtdsApQ05MGpMLn9F/view?usp=sharing)
+- 🆕 (Visuals) [**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)
+- 🆕 (Visuals) [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)
+- 🆕 (Visuals) [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)
+- 🆕 (Audio) [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)
+- 🆕 (Audio) [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)
+- 🆕 (Audio) [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)
+- 🆕 (Audio) [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)
+- ⚠️ (Gameplay QOL) Updated **FOV Slider Custom INI** to lower weapon FOV.
+- 🚫 (Patches) **WMIM Mesh Fix**. Already included in **WMIM ESP Replacer**.
 </details>
 
 <details>
 	<summary>December 10th</summary>
 
-- 🆕 [**Alternative Repairing**](https://www.nexusmods.com/newvegas/mods/52510). This mod includes in-game **Mod Config** instructions.
-- 🆕 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod includes in-game **Mod Config** instructions.
-- Added additional **Mod Config** tweaks for **falloutcustom.ini**.
-- Added link to **Just Weapon Hweel** under **Just Assorted Mods**, which explains how the Weapon Wheel feature works.
+- 🆕 (Gameplay QOL) [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874). This mod includes in-game **Mod Config** instructions.
+- ⚠️ (Gameplay) **Just Assorted Mods**: added link to **Just Weapon Hweel**, which explains how the Weapon Wheel feature works.
+- ⚠️ (INI config) Added additional tweaks for **falloutcustom.ini**.
 </details>
 
 <details>
