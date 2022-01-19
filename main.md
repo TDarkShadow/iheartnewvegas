@@ -723,50 +723,11 @@ Files to install:
 
 ## LOD
 
-⭐ **Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
-Vastly improves the LOD noise texture used on distant land.
-
-Files to install:
-- **Improved LOD noise Texture** (Main files)
-
-⭐ [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
-Adds extra meshes for LOD generation.
-
-Files to install:
-- **FNVLODGen Resources** (Main files)
-
-⭐ [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
-Adds extra meshes for LOD generation.
-
-Additional files to install:
-- [**LOD Additions and Improvements YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%20YUP%20Patch.7z)
-
-⭐ [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
-Adds extra meshes for LOD generation.
-
-⭐ [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
-Adds extra meshes for LOD generation.
-
-⭐ [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
-Adds more tree and plant variants, implements 3D LODs, and improves grass.
-
-Files to install:
-- **Wasteland Flora and Terrain Overhaul** (Main files).
-- **Wasteland Flora Overhaul - Vanilla tree replacer with LOD** (Main files)
-  - Hide **WFO - Vanilla.esp**.
-
-Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
-  Removes all new trees and their variants, making it a pure mesh and texture replacer.
-
 ⭐ [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
 
 Files to install:
 - **Better Strip View** (Main files)
-
-⭐ [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
-Adds extra meshes for LOD generation.
 
 ⭐ [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
@@ -774,6 +735,15 @@ Restores the cut outflow jets to Hoover Dam and makes them visible up and down t
 Files to install:
 - **Hoover Dam Jets Restored and Distant** (Main files)
 - **HDJRaD - Much Needed LOD Patch** (Optional files)
+
+⭐ [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the exaggerated glow of New Vegas.
+
+Files to install:
+- **Slightly Brighter** (Main files)
+
+Additional files to install:
+- [**Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20-%20Better%20Strip%20View%20Patch.7z)  
 
 ⭐ [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
@@ -799,17 +769,47 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
 Additional files to install:
 - [**Mormon Fort Region Fix Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Lucky%2038%20Lights%20Redone%20-%20Mormon%20Fort%20Region%20Fix%20Patch.7z)
 
-⭐ [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the exaggerated glow of New Vegas.
+⭐ [**FNV RWL All DLC - Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20and%20Region%20Patch.7z)  
+All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
+
+⭐ [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
+Adds more tree and plant variants, implements 3D LODs, and improves grass.
 
 Files to install:
-- **Slightly Brighter** (Main files)
+- **Wasteland Flora and Terrain Overhaul** (Main files).
+- **Wasteland Flora Overhaul - Vanilla tree replacer with LOD** (Main files)
+  - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
-- [**Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20-%20Better%20Strip%20View%20Patch.7z)  
+- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
+  Removes all new trees and their variants, making it a pure mesh and texture replacer.
 
-⭐ [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
-All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
+⭐ **Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
+Vastly improves the LOD noise texture used on distant land.
+
+Files to install:
+- **Improved LOD noise Texture** (Main files)
+
+⭐ [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
+Adds extra meshes for LOD generation.
+
+Files to install:
+- **FNVLODGen Resources** (Main files)
+
+⭐ [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
+Adds extra meshes for LOD generation.
+
+Additional files to install:
+- [**LOD Additions and Improvements YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%20YUP%20Patch.7z)
+
+⭐ [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
+Adds extra meshes for LOD generation.
+
+⭐ [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
+Adds extra meshes for LOD generation.
+
+⭐ [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
+Adds extra meshes for LOD generation.
 
 ## Finishing touches
 
