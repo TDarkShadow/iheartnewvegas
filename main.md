@@ -152,6 +152,10 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 ⭐ [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
+Additional files to install:
+- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
+  Removes unnecessary, non-bugfix edits. Made by **Qolore**.
+
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
@@ -222,9 +226,8 @@ Files to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
 
-Additional files to install:
-- [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
-  Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
+[**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
+Replaces the farting vault boy with an upscaled HD version of the vanilla missing item icon.
 
 ## GAMEPLAY QOL
 
@@ -240,6 +243,10 @@ Files to install:
 ⭐ [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
+Additional files to install:
+- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
+  Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
+
 ⭐ [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
@@ -252,6 +259,10 @@ Files to install:
 ⭐ [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
+Additional files to install:
+- [**Quick Grenade Hotkey Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Quick%20Grenade%20Hotkey%20Tweaks.7z)  
+  Adjusts the positioning of the grenade/mine icon to not overlap with other UI elements, and removes the unnecessary "no grenade/mine" icon.
+
 ⭐ [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
@@ -260,6 +271,9 @@ Removes the scope from the Hunting Revolver and makes it a separate weapon mod.
 
 Files to install:
 - **Hunting Revolver Iron Sights** (Main files)
+
+Additional files to install:
+- [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
 Turns all Sunset Sarsaparilla star bottle caps face up, allowing you to spot them more easily.
@@ -277,8 +291,10 @@ Replaces the faction armor warning pop-ups with corner messages, and lowers repu
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. The featured version drops the restored Primm Reputation and omits the tweaks to reputation scripts.
 
-⭐ [**Follower Formula Redone YUP**](https://www.nexusmods.com/newvegas/mods/71490)  
+⭐ [**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 ⭐ [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -290,22 +306,32 @@ Fixes the on-fire jamming for automatic weapons and adds an option for how often
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 Additional files to install:
+- [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z)  
+  Disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
 - [**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
   Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
-⭐ [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
+⭐ [**Less Map Markers YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Less%20Map%20Markers%201.0%20YUP.7z)  
 Removes many map markers to make exploration more interesting.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73472) to original mod by **Nehred**. The featured version includes YUP fixes.
 
 ⭐ [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
-⭐ [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
+⭐ [**Misc Gameplay Merge YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%201.7%20YUP.7z)  
 Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/73921) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 ⭐ [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
+
+Additional files to install:
+- [**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
+  Nerfs Feral Ghoul Reavers, removes most new map markers for consistency with Less Map Markers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
 
 ⭐ [**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
 After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
@@ -348,13 +374,24 @@ Files to install:
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 Additional files to install:
+- [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
+  BAIN options to install:
+  - [X] 00 JSUE Tweaks
+  - [X] 01 JSUE Push's Tweaks + Miscellanous Tweaks
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
 
 ⭐ [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 Additional files to install:
+- [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
+  Disables most GRA features, and enables low condition loot.
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)
+- [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
+  BAIN options to install:
+  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 02 JSUE Push's Tweaks
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
@@ -414,6 +451,10 @@ Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
 - **Uncut Wasteland Pole Remover** (Optional files)
 
+Additional files to install:
+- [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
+  Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
+
 ⭐ [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
@@ -425,6 +466,12 @@ Additional files to install:
 
 ⭐ [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
 Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans. Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
+
+Additional files to install:
+- [**Khans Friendly to Fiends Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Khans%20Friendly%20to%20Fiends%20Patches.7z)
+  - BAIN options to install:
+    - [X] 00 Mojave Raiders
+    - [X] 01 Character Expansions Revised
 
 ⭐ [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -439,10 +486,21 @@ Files to install:
 - **Canvas Backpacks - Remade** (Main files)
 - **Strapless Update** (Optional files)  
 
+Additional files to install:
+- [**Canvas Backpacks - Remade Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20Tweaks.7z)  
+  Edits the icons and rebalances the stats of backpacks.
+  - BAIN options to install:
+    - [00] JSUE  
+
 ## AUDIO
 
 ⭐ [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
 Replaces every gun sound in the game, from ballistic to energy weapons.
+
+Additional files to install:
+- [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z)  
+  Scripted version that vastly improves compatibility with other mods.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z)  
 
 ⭐ [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
@@ -497,8 +555,13 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 ⭐ [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
-⭐ [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
-Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
+Additional files to install:
+- [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
+  Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
+- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
+  - BAIN options to install:
+    - [X] 00 YUP
+    - [X] 01 DLC Enhancements
 
 [**Chill Companions**](https://eddoursul.win/mods/chill-companions/)  
 When companions are in a familiar and safe environment, they automatically go into sandbox mode. Instead of following you, they wander around, eat, sleep, and sit.
@@ -515,6 +578,9 @@ Adds 360 degrees movement with procedural leaning and auto vanity mode, like mod
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
 Enables headtracking for the player character, rotating their head in the direction of the closest actor.
 
+[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
+Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
+
 ⭐ [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
 - FOMOD options to install:
@@ -527,6 +593,10 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 - Hide **Character Expansions Revised - Extras.esp**.
 
 Additional files to install:
+- [**Character Expansions Revised - Additional Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20Additional%20Patches.7z)  
+  - BAIN options to install:
+    - [X] 00 Complete
+      All in one merge of Extras.esp, YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders patches.
 - [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
   Fixes colored tints on character faces.
   - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
@@ -562,6 +632,8 @@ Files to install:
 - **Working date and clock for replacer** (Optional files)
 
 Additional files to install:
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
+  Makes the Pip-Boy's buttons functional. Mod by **AleksMarch**.
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
   Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
@@ -594,8 +666,10 @@ Additional files to install:
 
 ### Environment
 
-⭐ [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
+⭐ [**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
 
 ⭐ [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
@@ -607,6 +681,10 @@ Files to install:
 ⭐ [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
+Additional files to install:
+- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
+  Addresses terrain conflicts with Lightweight Strip Overhaul.
+
 ⭐ [**Wasteland Flora and Terrain Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%203.6b%20Grass.7z)  
 Improves grass textures.
 
@@ -615,17 +693,15 @@ Improves grass textures.
 ⭐ [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
-⭐ [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
+⭐ [**FNV Realistic Wasteland Lighting**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20All%20DLC%205.542%20YUP.7z)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
-
-Files to install:
-- **FNV Realistic Wasteland Lighting - All DLC** (Main files)
-- **FNV RWL All DLC - Patch Collection** (Optional files)
 
 Additional files to install:
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z)  
   SweetFX preset by **Camo**.
   - Extract the contents of the archive in your **Root** folder.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/52037) to original mod by **Sal203** and **Camo**. The featured version includes YUP fixes.
 
 ⭐ [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -663,14 +739,21 @@ Adds extra meshes for LOD generation.
 Files to install:
 - **FNVLODGen Resources** (Main files)
 
-⭐ [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
+⭐ [**LOD Additions and Improvements**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%201.07%20YUP.7z)  
 Adds extra meshes for LOD generation.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/61206) to original mod by **tomzik**. The featured version includes YUP fixes.
 
 ⭐ [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
 
 ⭐ [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
+
+Additional files to install:
+- [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z)  
+  Cleans the ESP of dirty records.
+- [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
 
 ⭐ [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
@@ -702,6 +785,9 @@ Reduces the exaggerated glow of New Vegas.
 
 Files to install:
 - **Slightly Brighter** (Main files)
+
+⭐ [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
+All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
 
 ## Finishing touches
 
@@ -1200,3 +1286,4 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
+
