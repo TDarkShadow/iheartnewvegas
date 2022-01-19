@@ -724,15 +724,6 @@ Files to install:
 - **Hoover Dam Jets Restored and Distant** (Main files)
 - **HDJRaD - Much Needed LOD Patch** (Optional files)
 
-⭐ [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the exaggerated glow of New Vegas.
-
-Files to install:
-- **Slightly Brighter** (Main files)
-
-Additional files to install:
-- [**Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20-%20Better%20Strip%20View%20Patch.7z)  
-
 ⭐ [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
@@ -1006,8 +997,6 @@ Strip Lights Region Fix - Hoover Dam Jets Restored and Distant
 Mormon Fort Region Fix
 Lucky 38 Lights Redone
 Lucky 38 Lights Redone - Mormon Fort Region Fix Patch
-More Subtle New Vegas Light Pollution - Slightly Brighter
-More Subtle New Vegas Light Pollution - Better Strip View Patch
 FNV RWL All DLC - Worldspace and Region Patch
 Wasteland Flora and Terrain Overhaul
 Wasteland Flora and Terrain Overhaul ESP Replacer
@@ -1143,8 +1132,6 @@ Strip Lighting Overhaul LSO Patch.esp
 Windows of the Mojave v1.2.1.esp
 Better Strip View.esp
 Distant Water Jets.esp
-vegasglow.esp
-vegasglow Better Strip View Patch.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
 Strip Lights Region Fix - Distant Water Jets.esp
