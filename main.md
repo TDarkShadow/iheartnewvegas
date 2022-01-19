@@ -613,8 +613,6 @@ Improves grass textures.
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
-### Weather and lighting
-
 [**FNV Realistic Wasteland Lighting**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20All%20DLC%205.542%20YUP.7z)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 
@@ -639,10 +637,10 @@ High quality retexture for night sky and moon.
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-## LOD RESOURCES
+## LOD
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
-Vastly improves the LOD noise texture used on all distant land.
+Vastly improves the LOD noise texture used on distant land.
 - Install **Improved LOD noise Texture** (Main files).
 
 [**FNVLODGen Resources**](https://www.nexusmods.com/newvegas/mods/58562)  
@@ -658,11 +656,11 @@ Adds extra meshes for LOD generation.
 Adds extra meshes for LOD generation.
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds the Strip signs and moves the Strip buildings to where they should be.
+Adds visible Strip signs and moves the Strip buildings to where they should be.
 
 Additional files to install:
 - [**Better Strip View ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%201.6%20ESP%20Replacer.7z)  
-  Cleans the ESP.
+  Cleans the ESP of dirty records.
 - [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
   Addresses conflicts with pollution light placement.
 
@@ -681,7 +679,7 @@ Additional files to install:
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)  
   Includes Hoover Dam Jets Restored and Distant region edits.
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
-  Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Original mod by **Nehred**.
+  Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
