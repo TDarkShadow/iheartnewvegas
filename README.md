@@ -25,7 +25,7 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 - Improving the RPG aspects, by modifying how a number of mechanics work in order to make player choice more significant, and expanding or adding new mechanics altogether.
 - Improving the first-person shooter aspects, with more detailed animations and more satisfying combat.
 - Making the game more difficult, yet at the same time more rewarding.
-- Improving visuals in a subtle way that feels like the game could have released like that from the start, avoiding very high resolution textures or very detailed meshes. In particular, enhancing the aspect and atmosphere of the New Vegas Strip.
+- Improving visuals in a subtle way that feels like the game could have released like that from the start, avoiding very high resolution textures or very detailed meshes. In particular, enhancing the aspect and atmosphere of the New Vegas Strip, as well as the game's weather, lighting, and LOD.
 
 This guide is split in two sections:
 
