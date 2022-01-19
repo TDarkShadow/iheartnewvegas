@@ -181,18 +181,18 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
 
-⭐ [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
+⭐ [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
+Makes the crafting interface easier, more efficient and less tedious to use. 
+
+[**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - FOMOD options to install:
   - All **Modules** and **Tweaks** options.
   - Skip the **DarnUI Specific** options.
 
-⭐ [**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
+[**Clean Companion Wheel**](https://www.nexusmods.com/newvegas/mods/70486)  
 Cleans up textures surrounding the Companion Wheel.
 - Install **Clean Companion Wheel 256x256 Edition** (Main files).
-
-⭐ [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
-Makes the crafting interface easier, more efficient and less tedious to use. 
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
@@ -204,7 +204,7 @@ Additional files to install:
 
 ### Icons
 
-⭐ [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
+[**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
 - Install **1. Consistent Pip-boy Icons** (Main files).
 
@@ -807,9 +807,9 @@ UIO - User Interface Organizer
 The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
 Vanilla UI Plus (New Vegas)
+JIP Improved Recipe Menu
 Clean Vanilla HUD
 Clean Companion Wheel
-JIP Improved Recipe Menu
 Satellite World Map
 Satellite Maps DLC
 Consistent Pip-Boy Icons
