@@ -408,17 +408,6 @@ Makes repairing more difficult by making each repair require a consumable Repair
 Additional files to install:
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
-[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
-Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
-The Here and Now perk now includes the original effects from Living Anatomy. 
-
-[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
-Balanced cannibalism overhaul with immersive gore effects.
-
-Additional files to install:
-- [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
-  Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
-
 ⭐ [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
 - BAIN options to install:
   - [X] 00 Improved Traits and Opposite Traits
@@ -430,6 +419,17 @@ Additional files to install:
 
 ⭐ [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
+[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
+Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
+The Here and Now perk now includes the original effects from Living Anatomy. 
+
+[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
+Balanced cannibalism overhaul with immersive gore effects.
+
+Additional files to install:
+- [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
+  Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
 
 ## CONTENT
 
@@ -537,6 +537,15 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 ⭐ [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
+Additional files to install:
+- [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
+  Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
+- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
+  Compatibility patches for YUP and DLC Enhancements.
+  - BAIN options to install:
+    - [X] 00 YUP
+    - [X] 01 DLC Enhancements
+
 [**Chill Companions**](https://eddoursul.win/mods/chill-companions/)  
 When companions are in a familiar and safe environment, they automatically go into sandbox mode. Instead of following you, they wander around, eat, sleep, and sit.
 
@@ -555,17 +564,8 @@ Enables headtracking for the player character, rotating their head in the direct
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
-Additional files to install:
-- [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
-  Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
-- [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
-  Compatibility patches for YUP and DLC Enhancements.
-  - BAIN options to install:
-    - [X] 00 YUP
-    - [X] 01 DLC Enhancements
-
 ⭐ [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
-A skeleton with compatibility for the latest mods.
+A compatible skeleton for many animation mods.
 - FOMOD options to install:
   - [X] Vanilla Weights
 
@@ -860,11 +860,11 @@ Famine - A Loot Rarity Mod
 New Vegas Economy Improved
 Player Combat Priority
 Repair Tools
+Improved Traits and Opposite Traits
+Better Character Creation
 Anatomic Perks
 Cannibal Reborn
 Cannibal Reborn Expanded
-Improved Traits and Opposite Traits
-Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
 Uncut Wasteland
 Uncut Wasteland Tweaks
@@ -889,12 +889,13 @@ FNV Clean Animations
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
-Diagonal Movement
-360 Movement
-Player Headtracking
 Ragdolls
 Ragdolls Custom INI
 Ragdolls Patches
+Chill Companions
+Diagonal Movement
+360 Movement
+Player Headtracking
 NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
@@ -1018,14 +1019,14 @@ NV Economy Improved.esp
 Player Combat Priority.esp
 Repair Tools.esp
 Repair Tools - JSU (Push's Tweaks) Patch.esp
-MigAnatomy.esp
-Cannibal Reborn.esp
-Cannibal Reborn Expanded.esp
 FNVOppositeTraits.esp
 Improved Traits.esp
 Improved FNVOppositeTraits.esp
 Improved Traits and FNVOppositeTraits JSUE Patch.esp
 Better Character Creation.esp
+MigAnatomy.esp
+Cannibal Reborn.esp
+Cannibal Reborn Expanded.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
@@ -1044,13 +1045,13 @@ rockbiter_AnimationSounds.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
+Ragdolls - YUP Patch.esp
+Ragdolls - DLC Enhancements Patch.esp
 Chill Companions.esp
 Diagonal movement.esp
 360Movement.esp
 360Movement - Diagonal movement Patch.esp
 Player Headtracking.esp
-Ragdolls - YUP Patch.esp
-Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
 MCPipBoy2000MK6_clock.esp
 dD - Enhanced Blood Main NV.esp
