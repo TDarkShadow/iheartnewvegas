@@ -439,6 +439,33 @@ Additional files to install:
   - BAIN options to install:
     - [00] JSUE  
 
+## AUDIO
+
+[**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
+Replaces every gun sound in the game, from ballistic to energy weapons.
+
+Additional files to install:
+- [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z)  
+  Scripted version that vastly improves compatibility with other mods.
+- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z)  
+  Patches weapon sounds for compatibility with Weapon Mesh Improvement Mod.
+
+[**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
+Replaces every explosion sound in the game.
+
+Additional files to install:
+- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)  
+  Scripted version that vastly improves compatibility with other mods.
+
+[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
+As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
+
+[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
+Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
+- Install **Female Nuka-Cola Drinking Sound replacer** (Main files).
+
+> ⚠️ You should only use this mod when playing a female character, since it replaces the vanilla male drinking sound.
+
 ## VISUALS
 
 ### Animations
@@ -506,36 +533,6 @@ Fixes colored tints on character faces. Meant to be used alongside **Character E
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
 
-### Environment
-
-[**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
-Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
-
-[**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
-Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
-
-Files to install:
-- **Lightweight Strip Overhaul - No Walls** (Main files)
-- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
-
-Additional files to install:
-- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
-  Addresses terrain conflicts with Lightweight Strip Overhaul.
-
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> ℹ️ This restores interior light rays.
-
-[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
-Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
-
 ### Equipment
 
 [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
@@ -589,6 +586,39 @@ Additional files to install:
 - [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
+### Environment
+
+[**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
+Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
+
+[**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
+Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
+
+Files to install:
+- **Lightweight Strip Overhaul - No Walls** (Main files)
+- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
+
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
+
+Additional files to install:
+- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
+  Addresses terrain conflicts with Lightweight Strip Overhaul.
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> ℹ️ This restores interior light rays.
+
+[**Wasteland Flora and Terrain Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%203.6b%20Grass.7z)  
+Improves grass textures.
+
+[**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
+Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
+
 ### Weather and lighting
 
 [**FNV Realistic Wasteland Lighting**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20All%20DLC%205.542%20YUP.7z)  
@@ -614,35 +644,6 @@ High quality retexture for night sky and moon.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
-
-## AUDIO
-
-### SFX
-
-[**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
-Replaces every gun sound in the game, from ballistic to energy weapons.
-
-Additional files to install:
-- [**All Weapon Sounds Overhaul ESP Replacer**](https://github.com/VivaNewVegas/Living-in-New-Vegas/blob/master/All%20Weapon%20Sounds%20Overhaul%20ESP%20Replacer.7z)  
-  Scripted version that vastly improves compatibility with other mods.
-- [**All Weapon Sounds Overhaul WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/All%20Weapon%20Sounds%20Overhaul%20WMIM%20Patch.7z)  
-  Patches weapon sounds for compatibility with Weapon Mesh Improvement Mod.
-
-[**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
-Replaces every explosion sound in the game.
-
-Additional files to install:
-- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)  
-  Scripted version that vastly improves compatibility with other mods.
-
-[**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
-As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
-
-[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
-Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
-- Install **Female Nuka-Cola Drinking Sound replacer** (Main files).
-
-> ⚠️ You should only use this mod when playing a female character, since it replaces the vanilla male drinking sound.
 
 ## LOD RESOURCES
 
@@ -702,9 +703,6 @@ Reduces the exaggerated glow of New Vegas.
 
 [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
 All in one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
-
-[**Wasteland Flora and Terrain Overhaul Grass**](https://www.nexusmods.com/newvegas/mods/39856)  
-Improves grass textures.
 
 ## Finishing touches
 
@@ -814,6 +812,13 @@ JSawyer Ultimate - Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Canvas Backpacks - Remade
 Canvas Backpacks - Remade Tweaks
+All Weapon Sounds Overhaul
+All Weapon Sounds Overhaul ESP Replacer
+All Weapon Sounds Overhaul WMIM Patch
+All Explosion Sounds Overhaul
+All Explosion Sounds Overhaul SCRIPT Version
+Immersive Primary Needs
+Female Nuka-Cola Drinking Sound Replacer
 Anniversary Anim Pack
 Anniversary Anim Pack - General Bugfix
 FNV Clean Animations
@@ -827,13 +832,6 @@ NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
 FaceGen Tint Fixes for Character Expansions Revised
-A Little More Lamplight YUP
-LSO - A Lightweight Strip Overhaul
-Lightweight Strip Overhaul - Uncut Wasteland Patch
-Strip Lighting Overhaul
-Strip Lighting Overhaul LSO Patch
-Subtle Light Beams and Rays
-Windows of the Mojave
 Helmet Overlay
 Worn-Out Scope Crosshair Replacers
 No Pip-Boy Glove
@@ -847,16 +845,17 @@ EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
+A Little More Lamplight YUP
+LSO - A Lightweight Strip Overhaul
+Lightweight Strip Overhaul - Uncut Wasteland Patch
+Strip Lighting Overhaul
+Strip Lighting Overhaul LSO Patch
+Subtle Light Beams and Rays
+Wasteland Flora and Terrain Overhaul
+Windows of the Mojave
 FNV Realistic Wasteland Lighting - All DLC YUP
 Mojave Nights
 Night Sky Tweaks
-All Weapon Sounds Overhaul
-All Weapon Sounds Overhaul ESP Replacer
-All Weapon Sounds Overhaul WMIM Patch
-All Explosion Sounds Overhaul
-All Explosion Sounds Overhaul SCRIPT Version
-Immersive Primary Needs
-Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
@@ -871,7 +870,6 @@ Mormon Fort Region Fix
 Lucky 38 Lights Redone
 More Subtle New Vegas Light Pollution (Slightly Brighter)
 FNV RWL All DLC - Worldspace Patch
-Wasteland Flora and Terrain Overhaul
 ```
 </details>
 
@@ -961,6 +959,10 @@ JSawyer Ultimate - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
 QwibNewBackpacks.esp
 QwibNewBackpacks Tweaks JSUE.esp
+All Weapon Sounds Overhaul .esp
+All Weapon Sounds Overhaul WMIM Patch.esp
+Explosive Sounds Overhaul.esp
+Immersive Primary Needs.esp
 rockbiter_AnimationSounds.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
@@ -968,17 +970,13 @@ B42Inertia.esp
 Ragdolls - YUP Patch.esp
 Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
+MCPipBoy2000MK6_clock.esp
+dD - Enhanced Blood Main NV.esp
+IMPACT.esp
 Little More Lamplight.esp
 Strip Lighting Overhaul.esp
 Strip Lighting Overhaul LSO Patch.esp
 Windows of the Mojave v1.2.1.esp
-MCPipBoy2000MK6_clock.esp
-dD - Enhanced Blood Main NV.esp
-IMPACT.esp
-All Weapon Sounds Overhaul .esp
-All Weapon Sounds Overhaul WMIM Patch.esp
-Explosive Sounds Overhaul.esp
-Immersive Primary Needs.esp
 vegasglow.esp
 Better Strip View.esp
 Better Strip View vegasglow Patch.esp
