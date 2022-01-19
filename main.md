@@ -367,11 +367,11 @@ Additional files to install:
   Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 - [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
   BAIN options to install:
-  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)  
     Addresses conflicts with four leveled lists and incorporates GRA mods into the standard Hunting Revolver.
-  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)  
     Addresses conflicts with a leveled list and two recipes.
-  - [X] 02 JSUE Push's Tweaks
+  - [X] 02 JSUE Push's Tweaks  
     Addresses a conflict with the Powder Charge recipe.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
