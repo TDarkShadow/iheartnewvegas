@@ -255,7 +255,7 @@ Replaces the faction armor warning pop-ups with corner messages, and lowers repu
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
 
 Additional files to install:
-- **Follower Formula Redone ESP Replacer**  
+- [**Follower Formula Redone YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%20YUP%20Patch.7z)  
   Incorporates YUP fixes.
 
 ⭐ [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
@@ -276,10 +276,6 @@ Additional files to install:
 ⭐ [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
 Removes many map markers to make exploration more interesting.
 
-Additional files to install:
-- **Less Map Markers ESP Replacer**  
-  Incorporates YUP fixes.
-
 ⭐ [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -287,7 +283,7 @@ Makes melee attacks hit multiple enemies.
 Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
 
 Additional files to install:
-- **Misc Gameplay Merge ESM Replacer**  
+- [**Misc Gameplay Merge YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%20YUP%20Patch.7z)  
   Incorporates YUP fixes.
 
 ⭐ [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
@@ -321,7 +317,9 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 
 [**Standarized NCR Supply Caches**](https://www.nexusmods.com/newvegas/mods/74145)  
 Swaps out the current, barely-useful supply cache loot table with a static one, whose contents are scaled with the player level.
-- Only install **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files).
+
+Files to install:
+- **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files)
 
 [**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
 NPCs no longer consume thrown weapons, and Throwing Hatchet's damage is reduced.
@@ -338,10 +336,9 @@ Files to install:
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 Additional files to install:
-- [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
-  BAIN options to install:
-  - [X] 00 JSUE Tweaks
-  - [X] 01 JSUE Push's Tweaks + Miscellanous Tweaks
+- [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
+  Incorporates YUP, WMIM, and Throwable Weapon Fixes. Disables the out of place Wasteland Adventurer.
+- [**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
 
 ⭐ [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
