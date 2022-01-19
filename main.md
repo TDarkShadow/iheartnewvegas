@@ -1782,7 +1782,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>December 26th Hotfix</summary>
 
-- ⚠️ Fixed issues in **Mod order** and **Load order**. Many thanks to user **Belmor** for spotting these!
+- ⚠️ (Mod order, Load order) Added missing mods and removed outdated mods. Many thanks to user **Belmor** for spotting these!
   - Added **Lightweight Strip Overhaul.esm** and **Lightweight Strip Overhaul - Uncut Wasteland Patch.esp** to load order.
   - Added **Enhanced Blood Textures** to mod order.
   - Added **FNV RWL All DLC - Worldspace Patch.esp** to load order.
@@ -1796,8 +1796,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>December 25th</summary>
 
 Merry Christmas!
-	
-- Many visual mods have been moved to **LOD Resources** since they require LOD generation to work as intended.
+
 - 🆕 (Overhauls) **JSawyer Ultimate Edition - Vanilla-ish Companion Suite**
 - 🆕 (Visuals) **Lightweight Strip Overhaul**. Includes a patch for **Uncut Wasteland**.
 - 🆕 (Visuals) **Palm Tree Replacer**
@@ -1810,6 +1809,7 @@ Merry Christmas!
 - ⚠️ (Patches, NVSE) Updated **lStewieAl's Tweaks Custom INI**. Items you buy no longer have a minimum value of 1 cap. This led to unreasonable scenarios, such as an ammo case having the same value as a complete bullet of the same type.
 - ⚠️ (Overhauls, Balance) Updated **Miscellaneous Tweaks ESP Replacer**. Feral Ghoul Reavers have had their HP and melee damage tweaks reverted to vanilla. Qolore is only human, after all.
 - ⚠️ (LOD Resources) Updated **FNV RWL All DLC - Worldspace Patch** (formerly **Strip Lights AIO Patch**).
+- ⚠️ (LOD Resources) Moved many visual mods to this section since they require LOD generation to work as intended.
 - ⚠️ (Generating LOD) Expanded LOD generation instructions, bypassing a bug with the Lucky 38 vanishing from the Old Mormon Fort worldspace.
 </details>
 	
@@ -1828,8 +1828,6 @@ Merry Christmas!
 
 - Moved Mod Organizer 2 instructions to the **Setup** document.
 - Moved xNVSE plugins to the **Main** document, after instructions on how to install Mod Organizer 2 have been given in **Setup**.
-- Separated categories into sub-categories, mirroring my Morrowind guide.
-- Removed most **FNVEdit** instructions in favor of ESP replacers. Mods that are regularly updated still include FNVEdit instructions.
 - ⚠️ (Visuals) Modified **FNV Realistic Wasteland Lighting** installation instructions.
 - 🆕 (Overhauls **New Vegas Economy Improved**
 - 🆕 (Visuals) **IMPACT**
@@ -1851,7 +1849,6 @@ Merry Christmas!
 
 - 🆕 (Visuals) **FaceGen Tint Fixes for Character Expansions Revised**.
 - ⚠️ (INI Config) Tweaked Pip-Boy HUD color. Added HUD color tweak.
-- ⚠️ (FNVEdit instructions) Expanded instructions for **Simple Reputation and Disguises**; added instructions for **Follower Formula Redone**, **Misc Gameplay Merge**, **Companion Radiation Suit**, and **Ending Slideshows Ultimate Edition Overhaul**. Removed FNVEdit instructions for **Dirty Pre-War Businesswear Fix**. All these have been made with the latest **Yukichigai Unofficial Patch** update in mind.
 </details>
 
 <details>
@@ -1885,16 +1882,14 @@ Merry Christmas!
 <details>
 	<summary>December 13th</summary>
 
-- All **I♥NV**-only mods linked from github.
-- Expanded **Mod Keybindings** section.
-- Expanded description of **lStewieAl's Tweaks Custom INI**.
 - 🆕 (Patches) [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
 - 🆕 (Gameplay) [**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)
 - 🆕 (Overhauls) [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
 - 🆕 (Visuals) [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
 - 🆕 (Audio) [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
-- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). 
+- ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). Also expanded the description of what the custom INI does.
 - ⚠️ (falloutcustom.ini) Updated fDlgFocus setting in **falloutcustom.ini**.
+- ⚠️ (Keybindings) Completed with missing keybindings.
 - 🚫 (Patches) [**Dirty Pre-War Businesswear Texture Fix**](https://www.nexusmods.com/newvegas/mods/65774).
 </details>
 
@@ -1926,18 +1921,16 @@ Merry Christmas!
 <details>
 	<summary>December 8th</summary>
 
-- Added missing HQ Dust Storm FX - Dust Storm Meshes to **Mod order**.
-- Removed FNVEdit instructions from each separate mod in favor of a single section dedicated to fixing each plugin.
+- ⚠️ (Mod order) Added missing **HQ Dust Storm FX - Dust Storm Meshes**.
 </details>
 
 <details>
 	<summary>December 7th</summary>
 
 - Initial release.
-- Fixed Custom INI links.
-- Completed Keybindings section.
-- Added Mojave Arsenal configuration instructions.
-- Added SweetFX optional configuration instructions.
+- ⚠️ (Keybindings) Completed with missing keybindings.
+- ⚠️ (MCM Config) Added Mojave Arsenal configuration instructions.
+- ⚠️ (INI Config) Added SweetFX optional configuration instructions.
 </details>
 </details>
 
