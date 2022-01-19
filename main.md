@@ -660,12 +660,6 @@ Additional files to install:
 - [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
   Addresses terrain conflicts with Lightweight Strip Overhaul.
 
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> ℹ️ This restores interior light rays.
-
 ⭐ [**Wasteland Flora and Terrain Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%203.6b%20Grass.7z)  
 Improves grass textures.
 
@@ -695,6 +689,12 @@ High quality retexture for night sky and moon.
 
 ⭐ [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> ℹ️ This restores interior light rays.
 
 ## LOD
 
@@ -748,7 +748,7 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+⭐ [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the exaggerated glow of New Vegas.
 - Install **Slightly Brighter** (Main files).
 
@@ -918,12 +918,12 @@ LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
-Subtle Light Beams and Rays
 Wasteland Flora and Terrain Overhaul
 Windows of the Mojave
 FNV Realistic Wasteland Lighting - All DLC YUP
 Mojave Nights
 Night Sky Tweaks
+Subtle Light Beams and Rays
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
