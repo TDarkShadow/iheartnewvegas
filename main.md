@@ -781,7 +781,7 @@ Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
   Removes all new trees and their variants, making it a pure mesh and texture replacer.
 
-⭐ **Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
+⭐ [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
 
 Files to install:
