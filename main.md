@@ -541,7 +541,7 @@ Files to install:
 - **Character Expansions Revised - UW** (Optional files)
 
 Additional files to install:
-- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)
+- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)  
   Updated Mojave Raiders patch, and compatibility patches for both JSawyer Ultimate Edition and Uncut Wasteland Patches when used alongside the Mojave Raiders Patch.
 - [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
   Fixes colored tints on character faces.
