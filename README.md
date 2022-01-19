@@ -1,6 +1,6 @@
 # LEFT MY HEART IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: January 18th, 2021
+Last updated: January 19th, 2021
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
@@ -63,9 +63,9 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 ### How many plugins and mods are there?
 
-There are roughly 210 mods and 150 plugins total.
+There are roughly 200 mods and 150 plugins total.
 
-Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount of plugins required to solve issues.
+Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount of patches and plugins required to solve issues.
 
 ### How much space do I need to install these mods?
 
@@ -73,7 +73,7 @@ Roughly 6GB.
 
 ### How much time will it take me to install all mods?
 
-Depends on how thorough you are about it. It shouldn't take you longer than five hours to set everything up, including optional mods.
+Depends on how thorough you are about it. It shouldn't take you longer than four hours to set everything up, including the optional (i.e. non-starred) mods.
 
 ### How often is the guide updated?
 
