@@ -19,31 +19,31 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 
 > ℹ️ Modern alternative to [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832) which should be used in its place.
 
-[**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
+⭐ [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
-[**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
+⭐ [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
-[**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
+⭐ [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
 Adds new functions, engine bug fixes and tweaks.
 - Click the **ShowOffNVSE.7z** under **Assets** to download it.
 - Install manually in Mod Organizer 2.
  
-[**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
+⭐ [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
 
-[**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
+⭐ [**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
 Aims to fix UI bugs and add new UI features. 
 
 Files to install:
 - **yUI** (Main files)
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
 
-[**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
+⭐ [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
 
-[**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
+⭐ [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
 - Extract the contents of the archive. Renamed the **SKSE** folder to **NVSE**, and merge the folder with your **Fallout New Vegas\Data\NVSE** folder.
@@ -51,20 +51,20 @@ Enables borderless window mode for safe alt-tabbing.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
 
-[**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
+⭐ [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
 Additional files to install:
 - [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z)  
   Enables a number of settings to achieve the best balance between performance and stability. Made by **Qolore**.
 
-[**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
+⭐ [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
 
-[**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
+⭐ [**Improved lighting Shaders**](https://www.nexusmods.com/newvegas/mods/69833)  
 Almost completely fixes the exterior lighting bug, and allows up to four times the number of active lights.
 
-[**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
+⭐ [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
 ## PATCHES
