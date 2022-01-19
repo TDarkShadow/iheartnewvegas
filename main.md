@@ -785,7 +785,7 @@ Files to install:
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
 
 Additional files to install:
-- [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
+- [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix.7z)  
   Add-on that fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
 
 ⭐ [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
@@ -795,6 +795,9 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [X] Extras Everywhere
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
+
+Additional files to install:
+- [**Mormon Fort Region Fix Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Lucky%2038%20Lights%20Redone%20-%20Mormon%20Fort%20Region%20Fix%20Patch.7z)
 
 ⭐ [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the exaggerated glow of New Vegas.
