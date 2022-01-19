@@ -684,8 +684,6 @@ Additional files to install:
   SweetFX preset by **Camo**.
   - Extract the contents of the archive in your **Root** folder.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/52037) to original mod by **Sal203** and **Camo**. The featured version includes YUP fixes.
-
 ⭐ [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
 
