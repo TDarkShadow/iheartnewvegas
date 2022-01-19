@@ -1726,15 +1726,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 5th follow up</summary>
 
-- ⚠️ (Visuals) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
-</details>
-
-<details>
-	<summary>January 5th</summary>
-
 - ⚠️ (Patches) **Dirty Pre-War Businesswear Fix**. Updated link, no longer requires BAIN instructions.
 - ⚠️ (Gameplay) **Alternative Repairing Tweaks**. Updated link, now has instructions to merge the two DLC esps.
 - ⚠️ (Overhauls) **Miscellaneous Tweaks Collection Tweaked**. Updated link, now features an additional Mojave Express dropbox outside Camp McCarran.
+- ⚠️ (Visuals) **Character Expansions Revised**. Replaced the individual mod patches and AIO patch with a single Complete patch that is a merge of all of them. Also merges in the Extras plugin, thus reducing load order by 5 plugins.
 - 🆕 (Overhauls) **JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch**.
 - 🆕 (Overhauls) **JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch**.
 - Removed **FNVEdit Instructions**, as I've provided patches for the offending mods.
