@@ -262,37 +262,24 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 ## GAMEPLAY
 
-### Tweaks
+[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
+Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
 
 [**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
 Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. The featured version drops the restored Primm Reputation and omits the tweaks to reputation scripts.
 
+[**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
+Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
+
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
-
-[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
-After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
-
-[**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
-Fixes issues with Agility and Strength modifiers for reloading and throwing weapons; makes sneak critical hit damage scale with Sneak; allows grenade throwing range to be affected by Strength.
-
-[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
-
-### Features and mechanics
-
-[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
-Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
-
-[**Follower Formula Redone YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%201.4%20YUP.7z)  
-Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -325,6 +312,9 @@ Additional files to install:
 - [**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
   Nerfs Feral Ghoul Reavers, removes most new map markers for consistency with Less Map Markers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
 
+[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
+After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
+
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
@@ -338,12 +328,16 @@ Additional files to install:
 - [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
   Rewrites the entire UI portion and makes major changes to the script, including rebalancing and bugfixes.
 
+[**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
+Fixes issues with Agility and Strength modifiers for reloading and throwing weapons; makes sneak critical hit damage scale with Sneak; allows grenade throwing range to be affected by Strength.
+
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
-## OVERHAULS
+[**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
+NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
 
-### Balance
+## OVERHAULS
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fandom.com/wiki/JSawyer), made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
@@ -400,8 +394,6 @@ Makes repairing more difficult by making each repair require a consumable Repair
 Additional files to install:
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
   - **Merge** with the main file.
-
-### Perks and traits
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
@@ -501,18 +493,6 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds proper diagonal movement animations.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
-- FOMOD options to install:
-  - [X] Full 360 Sneak Options
-  - [X] Diagonal Movement Patch
-
-[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
-Enables headtracking for the player character, rotating their head in the direction of the closest actor.
-
 [**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
 Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
@@ -568,29 +548,15 @@ Adds overlays for various headwear items, From facemasks, to glasses, to helmets
 - FOMOD options to install:
   - [X] Medium (2K) Resolution
 
-> ℹ️ The mod has the unfortunate effect of displaying the helmet overlay during ending slideshows if your character is wearing a helmet. This is because of how the slideshows were designed. It is very much recommended you unequip your helmet whenever you are about to finish the game or DLCs (provided you haven't installed (Ending Slideshows Ultimate Edition Overhaul).
-
-[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
-Modifies the coats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes YUP fixes for the meshes.
-
-[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless Pip-Boy glove from player and NPCs.
-- Install **No Pip-Boy Glove - No ESP** (Main files).
-
-[**Power Armor Gloves YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Power%20Armor%20Gloves%201.1%20YUP.7z)  
-Adds armored gloves to all Power Armors in the game.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/58800) to original mod by **Lexx**. The featured version is cleaned and includes YUP fixes.
-
-[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
-Makes the visors of all the Ranger Helmets have a glowing effect.
-- Install **Simple Glowing Ranger Visors (No Neck Covers)** (Main files).
-
-> ℹ️ The **Neck Covers** alternate file makes Ranger Helmets look goofy when worn without Ranger Armor.
+> ℹ️ Because slideshows work by placing the slides in front of your character, you will see the helmet overlays unless you remove your helmet before slideshows play.
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 - Install **Worn-Out Scopes** (Main files).
+
+[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the completely useless Pip-Boy glove from player and NPCs.
+- Install **No Pip-Boy Glove - No ESP** (Main files).
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
 New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
@@ -840,12 +806,10 @@ Laser Weapon Iron Sights
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
+Enhanced Vision
 Faction Warning and Reputation Tweaks
 Follower Tweaks
 Jamming Fix and Optional Tweaks
-No Stealing After Repair
-Reload Reloaded
-Thrown Weapon Tweaks
 JAM - Just Assorted Mods
 JAM - Just Assorted Mods Custom INI
 JAM Animation Replacers
@@ -856,11 +820,14 @@ Melee Cleave (a.k.a. Sweep)
 Misc Gameplay Merge YUP
 Miscellaneous Tweaks Collection
 Miscellaneous Tweaks Collection Tweaks
+No Stealing After Repair
 NPCs Sprint In Combat
 NPCs Use Aid Items
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
+Reload Reloaded
 Simple Explosive Entry
+Thrown Weapon Tweaks
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition Tweaks and Patches
 Mojave Arsenal
@@ -889,9 +856,6 @@ FNV Clean Animations
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
-Diagonal Movement
-360 Movement
-Player Headtracking
 Ragdolls
 Ragdolls Custom INI
 Ragdolls Patches
@@ -903,15 +867,12 @@ LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Windows of the Mojave
 Helmet Overlay
-Improved Duster Coats - YUP Edition
-Simple Glowing Ranger Visors
+Worn-Out Scope Crosshair Replacers
+No Pip-Boy Glove
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI (Pluginless)
-No Pip-Boy Glove
-Power Armor Gloves YUP
-Worn-Out Scope Crosshair Replacers
 IMPACT
 IMPACT - Compatibility Edition
 EXE - Effect teXtures Enhanced
@@ -992,13 +953,11 @@ LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
+Enhanced Vision.esp
 Faction Warning and Reputation Tweaks.esp
+Follower Formula Redone.esp
 Follower Tweaks.esp
 JamFix.esp
-Reload Reloaded.esp
-Thrown Weapon Tweaks.esp
-Enhanced Vision.esp
-Follower Formula Redone.esp
 JustAssortedMods.esp
 Less Map Markers.esp
 MeleeCleave.esp
@@ -1007,7 +966,9 @@ Miscellaneous Tweaks... Tweaks.esp
 NPCsSprint.esp
 NPC Use Aid.esp
 RAD.esp
+Reload Reloaded.esp
 Simple Explosive Entry.esp
+Thrown Weapon Tweaks.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate - Push's Tweaks - Bottle Rinse Repeat Patch.esp
@@ -1043,16 +1004,11 @@ rockbiter_AnimationSounds.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
-Diagonal movement.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
-Player Headtracking.esp
 Ragdolls - YUP Patch.esp
 Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
 Windows of the Mojave v1.2.1.esp
 MCPipBoy2000MK6_clock.esp
-Power Armor Gloves.esp
 dD - Enhanced Blood Main NV.esp
 IMPACT.esp
 All Weapon Sounds Overhaul .esp
