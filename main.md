@@ -700,15 +700,6 @@ Files to install:
 ⭐ [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-
-Files to install:
-- **Subtle Light Beams and Rays** (Main files)
-  - Hide **Subtle Light Beams and Rays.esp**.
-
-> ℹ️ This restores interior light rays.
-
 ## LOD
 
 ⭐ [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
@@ -981,7 +972,6 @@ FNV RWL All DLC - YUP Patch
 FNV RWL All DLC - Zion Valley Ambient Music
 Mojave Nights
 Night Sky Tweaks
-Subtle Light Beams and Rays
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
