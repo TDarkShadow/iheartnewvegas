@@ -387,6 +387,13 @@ Additional files to install:
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
 The Here and Now perk now includes the original effects from Living Anatomy. 
 
+[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
+Balanced cannibalism overhaul with immersive gore effects.
+
+Additional files to install:
+- [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
+  Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
+
 [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
 - BAIN options to install:
   - [X] 00 Improved Traits and Opposite Traits
@@ -797,6 +804,8 @@ New Vegas Economy Improved
 Player Combat Priority
 Repair Tools
 Anatomic Perks
+Cannibal Reborn
+Cannibal Reborn Expanded
 Improved Traits and Opposite Traits
 Better Character Creation
 Consistent Pip-Boy Icons Mod Patches
@@ -941,6 +950,8 @@ Player Combat Priority.esp
 Repair Tools.esp
 Repair Tools - JSU (Push's Tweaks) Patch.esp
 MigAnatomy.esp
+Cannibal Reborn.esp
+Cannibal Reborn Expanded.esp
 FNVOppositeTraits.esp
 Improved Traits.esp
 Improved FNVOppositeTraits.esp
