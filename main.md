@@ -818,12 +818,12 @@ Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
 FOV Slider
 FOV Slider Custom INI
-Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 Laser Weapon Iron Sights
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
+Hunting Revolver Iron Sights
 Stars Turned Face Up
 B42 Melee Bash
 Enhanced Vision
