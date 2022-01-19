@@ -531,12 +531,34 @@ Fixes colored tints on character faces. Meant to be used alongside **Character E
 
 ### Environment
 
+[**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
+Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
+
 [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
 
 Files to install:
 - **Lightweight Strip Overhaul - No Walls** (Main files)
 - **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
+
+[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
+Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
+
+Additional files to install:
+- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
+  Addresses terrain conflicts with Lightweight Strip Overhaul.
+
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the exaggerated glow of New Vegas.
+- Install **Slightly Brighter** (Main files).
+
+[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
+Removes the fake interior light rays and tones the exterior light beams down dramatically. 
+- Hide **Subtle Light Beams and Rays.esp**.
+
+> ℹ️ This restores interior light rays.
 
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
@@ -596,30 +618,6 @@ Additional files to install:
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
 ### Weather and lighting
-
-[**A Little More Lamplight YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/A%20Little%20More%20Lamplight%201.2%20YUP.7z)  
-Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69226) to original mod by **zedas**. The featured version includes YUP fixes.
-
-[**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
-Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
-
-> ⚠️ This mod overwrites **The Strip Planters Fixed**. We will load that mod after this one in the **Mod order** section.
-
-Additional files to install:
-- [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
-  Addresses terrain conflicts with Lightweight Strip Overhaul.
-
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the exaggerated glow of New Vegas.
-- Install **Slightly Brighter** (Main files).
-
-[**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
-Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
-
-> ℹ️ This restores interior light rays.
 
 [**FNV Realistic Wasteland Lighting**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20All%20DLC%205.542%20YUP.7z)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
@@ -863,8 +861,12 @@ NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
 FaceGen Tint Fixes for Character Expansions Revised
+A Little More Lamplight YUP
 LSO - A Lightweight Strip Overhaul
 Lightweight Strip Overhaul - Uncut Wasteland Patch
+Strip Lighting Overhaul
+Strip Lighting Overhaul LSO Patch
+Subtle Light Beams and Rays
 Windows of the Mojave
 Helmet Overlay
 Worn-Out Scope Crosshair Replacers
@@ -879,10 +881,6 @@ EXE - Effect teXtures Enhanced
 Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
-A Little More Lamplight YUP
-Strip Lighting Overhaul
-Strip Lighting Overhaul LSO Patch
-Subtle Light Beams and Rays
 FNV Realistic Wasteland Lighting - All DLC YUP
 Mojave Nights
 Night Sky Tweaks
@@ -1007,6 +1005,9 @@ B42Inertia.esp
 Ragdolls - YUP Patch.esp
 Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
+Little More Lamplight.esp
+Strip Lighting Overhaul.esp
+Strip Lighting Overhaul LSO Patch.esp
 Windows of the Mojave v1.2.1.esp
 MCPipBoy2000MK6_clock.esp
 dD - Enhanced Blood Main NV.esp
@@ -1015,9 +1016,6 @@ All Weapon Sounds Overhaul .esp
 All Weapon Sounds Overhaul WMIM Patch.esp
 Explosive Sounds Overhaul.esp
 Immersive Primary Needs.esp
-Little More Lamplight.esp
-Strip Lighting Overhaul.esp
-Strip Lighting Overhaul LSO Patch.esp
 vegasglow.esp
 Better Strip View.esp
 Better Strip View vegasglow Patch.esp
