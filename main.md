@@ -152,10 +152,6 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 ⭐ [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-Additional files to install:
-- [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
-  Removes unnecessary, non-bugfix edits. Made by **Qolore**.
-
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
