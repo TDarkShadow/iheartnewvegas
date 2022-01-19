@@ -771,6 +771,10 @@ Adds extra meshes for LOD generation.
 ⭐ [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
+Files to install:
+- **Hoover Dam Jets Restored and Distant** (Main files)
+- **HDJRaD - Much Needed LOD Patch** (Optional files)
+
 ⭐ [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
