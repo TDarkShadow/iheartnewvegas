@@ -31,7 +31,9 @@ Additional, you will need a folder where to install our mod manager and keep you
 C:\Games\Fallout New Vegas Mods
 ```
 
-> Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+> ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallou New Vegas folder, or else you will run into issues when you try to launch the game through Mod Organizer 2, most importantly, your mods not being registered.
+
+Once you've finished installation of the game, go to the game's **Data** folder. If there is a plugin called **FalloutNV_lang.esp**, delete it.
 
 ## Generating fresh .INI files
 
@@ -50,7 +52,7 @@ Decompresses the Fallout New Vegas BSAs and repacks them without zlib compressio
 - Select your game's **Root** folder, and click **Decompress**.
 - **Exit** the program once the process is done.
 
-> This utility will add the following lines to your **Fallout.ini** file. If you ever encountering missing meshes in-game (in the form of red exclamation marks), make sure these lines are still present in your .ini.
+> ℹ️ This utility will add the following lines to your **Fallout.ini** file. If you ever encountering missing meshes in-game (in the form of red exclamation marks), make sure these lines are still present in your .ini.
 
 ```
 [Archive]
@@ -76,17 +78,17 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 
 ### Initial setup
 
-- Run **ModOrganizer.exe**.
-- Mod Organizer 2 will prompt you to **Create a new instance**. Choose **Create a portable instance**.
+- Run **ModOrganizer.exe**, found in **C:\Games\Fallout New Vegas Mods\MO2**.
+- The **Instance manager** window will appear. Click on the **Create a new instance** bottom to the upper left. Choose **Create a portable instance**.
 - You will be asked to select a game to manage. If **New Vegas** is available using the appropriate file path, select it. Otherwise, click **Browse...** and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 
-> If you get a pop-up called **INI file is read-only**, schoose **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
+> ℹ️ If you get a pop-up called **INI file is read-only**, schoose **Remember my choice** from the drop-down at the bottom, then click **Clear the read-only flag**.
 
-> If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
+> ℹ️ If you get a pop-up called **Register?**, choose **Yes**. This will allow Mod Organizer 2 to handle Nexus links.
 
-> If you get a pop-up called **Show tutorial?**, choose **No**.
+> ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
 ### Adjusting mod and load order
 
@@ -108,9 +110,7 @@ TribalPack.esm
 CaravanPack.esm
 ```
 
-> If there is a plugin called **FalloutNV_lang.esp**, delete it from the game's **Data** folder.
-
-> You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
+> ℹ️ You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting falloutcustom.ini
 
@@ -152,8 +152,8 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Use profile-specific Save Games.
   - [X] Automatic Archive Invalidation.
-- With the **Default** profile selected, click **Copy**. Type in **I Heart New Vegas** and click **OK**. Close the window.
-- Choose **I Heart New Vegas** from the **Profile** drop down menu.
+- With the **Default** profile selected, click **Copy**. Type in **Left My Heart In New Vegas** and click **OK**.
+- Click on the newly created profile, and click **Select**. Click **Close**.
 
 This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
@@ -161,8 +161,8 @@ This is the profile we will be modding. You can always revert to the **Default**
 
 [**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
 New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click the **nvse_6_2_4.7z** under **Assets** to download it.
-- Extract the contents of the archive to the game's **Root** folder. Allow it to overwrite if asked.
+- Click the **nvse_6_2_5.7z** under **Assets** to download it.
+- Extract the contents of the archive to the game's **Root** folder. Allow it to merge and overwrite if asked.
 
 # Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
 
@@ -170,8 +170,8 @@ Earlier we installed [**FNV 4GB Patcher**](https://www.nexusmods.com/newvegas/mo
 
 From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click **Fallout Launcher**, and tick **Hide in user interface**.
-- Click **NVSE**, and tick **Hide in user interface**.
+- Select **Fallout Launcher**, and tick **Hide in user interface**.
+- Select **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**, and then **OK**.
 
 # TOOLS
@@ -185,25 +185,6 @@ An advanced graphical module viewer/editor and conflict detector.
 - Manually download the **FNVEdit 4.0.4** main file.
 - Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit**.
 
-### Registering FNVEdit in Mod Organizer 2
-
-For **FNVEdit** to work in Mod Organizer 2, we need to register and configure it.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEdit.exe**.
-- In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
-- In the **Arguments** field, paste **-IKnowWhatImDoing**.
-- Click **Apply** and then **OK**.
-
-We should repeat the process to register **FNVEditQuickAutoClean**. The process is slightly different.
-
-- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEditQuickAutoClean.exe**.
-- In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
-- Click **Apply** and then **OK**.
-
 ## FNVLODGen
 
 **FNVLODGen** lets you generate LOD for our installed mods. LOD stands for level of detail. Fallout: New Vegas has very poor distant statics, and this tool will not only let us improve it, but also increase the amount of rendered statics, including those modified or added by mods.
@@ -213,9 +194,28 @@ Allows generation of LOD for worldspaces by scanning all mods in the load order 
 - Manually download the **FNVLODGen** main file.
 - Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
 
-### Registering FNVLODGen in Mod Organizer 2
+### Registering tools in Mod Organizer 2
 
-For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
+For our tools to work in Mod Organizer 2, we need to register and configure them.
+
+Follow these steps for **FNVEdit**:
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
+- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEdit.exe**.
+- In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
+- In the **Arguments** field, paste **-IKnowWhatImDoing**.
+- Click **Apply** and then **OK**.
+
+Follow these steps for **FNVEditQuickAutoClean**:
+
+- Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
+- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEditQuickAutoClean.exe**.
+- In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
+- Click **Apply** and then **OK**.
+
+Follow these steps for **FNVLODGen**:
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
@@ -223,7 +223,7 @@ For FNVLODGen to work in Mod Organizer 2, we need to register and configure it.
 - In the **Arguments** field, paste **-o:"C:\Games\Fallout New Vegas Mods\FNVLODGen Output\"**.
 - Click **Apply** and then **OK**.
 
-> This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
+> ℹ️ This argument will make the files generated through FNVLODGen appear in a folder called **FNVLODGen Output** on your **Fallout New Vegas Mods** folder.
 
 # GENERAL TIPS
 
@@ -249,9 +249,9 @@ What these options do is simple:
 - **Replace** will delete the installed mod, and install the new file. This option is generally recommended when installing a new version of the main file.
 - **Rename** will install the new file under a different name, as a separate mod. This option is generally recommended when installing multiple files that are unrelated to each other (as is the case of compilation pages that list many mini-mods).
 
-> By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
+> ℹ️ By default, this guide will always ask users to download the main file from a Nexus page. If different or more detailed instructions are required, they will be provided. 
 
-> When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
+> ℹ️ When necessary, the guide will ask you to merge, replace, or rename files in order to avoid issues.
 
 ### Manual download installation
 
@@ -266,17 +266,13 @@ The rest of the steps work exactly as during mod manager download installation.
 - Click **OK**.
 - The mod will appear in the left pane. To finish installation, check the box next to it.
 
-### BAIN installers
+### BAIN and FOMOD installers
 
 BAIN installers allow users to customize their install by spliting their mods into multiple options. BAIN installers generally provide a **Core** option which needs to be installed for the mod to work at all, but this option is not always provided, and neither is it always required.
 
-> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
-
-### FOMOD installers
-
 Like BAIN installers, FOMOD installers allow users to customize their install by spliting their mods into multiple options.
 
-> This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
+> ℹ️ This guide will list the necessary options to install. Unless listed, the missing options should be skipped.
 
 ### Hiding files
 
@@ -293,7 +289,7 @@ Separators allow you to neatly separate installed mods in Mod Organizer 2 for ea
 - Right click on the empty space on the left pane, below **Overwrite**, and click **Create Separator**.
 - Name your separator and click **OK**.
 
-I suggest creating a separator for each mod category we will be installing. Separators can be collapsed to keep your mod list clean and tidy.
+> ℹ️ It's strongly encouraged to create separators in order to distinguish mods from separate categories. Separators can be collapsed to keep your mod list clean and tidy.
 
 ### The Overwrite folder
 
