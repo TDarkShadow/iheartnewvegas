@@ -514,29 +514,14 @@ Adds a visual recoil mod that affects first person model only and doesn't move t
 ⭐ [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
 
+[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
+Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
+
 Additional files to install:
 - [**Ragdolls Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Patches.7z)  
   - BAIN options to install:
     - [X] 00 YUP
     - [X] 01 DLC Enhancements
-
-[**Chill Companions**](https://eddoursul.win/mods/chill-companions/)  
-When companions are in a familiar and safe environment, they automatically go into sandbox mode. Instead of following you, they wander around, eat, sleep, and sit.
-
-[**Diagonal Movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds proper diagonal movement animations.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movement with procedural leaning and auto vanity mode, like modern Bethesda games.
-- FOMOD options to install:
-  - [X] Full 360 Sneak Options
-  - [X] Diagonal Movement Patch
-
-[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741)  
-Enables headtracking for the player character, rotating their head in the direction of the closest actor.
-
-[**Ragdolls**](https://www.nexusmods.com/newvegas/mods/59147)  
-Improves ragdoll behaviour for all NPC/Creatures in the game and restores hit reactions. Very configurable.
 
 ⭐ [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
@@ -889,10 +874,6 @@ Viewmodel Recoil
 B42 Weapon Inertia
 Ragdolls
 Ragdolls Patches
-Chill Companions
-Diagonal Movement
-360 Movement
-Player Headtracking
 NV Compatibility Skeleton
 Character Expansions Revised
 Character Expansions Revised - Additional Patches
@@ -1046,11 +1027,6 @@ VM_Recoil.esp
 B42Inertia.esp
 Ragdolls - YUP Patch.esp
 Ragdolls - DLC Enhancements Patch.esp
-Chill Companions.esp
-Diagonal movement.esp
-360Movement.esp
-360Movement - Diagonal movement Patch.esp
-Player Headtracking.esp
 Character Expansions Revised - Complete.esp
 MCPipBoy2000MK6_clock.esp
 dD - Enhanced Blood Main NV.esp
