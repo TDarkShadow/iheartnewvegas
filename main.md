@@ -790,12 +790,17 @@ Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
+Gauss Rifle VATS Fix - JIP
+Ammo Script Fixes
+Critical and Effects - Fixes and Tweaks
+Mostly Unarmed Tweaks
+Throwable Weapon Fixes
+Universal Pyromaniac Buff for Fire Effects
 lStewieAl's Tweaks
 lStewieAl's Tweaks INI
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
-Throwable Weapon Fixes
 Female White Glove Society Mask
 Less Flickery City of New Vegas
 UIO - User Interface Organizer
@@ -819,6 +824,8 @@ Laser Weapon Iron Sights
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
+Stars Turned Face Up
+B42 Melee Bash
 Enhanced Vision
 Faction Warning and Reputation Tweaks
 Follower Tweaks
@@ -840,6 +847,7 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Reload Reloaded
 Simple Explosive Entry
+Standarized NCR Supply Caches - Scaler Moon Edition
 Thrown Weapon Tweaks
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition Tweaks and Patches
@@ -863,6 +871,8 @@ Uncut Wasteland Tweaks
 The Strip NPCs Uncut - Content Restoration
 Mojave Raiders
 JSawyer Ultimate - Mojave Raiders Patch
+Khans Friendly to Fiends
+Khans Friendly to Fiends Patches
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Canvas Backpacks - Remade
 Canvas Backpacks - Remade Tweaks
@@ -879,6 +889,9 @@ FNV Clean Animations
 Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
+Diagonal Movement
+360 Movement
+Player Headtracking
 Ragdolls
 Ragdolls Custom INI
 Ragdolls Patches
@@ -954,8 +967,13 @@ Helmet Overlay.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
-WMIMNV.esp
+AmmoScriptFixes.esp
+CriticalEffectFixes.esp
+MigGaussFix.esp
+MigKao.esp
 ThrowableFixes.esp
+PyromaniacEffectsBuff.esp
+WMIMNV.esp
 LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
@@ -982,6 +1000,7 @@ NPC Use Aid.esp
 RAD.esp
 Reload Reloaded.esp
 Simple Explosive Entry.esp
+Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
 Thrown Weapon Tweaks.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
@@ -1024,6 +1043,11 @@ rockbiter_AnimationSounds.esp
 ImmersiveRecoil.esp
 VM_Recoil.esp
 B42Inertia.esp
+Chill Companions.esp
+Diagonal movement.esp
+360Movement.esp
+360Movement - Diagonal movement Patch.esp
+Player Headtracking.esp
 Ragdolls - YUP Patch.esp
 Ragdolls - DLC Enhancements Patch.esp
 Character Expansions Revised - Complete.esp
@@ -1212,6 +1236,7 @@ Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 G | Equip/unequip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
+X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 H | Open weapon wheel | Just Assorted Mods
 V | Enable bullet time | Just Assorted Mods
