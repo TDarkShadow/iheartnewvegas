@@ -1724,7 +1724,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 </details>
 
 <details>
-	<summary>January 5th follow up</summary>
+	<summary>January 5th</summary>
 
 - ⚠️ (Patches) **Dirty Pre-War Businesswear Fix**. Updated link, no longer requires BAIN instructions.
 - ⚠️ (Gameplay) **Alternative Repairing Tweaks**. Updated link, now has instructions to merge the two DLC esps.
