@@ -658,7 +658,7 @@ Adds extra meshes for LOD generation.
 [**LOD Additions and Improvements**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%201.07%20YUP.7z)  
 Adds extra meshes for LOD generation.
 
-[**Link**](https://www.nexusmods.com/newvegas/mods/61206) to original mod by **tomzik**. The featured version includes YUP fixes.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/61206) to original mod by **tomzik**. The featured version includes YUP fixes.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
