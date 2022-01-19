@@ -386,10 +386,8 @@ The Here and Now perk now includes the original effects from Living Anatomy.
 
 [**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
 - BAIN options to install:
-  - [X] 00 Improved Traits and Opposite Traits  
-    Installs Improved Traits, overhauling vanilla traits and adding two new ones; Opposite Traits, expanding the idea of opposite traits to the game's other traits; patches Opposite Traits to reflect the tweaks to vanilla traits from Improved Traits.
-  - [X] 01 JSUE Patch  
-    Patches all three plugins for JSawyer Ultimate Edition.
+  - [X] 00 Improved Traits and Opposite Traits
+  - [X] 01 JSUE Patch
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**. The featured plugin fixes a handful of oversights and disables an overpowered trait. 
 
@@ -453,9 +451,9 @@ Additional files to install:
   Includes WMIM mesh fixes.
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
   Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
-  - Install **AnniAnimPack_BugFix 1.3** (Main files).
-  - Install **Bonus Patch** (Main files).
-    - **Merge** with the main file.
+  - Files to install:
+    - **AnniAnimPack_BugFix 1.3** (Main files)
+    - **Bonus Patch** (Main files)
 
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
@@ -489,7 +487,6 @@ Additional files to install:
 A skeleton with compatibility for the latest mods.
 - FOMOD options to install:
   - [X] Vanilla Weights
-    Allows corpses to be moved around like in vanillla.
 
 ### Creatures and NPCs
 
@@ -499,9 +496,9 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 
 Additional files to install:
 - [**Character Expansions Revised - Additional Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20Additional%20Patches.7z)  
+  All in one patch for YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders.
   - BAIN options to install:
-    - [X] 00 Complete  
-      All in one patch for YUP, JSawyer Ultimate Edition, Uncut Wasteland, and Mojave Raiders.
+    - [X] 00 Complete
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
 Fixes colored tints on character faces. Meant to be used alongside **Character Expansions Revised**. 
