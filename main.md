@@ -256,7 +256,6 @@ Limits the amount of followers the player can have depending on their Charisma s
 
 Additional files to install:
 - [**Follower Formula Redone YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%20YUP%20Patch.7z)  
-  Incorporates YUP fixes.
 
 ⭐ [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -284,7 +283,6 @@ Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging
 
 Additional files to install:
 - [**Misc Gameplay Merge YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Misc%20Gameplay%20Merge%20YUP%20Patch.7z)  
-  Incorporates YUP fixes.
 
 ⭐ [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
@@ -617,7 +615,6 @@ Enhances the shoddy work on the vanilla functional streetlamps and lights of Out
 
 Additional files to install:
 - **A Little More Lamplight YUP Patch**  
-  Incorporates YUP fixes.
 
 ⭐ [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
@@ -631,7 +628,6 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 
 Additional files to install:
 - [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
-  Addresses terrain conflicts with Lightweight Strip Overhaul.
 
 ⭐ [**Wasteland Flora and Terrain Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%203.6b%20Grass.7z)  
 Improves grass textures.
@@ -650,7 +646,6 @@ Files to install:
 
 Additional files to install:
 - **FNV Realistic Wasteland Lighting YUP Patch**  
-  Incorporates YUP fixes.
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z)  
   SweetFX preset by **Camo**.
   - Extract the contents of the archive in your **Root** folder.
@@ -697,8 +692,7 @@ Files to install:
 Adds extra meshes for LOD generation.
 
 Additional files to install:
-- **LOD Additions and Improvements ESP Replacer**  
-  Incorporates YUP fixes.
+- **LOD Additions and Improvements YUP Patch**  
 
 ⭐ [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
@@ -720,8 +714,8 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 
 Files to install:
 - **Strip Lights Region Fix** (Main files)
-- FOMOD options to install:
-  - [X] Uncut Wasteland
+  - FOMOD options to install:
+    - [X] Uncut Wasteland
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
 
 Additional files to install:
