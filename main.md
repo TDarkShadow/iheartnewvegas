@@ -124,18 +124,6 @@ Additional files to install:
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
-
-[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
-Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
-
-[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
-Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player; tweaks the effects of Unarmed special attacks; allows NPCs to use Unarmed special attacks.
-
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
 
@@ -278,6 +266,16 @@ Additional files to install:
 ⭐ [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
 
+⭐ [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
+Balanced cannibalism overhaul with immersive gore effects.
+
+Files to install:
+- **Cannibal Reborn** (Main files)
+
+Additional files to install:
+- [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
+  Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
+
 ⭐ [**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
 Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
 
@@ -415,20 +413,6 @@ Additional files to install:
 
 ⭐ [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
-
-[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
-Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
-The Here and Now perk now includes the original effects from Living Anatomy. 
-
-[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
-Balanced cannibalism overhaul with immersive gore effects.
-
-Files to install:
-- **Cannibal Reborn** (Main files)
-
-Additional files to install:
-- [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
-  Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
 
 ## CONTENT
 
@@ -658,6 +642,11 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 Additional files to install:
 - [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
 
+⭐ [**Wasteland Flora Overhaul - Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20-%20Grass.7z)  
+Improves grass textures.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**.
+
 ⭐ [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
@@ -733,18 +722,6 @@ Additional files to install:
 ⭐ [**FNV RWL All DLC - Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20and%20Region%20Patch.7z)  
 All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
 
-⭐ [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
-Adds more tree and plant variants, implements 3D LODs, and improves grass.
-
-Files to install:
-- **Wasteland Flora and Terrain Overhaul** (Main files).
-- **Wasteland Flora Overhaul - Vanilla tree replacer with LOD** (Main files)
-  - Hide **WFO - Vanilla.esp**.
-
-Additional files to install:
-- [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
-  Removes all new trees and their variants, making it a pure mesh and texture replacer.
-
 ⭐ [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
 
@@ -810,10 +787,6 @@ Unofficial Patch NVSE Plus
 lStewieAl's Tweaks
 lStewieAl's Tweaks Custom INI
 Ammo Burst Case Count Fix
-Ammo Script Fixes
-Critical and Effects - Fixes and Tweaks
-Gauss Rifle VATS Fix - JIP
-Mostly Unarmed Tweaks
 Throwable Weapon Fixes
 Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
@@ -849,6 +822,8 @@ Simple DLC Delay
 Hunting Revolver Iron Sights
 Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 B42 Melee Bash
+Cannibal Reborn
+Cannibal Reborn Expanded
 Enhanced Vision
 Faction Warning and Reputation Tweaks
 Follower Formula Redone
@@ -891,9 +866,6 @@ Repair Tools - JSawyer Ultimate Push's Tweaks Patch
 Improved Traits and Opposite Traits
 Improved Traits and Opposite Traits - JSawyer Ultimate Edition Patch
 Better Character Creation
-Anatomic Perks
-Cannibal Reborn
-Cannibal Reborn Expanded
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Pole Remover
 Uncut Wasteland Tweaks
@@ -954,6 +926,7 @@ Lightweight Strip Overhaul - No Walls
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
+Wasteland Flora Overhaul - Grass
 Windows of the Mojave
 FNV Realistic Wasteland Lighting - All DLC
 FNV RWL All DLC - Patch Collection
@@ -977,9 +950,6 @@ Mormon Fort Region Fix
 Lucky 38 Lights Redone
 Lucky 38 Lights Redone - Mormon Fort Region Fix Patch
 FNV RWL All DLC - Worldspace and Region Patch
-Wasteland Flora and Terrain Overhaul
-Wasteland Flora and Terrain Overhaul ESP Replacer
-Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
 ```
 </details>
 
@@ -1009,10 +979,6 @@ Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
-AmmoScriptFixes.esp
-CriticalEffectFixes.esp
-MigGaussFix.esp
-MigKao.esp
 ThrowableFixes.esp
 PyromaniacEffectsBuff.esp
 WMIMNV.esp
@@ -1029,6 +995,8 @@ Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
 Hunting Revolver Iron Sights.esp
 B42Bash.esp
+Cannibal Reborn.esp
+Cannibal Reborn Expanded.esp
 Enhanced Vision.esp
 Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
@@ -1066,9 +1034,6 @@ FNVOppositeTraits.esp
 Improved FNVOppositeTraits.esp
 Improved Traits and FNVOppositeTraits JSUE Patch.esp
 Better Character Creation.esp
-MigAnatomy.esp
-Cannibal Reborn.esp
-Cannibal Reborn Expanded.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
 Uncut Wasteland Tweaks.esp
@@ -1126,7 +1091,6 @@ FNVLODGen.esp
 tmzLODadditions.esp
 tmzLODadditions YUP Patch.esp
 MuchNeededLOD.esp
-Vurt's WFO.esp
 ```
 </details>
 
@@ -1302,6 +1266,18 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 19th Post-update</summary>
+
+- ⚠️ (Gameplay) Moved **Cannibal Reborn** and **Cannibal Reborn Expanded** to this section.
+- 🆕 (Visuals) **Wasteland Flora Overhaul - Grass**
+- 🚫 (Patches) **Ammo Script Fixes**
+- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**
+- 🚫 (Patches) **Gauss Rifle VATS Fix - JIP**
+- 🚫 (Patches) **Mostly Unarmed Tweaks**
+- 🚫 (Overhauls) **Anatomic Perks**
+- 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**
 
 <details>
 	<summary>January 19th</summary>
