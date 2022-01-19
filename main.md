@@ -685,7 +685,8 @@ Files to install:
 - **FNV RWL All DLC - Patch Collection** (Optional files)
 
 Additional files to install:
-- **FNV Realistic Wasteland Lighting YUP Patch**  
+- [**FNV RWL All DLC - YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20YUP%20Patch.7z)
+- [**FNV RWL All DLC - Zion Valley Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Zion%20Valley%20Ambient%20Music.7z)
 - [**RWLE - ReShade SweetFX**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/ReShade%20SweetFX%201.1.7z)  
   SweetFX preset by **Camo**.
   - Extract the contents of the archive in your **Root** folder.
@@ -710,7 +711,10 @@ Fixes the bright night sky horizons.
 
 [**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
 Removes the fake interior light rays and tones the exterior light beams down dramatically. 
-- Hide **Subtle Light Beams and Rays.esp**.
+
+Files to install:
+- **Subtle Light Beams and Rays** (Main files)
+  - Hide **Subtle Light Beams and Rays.esp**.
 
 > ℹ️ This restores interior light rays.
 
@@ -732,9 +736,12 @@ Files to install:
 Adds extra meshes for LOD generation.
 
 Additional files to install:
-- **LOD Additions and Improvements YUP Patch**  
+- [**LOD Additions and Improvements YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%20YUP%20Patch.7z)
 
 ⭐ [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
+Adds extra meshes for LOD generation.
+
+⭐ [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
 ⭐ [**Wasteland Flora and Terrain Overhaul**](https://www.nexusmods.com/newvegas/mods/39856)  
@@ -742,8 +749,8 @@ Adds more tree and plant variants, implements 3D LODs, and improves grass.
 
 Files to install:
 - **Wasteland Flora and Terrain Overhaul** (Main files).
-  - Hide **WFO - Vanilla.esp**.
 - **Wasteland Flora Overhaul - Vanilla tree replacer with LOD** (Main files)
+  - Hide **WFO - Vanilla.esp**.
 
 Additional files to install:
 - [**Wasteland Flora and Terrain Overhaul ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20and%20Terrain%20Overhaul%20ESP%20Replacer.7z)  
