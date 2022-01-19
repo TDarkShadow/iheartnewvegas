@@ -659,9 +659,6 @@ Additional files to install:
 ⭐ [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
-Additional files to install:
-- **A Little More Lamplight YUP Patch**  
-
 ⭐ [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
 
@@ -896,6 +893,7 @@ Follower Formula Redone YUP Patch
 Follower Tweaks
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
+JAM - Just Assorted Mods Custom INI
 JAM or Just Sprint Animation Replacers
 Less Map Markers
 Melee Cleave (a.k.a. Sweep)
@@ -917,6 +915,7 @@ JSawyer Ultimate Tweaks
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks - JSawyer Ultimate - Push's Tweaks Patch
 Mojave Arsenal
+Mojave Arsenal Custom INI
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch
 Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch
@@ -963,6 +962,7 @@ Immersive Recoil
 Viewmodel Recoil
 B42 Weapon Inertia
 Ragdolls
+Ragdolls Custom INI
 Ragdolls YUP Patch
 Ragdolls DLC Enhancements Patch
 NV Compatibility Skeleton
@@ -989,32 +989,39 @@ Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
 A Little More Lamplight
-A Little More Lamplight YUP Patch
-LSO - A Lightweight Strip Overhaul
+Lightweight Strip Overhaul - No Walls
 Lightweight Strip Overhaul - Uncut Wasteland Patch
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
-Wasteland Flora and Terrain Overhaul
 Windows of the Mojave
 FNV Realistic Wasteland Lighting - All DLC
-FNV Realistic Wasteland Lighting - All DLC ESP Replacer
+FNV RWL All DLC - Patch Collection
+FNV RWL All DLC - YUP Patch
+FNV RWL All DLC - Zion Valley Ambient Music
 Mojave Nights
 Night Sky Tweaks
 Subtle Light Beams and Rays
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
-LOD Additions and Improvements ESP Replacer
+LOD Additions and Improvements YUP Patch
 FNV LOD Supplementation
+Much Needed LOD
 Better Strip View
-Better Strip View More Subtle New Vegas Light Pollution Patch
 TCM's LOD Overhaul
 Hoover Dam Jets Restored and Distant
+HDJRaD - Much Needed LOD Patch
 Strip Lights Region Fix
+Strip Lights Region Fix - Hoover Dam Jets Restored and Distant
 Mormon Fort Region Fix
 Lucky 38 Lights Redone
-More Subtle New Vegas Light Pollution (Slightly Brighter)
-FNV RWL All DLC - Worldspace Patch
+Lucky 38 Lights Redone - Mormon Fort Region Fix Patch
+More Subtle New Vegas Light Pollution - Slightly Brighter
+More Subtle New Vegas Light Pollution - Better Strip View Patch
+FNV RWL All DLC - Worldspace and Region Patch
+Wasteland Flora and Terrain Overhaul
+Wasteland Flora and Terrain Overhaul ESP Replacer
+Wasteland Flora Overhaul - Vanilla Tree Replacer with LOD
 ```
 </details>
 
@@ -1141,7 +1148,6 @@ MCPipBoy2000MK6_clock.esp
 IMPACT.esp
 dD - Enhanced Blood Main NV.esp
 Little More Lamplight.esp
-Little More Lamplight YUP Patch.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Strip Lighting Overhaul.esp
 Strip Lighting Overhaul LSO Patch.esp
@@ -1342,6 +1348,12 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🆕 Mod has been added to the guide.
 - ⚠️ Mod has been updated or its installation/configuration instructions have changed.
 - 🚫 Mod has been removed from the guide.
+
+<details>
+	<summary>January 19th</summary>
+
+Such a massive update all across the board, with mods removed, BAIN installers separated into individual patches, and so on that it would be frankly impossible for me to list everything, yet alone crazy for anyone else to follow.
+</details>
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
