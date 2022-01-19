@@ -154,6 +154,9 @@ Additional files to install:
 - [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
   Removes unnecessary, non-bugfix edits. Made by **Qolore**.
 
+[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.1.7z)  
+Fixes the Dirty Pre-War Businesswear having the incorrect texture.
+
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
@@ -762,9 +765,6 @@ Adds visible Strip signs and moves the Strip buildings to where they should be.
 Files to install:
 - **Better Strip View** (Main files)
 
-Additional files to install:
-- [**More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
-
 ⭐ [**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
 Adds extra meshes for LOD generation.
 
@@ -804,6 +804,9 @@ Reduces the exaggerated glow of New Vegas.
 
 Files to install:
 - **Slightly Brighter** (Main files)
+
+Additional files to install:
+- [**Better Strip View Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Subtle%20New%20Vegas%20Light%20Pollution%20-%20Better%20Strip%20View%20Patch.7z)  
 
 ⭐ [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
 All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
