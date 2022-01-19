@@ -41,7 +41,6 @@ Aims to fix UI bugs and add new UI features.
 Additional files to install:
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
   Matches cursor color to HUD color.
-  - **Merge** with the main file.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
@@ -156,7 +155,6 @@ Allows any number of mods to be configured from a single menu, accessible throug
 
 Additional files to install:
 - **MCM BugFix 2** (Optional files)
-  - **Merge** with the main file.
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -198,17 +196,14 @@ Lore-friendly overhaul of New Vegas icons to make them more consistent in terms 
 Additional files to install:
 - **2. Consistent Addon Icons** (Main files)  
   High resolution upscale of the main interface and many HUD icons.
-  - **Merge** with the main file.
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
 - **3. Consistent Glow Icons** (Main files)  
   High resolution upscale of many HUD icons.
-  - **Merge** with the main file.
   - FOMOD options to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
   Patch for Vanilla UI Plus.
-  - **Merge** with the main file.
 
 Optional files to install:
 - [**Vanilla HD Missing Icon for Consistent Pip Boy Icons**](https://www.nexusmods.com/newvegas/mods/73375)  
@@ -240,15 +235,12 @@ Additional files to install:
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
-- Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files).
-- Install **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files).
-  - **Merge** with the main file.
 
-Additional files to install:
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  - **Merge** with the main file.
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  - **Merge** with the main file.
+Files to install:
+- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -347,13 +339,10 @@ Completely reconstructed version of [**jsawyer.esp**](https://fallout-archive.fa
 Additional files to install:
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
   INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game.
-  - **Merge** with the main file.
 - [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
   BAIN options to install:
-  - [X] 00 Tweaks  
-    Carries over fixes from YUP, WMIM, and Throwable Weapon Fixes; modifies the Companion Suite perk to restore companion damage while nerfing their carry weight; tweaks how the Healing Powder formula works to make it slightly more useful in combat; disables the restored Wasteland Merchant and the new Deranged Bright Brotherhood members, as well as tweaking the loot of Bright Brotherhood members.
-  - [X] 02 Push's Tweaks + Miscellanous Tweaks  
-    Addresses conflicts with Datura Antivenom and Healing Poultice.
+  - [X] 00 Tweaks
+  - [X] 02 Push's Tweaks + Miscellanous Tweaks
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
   Addresses a handful of conflicts between both mods.
 
@@ -367,12 +356,9 @@ Additional files to install:
   Ensures that JSawyer Ultimate's new junk rounds adhere to Mojave Arsenal's naming convention, and merges edits to a single toolbox leveled list. Additionally merges all GRA weapon mods onto vanilla weapons, disabling their GRA weapon variants, and integrates the new GRA weapons and mods into vanilla vendor lists.
 - [**Mojave Arsenal Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Patches.7z)  
   BAIN options to install:
-  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)  
-    Addresses conflicts with four leveled lists and incorporates GRA mods into the standard Hunting Revolver.
-  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)  
-    Addresses conflicts with a leveled list and two recipes.
-  - [X] 02 JSUE Push's Tweaks  
-    Addresses a conflict with the Powder Charge recipe.
+  - [X] 00 Hunting Revolver Iron Sights + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 01 Miscellaneous Tweaks + JSUE Mojave Arsenal (GRA Merged)
+  - [X] 02 JSUE Push's Tweaks
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
@@ -392,8 +378,7 @@ Prevents the game from becoming too easy by making enemies more likely to target
 Makes repairing more difficult by making each repair require a consumable Repair Tools item.
 
 Additional files to install:
-- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
-  - **Merge** with the main file.
+- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
 [**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
 Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
@@ -424,7 +409,6 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 Additional files to install:
 - **Uncut Wasteland Pole Remover** (Optional files)  
   Removes restored utility poles with glitched animations.
-  - **Merge** with the main file.
 - [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
   Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
 
@@ -452,12 +436,10 @@ Adds backpacks to the game, with different colors and faction options. Most can 
 Additional files to install:
 - **Strapless Update** (Optional files)  
   Removes the leather straps.
-  - **Merge** with the main file.
 - [**Canvas Backpacks - Remade Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20Tweaks.7z)  
   Edits the icons and stats of the backpacks.
   - BAIN options to install:
     - [00] JSUE  
-      Gives JSUE-appropriate stats to the backpacks, increasing their value, reducing their carry weight capacity, and adding more penalties for equipping them.
 
 ## VISUALS
 
@@ -469,7 +451,6 @@ Merge of Hitman47101's [**Subtle Camera Motion**](https://www.nexusmods.com/newv
 Additional files to install:
 - **Weapon Mesh Improvement Mod Patch** (Optional files)  
   Includes WMIM mesh fixes.
-  - **Merge** with the main file.
 - [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
   Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person.
   - Install **AnniAnimPack_BugFix 1.3** (Main files).
@@ -482,7 +463,6 @@ Clean first person animations. No new idles, no bugs, no reload cancelling from 
 Additional files to install:
 - **FNV Clean Animations - Update 2.2.2** (Update files)  
   Updates the mod with fixes.
-  - **Merge** with the main file.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -581,8 +561,7 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 - Install **Pip-Boy 2000 Mk VI replacer version** (Main files).
 
 Additional files to install:
-- **Working date and clock for replacer** (Optional files)  
-  **Merge** with the main file.
+- **Working date and clock for replacer** (Optional files)
 - [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
   Gives the Pip-Boy 2000 Mk VI a grittier texture.
 - [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
@@ -658,7 +637,6 @@ Replaces every explosion sound in the game.
 Additional files to install:
 - **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)  
   Scripted version that vastly improves compatibility with other mods.
-  - **Merge** with the main file.
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
@@ -679,16 +657,10 @@ Vastly improves the LOD noise texture used on all distant land.
 Adds extra meshes for LOD generation.
 - Install **FNVLODGen Resources** (Main files).
 
-Additional files to install:
-- [**FNVLODGen Resources ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNVLODGen%20Resources%201.1%20ESP%20Replacer.7z)  
-  Improves compatibility with Wasteland Flora and Terrain Overhaul.
-
-[**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
+[**LOD Additions and Improvements**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%201.07%20YUP.7z)  
 Adds extra meshes for LOD generation.
 
-Additional files to install:
-- [**LOD Additions and Improvements YUP ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%201.0.7%20YUP%20ESP%20Replacer.7z)  
-  Includes YUP fixes.
+[**Link**](https://www.nexusmods.com/newvegas/mods/61206) to original mod by **tomzik**. The featured version includes YUP fixes.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
@@ -716,7 +688,6 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 Additional files to install:
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)  
   Includes Hoover Dam Jets Restored and Distant region edits.
-  - **Merge** with the main file.
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
   Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Original mod by **Nehred**.
 
@@ -891,7 +862,6 @@ Immersive Primary Needs
 Female Nuka-Cola Drinking Sound Replacer
 Improved LOD Noise Texture
 FNVLODGen Resources
-FNVLODGen Resources ESP Replacer
 LOD Additions and Improvements
 LOD Additions and Improvements YUP ESP Replacer
 FNV LOD Supplementation
