@@ -398,8 +398,6 @@ Improves the character creation by speeding up the process, adding specialized g
 
 ## CONTENT
 
-### Restored content
-
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install **Uncut Wasteland plus NPCs** (Main files).
@@ -413,8 +411,6 @@ Additional files to install:
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
-### Expanded content
-
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
@@ -425,8 +421,6 @@ Additional files to install:
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
-
-### Equipment
 
 [**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
 Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
