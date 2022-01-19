@@ -595,13 +595,6 @@ Additional files to install:
 
 ### Equipment
 
-⭐ [**Helmet Overlay**](https://www.nexusmods.com/newvegas/mods/67870)  
-Adds overlays for various headwear items, From facemasks, to glasses, to helmets. Overlays will stack if you can wear the items together.
-- FOMOD options to install:
-  - [X] Medium (2K) Resolution
-
-> ℹ️ Because slideshows work by placing the slides in front of your character, you will see the helmet overlays unless you remove your helmet before slideshows play.
-
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
 
@@ -974,7 +967,6 @@ Character Expansions Revised - MR
 Character Expansions Revised - JSUE - UW - MR
 Character Expansions Revised - KFF
 FaceGen Tint Fixes for Character Expansions Revised
-Helmet Overlay
 Worn-Out Scope Crosshair Replacers
 No Pip-Boy Glove
 Pip-Boy 2000 Mk VI
@@ -1047,7 +1039,6 @@ Landscape Disposition Fix.esm
 Misc Gameplay Merge.esm
 Ragdolls.esm
 Character Expansions Revised.esm
-Helmet Overlay.esm
 Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
