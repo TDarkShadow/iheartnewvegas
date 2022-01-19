@@ -350,12 +350,6 @@ Fixes issues with Agility and Strength modifiers for reloading and throwing weap
 ⭐ [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
-[**Standarized NCR Supply Caches**](https://www.nexusmods.com/newvegas/mods/74145)  
-Swaps out the current, barely-useful supply cache loot table with a static one, whose contents are scaled with the player level.
-
-Files to install:
-- **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files)
-
 ## OVERHAULS
 
 ⭐ [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
@@ -877,7 +871,6 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Reload Reloaded
 Simple Explosive Entry
-Standarized NCR Supply Caches - Scaler Moon Edition
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Tweaks
@@ -1053,7 +1046,6 @@ NPC Use Aid.esp
 RAD.esp
 Reload Reloaded.esp
 Simple Explosive Entry.esp
-Patchy's Preferred Preparedness Package - Scaler Moon Edition.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate Tweaks.esp
