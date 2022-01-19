@@ -1839,15 +1839,13 @@ Merry Christmas!
 <details>
 	<summary>December 19th</summary>
 
-- 🆕 (Visuals) **Alsatian NCR Guard Dogs**.
-- 🆕 (Visuals) **Bighorner Model Variants**.
-- 🆕 (Visuals) **Brahmin Variant Redux**.
+- 🆕 (Visuals) **Alsatian NCR Guard Dogs**
 </details>
 
 <details>
 	<summary>December 17th</summary>
 
-- 🆕 (Visuals) **FaceGen Tint Fixes for Character Expansions Revised**.
+- 🆕 (Visuals) **FaceGen Tint Fixes for Character Expansions Revised**
 - ⚠️ (INI Config) Tweaked Pip-Boy HUD color. Added HUD color tweak.
 </details>
 
@@ -1855,11 +1853,11 @@ Merry Christmas!
 	<summary>December 15th</summary>
 
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI**. Removed Q for drop item hotkey in Pip-Boy (right-clicking does the same job), disabled weapon range affecting V.A.T.S. (as **Precise VATS** already does something similar), increased XP for discovering locations, and incorporated **Action Camera**'s GMST tweaks.
-- 🆕 (Patches) Added **Crippled Limb Reaction Enforcer**.
-- 🆕 (Gameplay) **Mine and Explosion Tweaks**.
-- 🆕 (Visuals) **Empty Clicks Custom INI**.
-- 🆕 (Visuals) **Windows of the Mojave**.
-- 🆕 (Visuals) **Window Redux**.
+- 🆕 (Patches) **Crippled Limb Reaction Enforcer**
+- 🆕 (Gameplay) **Mine and Explosion Tweaks**
+- 🆕 (Visuals) **Empty Clicks Custom INI**
+- 🆕 (Visuals) **Windows of the Mojave**
+- 🆕 (Visuals) **Window Redux**
 - 🚫 (Visuals) **Action Camera**. Now included in **lStewieAl's Tweaks Custom INI**.
 </details>
 
@@ -1871,11 +1869,9 @@ Merry Christmas!
 - ⚠️ (Gameplay) Updated **Just Assorted Mods Custom INI**. Improved compatibility with **Diagonal movement**.
 - ⚠️ (Visuals) Updated **FNV Realistic Wasteland Lighting - All DLC Tweaks**. It now includes fog tweaks in addition to light tweaks.
 - 🆕 (User interface) **Clean Companion Wheel**.
-- 🆕 (Gameplay) **Simple Reputation and Disguises**.
 - 🆕 (Visuals) **Simple Interior Lighting Overhaul**.
 - 🆕 (Visuals) **Subtle Light Beams and Rays**.
 - 🆕 (Visuals) **Companions Combat-Ready**.
-- 🆕 (Visuals) **Companion Radiation Suit**.
 - 🆕 (Visuals) **Empty Weapons**.
 </details>
 
@@ -1883,8 +1879,6 @@ Merry Christmas!
 	<summary>December 13th</summary>
 
 - 🆕 (Patches) [**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z). This one doesn't include meshes nor changes to the Grimy Pre-War Businesswear (which was already fixed by YUP). Instead, it uses a Texture Set to implement the change, and also a TYPE 4-compatible version.
-- 🆕 (Gameplay) [**Meat's Back On The Menu Boys (YUP**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/%5BI%E2%99%A5NV%5D%20Meat's%20Back%20on%20the%20Menu%20Boys%201.0%20(YUP).7z)
-- 🆕 (Overhauls) [**Immersive Fast Travel Requirements**](https://www.nexusmods.com/newvegas/mods/73627)
 - 🆕 (Visuals) [**Honest Hearts Gecko Leathers Improved**](https://www.nexusmods.com/newvegas/mods/42316)
 - 🆕 (Audio) [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)
 - ⚠️ (Patches) Updated **lStewieAl's Tweaks Custom INI** to address settings I forgot to set. Pickpocketing now also gives the player 10 XP (instead of 1). Also expanded the description of what the custom INI does.
@@ -1904,8 +1898,6 @@ Merry Christmas!
 - 🆕 (Visuals) [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)
 - 🆕 (Audio) [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)
 - 🆕 (Audio) [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)
-- 🆕 (Audio) [**Classic Level Up Sounds**](https://www.nexusmods.com/newvegas/mods/56807)
-- 🆕 (Audio) [**Classic XP Sound**](https://www.nexusmods.com/newvegas/mods/64514)
 - ⚠️ (Gameplay QOL) Updated **FOV Slider Custom INI** to lower weapon FOV.
 - 🚫 (Patches) **WMIM Mesh Fix**. Already included in **WMIM ESP Replacer**.
 </details>
