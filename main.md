@@ -550,10 +550,6 @@ Additional files to install:
 - [**Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
   Addresses terrain conflicts with Lightweight Strip Overhaul.
 
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the exaggerated glow of New Vegas.
-- Install **Slightly Brighter** (Main files).
-
 [**Subtle Light Beams and Rays**](https://www.nexusmods.com/newvegas/mods/71613)  
 Removes the fake interior light rays and tones the exterior light beams down dramatically. 
 - Hide **Subtle Light Beams and Rays.esp**.
@@ -732,7 +728,9 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
   - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
-> ⚠️ This mod overwrites **More Subtle New Vegas Light Pollution**. We will load that mod after this one in the **Mod order** section.
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the exaggerated glow of New Vegas.
+- Install **Slightly Brighter** (Main files).
 
 [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
 All in one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
