@@ -218,8 +218,9 @@ Follow these steps for **FNVEditQuickAutoClean**:
 Follow these steps for **FNVLODGen**:
 
 - Click the **Modify Executables** ![Executables](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_Executables.png) button.
-- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and select *Add from file...*.
+- Click the **Add an executable** ![AddExe](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO2_Add_File.png) button and choose **Add from file...**.
 - Navigate to FNVLODGen's folder (**C:\Games\Fallout New Vegas Mods\FNVLODGen**) and double click its .exe file.
+- In the **Start In** field, choose your **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste **-o:"C:\Games\Fallout New Vegas Mods\FNVLODGen Output\"**.
 - Click **Apply** and then **OK**.
 
