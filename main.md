@@ -339,7 +339,7 @@ Additional files to install:
 - [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
   Incorporates YUP, WMIM, and Throwable Weapon Fixes. Disables the out of place Wasteland Adventurer.
 - [**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)
-- [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
+- [**Misc Gameplay Merge - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
 
 ⭐ [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
