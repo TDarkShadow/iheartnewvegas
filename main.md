@@ -327,7 +327,7 @@ Fixes issues with Agility and Strength modifiers for reloading and throwing weap
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
 
 [**Thrown Weapon Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Thrown%20Weapon%20Tweaks%20(Dec%2022nd).7z)  
-NPCs no longer consume thrown weapons. Throwing Hatchet's damage was reduced to its **Old World Blues** stats.
+NPCs no longer consume thrown weapons, and Throwing Hatchet's damage is reduced.
 
 ## OVERHAULS
 
@@ -341,8 +341,8 @@ Additional files to install:
   INI config and collection of minor tweaks, partly inspired by the harder pre-patch balance of the game.
 - [**JSawyer Ultimate Edition Tweaks and Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks%20and%20Patches.7z)  
   BAIN options to install:
-  - [X] 00 Tweaks
-  - [X] 02 Push's Tweaks + Miscellanous Tweaks
+  - [X] 00 JSUE Tweaks
+  - [X] 01 JSUE Push's Tweaks + Miscellanous Tweaks
 - [**Misc Gameplay Merge JSawyer - Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
   Addresses a handful of conflicts between both mods.
 
@@ -367,12 +367,15 @@ Upscales icons from a selection of mods.
 
 > ℹ️ If you don't mind unnecessary files in your computer which will otherwise have no effect in the game, you can simply install the default options.
 
+[**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
+Simple and comprehensive loot scarcity mod using event-based scripting.
+
 [**New Vegas Economy Improved**](https://www.nexusmods.com/newvegas/mods/71604)  
 Fully-scripted, lightweight, and compatible item value overhaul, taking into consideration important aspects of the vanilla economy balance. Applies a moderate reduction in value to high-value items, and a small reduction to low-value items.
 - Install **New Vegas Economy Improved** (Main files).
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Prevents the game from becoming too easy by making enemies more likely to target the player in combat rather than companions.
+Makes enemies more likely to target the player in combat rather than companions.
 
 [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
 Makes repairing more difficult by making each repair require a consumable Repair Tools item.
@@ -789,6 +792,7 @@ Mojave Arsenal Custom INI
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Mojave Arsenal Patches
 Misc Gameplay Merge - JSawyer Ultimate Edition Patch
+Famine - A Loot Rarity Mod
 New Vegas Economy Improved
 Player Combat Priority
 Repair Tools
@@ -931,6 +935,7 @@ JSawyer Ultimate - Mojave Arsenal Patch - Hunting Revolver Iron Sights Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch - Miscellaneous Tweaks Patch.esp
 JSawyer Ultimate - Push's Tweaks - Mojave Arsenal Patch.esp
 Misc Gameplay Merge - JSUE Patch.esp
+Famine.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
 Repair Tools.esp
@@ -1088,6 +1093,17 @@ bMatchingCursor = 1
 ```
 
 > ℹ️ Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
+
+**Mojave Arsenal Custom INI (Optional)**:
+- Double-click the installed mod to open the **Information...** window.
+- Click the **INI Files** tab, and make the following adjustments in **Mojave Arsenal.ini**.
+- Click on the diskette icon to save your changes.
+
+```
+bLowConditionLoot=0
+```
+
+> ℹ️ Disables the Low Condition Loot feature, in favor of **Famine - A Loot Rarity Mod**'s own implementation.
 
 **falloutcustom.ini (Optional)**:
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
