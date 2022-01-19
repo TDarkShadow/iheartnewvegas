@@ -740,7 +740,7 @@ Additional files to install:
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix%201.0.7z)  
   Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
 
-[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+⭐ [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
 - FOMOD options to install:
   - [X] Gold Lights
@@ -752,7 +752,7 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
 Reduces the exaggerated glow of New Vegas.
 - Install **Slightly Brighter** (Main files).
 
-[**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
+⭐ [**FNV RWL All DLC - Worldspace Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20Patch.7z)  
 All in one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
 
 ## Finishing touches
