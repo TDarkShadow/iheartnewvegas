@@ -92,6 +92,24 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work, plus some tweaks for consistency and fun.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility.
+
+[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
+Fixes the Gauss Rifle not dealing headshot and critical damage in VATS.
+
+[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue to enemies and the player; tweaks the effects of Unarmed special attacks; allows NPCs to use Unarmed special attacks.
+
+[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
+A collection of visual and audio fixes and tweaks for throwable weapons, focused on projectiles.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
+
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
@@ -133,9 +151,6 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 Additional files to install:
 - [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
   Removes unnecessary, non-bugfix edits. Made by **Qolore**.
-
-[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
-A collection of visual and audio fixes and tweaks for throwable weapons, focused on projectiles.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
