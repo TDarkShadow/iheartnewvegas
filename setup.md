@@ -194,7 +194,7 @@ Allows generation of LOD for worldspaces by scanning all mods in the load order 
 - Manually download the **FNVLODGen** main file.
 - Extract the contents of the archive to **Fallout New Vegas Mods\FNVLODGen**.
 
-### Registering tools in Mod Organizer 2
+## Registering tools in Mod Organizer 2
 
 For our tools to work in Mod Organizer 2, we need to register and configure them.
 
