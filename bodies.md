@@ -36,17 +36,6 @@ Removes shine from vanilla hairs.
 
 ## Preliminary steps for Body replacers add-on
 
-[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.0.7z)  
-Fixes the Dirty Pre-War Businesswear having the incorrect texture.
-- Uninstall this mod. It is included in **TYPE4 Patches**, which we will install later.
-
-[**Honest Hearts Gecko Leathers Improved ESP Replacer and JSUE Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Honest%20Hearts%20Gecko%20Leathers%20Improved%20ESP%20Replacer%20and%20JSUE%20Patch.7z)  
-Includes **YUP** fixes and adds a patch for **JSawyer Ultimate Edition**.
-- Reinstall this mod.
-- BAIN options to install:
-  - [X] 00 ESP Replacer Compatibility Version
-  - [X] 01 JSUE Patch Compatibility Version
-
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
 - Open **NVSE\plugins\scripts\gr_MiscEquipmentChanges.txt** using a text editor, and delete the following lines:
@@ -96,7 +85,6 @@ Additional files to install:
     - [X] 01 TYPE4 Fixes
     - [X] 02 Vanilla Radiation Suits
     - [X] 03 JSUE Patch
-    - [X] 04 PA Gloves Patch
     - [X] 05 Eyelashes FNV Patch
 
 Optional files to install:
@@ -112,8 +100,6 @@ Optional files to install:
     Less goofy looking Combat Armor.
   - [X] 03 Combat Armor JSUE Patch  
     Patches the mod for compatibility with JSawyer Ultimate Edition.
-- [**T6M Christine's Outfit**](https://www.nexusmods.com/newvegas/mods/68385)  
-  Gives an unique appearance to Christine's outfit from Dead Money.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
@@ -171,11 +157,9 @@ TYPE4 Patches
 More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
 T6M Outfits Selection
-T6M Christine's Outfit
 Body and Face Textures Workshop
 Mannequin Races
 Mannequin Races - TYPE 4
-Improved Duster Coats - YUP Edition
 ```
 </details>
 
@@ -191,13 +175,9 @@ T4 YUP Patch.esp
 T4 Fixes.esp
 T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
-T4 PA Gloves Patch.esp
 T4 Eyelashes FNV Patch.esp
 T6M Combat Armor.esp
-ChristineOutfit.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
-ImprovedGeckoLeatherArmor.esp
-ImprovedGeckoLeatherArmor JSUE Patch.esp
 Mannequin Rce.esp
 ```
 </details>
