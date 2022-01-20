@@ -29,6 +29,13 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 - Potato characters: lore-friendly overhaul of NPCs that makes them look less like mutated Play-Doh and more like actual people.
 - Disgusting piss filter and disappointing city of New Vegas: new lighting, improved Strip and LOD to experience the Mojave in all its glory.
 
+What this guide doesn't do:
+
+- Address every single micro-issue in the game: no game is perfect and all of them have flaws, yet we still enjoy them. My intention is to fix or at least address the most glaring ones, those that are a problem in the moment to moment experience.
+- Add new features no one asked for: there are many gameplay mods out there, but the amount of them that actually try to fix issues with the existing game are in the minority. If you want to build your own settlement or robot army, look someplace else.
+- Nitpick over individual meshes or textures: unless it's an actual fix, this guide won't bother. And even then, it probably won't bother either.
+- Improve the meshes and textures of everything I can: this alone can add another 50 or 100 mods to any install, and inconsistency will sooner than later rear its ugly head.
+
 This guide is split in two sections:
 
 - [**Setup**](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md). Includes setting up utilities and tools, as well as Mod Organizer 2. This section will be useful to anyone deciding to get into Fallout: New Vegas.
