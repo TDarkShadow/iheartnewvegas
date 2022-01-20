@@ -142,9 +142,6 @@ Additional files to install:
 - [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
   Removes unnecessary, non-bugfix edits. Made by **Qolore**.
 
-[**Dirty Pre-War Businesswear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Dirty%20Pre-War%20Businesswear%20Fix%201.1.7z)  
-Fixes the Dirty Pre-War Businesswear having the incorrect texture.
-
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
@@ -789,7 +786,6 @@ Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
-Dirty Pre-War Businesswear Fix
 Female White Glove Society Mask
 Less Flickery City of New Vegas
 UIO - User Interface Organizer
@@ -979,7 +975,6 @@ MigMultiCase.esp
 ThrowableFixes.esp
 PyromaniacEffectsBuff.esp
 WMIMNV.esp
-Dirty Pre-War Businesswear Fix.esp
 LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
@@ -1265,16 +1260,23 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>January 20th</summary>
+
+- 🚫 (Visuals) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
+</details>
+
+<details>
 	<summary>January 19th Post-update</summary>
 
 - ⚠️ (Gameplay) Moved **Cannibal Reborn** and **Cannibal Reborn Expanded** to this section.
 - 🆕 (Visuals) **Wasteland Flora Overhaul - Grass**
-- 🚫 (Patches) **Ammo Script Fixes**
-- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**
-- 🚫 (Patches) **Gauss Rifle VATS Fix - JIP**
-- 🚫 (Patches) **Mostly Unarmed Tweaks**
-- 🚫 (Overhauls) **Anatomic Perks**
-- 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**
+- 🚫 (Patches) **Ammo Script Fixes**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
+- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
+- 🚫 (Patches) **Gauss Rifle VATS Fix - JIP**. Since JAM's Bullet Time is recommended, it's not necessary.
+- 🚫 (Patches) **Mostly Unarmed Tweaks**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
+- 🚫 (Overhauls) **Anatomic Perks**. It's the kind of gameplay mod the guide is trying to move further away.
+- 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**. The main issue with the game's environment is not really the trees, but the awful grass. This cuts down on three separate downloads.
+</details>
 
 <details>
 	<summary>January 19th</summary>
