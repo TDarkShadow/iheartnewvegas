@@ -1182,9 +1182,6 @@ bLowConditionLoot=0
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
 ```
-[Display]
-bAllowScreenShot=0
-
 [Imagespace]
 bDoDepthOfField=0
 
@@ -1193,17 +1190,7 @@ fDlgFocus=6.0000
 uPipboyColor=1022886143
 ```
 
-> ℹ️ Disables the built-in screenshot feature in favor of SweetFX's (which will account for its post-processing effects); disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
-
-**SweetFX (Optional)**:
-- Open **Fallout New Vegas\SweetFX\SweetFX_settings.txt** using a text editor and make the following adjustments.
-
-```
-USE_VIBRANCE = 1
-USE_CURVES = 1
-```
-
-> ℹ️ Restores the SweetFX preset to RWLE's original configuration.
+> ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
 
 # MOD KEYBINDINGS
 
