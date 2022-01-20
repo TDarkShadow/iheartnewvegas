@@ -163,8 +163,6 @@ Mannequin Races - TYPE 4
 ```
 </details>
 
-> ℹ️ **Improved Duster Coats - YUP Edition** needs to load after TYPE4 to overwrite its Combat Ranger meshes.
-
 <details>
 <summary>Load order</summary>
 
