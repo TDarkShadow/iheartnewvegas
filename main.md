@@ -124,12 +124,6 @@ Additional files to install:
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
-[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
-Visual and audio fixes for thrown projectiles.
-
-[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
-Makes the Pyromaniac perk affect *all* the lingering fire damage effects from weapons and ammo.
-
 ### Mesh fixes and optimization
 
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
@@ -141,6 +135,9 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 Additional files to install:
 - [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
   Removes unnecessary, non-bugfix edits. Made by **Qolore**.
+
+[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
+Visual and audio fixes for thrown projectiles.
 
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
@@ -248,15 +245,6 @@ Additional files to install:
 
 [**Simple DLC Delay**](https://www.nexusmods.com/newvegas/mods/62779)  
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
-
-[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124?)  
-Removes the scope from the Hunting Revolver and makes it a separate weapon mod.
-
-Files to install:
-- **Hunting Revolver Iron Sights** (Main files)
-
-Additional files to install:
-- [**Consistent Pip-Boy Icons Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Consistent%20Pip-Boy%20Icons%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)
 
 ## GAMEPLAY
 
@@ -369,7 +357,6 @@ Additional files to install:
 - [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
   Disables most GRA features, and enables low condition loot.
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)
-- [**Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Hunting%20Revolver%20Iron%20Sights%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)
 - [**Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)
 - [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)
 
@@ -781,11 +768,10 @@ Unofficial Patch NVSE Plus
 lStewieAl's Tweaks
 lStewieAl's Tweaks Custom INI
 Ammo Burst Case Count Fix
-Throwable Weapon Fixes
-Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
+Throwable Weapon Fixes
 Female White Glove Society Mask
 Less Flickery City of New Vegas
 UIO - User Interface Organizer
@@ -812,8 +798,6 @@ Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
-Hunting Revolver Iron Sights
-Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch
 B42 Melee Bash
 Cannibal Reborn
 Cannibal Reborn Expanded
@@ -847,7 +831,6 @@ Miscellaneous Tweaks - JSawyer Ultimate - Push's Tweaks Patch
 Mojave Arsenal
 Mojave Arsenal Custom INI
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch
 Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch
 Mojave Arsenal - JSUE - Push's Tweaks Patch
 Consistent Pip-Boy Icons - Mod Patches
@@ -972,9 +955,8 @@ Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
-ThrowableFixes.esp
-PyromaniacEffectsBuff.esp
 WMIMNV.esp
+ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
@@ -985,7 +967,6 @@ LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
-Hunting Revolver Iron Sights.esp
 B42Bash.esp
 Cannibal Reborn.esp
 Cannibal Reborn Expanded.esp
@@ -1013,7 +994,6 @@ Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks - JSUE - Push's Tweaks Patch.esp
 Mojave Arsenal.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-Hunting Revolver Iron Sights - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
 Miscellaneous Tweaks - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
 Mojave Arsenal - JSUE - Push's Tweaks Patch.esp
 Famine.esp
@@ -1262,7 +1242,9 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 20th</summary>
 
-- 🚫 (Visuals) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
+- 🚫 (Patches) **Universal Pyromaniac Buff for Fire Effects**. Not a pure bug-fix.
+- 🚫 (Patches) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
+- 🚫 (Gameplay QOL) **Hunting Revolver Iron Sights**. Some weapons have scopes by default and that's fine. Doesn't mean one needs to mod the scopes out.
 </details>
 
 <details>
@@ -1270,10 +1252,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - ⚠️ (Gameplay) Moved **Cannibal Reborn** and **Cannibal Reborn Expanded** to this section.
 - 🆕 (Visuals) **Wasteland Flora Overhaul - Grass**
-- 🚫 (Patches) **Ammo Script Fixes**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
-- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
+- 🚫 (Patches) **Ammo Script Fixes**. Not a pure bug-fix.
+- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**. Not a pure bug-fix.
 - 🚫 (Patches) **Gauss Rifle VATS Fix - JIP**. Since JAM's Bullet Time is recommended, it's not necessary.
-- 🚫 (Patches) **Mostly Unarmed Tweaks**. Not a pure bug-fix. It may return in the future if I'm persuaded the benefits outweigh the non-purist approach.
+- 🚫 (Patches) **Mostly Unarmed Tweaks**. Not a pure bug-fix.
 - 🚫 (Overhauls) **Anatomic Perks**. It's the kind of gameplay mod the guide is trying to move further away.
 - 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**. The main issue with the game's environment is not really the trees, but the awful grass. This cuts down on three separate downloads.
 </details>
