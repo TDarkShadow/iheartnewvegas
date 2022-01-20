@@ -23,7 +23,7 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 - Bugs and stability: includes all major bug fixes released for the game so far, and a handful of minor, purist bug fixes that are entirely optional.
 - Consolized user interface: improved readability and functionality, ironed out inconsistencies between carried over and new assets.
 - Poorly implemented DLC: reworked implementation, GRA items available as loot and expansions delayed.
-- Poor gunplay: new mechanics and improved animations for a more satisfying experience.
+- Poor gunplay: new mechanics and improved animations, better visuals and sounds for a more satisfying experience.
 - Unexisting difficulty: using JSawyer Ultimate Edition as a base to rebalance the game for a more hardcore experience, and other mods to improve NPC AI and mechanics, more dangerous radiation, decreased loot, harsher economy, less absurd repair system, less OP companions, and more.
 - Empty world: restored content, new NPC and creature spawns.
 - Potato characters: lore-friendly overhaul of NPCs that makes them look less like mutated Play-Doh and more like actual people.
