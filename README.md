@@ -82,7 +82,7 @@ Roughly 6GB.
 
 ### How much time will it take me to install all mods?
 
-Depends on how thorough you are about it. It shouldn't take you longer than four hours to set everything up, including the optional (i.e. non-starred) mods.
+Depends on how thorough you are about it. It shouldn't take you longer than three hours to set everything up.
 
 ### How often is the guide updated?
 
