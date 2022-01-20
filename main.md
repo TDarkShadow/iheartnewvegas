@@ -91,6 +91,9 @@ Files to install:
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
+[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
+Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
+
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
@@ -120,9 +123,6 @@ Additional files to install:
   - Sneak attack critical hits can only be dealt with melee weapons.
   - Broken armor is automatically unequipped.
   - Weapon mods can be unequipped.
-
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
 ### Mesh fixes and optimization
 
@@ -172,6 +172,13 @@ Greatly improves the user interface without compromising the original style.
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
 
+[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
+Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
+
+Additional files to install:
+- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
+  Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
+
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - FOMOD options to install:
@@ -184,20 +191,8 @@ Cleans up textures surrounding the Companion Wheel.
 Files to install:
 - **Clean Companion Wheel 256x256 Edition** (Main files)
 
-[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
-High-res satellite map for the Mojave Wasteland.
-
-Files to install:
-- **Satellite World Map** (Main files)
-
-Additional files to install:
-- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
-  High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
-
-### Icons
-
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
-Lore-friendly overhaul of New Vegas icons to make them more consistent in terms of coloring and transparency. Includes other bug fixes.
+Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
 
 Files to install:
 - **1. Consistent Pip-boy Icons** (Main files).
@@ -209,6 +204,16 @@ Files to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
 
+[**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
+High-res satellite map for the Mojave Wasteland.
+
+Files to install:
+- **Satellite World Map** (Main files)
+
+Additional files to install:
+- [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
+  High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
+
 ## GAMEPLAY QOL
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
@@ -219,13 +224,6 @@ Increases the speed of the Pip-Boy animation.
 
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
-
-[**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
-Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
-
-Additional files to install:
-- [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
-  Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
@@ -765,9 +763,9 @@ Yukichigai Unofficial Patch - YUP
 Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
+Ammo Burst Case Count Fix
 lStewieAl's Tweaks
 lStewieAl's Tweaks Custom INI
-Ammo Burst Case Count Fix
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
@@ -779,18 +777,18 @@ The Mod Configuration Menu
 The Mod Configuration Menu Bugfix
 Vanilla UI Plus (New Vegas)
 JIP Improved Recipe Menu
+FOV Slider
+FOV Slider Custom INI
 Vanilla HUD Cleaned
 Clean Companion Wheel
-Satellite World Map
-Satellite Maps DLC
 Consistent Pip-Boy Icons
 Consistent Addon Icons
 Consistent Glow Icons
 Vanilla UI Plus Patch
+Satellite World Map
+Satellite Maps DLC
 Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
-FOV Slider
-FOV Slider Custom INI
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
 Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
@@ -961,8 +959,8 @@ LessFlickeryCityOfNewVegas.esp
 The Mod Configuration Menu.esp
 Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
-DLC Enhancements.esp
 FOVSlider.esp
+DLC Enhancements.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
