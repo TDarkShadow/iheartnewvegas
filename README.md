@@ -18,14 +18,16 @@ I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/i
 
 ## About
 
-**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. The end result focuses on the following pillars:
+**Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
 
-- Ironing out bugs and increasing stability and performance.
-- Improving a number of aspects the game suffered from as a result of console-oriented development, such as the user interface, and restoring content cut to cater to console performance.
-- Improving the RPG aspects, by modifying how a number of mechanics work in order to make player choice more significant, and expanding or adding new mechanics altogether.
-- Improving the first-person shooter aspects, with more detailed animations and more satisfying combat.
-- Making the game more difficult, yet at the same time more rewarding.
-- Improving visuals in a subtle way that feels like the game could have released like that from the start, avoiding very high resolution textures or very detailed meshes. In particular, enhancing the aspect and atmosphere of the New Vegas Strip, as well as the game's weather, lighting, and LOD.
+- Bugs and stability: includes all major bug fixes released for the game so far, and a handful of minor, purist bug fixes that are entirely optional.
+- Consolized user interface: improved readability and functionality, ironed out inconsistencies between carried over and new assets.
+- Poorly implemented DLC: reworked implementation, GRA items available as loot and expansions delayed.
+- Poor gunplay: new mechanics and improved animations for a more satisfying experience.
+- Unexisting difficulty: using JSawyer Ultimate Edition as a base to rebalance the game for a more hardcore experience, and other mods to improve NPC AI and mechanics, more dangerous radiation, decreased loot, harsher economy, less absurd repair system, less OP companions, and more.
+- Empty world: restored content, new NPC and creature spawns.
+- Potato characters: lore-friendly overhaul of NPCs that makes them look less like mutated Play-Doh and more like actual people.
+- Disgusting piss filter and disappointing city of New Vegas: new lighting, improved Strip and LOD to experience the Mojave in all its glory.
 
 This guide is split in two sections:
 
