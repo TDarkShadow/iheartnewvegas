@@ -65,8 +65,6 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 - Extract the contents of the archive, and place **FalloutNVpatch.exe** in your game's **Root** folder.
 - Run the patch. Close the command prompt once the process is done.
 
-# xNVSE
-
 [**xNVSE**](https://github.com/xNVSE/NVSE/releases)  
 New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
 - Click the **nvse_6_2_5.7z** under **Assets** to download it.
