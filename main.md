@@ -354,9 +354,9 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 Additional files to install:
 - [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
   Disables most GRA features, and enables low condition loot.
+- [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)
 - [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)
 - [**Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)
-- [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
@@ -828,9 +828,9 @@ Misc Gameplay Merge - JSawyer Ultimate Edition Patch
 Miscellaneous Tweaks - JSawyer Ultimate - Push's Tweaks Patch
 Mojave Arsenal
 Mojave Arsenal Custom INI
+Mojave Arsenal - JSUE - Push's Tweaks Patch
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
 Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch
-Mojave Arsenal - JSUE - Push's Tweaks Patch
 Consistent Pip-Boy Icons - Mod Patches
 Famine - A Loot Rarity Mod
 New Vegas Economy Improved
@@ -991,9 +991,9 @@ JSawyer Ultimate Tweaks.esp
 Misc Gameplay Merge - JSUE Patch.esp
 Miscellaneous Tweaks - JSUE - Push's Tweaks Patch.esp
 Mojave Arsenal.esp
+Mojave Arsenal - JSUE - Push's Tweaks Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
 Miscellaneous Tweaks - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
-Mojave Arsenal - JSUE - Push's Tweaks Patch.esp
 Famine.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
