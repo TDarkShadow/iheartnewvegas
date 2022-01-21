@@ -16,8 +16,10 @@ This document will guide you through the installation of face and hair textures,
 
 [**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
 Adds animated eyelashes to NPCs and the player character.
-- Install the **tkEyelashesFNV** main file.
-- Hide **tkEyelashesFNV_FemalesOnly.esp**.
+
+Files to install:
+- **tkEyelashesFNV** (Main files).
+  - Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
 Additional files to install:
 - [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files)  
@@ -25,11 +27,17 @@ Additional files to install:
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
-- Install all Main files.
+
+Files to install:
+- **Eyelashes 1.3** (Main files)
+- **HD teeth 3.0** (Main files)
+- **HQ eyebrows** (Main files)
 
 [**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
-- Install **00 - Natural Eyes - Shadow** (Main files).
+
+Files to install:
+- **00 - Natural Eyes - Shadow** (Main files)
 
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
