@@ -564,17 +564,9 @@ Additional files to install:
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-Files to install:
-- **Character Expansions Revised** (Main files)
-- **Character Expansions Revised - YUP** (Optional files)
-- **Character Expansions Revised - JSU** (Optional files)
-- **Character Expansions Revised - UW** (Optional files)
-
 Additional files to install:
-- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)  
-  Updated Mojave Raiders patch, and compatibility patches for both JSawyer Ultimate Edition and Uncut Wasteland Patches when used alongside the Mojave Raiders Patch.
-- [**Character Expansions Revised - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20KFF.7z)  
-  Patch for Khans Friendly to Fiends.
+- [**Character Expansions Revised - YUP - JSU - UW - MR - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR%20-%20KFF.7z)  
+  Merged compatibility patch for YUP, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends. Requires all those mods to be installed.
 - [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
   Fixes colored tints on character faces.
   - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
@@ -880,12 +872,7 @@ Enhanced Blood Textures
 Gore Overhaul
 Gore Overhaul Optimized
 Character Expansions Revised
-Character Expansions Revised - YUP
-Character Expansions Revised - JSU
-Character Expansions Revised - UW
-Character Expansions Revised - MR
-Character Expansions Revised - JSUE - UW - MR
-Character Expansions Revised - KFF
+Character Expansions Revised - YUP - JSU - UW - MR - KFF
 FaceGen Tint Fixes for Character Expansions Revised
 No Pip-Boy Glove
 Pip-Boy 2000 Mk VI
@@ -1027,13 +1014,7 @@ Ragdolls DLC Enhancements Patch.esp
 IMPACT.esp
 dD - Enhanced Blood Main NV.esp
 Character Expansions Revised - Extras.esp
-Character Expansions Revised - YUP.esp
-Character Expansions Revised - JSU.esp
-Character Expansions Revised - UW.esp
-Character Expansions Revised - MR.esp
-Character Expansions Revised - JSU - MR.esp
-Character Expansions Revised - UW - MR.esp
-Character Expansions Revised - KFF.esp
+Character Expansions Revised - YUP - JSU - UW - MR - KFF.esp
 MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
@@ -1225,6 +1206,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 20th</summary>
 
+- ⚠️ (Visuals) Replaced individual patches for **Character Expansions Revised** with an individual merged patch. Will cut down on ESPs by 4 plugins.
 - 🚫 (Patches) **Universal Pyromaniac Buff for Fire Effects**. Not a pure bug-fix.
 - 🚫 (Patches) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
 - 🚫 (Gameplay QOL) **Hunting Revolver Iron Sights**. Some weapons have scopes by default and that's fine. Doesn't mean one needs to mod the scopes out.
