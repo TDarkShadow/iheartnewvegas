@@ -559,7 +559,7 @@ Additional files to install:
 - [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
 
-### NPCs
+### Characters
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
