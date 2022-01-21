@@ -214,6 +214,12 @@ Additional files to install:
 - [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
   High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
 
+[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
+Replaces the vanilla scope overlay with worn-out scopes to give them a post-apocalyptic feel.
+
+Files to install:
+- **Worn-Out Scopes** (Main files)
+
 ## GAMEPLAY QOL
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
@@ -528,57 +534,6 @@ A compatible skeleton for many animation mods.
 - FOMOD options to install:
   - [X] Vanilla Weights
 
-### NPCs
-
-[**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
-Visual overhaul of characters' faces, following vanilla aesthetics. 
-
-Files to install:
-- **Character Expansions Revised** (Main files)
-- **Character Expansions Revised - YUP** (Optional files)
-- **Character Expansions Revised - JSU** (Optional files)
-- **Character Expansions Revised - UW** (Optional files)
-
-Additional files to install:
-- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)  
-  Updated Mojave Raiders patch, and compatibility patches for both JSawyer Ultimate Edition and Uncut Wasteland Patches when used alongside the Mojave Raiders Patch.
-- [**Character Expansions Revised - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20KFF.7z)  
-  Patch for Khans Friendly to Fiends.
-- [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
-  Fixes colored tints on character faces.
-  - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
-
-### Equipment
-
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scopes with worn-out scopes to give them a post-apocalyptic feel.
-
-Files to install:
-- **Worn-Out Scopes** (Main files)
-
-[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless Pip-Boy glove from player and NPCs.
-
-Files to install:
-- **No Pip-Boy Glove - No ESP** (Main files)
-
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-
-Files to install:
-- **Pip-Boy 2000 Mk VI replacer version** (Main files)
-- **Working date and clock for replacer** (Optional files)
-
-Additional files to install:
-- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
-  Makes the Pip-Boy's buttons functional. Mod by **AleksMarch**.
-- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
-  Gives the Pip-Boy 2000 Mk VI a grittier texture.
-- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
-  Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
 ### VFX
 
 [**IMPACT**](https://www.nexusmods.com/newvegas/mods/57113)  
@@ -603,6 +558,49 @@ Retextures the gore assets to give them a severely detailed look with attention 
 Additional files to install:
 - [**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
   Optimizes the very high resolution assets, without noticeably sacrificing quality.
+
+### NPCs
+
+[**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
+Visual overhaul of characters' faces, following vanilla aesthetics. 
+
+Files to install:
+- **Character Expansions Revised** (Main files)
+- **Character Expansions Revised - YUP** (Optional files)
+- **Character Expansions Revised - JSU** (Optional files)
+- **Character Expansions Revised - UW** (Optional files)
+
+Additional files to install:
+- [**Character Expansions Revised - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20JSUE%20-%20UW%20-%20MR.7z)  
+  Updated Mojave Raiders patch, and compatibility patches for both JSawyer Ultimate Edition and Uncut Wasteland Patches when used alongside the Mojave Raiders Patch.
+- [**Character Expansions Revised - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20KFF.7z)  
+  Patch for Khans Friendly to Fiends.
+- [**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
+  Fixes colored tints on character faces.
+  - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
+
+[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the completely useless Pip-Boy glove from player and NPCs.
+
+Files to install:
+- **No Pip-Boy Glove - No ESP** (Main files)
+
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+
+Files to install:
+- **Pip-Boy 2000 Mk VI replacer version** (Main files)
+- **Working date and clock for replacer** (Optional files)
+
+Additional files to install:
+- [**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
+  Makes the Pip-Boy's buttons functional. Mod by **AleksMarch**.
+- [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
+  Gives the Pip-Boy 2000 Mk VI a grittier texture.
+- [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
+  Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 ### Environment
 
@@ -787,6 +785,7 @@ Consistent Glow Icons
 Vanilla UI Plus Patch
 Satellite World Map
 Satellite Maps DLC
+Worn-Out Scope Crosshair Replacers
 Essential DLC Enhancements Merged
 Faster Pip-Boy Animation
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
@@ -874,6 +873,12 @@ Ragdolls Custom INI
 Ragdolls YUP Patch
 Ragdolls DLC Enhancements Patch
 NV Compatibility Skeleton
+IMPACT - The Michael Bay
+IMPACT - Compatibility Edition
+EXE - Effect teXtures Enhanced
+Enhanced Blood Textures
+Gore Overhaul
+Gore Overhaul Optimized
 Character Expansions Revised
 Character Expansions Revised - YUP
 Character Expansions Revised - JSU
@@ -882,19 +887,12 @@ Character Expansions Revised - MR
 Character Expansions Revised - JSUE - UW - MR
 Character Expansions Revised - KFF
 FaceGen Tint Fixes for Character Expansions Revised
-Worn-Out Scope Crosshair Replacers
 No Pip-Boy Glove
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Date and Clock
 Pip-Boy 2000 Mk VI Working Buttons
 Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
 NPC Arm Mounted Pip-Boy 2000 Mk VI
-IMPACT - The Michael Bay
-IMPACT - Compatibility Edition
-EXE - Effect teXtures Enhanced
-Enhanced Blood Textures
-Gore Overhaul
-Gore Overhaul Optimized
 A Little More Lamplight
 Lightweight Strip Overhaul - No Walls
 Lightweight Strip Overhaul - Uncut Wasteland Patch
@@ -1026,6 +1024,8 @@ VM_Recoil.esp
 B42Inertia.esp
 Ragdolls YUP Patch.esp
 Ragdolls DLC Enhancements Patch.esp
+IMPACT.esp
+dD - Enhanced Blood Main NV.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP.esp
 Character Expansions Revised - JSU.esp
@@ -1035,8 +1035,6 @@ Character Expansions Revised - JSU - MR.esp
 Character Expansions Revised - UW - MR.esp
 Character Expansions Revised - KFF.esp
 MCPipBoy2000MK6_clock.esp
-IMPACT.esp
-dD - Enhanced Blood Main NV.esp
 Little More Lamplight.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 Strip Lighting Overhaul.esp
