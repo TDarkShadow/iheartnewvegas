@@ -56,8 +56,12 @@ Additional files to install:
   Additional files to install:
   - [**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
     Fixes mismatching textures on a number of outfits.
-- [**TYPE4 Alternative Raider Armors**](https://www.nexusmods.com/newvegas/mods/66993)  
-  Less skimpy raider armors.
+- [**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
+  Less skimpy outfits.
+  
+  Files to install:
+  - **Raider armors** (Main files)
+  - **Wasteland Wanderer** (Main files)
 - [**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
   Less skimpy prostitute outfits and less goofy combat armor.
   - [X] 00 Prostitute Outfits
@@ -100,7 +104,7 @@ TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
 More Modest TYPE4 Body and Armor
 More Modest TYPE4 Fixes
-TYPE4 Alternative Raider Armors
+TYPE4 Alternative Outfits
 T6M Prostitute Outfits and Combat Armor
 TYPE4 Patches
 Body and Face Textures Workshop
