@@ -60,7 +60,6 @@ Additional files to install:
     - [X] 03 JSUE Patch
     - [X] 05 Eyelashes FNV Patch
 
-Optional files to install:
 - [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
   Less skimpy outfits.
   - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
