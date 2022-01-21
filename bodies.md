@@ -4,48 +4,13 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# BODIES ADD-ON
-
-## Disclaimer
+# DISCLAIMER
 
 The guide presented here assumes you have already followed all instructions found in **Left My Heart In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
 
-This document will guide you through the installation of face and hair textures, as well as the **TYPE 4** and **Improved Vanilla Male Body** body replaceres. Do note, however, that this guide is intended for my personal use only, and you shouldn't expect anything on the way of support if you decide to go through with it.
+## PRELIMINARY STEPS
 
-## Face and hair textures add-on
-
-[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
-Adds animated eyelashes to NPCs and the player character.
-
-Files to install:
-- **tkEyelashesFNV** (Main files).
-  - Hide **tkEyelashesFNV_FemalesOnly.esp**.
-
-Additional files to install:
-- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files)  
-  Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
-
-[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
-Improves teeth, eyelashes, and eyebrow textures.
-
-Files to install:
-- **Eyelashes 1.3** (Main files)
-- **HD teeth 3.0** (Main files)
-- **HQ eyebrows** (Main files)
-
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
-Improves eye textures.
-
-Files to install:
-- **00 - Natural Eyes - Shadow** (Main files)
-
-[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
-Removes shine from vanilla hairs.
-
-## Preliminary steps for Body replacers add-on
-
-[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compilation of small gameplay mods by various authors, all fully fixed, optimized, and updated by Qolore7.
+[**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)
 - Open **NVSE\plugins\scripts\gr_MiscEquipmentChanges.txt** using a text editor, and delete the following lines:
   - SetBipedModelPathAlt ArmorNVCLExplorer 1 "FIXforLegionArmors\ExplorerFemale.nif"
   - SetBipedModelPathAlt ArmorNVCLRecruit 1 "FIXforLegionArmors\RecruitFemale.nif"
@@ -56,9 +21,7 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
   - SetBipedModelPathAlt ArmorNVCLCenturion 1 "FIXforLegionArmors\CenturionFemale.nif"
   - SetBipedModelPathAlt ArmorNVCaesar 1 "FIXforLegionArmors\CaesarFemale.nif"
 
-> ℹ️ This reverts the renamed female models in favor of **TYPE 4**'s models.
-
-## Body replacers add-on
+## BODY REPLACERS
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
@@ -125,24 +88,7 @@ Files to install:
 
 > ℹ️ This mod is entirely optional, as **TYPE4** already includes seamless textures for its bodies. However, I find they look a bit jarring compared to **Improved Vanilla Male Body**, hence why I recommend installing these textures on top.
 
-[**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
-Adds seven new custom races to Fallout New Vegas.
-
-Files to install:
-- **00 - Mannequin Races Type6z** (Main files)
-- **00 - EGM files for hairs** (Optional files)  
-
-Additional files to install:
-- [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
-  TYPE4 textures and meshes for Mannequin Races.
-  
-  Files to install:
-  - **00 - Mannequin Races TYPE4** (Main files)
-  - **01 - TYPE4 Underwear** (Optional files)
-
-> ℹ️ This mod offers better head meshes for creating your own character. Unfortunately, the included textures are not my cup of tea, and I recommend you copy and paste your TYPE4 textures of choice in order to overwrite the ones from this mod.
-
-## Finishing touches
+## FINISHING TOUCHES
 
 ### Mod order and load order
 
@@ -152,11 +98,6 @@ The mods installed in this guide can be placed at the very end of **Left My Hear
 <summary>Mod order</summary>
 
 ```
-Eyelashes New Vegas
-Eyelashes New Vegas ESP Replacer
-HD Teeth and Natural Eyelashes and Eyebrows
-Vanilla Hair - No Shine
-Natural Eyes
 Improved Vanilla Male Body - Seamless - 4K
 TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
@@ -165,8 +106,6 @@ More Modest TYPE 4 Body and Armor
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
 T6M Outfits Selection
 Body and Face Textures Workshop
-Mannequin Races
-Mannequin Races - TYPE 4
 ```
 </details>
 
@@ -174,7 +113,6 @@ Mannequin Races - TYPE 4
 <summary>Load order</summary>
 
 ```
-tkEyelashesFNV.esp
 T4-plugin.esp
 T4 YUP Patch.esp
 T4 Fixes.esp
@@ -183,7 +121,6 @@ T4 JSUE Patch.esp
 T4 Eyelashes FNV Patch.esp
 T6M Combat Armor.esp
 More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
-Mannequin Rce.esp
 ```
 </details>
 
