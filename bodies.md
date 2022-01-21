@@ -62,13 +62,13 @@ Compilation of small gameplay mods by various authors, all fully fixed, optimize
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
-- Install **01 - Improved Male Body - FOMOD Installer** (Main files).
-- FOMOD options to install:
-  - [X] 00 - Main
-  - [X] 05 - Underwear Options
-    - [X] 08 - Legacy Underwear
 
-Additional files to install:
+Files to install:
+- **01 - Improved Male Body - FOMOD Installer** (Main files)
+  - FOMOD options to install:
+    - [X] 00 - Main
+    - [X] 05 - Underwear Options
+      - [X] 08 - Legacy Underwear
 - **00 - Outfit Conversions - Hotfix** (Update files)  
   Work in progress outfit conversion for most of the openfoot meshes.
   - **Merge** with the main file. 
@@ -85,7 +85,9 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
   Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
-  - Install **T4 Armor Mesh Fixes (Vanilla)** (Main files).
+  
+  Files to install:
+  - **T4 Armor Mesh Fixes (Vanilla)** (Main files)
 - [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
   Patches **TYPE 4** for a variety of mods.
   - BAIN options to install:
@@ -111,35 +113,32 @@ Optional files to install:
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
-- Install **00 - Default Version - CORE** (Main files).
-- Install **00b - Raider Textures** (Main files).
-  - **Merge** with the main file.
 
-Additional files to install:
+Files to install:
+- **00 - Default Version - CORE** (Main files)
+- **00b - Raider Textures** (Main files)
 - **00 - Dead Money DLC - Christine face** (Update files)
-  - **Merge** with the main file.
 - **01 - Old Female** (Update files)  
-  - **Merge** with the main file.
 - **01 - Detailed Face Normalmap** (Optional files)  
-  - **Merge** with the main file.
 - **03 - Body Hairy Clean** (Optional files)  
-  - **Merge** with the main file.
 - **05 - Face Vanilla Feel** (Optional files)  
-  - **Merge** with the main file.
 
 > ℹ️ This mod is entirely optional, as **TYPE4** already includes seamless textures for its bodies. However, I find they look a bit jarring compared to **Improved Vanilla Male Body**, hence why I recommend installing these textures on top.
 
 [**Mannequin Races**](https://www.nexusmods.com/newvegas/mods/62785)  
 Adds seven new custom races to Fallout New Vegas.
 
-Additional files to install:
+Files to install:
+- **00 - Mannequin Races Type6z** (Main files)
 - **00 - EGM files for hairs** (Optional files)  
-  - **Merge** with the main file.
+
+Additional files to install:
 - [**Mannequin Races - TYPE4**](https://www.nexusmods.com/newvegas/mods/68994)  
   TYPE4 textures and meshes for Mannequin Races.
-  - Install **00 - Mannequin Races TYPE4** (Main files).
-  - Install **01 - TYPE4 Underwear** (Optional files).
-    - **Merge** with the main file.
+  
+  Files to install:
+  - **00 - Mannequin Races TYPE4** (Main files)
+  - **01 - TYPE4 Underwear** (Optional files)
 
 > ℹ️ This mod offers better head meshes for creating your own character. Unfortunately, the included textures are not my cup of tea, and I recommend you copy and paste your TYPE4 textures of choice in order to overwrite the ones from this mod.
 
