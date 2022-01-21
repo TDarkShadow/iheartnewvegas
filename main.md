@@ -195,7 +195,7 @@ Files to install:
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
 
 Files to install:
-- **1. Consistent Pip-boy Icons** (Main files).
+- **1. Consistent Pip-boy Icons** (Main files)
 - **2. Consistent Addon Icons** (Main files)  
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
@@ -573,6 +573,34 @@ Additional files to install:
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71577?) to original mod by **BobG123**, whose fixed meshes were used as a resource for this mod.
 
+[**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
+Adds animated eyelashes to NPCs and the player character.
+
+Files to install:
+- **tkEyelashesFNV** (Main files).
+  - Hide **tkEyelashesFNV_FemalesOnly.esp**.
+
+Additional files to install:
+- [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893) (Optional files)  
+  Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
+
+[**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
+Improves teeth, eyelashes, and eyebrow textures.
+
+Files to install:
+- **Eyelashes 1.3** (Main files)
+- **HD teeth 3.0** (Main files)
+- **HQ eyebrows** (Main files)
+
+[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
+Improves eye textures.
+
+Files to install:
+- **00 - Natural Eyes - Shadow** (Main files)
+
+[**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
+Removes shine from vanilla hairs.
+
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
 
@@ -727,7 +755,12 @@ Adds extra meshes for LOD generation.
 Additional files to install:
 - [**Hoover Dam Jets Restored and Distant - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135) (Optional files)
 
-## Finishing touches
+[**FNVLODGen Output (Left My Heart In New Vegas**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
+Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
+
+> ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
+
+## FINISHING TOUCHES
 
 ### Mod order and load order
 
@@ -883,6 +916,11 @@ Gore Overhaul Optimized
 Character Expansions Revised
 Character Expansions Revised - YUP - JSU - UW - MR - KFF
 FaceGen Tint Fixes for Character Expansions Revised
+Eyelashes New Vegas
+Eyelashes New Vegas ESP Replacer
+HD Teeth and Natural Eyelashes and Eyebrows
+Natural Eyes
+Vanilla Hair - No Shine
 No Pip-Boy Glove
 Pip-Boy 2000 Mk VI
 Pip-Boy 2000 Mk VI Working Date and Clock
@@ -918,6 +956,7 @@ FNV LOD Supplementation
 TCM's LOD Overhaul
 Much Needed LOD
 HDJRaD - Much Needed LOD Patch
+FNVLODGen Output
 ```
 </details>
 
@@ -1024,6 +1063,7 @@ IMPACT.esp
 dD - Enhanced Blood Main NV.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP - JSU - UW - MR - KFF.esp
+tkEyelashesFNV.esp
 MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
@@ -1211,13 +1251,24 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
+	<summary>January 21th</summary>
+
+- 🆕 (Visuals) **Eyelashes New Vegas**
+- 🆕 (Visuals) **HD Teeth and Natural Eyelashes and Eyebrows**
+- 🆕 (Visuals) **Natural Eyes**
+- 🆕 (Visuals) **Vanilla Hair - No Shine**
+- 🆕 (LOD) **FNVLODGen Output (Left My Heart In New Vegas)**
+
+Don't knock the face mods til you've tried them. [**Here's a comparison.**](https://imgsli.com/OTIyNzE)
+</details>
+
+<details>
 	<summary>January 20th</summary>
 
 - 🆕 **More Subtle New Vegas Light Pollution**.
 - ⚠️ (Visuals) **Better Strip View**: added patch for **More Subtle New Vegas Light Pollution**.
 - ⚠️ (Visuals) Replaced individual patches for **Character Expansions Revised** with an individual merged patch. Will cut down on ESPs by 4 plugins.
 - ⚠️ (Visuals) Replaced individual patches for **FNV Realistic Wasteland Lighting** with an individual ESP replacer. Will cut down on ESPs by 4 plugins.
-- 🚫 (Patches) **Universal Pyromaniac Buff for Fire Effects**. Not a pure bug-fix.
 - 🚫 (Patches) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
 - 🚫 (Gameplay QOL) **Hunting Revolver Iron Sights**. Some weapons have scopes by default and that's fine. Doesn't mean one needs to mod the scopes out.
 </details>
@@ -1227,10 +1278,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 - ⚠️ (Gameplay) Moved **Cannibal Reborn** and **Cannibal Reborn Expanded** to this section.
 - 🆕 (Visuals) **Wasteland Flora Overhaul - Grass**
-- 🚫 (Patches) **Ammo Script Fixes**. Not a pure bug-fix.
-- 🚫 (Patches) **Critical and Effects - Fixes and Tweaks**. Not a pure bug-fix.
-- 🚫 (Patches) **Gauss Rifle VATS Fix - JIP**. Since JAM's Bullet Time is recommended, it's not necessary.
-- 🚫 (Patches) **Mostly Unarmed Tweaks**. Not a pure bug-fix.
 - 🚫 (Overhauls) **Anatomic Perks**. It's the kind of gameplay mod the guide is trying to move further away.
 - 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**. The main issue with the game's environment is not really the trees, but the awful grass. This cuts down on three separate downloads.
 </details>
@@ -1243,4 +1290,3 @@ Such a massive update all across the board, with mods removed, BAIN installers s
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
-
