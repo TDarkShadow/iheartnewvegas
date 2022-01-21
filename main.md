@@ -608,6 +608,12 @@ Files to install:
 Additional files to install:
 - [**Lightweight Strip Overhaul - Uncut Wasteland Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Lightweight%20Strip%20Overhaul%20-%20Uncut%20Wasteland%20Patch.7z)
 
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+
+Files to install:
+- **Slightly Brighter** (Main files)
+
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
@@ -656,6 +662,9 @@ Adds visible Strip signs and moves the Strip buildings to where they should be.
 Files to install:
 - **Better Strip View** (Main files)
 
+Additional files to install:
+- **Better Strip View - More Subtle New Vegas Light Pollution Patch**
+
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
@@ -681,7 +690,6 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
 - FOMOD options to install:
   - [X] Gold Lights
   - [X] Extras Everywhere
-  - [X] Pollution Gold Tint
   - [X] Patch for Better Strip View
 
 Additional files to install:
@@ -882,6 +890,7 @@ NPC Arm Mounted Pip-Boy 2000 Mk VI
 A Little More Lamplight
 Lightweight Strip Overhaul - No Walls
 Lightweight Strip Overhaul - Uncut Wasteland Patch
+More Subtle New Vegas Light Pollution
 Strip Lighting Overhaul
 Strip Lighting Overhaul LSO Patch
 Wasteland Flora Overhaul - Grass
@@ -897,6 +906,7 @@ LOD Additions and Improvements YUP Patch
 FNV LOD Supplementation
 Much Needed LOD
 Better Strip View
+Better Strip View - More Subtle New Vegas Light Pollution Patch
 TCM's LOD Overhaul
 Hoover Dam Jets Restored and Distant
 HDJRaD - Much Needed LOD Patch
@@ -1015,10 +1025,12 @@ Character Expansions Revised - YUP - JSU - UW - MR - KFF.esp
 MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
 Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
+vegasglow.esp
 Strip Lighting Overhaul.esp
 Strip Lighting Overhaul LSO Patch.esp
 Windows of the Mojave v1.2.1.esp
 Better Strip View.esp
+Better Strip View - More Subtle New Vegas Light Pollution Patch.esp
 Distant Water Jets.esp
 Strip Lights Region Fix.esp
 Strip Lights Region Fix - Uncut Wasteland.esp
@@ -1199,7 +1211,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 20th</summary>
 
+- 🆕 **More Subtle New Vegas Light Pollution**.
+- ⚠️ (Visuals) **Better Strip View**: added patch for **More Subtle New Vegas Light Pollution**.
 - ⚠️ (Visuals) Replaced individual patches for **Character Expansions Revised** with an individual merged patch. Will cut down on ESPs by 4 plugins.
+- ⚠️ (Visuals) Replaced individual patches for **FNV Realistic Wasteland Lighting** with an individual ESP replacer. Will cut down on ESPs by 4 plugins.
 - 🚫 (Patches) **Universal Pyromaniac Buff for Fire Effects**. Not a pure bug-fix.
 - 🚫 (Patches) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
 - 🚫 (Gameplay QOL) **Hunting Revolver Iron Sights**. Some weapons have scopes by default and that's fine. Doesn't mean one needs to mod the scopes out.
