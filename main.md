@@ -94,6 +94,9 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
+[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
+Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
+
 [**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
@@ -123,6 +126,23 @@ Additional files to install:
   - Sneak attack critical hits can only be dealt with melee weapons.
   - Broken armor is automatically unequipped.
   - Weapon mods can be unequipped.
+
+### Non-purist NVSE bug fixes
+
+[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
+Fixes several problems at the core level with how ammo scripts and effects work. Includes other gameplay tweaks.
+
+[**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
+Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Includes other gameplay tweaks.
+
+[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
+Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
+
+[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
+Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
+
+[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
+Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
 ### Mesh fixes and optimization
 
@@ -336,6 +356,9 @@ Fixes issues with Agility and Strength modifiers for reloading and throwing weap
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
+
+[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 ## OVERHAULS
 
@@ -796,8 +819,14 @@ Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
 Ammo Burst Case Count Fix
+Gauss Rifle VATS Fix - JIP
 lStewieAl's Tweaks
 lStewieAl's Tweaks Custom INI
+Ammo Script Fixes
+Crippled Limb Reaction Enforcer
+Critical and Effects - Fixes and Tweaks
+Mostly Unarmed Tweaks
+Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
@@ -854,6 +883,7 @@ RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Reload Reloaded
 Simple Explosive Entry
+Well Rested Overhaul
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
 JSawyer Ultimate Tweaks
@@ -986,6 +1016,12 @@ Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
 MigMultiCase.esp
+MigGaussFix.esp
+AmmoScriptFixes.esp
+MigCrippled.esp
+CriticalEffectFixes.esp
+MigKao.esp
+PyromaniacEffectsBuff.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
@@ -1018,6 +1054,7 @@ NPC Use Aid.esp
 RAD.esp
 Reload Reloaded.esp
 Simple Explosive Entry.esp
+migWellRested.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
 JSawyer Ultimate Tweaks.esp
@@ -1253,6 +1290,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>January 21th</summary>
 
+- 🆕 (Patches) **Gauss Rifle VATS Fix - JIP**
+- 🆕 (Non-purist patches) **Ammo Script Fixes**
+- 🆕 (Non-purist patches) **Crippled Limb Reaction Enforcer**
+- 🆕 (Non-purist patches) **Critical and Effects - Fixes and Tweaks**
+- 🆕 (Non-purist patches) **Mostly Unarmed Tweaks**
+- 🆕 (Non-purist patches) **Universal Pyromaniac Buff for Fire Effects**
+- 🆕 (Gameplay) **Well Rested Overhaul**
 - 🆕 (Visuals) **Eyelashes New Vegas**
 - 🆕 (Visuals) **HD Teeth and Natural Eyelashes and Eyebrows**
 - 🆕 (Visuals) **Natural Eyes**
