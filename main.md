@@ -670,7 +670,6 @@ Restores the cut outflow jets to Hoover Dam and makes them visible up and down t
 
 Files to install:
 - **Hoover Dam Jets Restored and Distant** (Main files)
-- **HDJRaD - Much Needed LOD Patch** (Optional files)
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
@@ -719,11 +718,14 @@ Additional files to install:
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
 
+[**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
+Adds extra meshes for LOD generation.
+
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
-[**TCM's LOD Overhaul**](https://www.nexusmods.com/newvegas/mods/70155)  
-Adds extra meshes for LOD generation.
+Additional files to install:
+- [**Hoover Dam Jets Restored and Distant - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135) (Optional files)
 
 ## Finishing touches
 
@@ -899,23 +901,23 @@ FNV Realistic Wasteland Lighting - All DLC
 FNV Realistic Wasteland Lighting - All DLC ESP Replacer
 Mojave Nights
 Night Sky Tweaks
-Improved LOD Noise Texture
-FNVLODGen Resources
-LOD Additions and Improvements
-LOD Additions and Improvements YUP Patch
-FNV LOD Supplementation
-Much Needed LOD
 Better Strip View
 Better Strip View - More Subtle New Vegas Light Pollution Patch
-TCM's LOD Overhaul
 Hoover Dam Jets Restored and Distant
-HDJRaD - Much Needed LOD Patch
 Strip Lights Region Fix
 Strip Lights Region Fix - Hoover Dam Jets Restored and Distant
 Mormon Fort Region Fix
 Lucky 38 Lights Redone
 Lucky 38 Lights Redone - Mormon Fort Region Fix Patch
 FNV RWL All DLC - Worldspace and Region Patch
+Improved LOD Noise Texture
+FNVLODGen Resources
+LOD Additions and Improvements
+LOD Additions and Improvements YUP Patch
+FNV LOD Supplementation
+TCM's LOD Overhaul
+Much Needed LOD
+HDJRaD - Much Needed LOD Patch
 ```
 </details>
 
