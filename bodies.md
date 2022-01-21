@@ -43,35 +43,33 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 
 > ℹ️ This fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
-> ℹ️ If you don't want female nudity, you need to delete **femaleupperbody.nif** and **femaletribalupperbody.nif** (found in **meshes\characters\_male** folder), and remove the underscore from **_femaleupperbody.nif** and **_femaletribalupperbody** (also found in the same folder).
-
 Additional files to install:
 - [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
-  Fixes a glitch that caused light reflections to flicker with TYPE 4 vanilla armors.
+  Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
   
   Files to install:
   - **T4 Armor Mesh Fixes (Vanilla)** (Main files)
+- [**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+  Less skimpy outfits for many TYPE4 outfits.
+  - Hide **jumpsuit fix.esp**
+  
+  Additional files to install:
+  - [**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
+    Fixes mismatching textures on a number of outfits.
+- [**TYPE4 Alternative Raider Armors**](https://www.nexusmods.com/newvegas/mods/66993)  
+  Less skimpy raider armors.
+- [**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
+  Less skimpy prostitute outfits and less goofy combat armor.
+  - [X] 00 Prostitute Outfits
+  - [X] 01 Combat Armor JSUE
 - [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
-  Patches **TYPE 4** for a variety of mods.
+  Patches **TYPE4** for a variety of mods.
   - BAIN options to install:
     - [X] 00 YUP Patch
     - [X] 01 TYPE4 Fixes
     - [X] 02 Vanilla Radiation Suits
     - [X] 03 JSUE Patch
     - [X] 05 Eyelashes FNV Patch
-
-- [**More Modest TYPE 4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-  Less skimpy outfits.
-  - [**Pre-War Casualwear and Relaxedwear Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20TYPE%204%20Pre-War%20Casualwear%20and%20Relaxedwear%20Fix%20(Dec%2029th).7z). Fixes mismatching textures for a number of Pre-War outfits.
-- [**T6M Outfits Selection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Outfits%20Selection.7z)  
-  - [X] 00 Prostitute Outfits  
-    Less skimpy outfits for prostitutes.
-  - [X] 01 Raider Outfits  
-    Less skimpy outfits for raiders.
-  - [X] 02 Combat Armor  
-    Less goofy looking Combat Armor.
-  - [X] 03 Combat Armor JSUE Patch  
-    Patches the mod for compatibility with JSawyer Ultimate Edition.
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
@@ -100,10 +98,11 @@ The mods installed in this guide can be placed at the very end of **Left My Hear
 Improved Vanilla Male Body - Seamless - 4K
 TYPE4 - Body and Armors
 TYPE4 - Armor Fixes
+More Modest TYPE4 Body and Armor
+More Modest TYPE4 Fixes
+TYPE4 Alternative Raider Armors
+T6M Prostitute Outfits and Combat Armor
 TYPE4 Patches
-More Modest TYPE 4 Body and Armor
-More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix
-T6M Outfits Selection
 Body and Face Textures Workshop
 ```
 </details>
@@ -113,13 +112,13 @@ Body and Face Textures Workshop
 
 ```
 T4-plugin.esp
+More Modest T4 Fixes.esp
+T6M Combat Armor Fix JSUE.esp
 T4 YUP Patch.esp
 T4 Fixes.esp
 T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
 T4 Eyelashes FNV Patch.esp
-T6M Combat Armor.esp
-More Modest TYPE 4 Pre-War Casualwear and Relaxedwear Fix.esp  
 ```
 </details>
 
