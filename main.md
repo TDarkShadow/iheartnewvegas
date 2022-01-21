@@ -627,11 +627,10 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 
 Files to install:
 - **FNV Realistic Wasteland Lighting - All DLC** (Main files)
-- **FNV RWL All DLC - Patch Collection** (Optional files)
 
 Additional files to install:
-- [**FNV RWL All DLC - YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20YUP%20Patch.7z)
-- [**FNV RWL All DLC - Zion Valley Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Zion%20Valley%20Ambient%20Music.7z)
+- [**FNV Realistic Wasteland Lighting ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%20ESP%20Replacer.7z)  
+  Includes the FNV RWL All DLC Brighter Nights and No Overcast Weather patches; includes YUP fixes, and Zion Valley Ambient Music from Essential DLC Enhancements.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -888,9 +887,7 @@ Strip Lighting Overhaul LSO Patch
 Wasteland Flora Overhaul - Grass
 Windows of the Mojave
 FNV Realistic Wasteland Lighting - All DLC
-FNV RWL All DLC - Patch Collection
-FNV RWL All DLC - YUP Patch
-FNV RWL All DLC - Zion Valley Ambient Music
+FNV Realistic Wasteland Lighting - All DLC ESP Replacer
 Mojave Nights
 Night Sky Tweaks
 Improved LOD Noise Texture
@@ -1030,10 +1027,6 @@ Mormon Fort Region Fix.esp
 Lucky 38 Lights Redone.esp
 Lucky 38 Lights Redone - Mormon Fort Region Fix Patch.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
-FNV RWL All DLC - YUP Patch.esp
-FNV RWL All DLC - Brighter Nights.esp
-FNV RWL All DLC - No Overcast Weather.esp
-FNV RWL All DLC - Zion Valley Ambient Music.esp
 FNV RWL All DLC - Worldspace and Region Patch.esp
 Mojave Nights.esp
 FNVLODGen.esp
