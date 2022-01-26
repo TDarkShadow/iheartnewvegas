@@ -14,7 +14,7 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 ## Acknowledgments
 
-I want to thank Qolore7 of [**Viva New Vegas**](https://vivanewvegas.github.io/index.html) fame for all his hard work. Quite a bit of this guide comes from Viva New Vegas and previous iterations of it.
+I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
 
 ## About
 
