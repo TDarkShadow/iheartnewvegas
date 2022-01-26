@@ -363,10 +363,13 @@ Files to install:
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
-Incorporates YUP, WMIM, and Throwable Weapon Fixes. Disables the out of place Wasteland Adventurer.
+Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes. Disables the out of place Wasteland Adventurer.
 
 [**Misc Gameplay Merge - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compatibility patch for Misc Gameplay Merge..
+Compatibility patch for Misc Gameplay Merge.
+
+Files to install:
+- **JSawyer Ultimate Edition Patch** (Optional files)
 
 [**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)  
 Compatibility patch for Miscellaneous Tweaks.
@@ -382,6 +385,9 @@ Compatibility patch for JSawyer Ultimate - Push's Tweaks.
 
 [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
+
+Files to install:
+- **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
 
 [**Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)  
 Compatibility patch for Miscellaneous Tweaks.
@@ -777,7 +783,10 @@ Adds extra meshes for LOD generation.
 [**Hoover Dam Jets Restored and Distant - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135)  
 Compatibility patch for Much Needed LOD.
 
-[**FNVLODGen Output (Left My Heart In New Vegas**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
+Files to install:
+- **HDJRaD - Much Needed LOD Patch** (Optional files)
+
+[**FNVLODGen Output - Left My Heart In New Vegas**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
