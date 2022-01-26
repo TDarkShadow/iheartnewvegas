@@ -74,19 +74,19 @@ Unfortunately a lot of patching is required since many mods do not include fixes
 
 ### How much space do I need to install these mods?
 
-Roughly 6GB.
+Roughly 5GB.
 
 ### How much time will it take me to install all mods?
 
-Depends on how thorough you are about it. It shouldn't take you longer than three hours to set everything up.
+Depends on how thorough you are about it. It shouldn't take you longer than three hours to set everything up. Even then, I don't suggest installing everything in one go. Resist the urge to rush through this guide. It's better to pace yourself, make sure everything is set up correctly. It will save you headaches down the road.
 
 ### How often is the guide updated?
 
-It is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
+Left My Heart In New Vegas is regularly updated as I find new mods to install, old mods that I consider are no longer worth the trouble of installing them, and bugs to fix or issues to sort out.
 
 ### Is there a Wabbajack installer for the guide available?
 
-No. I already have enough questions asked because users installed a mod without reading what it did. I don't those questions to increase tenfold by providing an automated installer.
+No. I already have enough questions asked because users installed a mod without reading what it did. I don't want those questions to increase tenfold by providing an automated installer.
 
 ### Do you have a Patreon I can contribute to?
 
