@@ -55,7 +55,7 @@ Enables borderless window mode for safe alt-tabbing.
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
 
 [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z)  
-Enables a number of settings to achieve the best balance between performance and stability.
+Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
@@ -100,7 +100,7 @@ Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z)  
-Enables many quality of life improvements, as well as gameplay and balance tweaks. Major gameplay tweaks include:
+Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks. Major gameplay tweaks include:
 - Numbered dialogue topics.
 - Hidden skill requirements for skill checks.
 - Holding the attack button for grenades decreases their detonation timer.
@@ -193,7 +193,7 @@ Makes the crafting interface easier, more efficient and less tedious to use.
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
 
 [**FOV Slider Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FOV%20Slider%20Custom%20INI%201.0.3.7z)  
-Increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
+Custom configuration that increases field of view. Recommended to be used alongside **Pip-Boy 2000 Mk VI**, which we will install in the **Visuals** section.
 
 [**Vanilla HUD Cleaned**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -304,7 +304,7 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, [**see here**](https://www.nexusmods.com/newvegas/mods/67460).
 
 [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z)  
-Disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
+Custom configuration that disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
 
 [**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
@@ -375,7 +375,7 @@ Compatibility patch for Miscellaneous Tweaks.
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
-Disables most GRA features, and enables low condition loot.
+Custom configuration that disables most GRA features, and enables low condition loot.
 
 [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)  
 Compatibility patch for JSawyer Ultimate - Push's Tweaks.
@@ -545,7 +545,7 @@ Files to install:
 - **Ragdolls** (Main files)
 
 [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
-Enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
+Custom configuration that enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
 
 [**Ragdolls YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20YUP%20Patch.7z)  
 Compatibility patch for Yukichigai Unofficial Patch.
