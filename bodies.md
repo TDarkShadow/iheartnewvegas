@@ -43,37 +43,39 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 
 > ℹ️ This fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
 
-Additional files to install:
-- [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
-  Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
+[**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
+Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
   
-  Files to install:
-  - **T4 Armor Mesh Fixes (Vanilla)** (Main files)
-- [**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
-  Less skimpy outfits for many TYPE4 outfits.
-  - Hide **jumpsuit fix.esp**
+Files to install:
+- **T4 Armor Mesh Fixes (Vanilla)** (Main files)
+
+[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+Less skimpy outfits for many TYPE4 outfits.
+- Hide **jumpsuit fix.esp**
   
-  Additional files to install:
-  - [**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
-    Fixes mismatching textures on a number of outfits.
-- [**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
-  Less skimpy outfits.
+[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
+Fixes mismatching textures on a number of More Modest TYPE4 outfits.
+
+[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
+Less skimpy Wasteland Wanderer and Raider outfits.
   
-  Files to install:
-  - **Raider armors** (Main files)
-  - **Wasteland Wanderer** (Main files)
-- [**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
-  Less skimpy prostitute outfits and less goofy combat armor.
-  - [X] 00 Prostitute Outfits
-  - [X] 01 Combat Armor JSUE
-- [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
-  Patches **TYPE4** for a variety of mods.
-  - BAIN options to install:
-    - [X] 00 YUP Patch
-    - [X] 01 TYPE4 Fixes
-    - [X] 02 Vanilla Radiation Suits
-    - [X] 03 JSUE Patch
-    - [X] 05 Eyelashes FNV Patch
+Files to install:
+- **Raider armors** (Main files)
+- **Wasteland Wanderer** (Main files)
+
+[**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
+Less skimpy Prostitute outfits and less goofy Combat Armor.
+- [X] 00 Prostitute Outfits
+- [X] 01 Combat Armor JSUE
+
+[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
+Patches **TYPE4** for a variety of mods.
+- BAIN options to install:
+  - [X] 00 YUP Patch
+  - [X] 01 TYPE4 Fixes
+  - [X] 02 Vanilla Radiation Suits
+  - [X] 03 JSUE Patch
+  - [X] 05 Eyelashes FNV Patch
 
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
