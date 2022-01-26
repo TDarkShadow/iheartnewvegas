@@ -58,13 +58,9 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ## Frequently asked questions
 
-### What are the key differences between this guide and Viva New Vegas?
-
-Scope and hand-holdiness. My guide is much bigger. It also demands more from its users. My guide lacks no major instructions, however, it is the user that needs to follow them to the letter. If you decide to skip them, it's on you. Expect no support from me.
-
 ### Is this guide compatible with A World of Pain/Strip Open/Freeside Open?
 
-My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving.
+My guess is no. At any rate, I wouldn't bother with those mods unless you enjoy conflict solving, or breaking your save on uninstallation.
 
 ### Is this mod compatible with the guide?
 
