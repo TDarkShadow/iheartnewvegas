@@ -56,7 +56,7 @@ Fixes the tick count bug (which creates noticable micro stutter), optimizes hash
 
 Additional files to install:
 - [**NVTF Custom INI**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/NVTF%20Custom%20INI.7z)  
-  Enables a number of settings to achieve the best balance between performance and stability. Made by **Qolore**.
+  Enables a number of settings to achieve the best balance between performance and stability.
 
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
@@ -154,7 +154,7 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 
 Additional files to install:
 - [**WMIM ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
-  Removes unnecessary, non-bugfix edits. Made by **Qolore**.
+  Removes unnecessary, non-bugfix edits.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
@@ -733,7 +733,7 @@ Files to install:
 
 Additional files to install:
 - [**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix.7z)  
-  Add-on that fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace. Mod by **Nehred**.
+  Add-on that fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace.
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
