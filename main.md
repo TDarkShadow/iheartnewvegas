@@ -28,7 +28,6 @@ Adds new functions, engine bug fixes and tweaks, and restored broken game featur
 [**ShowOff NVSE Plugin**](https://github.com/Demorome/Showoff-NVSE/releases)  
 Adds new functions, engine bug fixes and tweaks.
 - Click the **ShowOffNVSE.7z** under **Assets** to download it.
-- Install manually in Mod Organizer 2.
  
 [**kNVSE Animation Plugin**](https://www.nexusmods.com/newvegas/mods/71336)  
 Enables having custom animations for weapons and actors. Also fixes the engine-bound anim group limit problem.
