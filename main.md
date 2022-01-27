@@ -1136,7 +1136,7 @@ MuchNeededLOD.esp
 
 ### Generating LOD
 
-With all our mods and resources installed, we can finally generate our LOD.
+Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
 
 - Run **FNVLODGen** in MO2.
 - Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**.
