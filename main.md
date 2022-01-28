@@ -377,7 +377,7 @@ Compatibility patch for Miscellaneous Tweaks.
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
 [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
-Custom configuration that disables most GRA features, and enables low condition loot.
+Custom configuration that disables most GRA features.
 
 [**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)  
 Compatibility patch for JSawyer Ultimate - Push's Tweaks.
@@ -1236,17 +1236,6 @@ bMatchingCursor = 1
 ```
 
 > ℹ️ Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
-
-**Mojave Arsenal Custom INI (Optional)**:
-- Double-click the installed mod to open the **Information...** window.
-- Click the **INI Files** tab, and make the following adjustments in **Mojave Arsenal.ini**.
-- Click on the diskette icon to save your changes.
-
-```
-bLowConditionLoot=0
-```
-
-> ℹ️ Disables the Low Condition Loot feature, in favor of **Famine - A Loot Rarity Mod**'s own implementation.
 
 **falloutcustom.ini (Optional)**:
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
