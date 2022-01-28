@@ -97,11 +97,7 @@ New Vegas Script Extender (xNVSE) expands the engine and scripting capabilities 
 
 ### Adjusting mod and load order
 
-Your installed mods are listed on the pane to the left. This is the order in which Fallout: New Vegas loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
-
-Your plugins are listed on the pane to the right. This is the order in which Fallout: New Vegas loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
-
-Reorganize your load order to read as follows using drag and drop, and enable the plugins.
+Reorganize the plugins to the right to read as follows using drag and drop, and enable the plugins.
 ```
 FalloutNV.esm
 DeadMoney.esm
@@ -114,6 +110,10 @@ MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
 ```
+
+> ℹ️ Your installed mods are listed on the pane to the left. This is the order in which Fallout: New Vegas loads their assets, with mods closer to the bottom overwriting the assets of mods closer to the top (if conflicting assets are present). We will refer to it as our **mod order**.
+
+> ℹ️ Your plugins are listed on the pane to the right. This is the order in which Fallout: New Vegas loads their plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
 > ℹ️ You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
@@ -160,7 +160,7 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 - With the **Default** profile selected, click **Copy**. Type in **Left My Heart In New Vegas** and click **OK**.
 - Click on the newly created profile, and click **Select**. The window will close, and the new profile should have been automatically selected.
 
-This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
+> ℹ️ This is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
 # Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
 
