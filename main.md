@@ -99,7 +99,11 @@ Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z)  
-Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks. Major gameplay tweaks include:
+Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
+
+<details>
+	<summary>Detailed list of tweaks</summary>
+
 - Numbered dialogue topics.
 - Hidden skill requirements for skill checks.
 - Holding the attack button for grenades decreases their detonation timer.
@@ -123,6 +127,7 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Sneak attack critical hits can only be dealt with melee weapons.
 - Broken armor is automatically unequipped.
 - Weapon mods can be unequipped.
+</details>
 
 ### Non-purist NVSE bug fixes
 
