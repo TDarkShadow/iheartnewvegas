@@ -645,7 +645,8 @@ Files to install:
 Adds extra meshes for LOD generation.
 
 Files to install:
-- **FNVLODGen Resources** (Main files)
+- **FNVLODGen Resources** (Main files)  
+  As **FNVLODGen Resources**.
 
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
