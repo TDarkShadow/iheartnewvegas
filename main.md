@@ -558,8 +558,10 @@ Optimizes the very high resolution textures, without noticeably sacrificing qual
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-[**Character Expansions Revised - YUP - JSU - UW - MR - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR%20-%20KFF.7z)  
+[**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends.
+- BAIN options to install:
+  - [X] 00 All in One
 
 [**FaceGen Tint Fixes for Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
