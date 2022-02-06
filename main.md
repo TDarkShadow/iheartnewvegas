@@ -589,24 +589,17 @@ Removes shine from vanilla hairs.
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
-[**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
-Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
-
-Files to install:
-- **Lightweight Strip Overhaul - No Walls** (Main files)
-- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
-
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
 
 Files to install:
 - **Slightly Brighter** (Main files)
 
+[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
+Fixes the bright night sky horizons.
+
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
-
-[**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
-Compatibility patch for Lightweight Strip Overhaul.
 
 [**Wasteland Flora Overhaul - Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20-%20Grass.7z)  
 Improves grass textures.
@@ -637,9 +630,6 @@ Files to install:
 - Copy the **textures\sky\skystars.dds** file and paste it inside the **textures\NVDLC02\sky** folder.
 
 > ℹ️ This will also apply the new night sky texture to Zion.
-
-[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
-Fixes the bright night sky horizons.
 
 ## LOD
 
