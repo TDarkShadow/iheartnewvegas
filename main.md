@@ -667,7 +667,7 @@ Adds extra meshes for LOD generation.
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
-[**FNVLODGen Output - Left My Heart In New Vegas**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
+[**FNVLODGen Output**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
@@ -811,8 +811,9 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 02-06-2022
 - Reworked the guide as it will be split into a main and add-on documents, like my Morrowind guide is. Pretty much every mod removed since the last update will be present in this add-on guide.
-- Mod order and load order is now handled by a download that needs to be installed on your MO2 profile folder.
-- Removed **No Stealing After Repair**, as it is included in **lStewieAl's Tweaks Custom INI**.
+- Mod order and load order is now handled by a download that needs to be installed on your MO2 profile folder. These require mods to be installed under specific names, those of which are provided by default by MO2. The ones that require a different name are mentioned in the guide.
+- **No Stealing After Repair** is now included in **lStewieAl's Tweaks Custom INI**.
+- **FNVLODGen Output** has been updated to reflect the removal of many LOD mods.
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
