@@ -89,13 +89,7 @@ Files to install:
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
-
-[**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
-Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
-
-[**lStewieAl's Tweaks**](https://www.nexusmods.com/newvegas/mods/66347)  
+[**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
 [**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z)  
@@ -128,23 +122,6 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Broken armor is automatically unequipped.
 - Weapon mods can be unequipped.
 </details>
-
-### Non-purist NVSE bug fixes
-
-[**Ammo Script Fixes**](https://www.nexusmods.com/newvegas/mods/63997)  
-Fixes several problems at the core level with how ammo scripts and effects work. Includes other gameplay tweaks.
-
-[**Crippled Limb Reaction Enforcer**](https://www.nexusmods.com/newvegas/mods/73147)  
-Makes the idle animations for crippled limbs come through in situations where the game cannot pick them correctly like when the damage comes from an explosion. Includes other gameplay tweaks.
-
-[**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
-Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
-
-[**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
-Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
-
-[**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
-Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
 ### Mesh fixes and optimization
 
@@ -233,16 +210,15 @@ Files to install:
 [**Satellite Maps DLC**](https://www.nexusmods.com/newvegas/mods/64292)  
 High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lonesome Road.
 
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scope overlay with worn-out scopes to give them a post-apocalyptic feel.
-
-Files to install:
-- **Worn-Out Scopes** (Main files)
-
 ## GAMEPLAY QOL
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
+
+[**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
+Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. The featured version drops the restored Primm Reputation and omits the tweaks to reputation scripts.
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
@@ -269,26 +245,6 @@ Adjusts the positioning of the grenade/mine icon to not overlap with other UI el
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
 ## GAMEPLAY
-
-[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
-Adds melee attacks for non-melee weapons.
-
-[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
-Balanced cannibalism overhaul with immersive gore effects.
-
-Files to install:
-- **Cannibal Reborn** (Main files)
-
-[**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
-Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
-
-[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
-Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
-
-[**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
-Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. The featured version drops the restored Primm Reputation and omits the tweaks to reputation scripts.
 
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
@@ -351,9 +307,6 @@ Fixes issues with Agility and Strength modifiers for reloading and throwing weap
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows the player to use explosives to bypass locks. Items have a chance of being destroyed, with the exception of notes and quest items.
-
-[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 ## OVERHAULS
 
@@ -632,28 +585,6 @@ Files to install:
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
 
-[**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless Pip-Boy glove from player and NPCs.
-
-Files to install:
-- **No Pip-Boy Glove - No ESP** (Main files)
-
-[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
-
-Files to install:
-- **Pip-Boy 2000 Mk VI replacer version** (Main files)
-- **Working date and clock for replacer** (Optional files)
-
-[**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
-Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
-
-[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
-Gives the Pip-Boy 2000 Mk VI a grittier texture.
-
-[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
-Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
 ### Environment
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
@@ -715,48 +646,6 @@ Fixes the bright night sky horizons.
 
 ## LOD
 
-[**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
-Adds visible Strip signs and moves the Strip buildings to where they should be.
-
-Files to install:
-- **Better Strip View** (Main files)
-
-[**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20-%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
-Compatibility patch for More Subtle New Vegas Light Pollution.
-
-[**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
-Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
-
-Files to install:
-- **Hoover Dam Jets Restored and Distant** (Main files)
-
-[**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
-Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
-
-Files to install:
-- **Strip Lights Region Fix** (Main files)
-  - FOMOD options to install:
-    - [X] Uncut Wasteland
-
-[**Strip Lights Region Fix - Hoover Dam Jets Restored and Distant Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lights%20Region%20Fix%20-%20Hoover%20Dam%20Jets%20Restored%20and%20Distant%20Patch.7z)  
-Compatibility patch for Hoover Dam Jets Restored and Distant.
-
-[**Mormon Fort Region Fix**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mormon%20Fort%20Region%20Fix.7z)  
-Fixes an issue where the Lucky 38 would disappear from the Old Mormon Fort worldspace, particularly when using LOD mods.
-
-[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
-Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
-- FOMOD options to install:
-  - [X] Gold Lights
-  - [X] Extras Everywhere
-  - [X] Patch for Better Strip View
-
-[**Lucky 38 Lights Redone - Mormon Fort Region Fix Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Lucky%2038%20Lights%20Redone%20-%20Mormon%20Fort%20Region%20Fix%20Patch.7z)  
-Compatibility patch for Mormon Fort Region Fix.
-
-[**FNV RWL All DLC - Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20and%20Region%20Patch.7z)  
-All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
-
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
 
@@ -783,12 +672,6 @@ Adds extra meshes for LOD generation.
 
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
-
-[**Hoover Dam Jets Restored and Distant - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135)  
-Compatibility patch for Much Needed LOD.
-
-Files to install:
-- **HDJRaD - Much Needed LOD Patch** (Optional files)
 
 [**FNVLODGen Output - Left My Heart In New Vegas**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
