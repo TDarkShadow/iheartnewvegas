@@ -8,8 +8,7 @@
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
 By default, mods will be installed with a predetermined name in Mod Organizer 2. Unless explicitly told, do not modified this default name, as the files provided at the end of the guide rely on these names to sort your mods accordingly.
-
-In cases where multiple main files from a same mod need to be installed, you will be told whether the mod needs to be installed under the default name (e.g. Consistent Pip-Boy Icons), or under a specific name (e.g. Consistent Pip-Boy Icons - Mod Patches). When installed under the default name, mods need to be merged from each other. This is to reduce clutter on your load order.
+- When multiple main files from a same mod need to be installed, you will be told whether the mod needs to be installed under the default name (e.g. Consistent Pip-Boy Icons), or under a specific name (e.g. Consistent Pip-Boy Icons - Mod Patches). When installed under the default name, mods need to be merged from each other. This is to reduce clutter on your load order.
 
 # LEFT MY HEART IN NEW VEGAS
 
