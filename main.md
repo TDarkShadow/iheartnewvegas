@@ -519,10 +519,10 @@ Files to install:
 [**Ragdolls Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20Custom%20INI.7z)  
 Custom configuration that enables ragdoll momentum, corpse toucher, hit reactions, and complex death reactions features. 
 
-[**Ragdolls YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20YUP%20Patch.7z)  
+[**Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
-[**Ragdolls DLC Enhancements Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Ragdolls%20DLC%20Enhancements%20Patch.7z)  
+[**Ragdolls DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Essential DLC Enhancements.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
@@ -561,7 +561,7 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 [**Character Expansions Revised - YUP - JSU - UW - MR - KFF**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR%20-%20KFF.7z)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends.
 
-[**FaceGen Tint Fixes for Character Expansions Revised**](https://drive.google.com/file/d/1OzY-_zi3RfVkIMvaQJvb-3DZc9AhGH9H/view?usp=sharing)  
+[**FaceGen Tint Fixes for Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
 - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
 
