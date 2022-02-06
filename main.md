@@ -156,6 +156,7 @@ Allows any number of mods to be configured from a single menu, accessible throug
 Files to install:
 - **The Mod Configuration Menu** (Main files)
 - **MCM BugFix 2** (Optional files)
+  - Install as **The Mod Configuration Menu Bugfix**
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
