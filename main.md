@@ -626,7 +626,7 @@ Complete weather overhaul designed to make the game look more realistic. Improve
 Files to install:
 - **FNV Realistic Wasteland Lighting - All DLC** (Main files)
 
-[**FNV Realistic Wasteland Lighting ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20ESP%20Replacer.7z)  
+[**FNV Realistic Wasteland Lighting ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 ESP replacer that includes Yukichigai Unofficial Patch fixes, brighter nights, no overcast weather, and ambient music in the Zion Valley.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
