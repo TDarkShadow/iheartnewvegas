@@ -294,6 +294,11 @@ Files to install:
 [**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
 
+[**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
+Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
+
+> ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
+
 ### Generating LOD
 
 Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
