@@ -225,9 +225,19 @@ Files to install:
 
 ### Environment
 
-[**Gun Runners Kiosk Glass Fix**]()  
+[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
+Fixes the glass texture in the Gun Runners' kiosk. 
 
-[**Clean Lucky 38**]()  
+Files to install:
+- **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files)
+
+[**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
+Retextures and cleanups the interior of the Lucky 38.
+
+Files to install:
+- **Clean Lucky 38 Mesh Fix** (Update files)
+
+> ℹ️ This file is not an update, but the latest version of the mod.
 
 [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
@@ -240,9 +250,11 @@ Files to install:
 [**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
 Compatibility patch for Lightweight Strip Overhaul.
 
-[**Palm Tree Replacer**]()  
+[**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
+Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
 
-[**The Strip Planters Fixed**]()  
+[**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406/)  
+Fixes the planters on the Strip.
 
 ## LOD
 
