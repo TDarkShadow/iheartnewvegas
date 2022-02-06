@@ -689,7 +689,7 @@ JohnnyGuitar NVSE
 ShowOffNVSE
 kNVSE Animation Plugin
 yUI - User Ynterface
-yUI - User Ynterface - Matched Cursor
+Matched Cursor - Fallout New Vegas
 NVAC - New Vegas Anti Crash
 NVTF - New Vegas Tick Fix
 NVTF Custom INI
@@ -700,15 +700,8 @@ Yukichigai Unofficial Patch - YUP
 Landscape Disposition Fix
 Navmesh Fixes and Improvements
 Unofficial Patch NVSE Plus
-Ammo Burst Case Count Fix
-Gauss Rifle VATS Fix - JIP
-lStewieAl's Tweaks
+lStewieAl's Tweaks and Engine Fixes
 lStewieAl's Tweaks Custom INI
-Ammo Script Fixes
-Crippled Limb Reaction Enforcer
-Critical and Effects - Fixes and Tweaks
-Mostly Unarmed Tweaks
-Universal Pyromaniac Buff for Fire Effects
 New Vegas Mesh Improvement Mod
 Weapon Mesh Improvement Mod
 WMIM ESP Replacer
@@ -724,29 +717,24 @@ FOV Slider
 FOV Slider Custom INI
 Vanilla HUD Cleaned
 Clean Companion Wheel
-Consistent Pip-Boy Icons
-Consistent Addon Icons
-Consistent Glow Icons
-Vanilla UI Plus Patch
+1. Consistent Pip-boy Icons
+2. Consistent Addon Icons
+3. Consistent Glow Icons
+6. Vanilla UI Plus Patch
 Satellite World Map
 Satellite Maps DLC
-Worn-Out Scope Crosshair Replacers
 Essential DLC Enhancements Merged
+Faction Warning and Reputation Tweaks
 Faster Pip-Boy Animation
 Laser Weapon Iron Sights - Gun Runner's Arsenal Merged
-Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
 Laser Weapon Iron Sights - Iron Sight Recoil Animations
+Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged
 Plasma Weapon Iron Sights - Iron Sight Recoil Animations
 Quick Grenade Hotkey
 Quick Grenade Hotkey Tweaks
 Simple DLC Delay
-B42 Melee Bash
-Cannibal Reborn
-Cannibal Reborn Expanded
-Enhanced Vision
-Faction Warning and Reputation Tweaks
 Follower Formula Redone
-Follower Formula Redone YUP Patch
+Follower Formula Redone ESP Replacer
 Follower Tweaks
 Jamming Fix and Optional Tweaks
 JAM - Just Assorted Mods
@@ -758,33 +746,30 @@ Misc Gameplay Merge
 Misc Gameplay Merge YUP Patch
 Miscellaneous Tweaks Collection
 Miscellaneous Tweaks Collection Tweaks
-No Stealing After Repair
 NPCs Sprint In Combat
 NPCs Use Aid Items
 RAD - Radiation (is) Actually Dangerous
 RAD - Radiation (is) Actually Dangerous - Overhaul
 Reload Reloaded
 Simple Explosive Entry
-Well Rested Overhaul
 JSawyer Ultimate Edition
 JSawyer Ultimate Edition - Push's Tweaks
-JSawyer Ultimate Tweaks
-Misc Gameplay Merge - JSawyer Ultimate Edition Patch
-Miscellaneous Tweaks - JSawyer Ultimate - Push's Tweaks Patch
+JSawyer Ultimate Edition - Tweaks
 Mojave Arsenal
 Mojave Arsenal Custom INI
-Mojave Arsenal - JSUE - Push's Tweaks Patch
 JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)
-Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch
-Consistent Pip-Boy Icons - Mod Patches
 Famine - A Loot Rarity Mod
 New Vegas Economy Improved
 Player Combat Priority
 Repair Tools
 Repair Tools - JSawyer Ultimate Push's Tweaks Patch
-Improved Traits and Opposite Traits
-Improved Traits and Opposite Traits - JSawyer Ultimate Edition Patch
+FNV Opposite Traits
+Improved Traits
+Improved Traits Tweaks
+Improved FNV Opposite Traits
 Better Character Creation
+4. CPI - Mod Patches
+JSawyer Ultimate Edition Patches
 Uncut Wasteland Plus NPCs
 Uncut Wasteland Pole Remover
 Uncut Wasteland Tweaks
@@ -793,26 +778,26 @@ Mojave Raiders
 Mojave Raiders - No NPC Throwing Weapon Consumption
 JSawyer Ultimate - Mojave Raiders Patch
 Khans Friendly to Fiends
-Khans Friendly to Fiends - Mojave Raiders Patch
+Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
 Canvas Backpacks - Remade
-Canvas Backpacks - Remade - Strapless Update
+Strapless Update
 Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch
 All Weapon Sounds Overhaul
 All Weapon Sounds Overhaul ESP Replacer
 All Weapon Sounds Overhaul WMIM Patch
 All Explosion Sounds Overhaul
 All Explosion Sounds Overhaul SCRIPT Version
-Immersive Primary Needs
 Female Nuka-Cola Drinking Sound Replacer
+Project Nevada - Immersive Primary Needs
 Anniversary Anim Pack
-Anniversary Anim Pack - Weapon Mesh Improvement Mod Patch
+Weapon Mesh Improvement Mod Patch
 Anniversary Anim Pack - General Bugfix
-Anniversary Anim Pack - General Bugfix - Bonus Patch
+Bonus Patch
 FNV Clean Animations
-FNV Clean Animations - Update
-Immersive Recoil
-Viewmodel Recoil
+FNV Clean Animations - Update 2.2.2
+Immersive Recoil 2.0
+Viewmodel Recoil 0.308
 B42 Weapon Inertia
 Ragdolls
 Ragdolls Custom INI
@@ -820,46 +805,28 @@ Ragdolls YUP Patch
 Ragdolls DLC Enhancements Patch
 NV Compatibility Skeleton
 IMPACT - The Michael Bay
-IMPACT - Compatibility Edition
+IMPACT - Compatibility Edition (JIP LN) (DLC - TTW - All Mods)
 EXE - Effect teXtures Enhanced
-Enhanced Blood Textures
+Enhanced Blood Textures for NV v2_22c
 Gore Overhaul
-Gore Overhaul Optimized
+Gore Overhaul Optimized Textures
 Character Expansions Revised
 Character Expansions Revised - YUP - JSU - UW - MR - KFF
 FaceGen Tint Fixes for Character Expansions Revised
 Eyelashes New Vegas
 Eyelashes New Vegas ESP Replacer
 HD Teeth and Natural Eyelashes and Eyebrows
-Natural Eyes
+Natural Eyes by zzjay
 Vanilla Hair - No Shine
-No Pip-Boy Glove
-Pip-Boy 2000 Mk VI
-Pip-Boy 2000 Mk VI Working Date and Clock
-Pip-Boy 2000 Mk VI Working Buttons
-Pip-Boy 2000 Mk VI (Wasteland Edition) Retexture
-NPC Arm Mounted Pip-Boy 2000 Mk VI
 A Little More Lamplight
-Lightweight Strip Overhaul - No Walls
-Lightweight Strip Overhaul - Uncut Wasteland Patch
 More Subtle New Vegas Light Pollution
-Strip Lighting Overhaul
-Strip Lighting Overhaul LSO Patch
-Wasteland Flora Overhaul - Grass
-Windows of the Mojave
-FNV Realistic Wasteland Lighting - All DLC
-FNV Realistic Wasteland Lighting - All DLC ESP Replacer
-Mojave Nights
 Night Sky Tweaks
-Better Strip View
-Better Strip View - More Subtle New Vegas Light Pollution Patch
-Hoover Dam Jets Restored and Distant
-Strip Lights Region Fix
-Strip Lights Region Fix - Hoover Dam Jets Restored and Distant
-Mormon Fort Region Fix
-Lucky 38 Lights Redone
-Lucky 38 Lights Redone - Mormon Fort Region Fix Patch
-FNV RWL All DLC - Worldspace and Region Patch
+Strip Lighting Overhaul
+Wasteland Flora Overhaul Grass
+Windows of the Mojave
+FNV Realistic Wasteland Lighting
+FNV Realistic Wasteland Lighting ESP Replacer
+Mojave Nights
 Improved LOD Noise Texture
 FNVLODGen Resources
 LOD Additions and Improvements
@@ -867,7 +834,6 @@ LOD Additions and Improvements YUP Patch
 FNV LOD Supplementation
 TCM's LOD Overhaul
 Much Needed LOD
-HDJRaD - Much Needed LOD Patch
 FNVLODGen Output
 ```
 </details>
@@ -894,16 +860,8 @@ Landscape Disposition Fix.esm
 Misc Gameplay Merge.esm
 Ragdolls.esm
 Character Expansions Revised.esm
-Lightweight Strip Overhaul.esm
 YUP - NPC Fixes (Base Game + All DLC).esp
 Unofficial Patch NVSE Plus.esp
-MigMultiCase.esp
-MigGaussFix.esp
-AmmoScriptFixes.esp
-MigCrippled.esp
-CriticalEffectFixes.esp
-MigKao.esp
-PyromaniacEffectsBuff.esp
 WMIMNV.esp
 ThrowableFixes.esp
 LessFlickeryCityOfNewVegas.esp
@@ -912,17 +870,12 @@ Vanilla UI Plus.esp
 JIP Improved Recipe Menu.esp
 FOVSlider.esp
 DLC Enhancements.esp
+Faction Warning and Reputation Tweaks.esp
 LaserWeaponIronSights.esp
 PlasmaWeaponIronSights.esp
 Quick Grenade Hotkey.esp
 Simple DLC Delay.esp
-B42Bash.esp
-Cannibal Reborn.esp
-Cannibal Reborn Expanded.esp
-Enhanced Vision.esp
-Faction Warning and Reputation Tweaks.esp
 Follower Formula Redone.esp
-Follower Formula Redone YUP Patch.esp
 Follower Tweaks.esp
 JamFix.esp
 JustAssortedMods.esp
@@ -936,25 +889,19 @@ NPC Use Aid.esp
 RAD.esp
 Reload Reloaded.esp
 Simple Explosive Entry.esp
-migWellRested.esp
 JSawyer Ultimate.esp
 JSawyer Ultimate - Push's Tweaks.esp
-JSawyer Ultimate Tweaks.esp
-Misc Gameplay Merge - JSUE Patch.esp
-Miscellaneous Tweaks - JSUE - Push's Tweaks Patch.esp
+JSawyer Ultimate - Tweaks.esp
 Mojave Arsenal.esp
-Mojave Arsenal - JSUE - Push's Tweaks Patch.esp
 JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged).esp
-Miscellaneous Tweaks - JSUE - Mojave Arsenal Patch (GRA Merged) Patch.esp
 Famine.esp
 NV Economy Improved.esp
 Player Combat Priority.esp
 Repair Tools.esp
 Repair Tools - JSU (Push's Tweaks) Patch.esp
-Improved Traits.esp
 FNVOppositeTraits.esp
+Improved Traits Tweaks.esp
 Improved FNVOppositeTraits.esp
-Improved Traits and FNVOppositeTraits JSUE Patch.esp
 Better Character Creation.esp
 Uncut Wasteland.esp
 Uncut Wasteland pole remover.esp
@@ -983,24 +930,11 @@ dD - Enhanced Blood Main NV.esp
 Character Expansions Revised - Extras.esp
 Character Expansions Revised - YUP - JSU - UW - MR - KFF.esp
 tkEyelashesFNV.esp
-MCPipBoy2000MK6_clock.esp
 Little More Lamplight.esp
-Lightweight Strip Overhaul - Uncut Wasteland Patch.esp
 vegasglow.esp
 Strip Lighting Overhaul.esp
-Strip Lighting Overhaul LSO Patch.esp
 Windows of the Mojave v1.2.1.esp
-Better Strip View.esp
-Better Strip View - More Subtle New Vegas Light Pollution Patch.esp
-Distant Water Jets.esp
-Strip Lights Region Fix.esp
-Strip Lights Region Fix - Uncut Wasteland.esp
-Strip Lights Region Fix - Distant Water Jets.esp
-Mormon Fort Region Fix.esp
-Lucky 38 Lights Redone.esp
-Lucky 38 Lights Redone - Mormon Fort Region Fix Patch.esp
 FNV Realistic Wasteland Lighting - All DLC.esp
-FNV RWL All DLC - Worldspace and Region Patch.esp
 Mojave Nights.esp
 FNVLODGen.esp
 tmzLODadditions.esp
@@ -1057,9 +991,6 @@ The following settings need to be configured after you've already started a new 
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
-
-**Enhanced Vision**:
-- Set **Vision mode hotkey** to **N**.
 
 **RAD**:
 - Enable **Hardcore**.
@@ -1146,8 +1077,6 @@ Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 G | Equip/unequip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
-X | Melee weapon bash | B42 Melee Bash
-N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 H | Open weapon wheel | Just Assorted Mods
 V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
