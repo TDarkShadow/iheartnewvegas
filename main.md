@@ -52,6 +52,7 @@ Enables borderless window mode for safe alt-tabbing.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
+- Install as **NVTF New Vegas Tick Fix**.
 
 [**NVTF Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NVTF%20Custom%20INI.7z)  
 Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
