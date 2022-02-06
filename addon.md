@@ -155,10 +155,6 @@ Different dry fire (empty magazine) sounds depending on a weapon type and some o
 
 [**Alsatian NCR Guard Dogs**]()  
 
-[**Bighorner Model Variants**]()  
-
-[**Brahmin Variants Redux**]()  
-
 [**Healthier Yao Guai**]()  
 
 [**Securitrons in CRT**]()  
@@ -229,10 +225,6 @@ Files to install:
 
 [**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
 Compatibility patch for Lightweight Strip Overhaul.
-
-[**Mccarran Escalator Glass**]()  
-
-[**McCarran main terminal transparent glass**]()  
 
 [**Palm Tree Replacer**]()  
 
