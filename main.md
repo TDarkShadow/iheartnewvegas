@@ -191,14 +191,18 @@ Files to install:
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
 
 Files to install:
-- **1. Consistent Pip-boy Icons** (Main files)
+- **1. Consistent Pip-boy Icons** (Main files)  
+  Using default name. Merge with the main file.
 - **2. Consistent Addon Icons** (Main files)  
+  Using default name. Merge with the main file.
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
 - **3. Consistent Glow Icons** (Main files)  
+  Using default name. Merge with the main file.
   - FOMOD options to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
+  Using default name. Merge with the main file.
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
@@ -229,10 +233,14 @@ Files to install:
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 Files to install:
-- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
+- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
+  Using default name. Merge with the main file.
+- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
+  Using default name. Merge with the main file.
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
+  Using default name. Merge with the main file.
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
+  Using default name. Merge with the main file.
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -386,9 +394,9 @@ Collection of compatibility patches for a variety of mods installed so far.
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 
 Files to install:
-- **Uncut Wasteland plus NPCs** (Main files) as **Uncut Wasteland**.
+- **Uncut Wasteland plus NPCs** (Main files)
 - **Uncut Wasteland Pole Remover** (Optional files)  
-  Merge with the main file.
+  Using default name. Merge with the main file.
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -410,9 +418,10 @@ Compatibility patch for JSawyer Ultimate.
 Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans. Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
 
 Files to install:
-- **Khans Friendly to Fiends** (Main files)
+- **Khans Friendly to Fiends** (Main files)  
+  Using default name. Merge with the main file.
 - **Mojave Raiders Patch** (Main files)  
-  Merge with the main file.
+  Using default name. Merge with the main file.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -468,16 +477,17 @@ Additional files to install:
 Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
   
 Files to install:
-- **AnniAnimPack_BugFix 1.3** (Main files)
+- **AnniAnimPack_BugFix 1.3** (Main files)  
+  Using default name. Merge with the main file.
 - **Bonus Patch** (Main files)  
-  Merge with the main file.
+  Using default name. Merge with the main file.
 
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
 
 Additional files to install:
 - **FNV Clean Animations - Update 2.2.2** (Update files)  
-  Merge with the main file.
+  Using default name. Merge with the main file.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -560,11 +570,11 @@ Improves teeth, eyelashes, and eyebrow textures.
 
 Files to install:
 - **Eyelashes 1.3** (Main files)  
-  Default name. Merge with the main file.
+  Using default name. Merge with the main file.
 - **HD teeth 3.0** (Main files)  
-  Default name. Merge with the main file.
+  Using default name. Merge with the main file.
 - **HQ eyebrows** (Main files)  
-  Default name. Merge with the main file.
+  Using default name. Merge with the main file.
 
 [**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
