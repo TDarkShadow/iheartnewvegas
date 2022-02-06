@@ -77,7 +77,7 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 ## OVERHAULS
 
-[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patc**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20(GRA%20Merged)%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)  
+[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patc**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
@@ -107,7 +107,7 @@ Files to install:
 - **Strapless Update** (Optional files)  
   Merge with the main file.
 
-[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20-%20JSawyer%20Ultimate%20Edition%20Patch.7z)  
+[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate.
 
 ## AUDIO
@@ -208,13 +208,13 @@ Files to install:
 - **Working date and clock for replacer** (Optional files)  
   Merge with the main file.
 
-[**Pip-Boy 2000 Mk VI Working Buttons**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Pip-Boy%202000%20Mk%20VI%20Working%20Buttons.7z)  
+[**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
 
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
-[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NPC%20Arm%20Mounted%20Pip-Boy%202000%20Mk%20VI.7z)  
+[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
@@ -247,7 +247,7 @@ Files to install:
 - **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)  
   Merge with the main file.
 
-[**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
+[**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Lightweight Strip Overhaul.
 
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
@@ -264,7 +264,7 @@ Adds visible Strip signs and moves the Strip buildings to where they should be.
 Files to install:
 - **Better Strip View** (Main files)
 
-[**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Better%20Strip%20View%20-%20More%20Subtle%20New%20Vegas%20Light%20Pollution%20Patch.7z)  
+[**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for More Subtle New Vegas Light Pollution.
 
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
@@ -291,7 +291,7 @@ Files to install:
 - **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)  
   Merge with the main file.
 
-[**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20Worldspace%20and%20Region%20Patch.7z)  
+[**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
 
 ### Generating LOD
