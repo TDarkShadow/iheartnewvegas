@@ -154,8 +154,7 @@ Allows any number of mods to be configured from a single menu, accessible throug
 
 Files to install:
 - **The Mod Configuration Menu** (Main files)
-- **MCM BugFix 2** (Optional files)
-  - Install as **The Mod Configuration Menu Bugfix**
+- **MCM BugFix 2** (Optional files) as **The Mod Configuration Menu**, merging when asked.
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -230,10 +229,10 @@ Files to install:
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 Files to install:
-- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
+- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files) as **Laser Weapon Iron Sights**.
+- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files) as **Laser Weapon Iron Sights**, merging when asked.
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files) as **Laser Weapon Iron Sights**, merging when asked.
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files) as **Laser Weapon Iron Sights**, merging when asked.
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -313,8 +312,7 @@ Completely reconstructed version of Josh Sawyer's mod, made from the ground up. 
 
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
-  - Install as **JSawyer Ultimate Edition - Push's Tweaks**
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files) as **JSawyer Ultimate Edition**, merging when asked.
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
@@ -392,8 +390,8 @@ Collection of compatibility patches for a variety of mods installed so far.
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 
 Files to install:
-- **Uncut Wasteland plus NPCs** (Main files)
-- **Uncut Wasteland Pole Remover** (Optional files)
+- **Uncut Wasteland plus NPCs** (Main files) as **Uncut Wasteland**.
+- **Uncut Wasteland Pole Remover** (Optional files) as **Uncut Wasteland**, merging when asked.
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -406,23 +404,24 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 
 Files to install:
 - **Mojave Raiders** (Main files)
-- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
+- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files) as **Mojave Raiders - No NPC Throwing Weapon Consumption**.
 
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
+- Install as **JSawyer Ultimate - Mojave Raiders Patch**.
 
 [**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
 Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans. Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
 
 Files to install:
 - **Khans Friendly to Fiends** (Main files)
-- **Mojave Raiders Patch** (Main files)
+- **Mojave Raiders Patch** (Main files) as **Mojave Raiders Patch**.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 
 Files to install:
-- **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
+- **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files) as **Mojave Wildlife**.
 
 ## AUDIO
 
@@ -439,14 +438,14 @@ Compatibility patch for Weapon Mesh Improvement Mod.
 Replaces every explosion sound in the game.
 
 Files to install:
-- **All Explosion Sounds Overhaul BSA and YUP Patch** (Main files)
-- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)
+- **All Explosion Sounds Overhaul BSA and YUP Patch** (Main files) **All Explosion Sounds Overhaul**.
+- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files) as **All Explosion Sounds Overhaul**, merging when asked.
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 
 Files to install:
-- **Project Nevada - Immersive Primary Needs 1.1**
+- **Project Nevada - Immersive Primary Needs 1.1** as **Immersive Primary Needs**.
 
 [**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
 Replacer for the male drinking sound the game plays whenever you consume a Nuka-Cola.
@@ -465,21 +464,21 @@ Merge of many animation mods by the same author, improving the game's overall lo
 
 Files to install:
 - **Anniversary Anim Pack** (Main files)
-- **Weapon Mesh Improvement Mod Patch** (Optional files)  
+- **Weapon Mesh Improvement Mod Patch** (Optional files) as **Anniversary Anim Pack**, merging when asked.
 
 [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
 Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
   
 Files to install:
-- **AnniAnimPack_BugFix 1.3** (Main files)
-- **Bonus Patch** (Main files)
+- **AnniAnimPack_BugFix 1.3** (Main files) as **Anniversary Anim Pack - General Bugfix**.
+- **Bonus Patch** (Main files) as **Anniversary Anim Pack - General Bugfix**, merging when asked.
 
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
 
 Files to install:
 - **FNV Clean Animations** (Main files)
-- **FNV Clean Animations - Update 2.2.2** (Update files)
+- **FNV Clean Animations - Update 2.2.2** (Update files) as **FNV Clean Animations**, merging when asked.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -516,7 +515,7 @@ A compatible skeleton for many animation mods.
 Ballistic VFX overhaul. Bullet holes match ammo, casings match ammo, new custom particle effects impacts.
 
 Files to install:
-- **IMPACT - The Michael Bay** (Main files)
+- **IMPACT - The Michael Bay** (Main files) as **IMPACT**.
 
 [**IMPACT - Compatibility Edition**](https://www.nexusmods.com/newvegas/mods/62050)  
 Scripted ESP replacer that automatically patches all weapons in the game, DLC, and mods, to have the appropriate shell casings and Impact Data Sets based on their ammo types.
@@ -551,7 +550,7 @@ Fixes colored tints on character faces.
 Adds animated eyelashes to NPCs and the player character.
 
 Files to install:
-- **tkEyelashesFNV** (Main files).
+- **tkEyelashesFNV** (Main files) as **Eyelashes New Vegas**.
   - Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893)  
@@ -561,15 +560,15 @@ ESP Replacer that fixes issues with the plugin, and extends support to Honest He
 Improves teeth, eyelashes, and eyebrow textures.
 
 Files to install:
-- **Eyelashes 1.3** (Main files)
-- **HD teeth 3.0** (Main files)
-- **HQ eyebrows** (Main files)
+- **Eyelashes 1.3** (Main files) as **HD Teeth and Natural Eyelashes and Eyebrows**.
+- **HD teeth 3.0** (Main files) as **HD Teeth and Natural Eyelashes and Eyebrows**, merging when asked.
+- **HQ eyebrows** (Main files) as **HD Teeth and Natural Eyelashes and Eyebrows**, merging when asked.
 
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
+[**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
 
 Files to install:
-- **00 - Natural Eyes - Shadow** (Main files)
+- **00 - Natural Eyes - Shadow** (Main files) as **Natural Eyes by zzjay**.
 
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
