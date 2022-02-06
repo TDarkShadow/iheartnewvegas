@@ -266,6 +266,7 @@ All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Reg
 
 [**HDJRaD - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135)  
 Compatibility patch for Much Needed LOD.
+- Install as **HDJRaD - Much Needed LOD Patch**.
 
 ### Generating LOD
 
