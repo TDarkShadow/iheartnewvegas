@@ -52,7 +52,7 @@ Enables borderless window mode for safe alt-tabbing.
 
 [**NVTF - New Vegas Tick Fix**](https://www.nexusmods.com/newvegas/mods/66537)  
 Fixes the tick count bug (which creates noticable micro stutter), optimizes hash tables (helping performance and decreasing menu load times), and fixes the high FPS bug (fixing physics and lipsync at high framerates).
-- Install as **NVTF New Vegas Tick Fix**.
+- Install as **NVTF - New Vegas Tick Fix**.
 
 [**NVTF Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/NVTF%20Custom%20INI.7z)  
 Custom configuration that enables a number of settings to achieve the best balance between performance and stability.
@@ -251,8 +251,8 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
 
-[**Follower Formula Redone YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%20YUP%20Patch.7z)  
-Compatibility patch for Yukichigai Unofficial Patch.
+[**Follower Formula Redone ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Follower%20Formula%20Redone%20ESP%20Replacer.7z)  
+Forwards Yukichigai Unofficial Patch fixes.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -267,8 +267,9 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 
 [**JAM - Just Assorted Mods Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JAM%20-%20Just%20Assorted%20Mods%20Custom%20INI%20(Jan%206th).7z)  
 Custom configuration that disables Visual Objectives and Hold Breath. Sets 1st Person Mode crosshair to dynamic and 1st Sighting Mode to none. Sets Bullet Time to use VATS sounds, and use the V hotkey.
+- Install as **JAM - Just Assorted Mods Custom INI**.
 
-[**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
+[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 [**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
@@ -288,9 +289,6 @@ Collection of gameplay and balance tweaks.
 
 [**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
 Nerfs Feral Ghoul Reavers, removes most new map markers for consistency with Less Map Markers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
-
-[**No Stealing After Repair**](https://eddoursul.win/mods/no-stealing-after-repair/)  
-After vendor repair, moves the payment into the vendor’s container instead of their inventory, making the caps unavailable for pickpocketing yet allowing to use them for barter. If a vendor has no container attached (in rare cases), the caps are simply removed.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
@@ -318,20 +316,12 @@ Completely reconstructed version of Josh Sawyer's mod, made from the ground up. 
 Files to install:
 - **JSawyer Ultimate Edition** (Main files)
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
+  - Install as **JSawyer Ultimate Edition - Push's Tweaks**
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
 [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes. Disables the out of place Wasteland Adventurer.
-
-[**Misc Gameplay Merge - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/73921)  
-Compatibility patch for Misc Gameplay Merge.
-
-Files to install:
-- **JSawyer Ultimate Edition Patch** (Optional files)
-
-[**Miscellaneous Tweaks - JSawyer Ultimate Edition - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSawyer%20Ultimate%20-%20Push's%20Tweaks%20Patch.7z)  
-Compatibility patch for Miscellaneous Tweaks.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -339,17 +329,11 @@ Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming 
 [**Mojave Arsenal Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20Custom%20INI.7z)  
 Custom configuration that disables most GRA features.
 
-[**Mojave Arsenal - JSUE - Push's Tweaks Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Mojave%20Arsenal%20-%20JSUE%20-%20Push's%20Tweaks%20Patch.7z)  
-Compatibility patch for JSawyer Ultimate - Push's Tweaks.
-
 [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
 Files to install:
 - **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
-
-[**Miscellaneous Tweaks - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)  
-Compatibility patch for Miscellaneous Tweaks.
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Upscales icons from a selection of mods.
@@ -1174,7 +1158,13 @@ Shift+Movement | Sprint | Just Assorted Mods
 - 🚫 Mod has been removed from the guide.
 
 <details>
-	<summary>January 21th</summary>
+	<summary>02-05-2022</summary>
+
+- 🚫 (Gameplay) **No Stealing After Repair**: included in lStewieAl's Tweaks and Engine Fixes.
+</details>
+
+<details>
+	<summary>01-21-2022</summary>
 
 - 🆕 (Patches) **Gauss Rifle VATS Fix - JIP**
 - 🆕 (Non-purist patches) **Ammo Script Fixes**
@@ -1193,7 +1183,7 @@ Don't knock the face mods til you've tried them. [**Here's a comparison.**](http
 </details>
 
 <details>
-	<summary>January 20th</summary>
+	<summary>01-20-2022</summary>
 
 - 🆕 **More Subtle New Vegas Light Pollution**.
 - ⚠️ (Visuals) **Better Strip View**: added patch for **More Subtle New Vegas Light Pollution**.
@@ -1204,16 +1194,7 @@ Don't knock the face mods til you've tried them. [**Here's a comparison.**](http
 </details>
 
 <details>
-	<summary>January 19th Post-update</summary>
-
-- ⚠️ (Gameplay) Moved **Cannibal Reborn** and **Cannibal Reborn Expanded** to this section.
-- 🆕 (Visuals) **Wasteland Flora Overhaul - Grass**
-- 🚫 (Overhauls) **Anatomic Perks**. It's the kind of gameplay mod the guide is trying to move further away.
-- 🚫 (LOD) **Wasteland Flora and Terrain Overhaul**. The main issue with the game's environment is not really the trees, but the awful grass. This cuts down on three separate downloads.
-</details>
-
-<details>
-	<summary>January 19th</summary>
+	<summary>01-19-2022</summary>
 
 Such a massive update all across the board, with mods removed, BAIN installers separated into individual patches, and so on that it would be frankly impossible for me to list everything, yet alone crazy for anyone else to follow.
 </details>
