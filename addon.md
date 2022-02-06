@@ -127,58 +127,72 @@ Adds custom pickup sounds when looting an item.
 Files to install:
 - **Immersive Pickup Sounds - Compatibility Version** (Main files)
 
-[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
-Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
-
 ## VISUALS
 
 ### Animations
 
-[**B42 Inspect - aka Animated Ammo and Weapon Condition Checking**]()  
+[**B42 Inspect - aka Animated Ammo and Weapon Condition Checking**](https://www.nexusmods.com/newvegas/mods/71624)  
+Adds a fully animated ammunition and weapon condition checking system to the game, complete with scratch made animations and a custom HUD element.
 
-[**Diagonal movement**]()  
+[**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds diagonal movement.
 
-[**360 Movement**]()  
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
+- Install the **Diagonal Movement Patch** in the FOMOD installer.
 
-[**Player Headtracking**]()  
+[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
+Enables headtracking for the player character.
 
-[**Companions Combat-Ready**]()  
+[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662?)  
+Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor.
 
-[**Empty Weapons**]()  
-
-[**Tweaked Standing Idle**]()  
-
-[**Tweaked Standing Idle by Documn Fix**]()  
-
+[**Tweaked Standing Idle by Documn Fix**](https://www.nexusmods.com/newvegas/mods/57041?)  
+Fixes the missing headtracking and face animations. 
 
 ### Creatures
 
-[**Alsatian NCR Guard Dogs**]()  
+[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232?)  
+All NCR guard dogs are now Alsatian (a.k.a German Shepard) instead of the vanilla vicious dog. 
 
-[**Healthier Yao Guai**]()  
+[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
+Makes Yao Guai look less mutated.
 
-[**Securitrons in CRT**]()  
+Files to install:
+- **Healthier Yao Guai** (Main files)
 
-[**Y-17 Trauma Override Harness GLOVES**]()  
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
+Adds CRT lines to the monitors of Securitrons.
 
+Additional files to install:
+- **OWB in CRT** (Optional files)  
+  Merge with the main file.
 
 ### Equipment
 
-[**Honest Hearts Gecko Leathers Improved**]()  
+[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
+Modifies the overcoats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes the mesh fixes from Yukichigai Unofficial Patch.
 
-[**Honest Hearts Gecko Leathers Improved - Compatibility Version**]()  
+[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the Ranger Hats so they sit slightly lower on the head. 
 
-[**Improved Duster Coats - YUP Edition**]()  
+[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
+Replaces the female Metal Armor helmets with their male counterparts.
+- Hide the **textures\interface** folder.
 
-[**Lower-sitting Ranger Hat**]()  
+> ℹ️ This solves a conflict with **Consistent Pip-Boy Icons**.
 
-[**Metal Helmets - Female Replacements**]()  
+[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
+Adds armored gloves to all Power Armors in the game.
 
-[**Power Armor Gloves**]()  
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets (NCR, Desert, Riot, Advanced Riot, Elite Riot) have a neat glowing effect.
 
-[**Simple Glowing Ranger Visors**]()  
+Files to install:
+- **Simple Glowing Ranger Visors (No Neck Covers)** (Main files)
 
-[**Unisex Motorcycle Helmets**]()  
+[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892?)  
+Replaces the male Motorcycle helmet with its female counterpart.
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
