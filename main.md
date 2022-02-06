@@ -104,7 +104,7 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
-[**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI%20(Jan%208th).7z)  
+[**lStewieAl's Tweaks Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/lStewieAl's%20Tweaks%20Custom%20INI.7z)  
 Custom configuration that enables many quality of life improvements, as well as gameplay and balance tweaks.
 
 <details>
@@ -112,10 +112,12 @@ Custom configuration that enables many quality of life improvements, as well as 
 
 - Numbered dialogue topics.
 - Hidden skill requirements for skill checks.
+- Guns require enough ammo to fire a full round (clip size matters).
 - Holding the attack button for grenades decreases their detonation timer.
 - Throwables can be held and released, like grenades.
 - Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
 - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
+- Can't steal caps after paying for repairs.
 - Increased XP for discovering locations. Meant to be used alongside **Less Map Markers** (Overhauls section).
 - Binoculars can zoom in and out.
 - Entering VATS costs AP.
