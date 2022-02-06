@@ -661,7 +661,7 @@ Files to install:
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
 
-[**LOD Additions and Improvements YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/LOD%20Additions%20and%20Improvements%20YUP%20Patch.7z)  
+[**LOD Additions and Improvements YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
@@ -673,7 +673,7 @@ Adds extra meshes for LOD generation.
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
-[**Much Needed LOD YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Much%20Needed%20LOD%20YUP%20Patch.7z)  
+[**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
 
 [**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
