@@ -596,9 +596,7 @@ Turns walls from junk to brick, cleans the litter up off of the street, and buff
 
 Files to install:
 - **Lightweight Strip Overhaul - No Walls** (Main files)
-
-[**Lightweight Strip Overhaul - Uncut Wasteland Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Lightweight%20Strip%20Overhaul%20-%20Uncut%20Wasteland%20Patch.7z)  
-Compatibility patch for Uncut Wasteland.
+- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
 
 [**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
 Reduces the distant glow of New Vegas for the sake of darker nights.
