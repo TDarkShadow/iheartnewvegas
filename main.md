@@ -424,16 +424,6 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
 
-[**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
-Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
-
-Files to install:
-- **Canvas Backpacks - Remade** (Main files)
-- **Strapless Update** (Optional files)  
-
-[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Canvas%20Backpacks%20-%20Remade%20-%20JSawyer%20Ultimate%20Edition%20Patch.7z)  
-Compatibility patch for JSawyer Ultimate.
-
 ## AUDIO
 
 [**All Weapon Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/62870)  
@@ -780,9 +770,6 @@ JSawyer Ultimate - Mojave Raiders Patch
 Khans Friendly to Fiends
 Mojave Raiders Patch
 Mojave Wildlife - Vanilla No Chanced Spawns Version
-Canvas Backpacks - Remade
-Strapless Update
-Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch
 All Weapon Sounds Overhaul
 All Weapon Sounds Overhaul ESP Replacer
 All Weapon Sounds Overhaul WMIM Patch
@@ -913,8 +900,6 @@ JSawyer Ultimate - Mojave Raiders Patch.esp
 Khans Friendly to Fiends.esp
 Khans Friendly to Fiends - Mojave Raiders Patch.esp
 Mojave Wildlife (Vanilla-Style + No Chanced).esp
-QwibNewBackpacks.esp
-QwibNewBackpacks Tweaks JSUE Patch.esp
 All Weapon Sounds Overhaul .esp
 All Weapon Sounds Overhaul WMIM Patch.esp
 Explosive Sounds Overhaul.esp
