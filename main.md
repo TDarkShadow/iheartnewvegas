@@ -530,8 +530,8 @@ Remakes blood visual effects, including the addition of new types of wounds base
 [**Gore Overhaul**](https://www.nexusmods.com/newvegas/mods/67666)  
 Retextures the gore assets to give them a severely detailed look with attention to minor details. Also improves on the exploding head meshes to give it more gore bits.
 
-[**Gore Overhaul Optimized**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%202.0%20(Optimized).7z)  
-Optimizes the very high resolution assets, without noticeably sacrificing quality.
+[**Gore Overhaul Optimized Textures**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%20Optimized%20Textures.7z)  
+Optimizes the very high resolution textures, without noticeably sacrificing quality.
 
 ### Characters
 
@@ -579,19 +579,10 @@ Removes shine from vanilla hairs.
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
-[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
-Reduces the distant glow of New Vegas for the sake of darker nights.
-
-Files to install:
-- **Slightly Brighter** (Main files)
-
-[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
-Fixes the bright night sky horizons.
-
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
-[**Wasteland Flora Overhaul - Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20-%20Grass.7z)  
+[**Wasteland Flora Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20Grass.7z)  
 Improves grass textures.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. All non-grass related meshes and textures were removed.
@@ -599,14 +590,20 @@ Improves grass textures.
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
 
+[**More Subtle New Vegas Light Pollution**](https://www.nexusmods.com/newvegas/mods/73579)  
+Reduces the distant glow of New Vegas for the sake of darker nights.
+
+Files to install:
+- **Slightly Brighter** (Main files)
+
 [**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
 Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
 
 Files to install:
 - **FNV Realistic Wasteland Lighting - All DLC** (Main files)
 
-[**FNV Realistic Wasteland Lighting ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20-%20All%20DLC%20ESP%20Replacer.7z)  
-ESP replacer that includes YUP fixes, the FNV RWL All DLC Brighter Nights and No Overcast Weather patches, and the Zion Valley Ambient Music from Essential DLC Enhancements.
+[**FNV Realistic Wasteland Lighting ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20ESP%20Replacer.7z)  
+ESP replacer that includes Yukichigai Unofficial Patch fixes, brighter nights, no overcast weather, and ambient music in the Zion Valley.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -620,6 +617,9 @@ Files to install:
 - Copy the **textures\sky\skystars.dds** file and paste it inside the **textures\NVDLC02\sky** folder.
 
 > ℹ️ This will also apply the new night sky texture to Zion.
+
+[**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
+Fixes the bright night sky horizons.
 
 ## LOD
 
