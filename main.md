@@ -7,8 +7,18 @@
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
-By default, mods will be installed with a predetermined name in Mod Organizer 2. Unless explicitly told, do not modified this default name, as the files provided at the end of the guide rely on these names to sort your mods accordingly.
-- When multiple main files from a same mod need to be installed, you will be told whether the mod needs to be installed under the default name (e.g. Consistent Pip-Boy Icons), or under a specific name (e.g. Consistent Pip-Boy Icons - Mod Patches). When installed under the default name, mods need to be merged from each other. This is to reduce clutter on your load order.
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+
+By default, it is implied that whenever you are asked to install a mod, you must install only the main file, and no other file.
+That said, the following scenarios can happen, and you will be explicitly told how to proceed:
+- You must install the main file under a different name.
+- You must install one or some main files from a Nexus page with multiple main files.
+- You must install additional files from the same Nexus page, be them additional main files, update files, or optional files.
+- You must skip the main file altogether and install only optional files.
+
+To reduce clutter, you will often be asked to merge one file with the main file. "Main file" here not necessarily refers to the main file as stated in the Nexus page. Often, it refers to the first file of all files you will be asked to download. This is the case of pages with multiple main files which are all standalone from each other.
+
+When in doubt, refer back to this section.
 
 # LEFT MY HEART IN NEW VEGAS
 
@@ -195,17 +205,16 @@ Bug fixes and consistency tweaks for icons in terms of coloring and transparency
 
 Files to install:
 - **1. Consistent Pip-boy Icons** (Main files)  
-  Using default name. Merge with the main file.
 - **2. Consistent Addon Icons** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
 - **3. Consistent Glow Icons** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
   - FOMOD options to install:
     - [X] Main File
 - **6. Vanilla UI Plus Patch** (Optional files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
@@ -237,13 +246,13 @@ Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 Files to install:
 - **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 - **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 - **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 - **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -400,7 +409,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
 - **Uncut Wasteland Pole Remover** (Optional files)  
-  Using default name. Merge with the main file.
+  Merge with the main file.
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -423,9 +432,8 @@ Makes Fiends passive to the player when using a Great Khan outfit, and makes Fie
 
 Files to install:
 - **Khans Friendly to Fiends** (Main files)  
-  Using default name. Merge with the main file.
 - **Mojave Raiders Patch** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -482,16 +490,15 @@ Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd per
   
 Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
-  Using default name. Merge with the main file.
 - **Bonus Patch** (Main files)  
-  Using default name. Merge with the main file.
+  Merge with the main file.
 
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
 
 Additional files to install:
 - **FNV Clean Animations - Update 2.2.2** (Update files)  
-  Using default name. Merge with the main file.
+  Merge with the main file.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -574,11 +581,10 @@ Improves teeth, eyelashes, and eyebrow textures.
 
 Files to install:
 - **Eyelashes 1.3** (Main files)  
-  Using default name. Merge with the main file.
 - **HD teeth 3.0** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 - **HQ eyebrows** (Main files)  
-  Using default name. Merge with the main file.
+  Use default name. Merge with the main file.
 
 [**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
@@ -649,7 +655,7 @@ Adds extra meshes for LOD generation.
 
 Files to install:
 - **FNVLODGen Resources** (Main files)  
-  As **FNVLODGen Resources**.
+  Install as **FNVLODGen Resources**.
 
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
@@ -666,7 +672,7 @@ Adds extra meshes for LOD generation.
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
-[**FNVLODGen Output**](https://drive.google.com/file/d/16zKbgqmwyaI7E3L1eEOsdiJxuPJBDnJg/view?usp=sharing)  
+[**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
