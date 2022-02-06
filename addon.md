@@ -244,6 +244,10 @@ Compatibility patch for More Subtle New Vegas Light Pollution.
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
+Additional files to install:
+- **HDJRaD - Much Needed LOD Patch** (Optional files)  
+  Install as **HDJRaD - Much Needed LOD Patch**.
+
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
@@ -261,12 +265,8 @@ Files to install:
 - **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)  
   Merge with the main file.
 
-[**FNV RWL All DLC - Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20RWL%20All%20DLC%20-%20Worldspace%20and%20Region%20Patch.7z)  
-All-in-one patch for Better Strip View, Strip Lights Region Fix, Mormon Fort Region Fix, and Lucky 38 Lights Redone.
-
-[**HDJRaD - Much Needed LOD Patch**](https://www.nexusmods.com/newvegas/mods/72135)  
-Compatibility patch for Much Needed LOD.
-- Install as **HDJRaD - Much Needed LOD Patch**.
+[**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/FNV%20Realistic%20Wasteland%20Lighting%20Worldspace%20and%20Region%20Patch.7z)  
+All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
 
 ### Generating LOD
 
