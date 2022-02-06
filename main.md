@@ -17,8 +17,6 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 - Extract the contents of the archive and run **cpu_info.exe**. It will determine which file you need to install.
 - Place the **.dll** file from the appropiate folder (indicated by **cpu_info.exe**) in your game's **Root** folder.
 
-> ℹ️ Modern alternative to [**New Vegas Stutter Remover**](https://www.nexusmods.com/newvegas/mods/34832) which should be used in its place.
-
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
