@@ -77,12 +77,8 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 ## OVERHAULS
 
-[**Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Hunting%20Revolver%20Iron%20Sights%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)  
+[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patc**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20-%20Mojave%20Arsenal%20Patch%20(GRA%20Merged)%20-%20Hunting%20Revolver%20Iron%20Sights%20Patch.7z)  
 Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
-
-[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
-Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
-Or, just take the Here and Now perk...
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
@@ -93,8 +89,13 @@ Files to install:
 [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
 Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
 
-[**Meltdown NVSE Upgrade**]()  
-[**Miss Fortune NVSE Upgrade**]()  
+[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718?)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described. Includes configurable options for its Rampage feature, which increases your critical hit chance at every chained Meltdown, as well as the companion Meltdown feature, among other tweaks.
+
+> ℹ️ I personally suggest disabling both of these features using the mod's ini, but your mileage may vary.
+
+[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709?)  
+Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
 
 ## CONTENT
 
@@ -111,43 +112,77 @@ Compatibility patch for JSawyer Ultimate.
 
 ## AUDIO
 
-No Cocking Sound on Rifle Equip
-Even More Accurate Geiger Clicking
-Immersive Pickup Sounds FNV Edition
-Empty Clicks - improved dry fire sounds
+[**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
+Removes the cocking sound that plays every time you equip a rifle.
+
+[**Even More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/74901)  
+Increases the Pip-Boy Geiger clicking beyond the vanilla default. Increases the accuracy of the radiation meter. Forces the speed effects of the Atomic! perk to apply immediately.
+
+Files to install:
+- **Even More Accurate Geiger Clicking** (Main files)
+
+[**Immersive Pickup Sounds FNV Edition**](https://www.nexusmods.com/newvegas/mods/61815)  
+Adds custom pickup sounds when looting an item.
+
+Files to install:
+- **Immersive Pickup Sounds - Compatibility Version** (Main files)
+
+[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
+Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
 
 ## VISUALS
 
 ### Animations
 
-Tweaked Standing Idle
-Tweaked Standing Idle by Documn Fix
-Player Headtracking
-360 Movement
-Diagonal movement
-B42 Inspect - aka Animated Ammo and Weapon Condition Checking
-Empty Weapons
-Companions Combat-Ready
+[**B42 Inspect - aka Animated Ammo and Weapon Condition Checking**]()  
+
+[**Diagonal movement**]()  
+
+[**360 Movement**]()  
+
+[**Player Headtracking**]()  
+
+[**Companions Combat-Ready**]()  
+
+[**Empty Weapons**]()  
+
+[**Tweaked Standing Idle**]()  
+
+[**Tweaked Standing Idle by Documn Fix**]()  
+
 
 ### Creatures
 
-Bighorner Model Variants
-Brahmin Variants Redux
-Securitrons in CRT
-Alsatian NCR Guard Dogs
-Healthier Yao Guai
-Y-17 Trauma Override Harness GLOVES
+[**Alsatian NCR Guard Dogs**]()  
+
+[**Bighorner Model Variants**]()  
+
+[**Brahmin Variants Redux**]()  
+
+[**Healthier Yao Guai**]()  
+
+[**Securitrons in CRT**]()  
+
+[**Y-17 Trauma Override Harness GLOVES**]()  
+
 
 ### Equipment
 
-Honest Hearts Gecko Leathers Improved
-Honest Hearts Gecko Leathers Improved - Compatibility Version
-Power Armor Gloves
-Lower-sitting Ranger Hat
-Simple Glowing Ranger Visors
-Improved Duster Coats - YUP Edition
-Metal Helmets - Female Replacements
-Unisex Motorcycle Helmets
+[**Honest Hearts Gecko Leathers Improved**]()  
+
+[**Honest Hearts Gecko Leathers Improved - Compatibility Version**]()  
+
+[**Improved Duster Coats - YUP Edition**]()  
+
+[**Lower-sitting Ranger Hat**]()  
+
+[**Metal Helmets - Female Replacements**]()  
+
+[**Power Armor Gloves**]()  
+
+[**Simple Glowing Ranger Visors**]()  
+
+[**Unisex Motorcycle Helmets**]()  
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
@@ -180,12 +215,9 @@ Files to install:
 
 ### Environment
 
-Clean Lucky 38
-Mccarran Escalator Glass
-McCarran main terminal transparent glass
-Gun Runners Kiosk Glass Fix
-The Strip Planters Fixed
-Palm Tree Replacer
+[**Gun Runners Kiosk Glass Fix**]()  
+
+[**Clean Lucky 38**]()  
 
 [**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
@@ -197,6 +229,14 @@ Files to install:
 
 [**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Strip%20Lighting%20Overhaul%20LSO%20Patch.7z)  
 Compatibility patch for Lightweight Strip Overhaul.
+
+[**Mccarran Escalator Glass**]()  
+
+[**McCarran main terminal transparent glass**]()  
+
+[**Palm Tree Replacer**]()  
+
+[**The Strip Planters Fixed**]()  
 
 ## LOD
 
