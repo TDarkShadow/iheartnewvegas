@@ -320,7 +320,7 @@ Files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
-[**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Tweaks.7z)  
+[**JSawyer Ultimate Edition - Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Tweaks.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes. Disables the out of place Wasteland Adventurer.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
@@ -334,12 +334,6 @@ Compatibility patch for JSawyer Ultimate.
 
 Files to install:
 - **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
-
-[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
-Upscales icons from a selection of mods.
-- FOMOD options to install:
-  - [X] B42 Melee Bash
-  - [X] Mojave Arsenal
 
 [**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
 Simple and comprehensive loot scarcity mod using event-based scripting.
@@ -360,18 +354,39 @@ Files to install:
 - **Repair Tools** (Main files)
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
-[**Improved Traits and Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits.7z)  
-Expands on the idea of opposite traits, and improves both vanilla and new traits.
+[**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
+Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65403) to original mod by **TrueVoidwalker**. The featured plugin fixes a handful of oversights and disables an overpowered trait. 
+Files to install:
+- **FNV Opposite Traits (YUP OWB)** (Main files)
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/69141) to original mod by **cbgreely**. The featured plugin is clean.
+[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
+Edits some vanilla traits and adds two new ones.
 
-[**Improved Traits and Opposite Traits - JSawyer Ultimate Edition Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20and%20Opposite%20Traits%20-%20JSawyer%20Ultimate%20Edition%20Patch.7z)  
-Compatibility patch for JSawyer Ultimate.
+[**Improved Traits Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20Traits%20Tweaks.7z)  
+Addresses an unintentional edit that removed Small Frame's Agility requirements, and adds the missing icon for the Four Eyes trait.
+
+[**Improved FNV Opposite Traits**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Improved%20FNV%20Opposite%20Traits.7z)  
+Gives the new traits from FNV Opposite Traits the Improved Traits treatment.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
+[**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
+Collection of upscaled icons for a variety of mods.
+- FOMOD options to install:
+  - [X] B42 Melee Bash
+  - [X] Mojave Arsenal
+
+[**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z)  
+Collection of compatibility patches for a variety of mods installed so far.
+- BAIN options to install:
+  - [X] 00 Misc Gameplay Merge
+  - [X] 01 Push's Tweaks + Miscellaneous Tweaks
+  - [X] 02 Push's Tweaks + Mojave Arsenal
+  - [X] 03 Mojave Arsenal (GRA Merged) + Miscellaneous Tweaks
+  - [X] 04 FNV Opposite Traits
+  - [X] 05 Improved Traits
 
 ## CONTENT
 
