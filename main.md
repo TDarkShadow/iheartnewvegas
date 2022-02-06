@@ -34,8 +34,8 @@ Enables having custom animations for weapons and actors. Also fixes the engine-b
 Aims to fix UI bugs and add new UI features. 
 
 Files to install:
-- **yUI** (Main files)
-- **Matched Cursor - Fallout New Vegas** (Optional files)  
+- **yUI** (Main files) as **yUI - User Ynterface**.
+- **Matched Cursor - Fallout New Vegas** (Optional files) as **yUI - User Ynterface**, merging when asked.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
