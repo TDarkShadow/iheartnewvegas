@@ -673,6 +673,9 @@ Adds extra meshes for LOD generation.
 [**Much Needed LOD**](https://www.nexusmods.com/newvegas/mods/64805)  
 Adds extra meshes for LOD generation.
 
+[**Much Needed LOD YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Much%20Needed%20LOD%20YUP%20Patch.7z)  
+Compatibility patch for Yukichigai Unofficial Patch.
+
 [**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
@@ -820,6 +823,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Mod order and load order is now handled by a download that needs to be installed on your MO2 profile folder. These require mods to be installed under specific names, those of which are provided by default by MO2. The ones that require a different name are mentioned in the guide.
 - **No Stealing After Repair** is now included in **lStewieAl's Tweaks Custom INI**.
 - **FNVLODGen Output** has been updated to reflect the removal of many LOD mods.
+- Added **Much Needed LOD YUP Patch**.
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
