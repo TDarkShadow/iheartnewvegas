@@ -809,51 +809,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
-- 🆕 Mod has been added to the guide.
-- ⚠️ Mod has been updated or its installation/configuration instructions have changed.
-- 🚫 Mod has been removed from the guide.
-
-<details>
-	<summary>02-05-2022</summary>
-
-- 🚫 (Gameplay) **No Stealing After Repair**: included in lStewieAl's Tweaks and Engine Fixes.
-</details>
-
-<details>
-	<summary>01-21-2022</summary>
-
-- 🆕 (Patches) **Gauss Rifle VATS Fix - JIP**
-- 🆕 (Non-purist patches) **Ammo Script Fixes**
-- 🆕 (Non-purist patches) **Crippled Limb Reaction Enforcer**
-- 🆕 (Non-purist patches) **Critical and Effects - Fixes and Tweaks**
-- 🆕 (Non-purist patches) **Mostly Unarmed Tweaks**
-- 🆕 (Non-purist patches) **Universal Pyromaniac Buff for Fire Effects**
-- 🆕 (Gameplay) **Well Rested Overhaul**
-- 🆕 (Visuals) **Eyelashes New Vegas**
-- 🆕 (Visuals) **HD Teeth and Natural Eyelashes and Eyebrows**
-- 🆕 (Visuals) **Natural Eyes**
-- 🆕 (Visuals) **Vanilla Hair - No Shine**
-- 🆕 (LOD) **FNVLODGen Output (Left My Heart In New Vegas)**
-
-Don't knock the face mods til you've tried them. [**Here's a comparison.**](https://imgsli.com/OTIyNzE)
-</details>
-
-<details>
-	<summary>01-20-2022</summary>
-
-- 🆕 **More Subtle New Vegas Light Pollution**.
-- ⚠️ (Visuals) **Better Strip View**: added patch for **More Subtle New Vegas Light Pollution**.
-- ⚠️ (Visuals) Replaced individual patches for **Character Expansions Revised** with an individual merged patch. Will cut down on ESPs by 4 plugins.
-- ⚠️ (Visuals) Replaced individual patches for **FNV Realistic Wasteland Lighting** with an individual ESP replacer. Will cut down on ESPs by 4 plugins.
-- 🚫 (Patches) **Dirty Pre-War Businesswear Fix**. Based on Nexus downloads of similar bug-fixes, it's clear few people care about this bug.
-- 🚫 (Gameplay QOL) **Hunting Revolver Iron Sights**. Some weapons have scopes by default and that's fine. Doesn't mean one needs to mod the scopes out.
-</details>
-
-<details>
-	<summary>01-19-2022</summary>
-
-Such a massive update all across the board, with mods removed, BAIN installers separated into individual patches, and so on that it would be frankly impossible for me to list everything, yet alone crazy for anyone else to follow.
-</details>
+02-06-2022
+- Reworked the guide as it will be split into a main and add-on documents, like my Morrowind guide is. Pretty much every mod removed since the last update will be present in this add-on guide.
+- Mod order and load order is now handled by a download that needs to be installed on your MO2 profile folder.
+- Removed **No Stealing After Repair**, as it is included in **lStewieAl's Tweaks Custom INI**.
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
