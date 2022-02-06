@@ -550,7 +550,7 @@ Remakes blood visual effects, including the addition of new types of wounds base
 [**Gore Overhaul**](https://www.nexusmods.com/newvegas/mods/67666)  
 Retextures the gore assets to give them a severely detailed look with attention to minor details. Also improves on the exploding head meshes to give it more gore bits.
 
-[**Gore Overhaul Optimized Textures**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Gore%20Overhaul%20Optimized%20Textures.7z)  
+[**Gore Overhaul Optimized Textures**](https://www.nexusmods.com/newvegas/mods/75268)  
 Optimizes the very high resolution textures, without noticeably sacrificing quality.
 
 ### Characters
