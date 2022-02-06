@@ -37,15 +37,52 @@ Makes the Pyromaniac perk affect all the lingering fire damage effects from weap
 
 ## GAMEPLAY QOL
 
-Stars Turned Face Up
-Hunting Revolver Iron Sights
-Better Bleed Me Dry
-Honest Hearts Skill Books Redistributed
+[**Better Bleed Me Dry**](https://www.nexusmods.com/newvegas/mods/67959)  
+Makes Bleed Me Dry work like most other New Vegas' quests, allowing you to collect the relevant quest items without waiting for the quest stages to trigger.
+
+[**Honest Hearts Skill Books Redistributed**](https://www.nexusmods.com/newvegas/mods/74526)  
+Replaces the randomly generated skill books system by distributing one of each skill book across Zion Valley.
+
+[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124)  
+Removes the Hunting Revolver's scope and makes it a separate weapon mod.
+
+Files to install:
+- **Hunting Revolver Iron Sights** (Main files)
+
+[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419/)  
+Turns all Sunset Sarsaparilla Star bottle caps face up, making it easier to spot them.
 
 ## GAMEPLAY
 
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
+
+[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
+Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
+
+[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
+Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
+
+[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
+Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite, then ask Jane in the Penthouse about the snow globe collection. Only then will you be able to sell snow globes. DLCs snow globes now need to be sold to Jane, they won't disappear out of thin air anymore (the Dead Money snow globe now reward 2000 caps instead of 2000 Sierra Madre chips).
+
+[**Standardized NCR Supply Caches**](https://www.nexusmods.com/newvegas/mods/74145)  
+Swaps out the current, barely-useful supply cache loot table with a static one, that will contain better items as you level up.
+
+Files to install:
+- **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files)
+
+[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
+
+## OVERHAULS
+
+[**Hunting Revolver Iron Sights - JSUE - Mojave Arsenal (GRA Merged) Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Hunting%20Revolver%20Iron%20Sights%20-%20JSUE%20-%20Mojave%20Arsenal%20(GRA%20Merged)%20Patch.7z)  
+Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
+
+[**Anatomic Perks**](https://www.nexusmods.com/newvegas/mods/65648)  
+Distributes the effect from the Living Anatomy perk to see the target's HP and DT, so that specific perks grant this bonus only against specific enemies.
+Or, just take the Here and Now perk...
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
@@ -56,22 +93,8 @@ Files to install:
 [**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
 Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
 
-[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
-Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
-
-Snowglobe Tweaks Fix
-
-Standardized NCR Supply Caches
-
-[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
-
-Realistic Movement
-Miss Fortune NVSE Upgrade
-Meltdown NVSE Upgrade
-Immersive Hit Reactions - Makes Combat Responsive
-Anatomic Perks
-No Oblivion Enchantments Armor Effects Begone
+[**Meltdown NVSE Upgrade**]()  
+[**Miss Fortune NVSE Upgrade**]()  
 
 ## CONTENT
 
