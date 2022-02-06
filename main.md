@@ -935,24 +935,9 @@ MuchNeededLOD.esp
 Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
 
 - Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select All**. Uncheck **FreesideFortWorld "Old Mormon Fort"**.
+- Right click on the list of worldspaces, and click **Select All**.
 - Click **Generate**. The process will take some time.
 - After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
-
-> ⚠️ Having too many LOD mods installed can cause **FNVLODGen** to fail at generating LOD appropriately. At the moment, the only scenario where I've found this to happen is at the Old Mormon Fort. Hence why are generating its LOD separate from the rest of the worldspaces.
-
-- Now disable the following mods:
-  - **LOD Additions and Improvements**
-  - **LOD Additions and Improvements YUP ESP Replacer**
-  - **FNV LOD Supplementation**
-  - **TCM's LOD Overhaul**
-  - **Much Needed LOD**
-- Run **FNVLODGen** in MO2.
-- Right click on the list of worldspaces, and click **Select None**. Check **FreesideFortWorld "Old Mormon Fort"**.
-- Click **Generate**. The process will take some time.
-- After the **LOD Generator: finished (you can close this application now)** message appears, close the program.
-
-> ⚠️ Remember to re-enable the disabled LOD mods.
 
 Now all that's left is to install our generated LOD.
 
