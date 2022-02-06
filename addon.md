@@ -307,10 +307,11 @@ Assuming you use a different mod setup than the one recommended in the guide, yo
 
 - Now disable the following mods:
   - **LOD Additions and Improvements**
-  - **LOD Additions and Improvements YUP ESP Replacer**
+  - **LOD Additions and Improvements YUP Patch**
   - **FNV LOD Supplementation**
   - **TCM's LOD Overhaul**
   - **Much Needed LOD**
+  - **Much Needed LOD YUP Patch**
 - Run **FNVLODGen** in MO2.
 - Right click on the list of worldspaces, and click **Select None**. Check **FreesideFortWorld "Old Mormon Fort"**.
 - Click **Generate**. The process will take some time.
