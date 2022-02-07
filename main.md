@@ -558,7 +558,7 @@ Files to install:
 - **tkEyelashesFNV** (Main files)
   - Hide **tkEyelashesFNV_FemalesOnly.esp**.
 
-[**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893)  
+[**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 ESP Replacer that fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
