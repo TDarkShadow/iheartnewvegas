@@ -43,13 +43,6 @@ Adds melee attacks for non-melee weapons.
 [**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
 Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
 
-[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
-Compilation of minor visual, gameplay, and immersion mods.
-
-Additional files to install:
-- **Follower Formula Redone Patch** (Optional files)
-- **Sawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
-
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
 
