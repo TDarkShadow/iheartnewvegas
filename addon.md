@@ -49,6 +49,9 @@ Removes the Hunting Revolver's scope and makes it a separate weapon mod.
 Files to install:
 - **Hunting Revolver Iron Sights** (Main files)
 
+[**Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+Compatibility patch for Consistent Pip-Boy Icons.
+
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419/)  
 Turns all Sunset Sarsaparilla Star bottle caps face up, making it easier to spot them.
 
@@ -77,7 +80,7 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 ## OVERHAULS
 
-[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patc**](https://www.nexusmods.com/newvegas/mods/75268)  
+[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
