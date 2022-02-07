@@ -302,6 +302,20 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 > ⚠️ ONLY INSTALL THIS MOD IF YOU'VE FOLLOWED THE **VISUALS** AND **LOD** SECTIONS TO THE LETTER. Else, you will have to generate your own LOD following the instructions in the following section.
 
+> ℹ️ This file should be used *instead* of the **FNVLODGen Output** featured in the main guide.
+
+## FINISHING TOUCHES
+
+### Mod order and load order
+
+[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
+Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
+- Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
+
+> ℹ️ Mod order dictates the priority a given mod's assets have over the mods installed before it. This is handled by **modlist.txt**.
+ 
+> ℹ️ Load order dictates the priority a given mod's plugins have over the mods' plugins loaded before them. This is handled by **loadorder.txt**.
+
 ### Generating LOD
 
 Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
