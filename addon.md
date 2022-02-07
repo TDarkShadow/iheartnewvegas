@@ -54,6 +54,8 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 ## OVERHAULS
 
+### Perk tweaks
+
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
 
@@ -72,6 +74,8 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
 
 ## CONTENT
+
+### Backpacks
 
 [**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
 Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
