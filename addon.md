@@ -51,6 +51,7 @@ Files to install:
 
 [**Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Consistent Pip-Boy Icons.
+- Install as **Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**.
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419/)  
 Turns all Sunset Sarsaparilla Star bottle caps face up, making it easier to spot them.
@@ -82,6 +83,7 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 [**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
+- Install as **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch**.
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
@@ -112,6 +114,7 @@ Files to install:
 
 [**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate.
+- Install as **Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**.
 
 ## AUDIO
 
@@ -213,12 +216,14 @@ Files to install:
 
 [**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
+- Install as **Pip-Boy 2000 Mk VI Working Buttons**.
 
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
 [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
+- Install as **NPC Arm Mounted Pip-Boy 2000 Mk VI**.
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scope overlay with worn-out scopes to give them a post-apocalyptic feel.
@@ -252,6 +257,7 @@ Files to install:
 
 [**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Lightweight Strip Overhaul.
+- Install as **Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**.
 
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
 Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
@@ -269,6 +275,7 @@ Files to install:
 
 [**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for More Subtle New Vegas Light Pollution.
+- Install as **Better Strip View - More Subtle New Vegas Light Pollution Patch**.
 
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
@@ -296,6 +303,7 @@ Files to install:
 
 [**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
+- Install as **FNV Realistic Wasteland Lighting Worldspace and Region Patch**.
 
 [**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
