@@ -679,7 +679,7 @@ Adjusts mod order and load order for Left My Heart In New Vegas to work as inten
 
 ### Generating LOD
 
-Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
+> ⚠️ Assuming you use a different mod setup than the one recommended in the guide, you will have to generate LOD yourself.
 
 - Run **FNVLODGen** in MO2.
 - Right click on the list of worldspaces, and click **Select All**.
