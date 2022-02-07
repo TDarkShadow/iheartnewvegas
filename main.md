@@ -48,7 +48,6 @@ Aims to fix UI bugs and add new UI features.
 
 Additional files to install:
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
-  Merge with the main file.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
@@ -169,7 +168,6 @@ Allows any number of mods to be configured from a single menu, accessible throug
 
 Additional files to install:
 - **MCM BugFix 2** (Optional files)  
-  Merge with the main file.
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
@@ -207,16 +205,13 @@ Bug fixes and consistency tweaks for icons in terms of coloring and transparency
 
 Files to install:
 - **1. Consistent Pip-boy Icons** (Main files)  
-- **2. Consistent Addon Icons** (Main files)  
-  Merge with the main file.
+- **2. Consistent Addon Icons** (Main files)
   - FOMOD options to install:
     - [X] Interfaceshared0 Addon
-- **3. Consistent Glow Icons** (Main files)  
-  Merge with the main file.
+- **3. Consistent Glow Icons** (Main files)
   - FOMOD options to install:
     - [X] Main File
-- **6. Vanilla UI Plus Patch** (Optional files)  
-  Merge with the main file.
+- **6. Vanilla UI Plus Patch** (Optional files)
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
@@ -247,13 +242,10 @@ Files to install:
 Adds iron sights to a variety of laser and plasma weapons which lacked any.
 
 Files to install:
-- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
-- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)  
-  Merge with the main file.
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  Merge with the main file.
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)  
-  Merge with the main file.
+- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -271,7 +263,6 @@ Limits the amount of followers the player can have depending on their Charisma s
 
 [**Follower Formula Redone YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
-- Install as **Follower Formula Redone YUP Patch**.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -301,7 +292,6 @@ Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging
 
 [**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
-- Install as **Misc Gameplay Merge YUP Patch**.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
@@ -333,8 +323,7 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 Completely reconstructed version of Josh Sawyer's mod, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
 Additional files to install:
-- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)  
-  Merge with the main file.
+- **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
@@ -366,8 +355,7 @@ Makes enemies more likely to target the player in combat rather than companions.
 Makes repairing more difficult by making each repair require a consumable Repair Tools item.
 
 Additional files to install:
-- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)  
-  Merge with the main file.
+- **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
 Expands the idea of traits with opposite effects (seen in Fast Shot and Trigger Discipline) to the game's other traits.
@@ -389,7 +377,6 @@ Improves the character creation by speeding up the process, adding specialized g
 
 [**Consistent Pip-Boy Icons Mod Patches**](https://www.nexusmods.com/newvegas/mods/65046)  
 Collection of upscaled icons for a variety of mods.
-- Install as **Consistent Pip-Boy Icons - Mod Patches**.
 - FOMOD options to install:
   - [X] B42 Melee Bash
   - [X] Mojave Arsenal
@@ -411,8 +398,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 
 Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
-- **Uncut Wasteland Pole Remover** (Optional files)  
-  Merge with the main file.
+- **Uncut Wasteland Pole Remover** (Optional files)
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -424,8 +410,7 @@ Restores some cut but fully-functional NPCs to the Strip.
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
-- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)  
-  Merge with the main file.
+- **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
@@ -435,8 +420,7 @@ Makes Fiends passive to the player when using a Great Khan outfit, and makes Fie
 
 Files to install:
 - **Khans Friendly to Fiends** (Main files)  
-- **Mojave Raiders Patch** (Main files)  
-  Merge with the main file.
+- **Mojave Raiders Patch** (Main files)
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -459,8 +443,7 @@ Compatibility patch for Weapon Mesh Improvement Mod.
 Replaces every explosion sound in the game.
 
 Additional files to install:
-- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)  
-  Merge with the main file.
+- **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
@@ -485,23 +468,20 @@ Files to install:
 Merge of many animation mods by the same author, improving the game's overall look and feel when it comes to gunplay.
 
 Additional files to install:
-- **Weapon Mesh Improvement Mod Patch** (Optional files)  
-  Merge with the main file.
+- **Weapon Mesh Improvement Mod Patch** (Optional files)
 
 [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
 Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
   
 Files to install:
 - **AnniAnimPack_BugFix 1.3** (Main files)  
-- **Bonus Patch** (Main files)  
-  Merge with the main file.
+- **Bonus Patch** (Main files)
 
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
 
 Additional files to install:
-- **FNV Clean Animations - Update 2.2.2** (Update files)  
-  Merge with the main file.
+- **FNV Clean Animations - Update 2.2.2** (Update files)
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -523,11 +503,9 @@ Custom configuration that enables ragdoll momentum, corpse toucher, hit reaction
 
 [**Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
-- Install as **Ragdolls YUP Patch**.
 
 [**Ragdolls DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Essential DLC Enhancements.
-- Install as **Ragdolls DLC Enhancements Patch**.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
@@ -564,7 +542,6 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 
 [**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends.
-- Install as **Character Expansions Revised Patches**.
 - BAIN options to install:
   - [X] 00 All in One
 
@@ -583,17 +560,14 @@ Files to install:
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893)  
 ESP Replacer that fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
-- Install as **Eyelashes New Vegas ESP Replacer**.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
 
 Files to install:
 - **Eyelashes 1.3** (Main files)  
-- **HD teeth 3.0** (Main files)  
-  Merge with the main file.
-- **HQ eyebrows** (Main files)  
-  Merge with the main file.
+- **HD teeth 3.0** (Main files)
+- **HQ eyebrows** (Main files)
 
 [**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
@@ -634,7 +608,6 @@ Files to install:
 
 [**FNV Realistic Wasteland Lighting ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 ESP replacer that includes Yukichigai Unofficial Patch fixes, brighter nights, no overcast weather, and ambient music in the Zion Valley.
-- Install as **FNV Realistic Wasteland Lighting ESP Replacer**.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -665,14 +638,12 @@ Adds extra meshes for LOD generation.
 
 Files to install:
 - **FNVLODGen Resources** (Main files)  
-  Install as **FNVLODGen Resources**.
 
 [**LOD Additions and Improvements**](https://www.nexusmods.com/newvegas/mods/61206)  
 Adds extra meshes for LOD generation.
 
 [**LOD Additions and Improvements YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
-- Install as **LOD Additions and Improvements YUP Patch**.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
@@ -685,7 +656,6 @@ Adds extra meshes for LOD generation.
 
 [**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
-- Install as **Much Needed LOD YUP Patch**.
 
 [**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
