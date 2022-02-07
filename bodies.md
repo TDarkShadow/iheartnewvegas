@@ -47,7 +47,7 @@ Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
 Files to install:
 - **T4 Armor Mesh Fixes (Vanilla)** (Main files)
 
-[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
+[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893)  
 Patches **TYPE4** for a variety of mods.
 - BAIN options to install:
   - [X] 00 YUP Patch
