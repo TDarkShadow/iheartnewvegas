@@ -41,7 +41,7 @@ Female body replacer featuring no neckseams and much improved arms and upperbody
 - Hide the **meshes\characters\ _male\locomotion** folder.
 - Hide the **meshes\pipboy3000** folder.
 
-> ℹ️ This fixes compatibility issues with **Pip-Boy 2500 Mk VI** and animation mods.
+> ℹ️ This fixes compatibility issues with **Pip-Boy 2000 Mk VI** and animation mods.
 
 [**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
 Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
