@@ -97,9 +97,6 @@ Files to install:
 
 The mods installed in this guide can be placed at the very end of **Left My Heart In New Vegas**.
 
-<details>
-<summary>Mod order</summary>
-
 ```
 Improved Vanilla Male Body - Seamless - 4K
 TYPE4 - Body and Armors
@@ -111,10 +108,6 @@ T6M Prostitute Outfits and Combat Armor
 TYPE4 Patches
 Body and Face Textures Workshop
 ```
-</details>
-
-<details>
-<summary>Load order</summary>
 
 ```
 T4-plugin.esp
@@ -126,7 +119,6 @@ T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
 T4 Eyelashes FNV Patch.esp
 ```
-</details>
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md)  
