@@ -9,14 +9,7 @@ The guide presented here assumes you have already followed all instructions foun
 
 Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
 
-By default, it is implied that whenever you are asked to install a mod, you must install only the main file, and no other file.
-That said, the following scenarios can happen, and you will be explicitly told how to proceed:
-- You must install the main file under a different name.
-- You must install one or some main files from a Nexus page with multiple main files.
-- You must install additional files from the same Nexus page, be them additional main files, update files, or optional files.
-- You must skip the main file altogether and install only optional files.
-
-To reduce clutter, you will often be asked to merge one file with the main file. "Main file" here not necessarily refers to the main file as stated in the Nexus page. Often, it refers to the first file of all files you will be asked to download. This is the case of pages with multiple main files which are all standalone from each other.
+This guide is organized so that whenever you are asked to install a mod from any source, or multiple mods from the same Nexus page, the name should be the one **highlighted in blue** which leads you to their respective pages. All files installed from a Nexus page should thus be merged with each other using Mod Organizer 2's merge feature, and always merged in the order they are listed in this guide.
 
 When in doubt, refer back to this section.
 
