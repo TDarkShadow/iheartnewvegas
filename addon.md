@@ -35,26 +35,6 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. I
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
-## GAMEPLAY QOL
-
-[**Better Bleed Me Dry**](https://www.nexusmods.com/newvegas/mods/67959)  
-Makes Bleed Me Dry work like most other New Vegas' quests, allowing you to collect the relevant quest items without waiting for the quest stages to trigger.
-
-[**Honest Hearts Skill Books Redistributed**](https://www.nexusmods.com/newvegas/mods/74526)  
-Replaces the randomly generated skill books system by distributing one of each skill book across Zion Valley.
-
-[**Hunting Revolver Iron Sights**](https://www.nexusmods.com/newvegas/mods/73124)  
-Removes the Hunting Revolver's scope and makes it a separate weapon mod.
-
-Files to install:
-- **Hunting Revolver Iron Sights** (Main files)
-
-[**Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Consistent Pip-Boy Icons.
-
-[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419/)  
-Turns all Sunset Sarsaparilla Star bottle caps face up, making it easier to spot them.
-
 ## GAMEPLAY
 
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
@@ -63,17 +43,18 @@ Adds melee attacks for non-melee weapons.
 [**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
 Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
 
+[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
+Compilation of minor visual, gameplay, and immersion mods.
+
+Additional files to install:
+- **Follower Formula Redone Patch** (Optional files)
+- **Sawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
+
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite, then ask Jane in the Penthouse about the snow globe collection. Only then will you be able to sell snow globes. DLCs snow globes now need to be sold to Jane, they won't disappear out of thin air anymore (the Dead Money snow globe now reward 2000 caps instead of 2000 Sierra Madre chips).
-
-[**Standardized NCR Supply Caches**](https://www.nexusmods.com/newvegas/mods/74145)  
-Swaps out the current, barely-useful supply cache loot table with a static one, that will contain better items as you level up.
-
-Files to install:
-- **Patchy's Preferred Preparedness Package - Scaler Moon Edition** (Main files)
 
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
@@ -153,9 +134,6 @@ Fixes the missing headtracking and face animations.
 
 ### Creatures
 
-[**Alsatian NCR Guard Dogs**](https://www.nexusmods.com/newvegas/mods/39232?)  
-All NCR guard dogs are now Alsatian (a.k.a German Shepard) instead of the vanilla vicious dog. 
-
 [**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
 Makes Yao Guai look less mutated.
 
@@ -176,23 +154,11 @@ Modifies the overcoats on the NCR Ranger and Desert Ranger armors so they hang s
 [**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
 Modifies the Ranger Hats so they sit slightly lower on the head. 
 
-[**Metal Helmets - Female Replacements**](https://www.nexusmods.com/newvegas/mods/56699)  
-Replaces the female Metal Armor helmets with their male counterparts.
-- Hide the **textures\interface** folder.
-
-> ℹ️ This solves a conflict with **Consistent Pip-Boy Icons**.
-
-[**Power Armor Gloves**](https://www.nexusmods.com/newvegas/mods/58800)  
-Adds armored gloves to all Power Armors in the game.
-
 [**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
 Makes the visors of all the Ranger Helmets (NCR, Desert, Riot, Advanced Riot, Elite Riot) have a neat glowing effect.
 
 Files to install:
 - **Simple Glowing Ranger Visors (No Neck Covers)** (Main files)
-
-[**Unisex Motorcycle Helmets**](https://www.nexusmods.com/newvegas/mods/36892?)  
-Replaces the male Motorcycle helmet with its female counterpart.
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
