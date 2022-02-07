@@ -190,6 +190,9 @@ Replaces the dated palm trees seen on the Strip with way better custom models. I
 [**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406/)  
 Fixes the planters on the Strip.
 
+[**Ultra-Luxe Fountain Expanded**](https://www.nexusmods.com/newvegas/mods/69781)  
+Improves the Ultra-Luxe fountain by adding additional water streams with accompanying sound effects as well as eight new light beams above the embedded lights in the base of the fountain.
+
 ## LOD ADD-ON
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
