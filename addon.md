@@ -120,12 +120,6 @@ Adds 360 degrees movements with procedural leaning, and auto vanity mode to make
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
 
-[**Tweaked Standing Idle**](https://www.nexusmods.com/newvegas/mods/42662?)  
-Straightens out the backs and shoulders of NPCs, and also relaxes the right hand for NPCs wearing power armor.
-
-[**Tweaked Standing Idle by Documn Fix**](https://www.nexusmods.com/newvegas/mods/57041?)  
-Fixes the missing headtracking and face animations. 
-
 ### Creatures
 
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
