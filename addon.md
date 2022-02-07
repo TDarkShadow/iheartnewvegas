@@ -128,12 +128,6 @@ Fixes the missing headtracking and face animations.
 
 ### Creatures
 
-[**Healthier Yao Guai**](https://www.nexusmods.com/newvegas/mods/49707)  
-Makes Yao Guai look less mutated.
-
-Files to install:
-- **Healthier Yao Guai** (Main files)
-
 [**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
 Adds CRT lines to the monitors of Securitrons.
 
@@ -175,12 +169,6 @@ Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
 [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-
-[**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
-Replaces the vanilla scope overlay with worn-out scopes to give them a post-apocalyptic feel.
-
-Files to install:
-- **Worn-Out Scopes** (Main files)
 
 ### Environment
 
