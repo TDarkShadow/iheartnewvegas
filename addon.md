@@ -51,7 +51,6 @@ Files to install:
 
 [**Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Consistent Pip-Boy Icons.
-- Install as **Consistent Pip-Boy Icons - Hunting Revolver Iron Sights Patch**.
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419/)  
 Turns all Sunset Sarsaparilla Star bottle caps face up, making it easier to spot them.
@@ -107,14 +106,11 @@ Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-
 [**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
 Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
 
-Files to install:
-- **Canvas Backpacks - Remade** (Main files)
+Additional files to install:
 - **Strapless Update** (Optional files)  
-  Merge with the main file.
 
 [**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate.
-- Install as **Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**.
 
 ## AUDIO
 
@@ -145,7 +141,7 @@ Adds diagonal movement.
 
 [**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
 Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
-- Install the **Diagonal Movement Patch** in the FOMOD installer.
+- Also install the **Diagonal Movement Patch** in the FOMOD installer.
 
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
@@ -171,8 +167,7 @@ Files to install:
 Adds CRT lines to the monitors of Securitrons.
 
 Additional files to install:
-- **OWB in CRT** (Optional files)  
-  Merge with the main file.
+- **OWB in CRT** (Optional files)
 
 ### Equipment
 
@@ -211,19 +206,16 @@ New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clo
 
 Files to install:
 - **Pip-Boy 2000 Mk VI replacer version** (Main files)
-- **Working date and clock for replacer** (Optional files)  
-  Merge with the main file.
+- **Working date and clock for replacer** (Optional files)
 
 [**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
-- Install as **Pip-Boy 2000 Mk VI Working Buttons**.
 
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
 [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
-- Install as **NPC Arm Mounted Pip-Boy 2000 Mk VI**.
 
 [**Worn-Out Scope Crosshair Replacers**](https://www.nexusmods.com/newvegas/mods/43181)  
 Replaces the vanilla scope overlay with worn-out scopes to give them a post-apocalyptic feel.
@@ -247,17 +239,15 @@ Files to install:
 
 > ℹ️ This file is not an update, but the latest version of the mod.
 
-[**Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
+[**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
 Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
 
 Files to install:
 - **Lightweight Strip Overhaul - No Walls** (Main files)
-- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)  
-  Merge with the main file.
+- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
 
-[**Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+[**Strip Lighting Overhaul LSO Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Lightweight Strip Overhaul.
-- Install as **Strip Lighting Overhaul - Lightweight Strip Overhaul Patch**.
 
 [**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
 Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
@@ -275,35 +265,29 @@ Files to install:
 
 [**Better Strip View - More Subtle New Vegas Light Pollution Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for More Subtle New Vegas Light Pollution.
-- Install as **Better Strip View - More Subtle New Vegas Light Pollution Patch**.
 
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
 Additional files to install:
 - **HDJRaD - Much Needed LOD Patch** (Optional files)  
-  Install as **HDJRaD - Much Needed LOD Patch**.
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
 Additional files to install:
-- **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)  
-  Merge with the main file.
-- **Strip Lights Region Fix - Uncut Wasteland** (Optional files)  
-  Merge with the main file.
+- **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
+- **Strip Lights Region Fix - Uncut Wasteland** (Optional files)
 
 [**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
 Modifies the Lucky 38 lights before and after they have been turned on during the Mr. House/Yes Man questlines.
 
 Files to install:
 - **Lucky 38 Lights Redone - Full Model** (Main files)
-- **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)  
-  Merge with the main file.
+- **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)
 
 [**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
-- Install as **FNV Realistic Wasteland Lighting Worldspace and Region Patch**.
 
 [**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
