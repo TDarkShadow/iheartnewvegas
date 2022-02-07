@@ -54,9 +54,6 @@ Expands how the Well Rested effect works. Effect duration is now in actual game 
 
 ## OVERHAULS
 
-[**JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged).
-
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
 
