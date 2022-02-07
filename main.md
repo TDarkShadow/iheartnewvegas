@@ -271,6 +271,7 @@ Limits the amount of followers the player can have depending on their Charisma s
 
 [**Follower Formula Redone YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+- Install as **Follower Formula Redone YUP Patch**.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -300,6 +301,7 @@ Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging
 
 [**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+- Install as **Misc Gameplay Merge YUP Patch**.
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
@@ -521,9 +523,11 @@ Custom configuration that enables ragdoll momentum, corpse toucher, hit reaction
 
 [**Ragdolls YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+- Install as **Ragdolls YUP Patch**.
 
 [**Ragdolls DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Essential DLC Enhancements.
+- Install as **Ragdolls DLC Enhancements Patch**.
 
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
@@ -560,6 +564,7 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 
 [**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends.
+- Install as **Character Expansions Revised Patches**.
 - BAIN options to install:
   - [X] 00 All in One
 
@@ -578,6 +583,7 @@ Files to install:
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/74893)  
 ESP Replacer that fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
+- Install as **Eyelashes New Vegas ESP Replacer**.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
@@ -628,6 +634,7 @@ Files to install:
 
 [**FNV Realistic Wasteland Lighting ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 ESP replacer that includes Yukichigai Unofficial Patch fixes, brighter nights, no overcast weather, and ambient music in the Zion Valley.
+- Install as **FNV Realistic Wasteland Lighting ESP Replacer**.
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -665,6 +672,7 @@ Adds extra meshes for LOD generation.
 
 [**LOD Additions and Improvements YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+- Install as **LOD Additions and Improvements YUP Patch**.
 
 [**FNV LOD Supplementation**](https://www.nexusmods.com/newvegas/mods/72099)  
 Adds extra meshes for LOD generation.
@@ -677,6 +685,7 @@ Adds extra meshes for LOD generation.
 
 [**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+- Install as **Much Needed LOD YUP Patch**.
 
 [**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
