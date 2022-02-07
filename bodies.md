@@ -113,11 +113,11 @@ Body and Face Textures Workshop
 ```
 T4-plugin.esp
 More Modest T4 Fixes.esp
-T6M Combat Armor Fix JSUE.esp
 T4 YUP Patch.esp
 T4 Fixes.esp
 T4 Vanilla Radiation Suits.esp
 T4 JSUE Patch.esp
+T6M Combat Armor Fix JSUE.esp
 T4 Eyelashes FNV Patch.esp
 ```
 
