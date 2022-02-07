@@ -227,14 +227,6 @@ High-res satellite maps for Dead Money, Honest Hearts, Old World Blues, and Lone
 
 ## GAMEPLAY QOL
 
-[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
-A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
-
-[**Faction Warning and Reputation Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Faction%20Warning%20and%20Reputation%20Tweaks.7z)  
-Replaces the faction armor warning pop-ups with corner messages, and lowers reputation penalties for crimes.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62183) to original mod by **PushTheWinButton**. The featured version drops the restored Primm Reputation and omits the tweaks to reputation scripts.
-
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 
@@ -260,6 +252,9 @@ Adjusts the positioning of the grenade/mine icon to not overlap with other UI el
 Delays DLC pop-ups until you meet certain level requirements or discover the entrances to the DLC areas.
 
 ## GAMEPLAY
+
+[**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
+A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Limits the amount of followers the player can have depending on their Charisma stat divided by 2, rounded down. The player will need at least 2 Charisma to have one follower, and they can have 5 followers at most. 
@@ -295,6 +290,13 @@ Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging
 
 [**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+
+[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
+Compilation of minor visual, gameplay, and immersion mods.
+
+Additional files to install:
+- **Follower Formula Redone Patch** (Optional files)
+- **Sawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
@@ -801,6 +803,10 @@ V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+02-07-2022
+- Added **Misc Immersion Merge** (Gameplay).
+- Moved **Essential DLC Enhancements Merged** to (Gameplay).
 
 02-06-2022
 - Reworked the guide as it will be split into a main and add-on documents, like my Morrowind guide is. Pretty much every mod removed since the last update will be present in this add-on guide.
