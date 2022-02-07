@@ -65,8 +65,9 @@ Files to install:
 
 [**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
 Less skimpy Prostitute outfits and less goofy Combat Armor.
-- [X] 00 Prostitute Outfits
-- [X] 01 Combat Armor JSUE
+- BAIN options to install:
+  - [X] 00 Prostitute Outfits
+  - [X] 01 Combat Armor JSUE
 
 [**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893) (Main Files)  
 Patches **TYPE4** for a variety of mods.
