@@ -12,8 +12,6 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 ## PATCHES ADD-ON
 
-### Non-purist NVSE bug fixes
-
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
@@ -35,7 +33,7 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. I
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
-## GAMEPLAY
+## GAMEPLAY ADD-ON
 
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
@@ -52,9 +50,7 @@ Makes it so you need to first discover the snow globe display in the Lucky 38 Pr
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
-## OVERHAULS
-
-### Perk tweaks
+## OVERHAULS ADD-ON
 
 [**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
 Balanced cannibalism overhaul with immersive gore effects.
@@ -73,9 +69,7 @@ Overhauls the Meltdown perk to bring its workings under control and actually wor
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709?)  
 Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
 
-## CONTENT
-
-### Backpacks
+## CONTENT ADD-ON
 
 [**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
 Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
@@ -86,7 +80,7 @@ Additional files to install:
 [**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate.
 
-## AUDIO
+## AUDIO ADD-ON
 
 [**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
 Removes the cocking sound that plays every time you equip a rifle.
@@ -103,7 +97,7 @@ Adds custom pickup sounds when looting an item.
 Files to install:
 - **Immersive Pickup Sounds - Compatibility Version** (Main files)
 
-## VISUALS
+## VISUALS ADD-ON
 
 ### Animations
 
@@ -196,7 +190,7 @@ Replaces the dated palm trees seen on the Strip with way better custom models. I
 [**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406/)  
 Fixes the planters on the Strip.
 
-## LOD
+## LOD ADD-ON
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
