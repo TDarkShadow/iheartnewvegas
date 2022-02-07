@@ -1,6 +1,6 @@
-[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/master/readme.md)  
+[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/master/main.md)
+[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
@@ -355,3 +355,7 @@ Key | Function | Added by
 ------------ | ------------- | -------------
 X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
+
+[<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/readme.md)  
+[<< Back to Setup](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md)  
+[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
