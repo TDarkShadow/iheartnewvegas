@@ -773,7 +773,7 @@ bMatchingCursor = 1
 bDoDepthOfField=0
 
 [Interface]
-fDlgFocus=6.0000
+fDlgFocus=5.0000
 uPipboyColor=1022886143
 ```
 
@@ -808,6 +808,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 02-07-2022
 - Added **Misc Immersion Merge** (Gameplay).
 - Moved **Essential DLC Enhancements Merged** to (Gameplay).
+- Added link to addendum guide.
 
 02-06-2022
 - Reworked the guide as it will be split into a main and add-on documents, like my Morrowind guide is. Pretty much every mod removed since the last update will be present in this add-on guide.
@@ -815,6 +816,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 - **No Stealing After Repair** is now included in **lStewieAl's Tweaks Custom INI**.
 - **FNVLODGen Output** has been updated to reflect the removal of many LOD mods.
 - Added **Much Needed LOD YUP Patch**.
+
+# ADDITIONAL MODS
+
+For additional mods that tackle more specific aspects of the game, [**check out the addendum guide**](https://github.com/Sigourn/iheartnewvegas/blob/main/addon.md).
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
