@@ -8,9 +8,9 @@
 
 The guide presented here is an extension to the [**Main**](https://github.com/Sigourn/iheartnewvegas/blob/master/main.md) Left My Heart In New Vegas guide. It includes optional mods that are not present in **Main** for the sake of streamlining. Feel free to follow this guide in parallel to the main document, or, if you wish, follow it after finishing the main document. The correct mod order and load order, as well as slightly different **Finishing touches** instructions will be found at the end of this guide.
 
-# LEFT MY HEART IN NEW VEGAS ADD-ON
+# LEFT MY HEART IN NEW VEGAS ADDENDUM
 
-## PATCHES ADD-ON
+## PATCHES
 
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
@@ -33,7 +33,7 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. I
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
-## GAMEPLAY ADD-ON
+## GAMEPLAY
 
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons.
@@ -67,7 +67,7 @@ Makes it so you need to first discover the snow globe display in the Lucky 38 Pr
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
-## CONTENT ADD-ON
+## CONTENT
 
 [**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
 Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
@@ -78,7 +78,7 @@ Additional files to install:
 [**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for JSawyer Ultimate.
 
-## AUDIO ADD-ON
+## AUDIO
 
 [**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
 Removes the cocking sound that plays every time you equip a rifle.
@@ -95,7 +95,7 @@ Adds custom pickup sounds when looting an item.
 Files to install:
 - **Immersive Pickup Sounds - Compatibility Version** (Main files)
 
-## VISUALS ADD-ON
+## VISUALS
 
 ### Animations
 
@@ -191,7 +191,7 @@ Fixes the planters on the Strip.
 [**Ultra-Luxe Fountain Expanded**](https://www.nexusmods.com/newvegas/mods/69781)  
 Improves the Ultra-Luxe fountain by adding additional water streams with accompanying sound effects as well as eight new light beams above the embedded lights in the base of the fountain.
 
-## LOD ADD-ON
+## LOD
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
