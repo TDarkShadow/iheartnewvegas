@@ -112,7 +112,7 @@ Adds 360 degrees movements with procedural leaning, and auto vanity mode to make
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
 
-### Equipment
+### Pip-Boy
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
