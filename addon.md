@@ -112,27 +112,7 @@ Adds 360 degrees movements with procedural leaning, and auto vanity mode to make
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
 
-### Creatures
-
-[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
-Adds CRT lines to the monitors of Securitrons.
-
-Additional files to install:
-- **OWB in CRT** (Optional files)
-
 ### Equipment
-
-[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
-Modifies the overcoats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes the mesh fixes from Yukichigai Unofficial Patch.
-
-[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
-Modifies the Ranger Hats so they sit slightly lower on the head. 
-
-[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
-Makes the visors of all the Ranger Helmets (NCR, Desert, Riot, Advanced Riot, Elite Riot) have a neat glowing effect.
-
-Files to install:
-- **Simple Glowing Ranger Visors (No Neck Covers)** (Main files)
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
 Removes the completely useless Pip-Boy glove from player and NPCs.
@@ -157,12 +137,6 @@ Gives the Pip-Boy 2000 Mk VI a grittier texture.
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
 ### Environment
-
-[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
-Fixes the glass texture in the Gun Runners' kiosk. 
-
-Files to install:
-- **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files)
 
 [**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
 Retextures and cleanups the interior of the Lucky 38.
