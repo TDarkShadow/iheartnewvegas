@@ -27,11 +27,22 @@ Fixes the damage dealing critical effects of most vanilla weapons so that they c
 [**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
 Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
 
+[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718?)  
+Overhauls the Meltdown perk to bring its workings under control and actually work as described. Includes configurable options for its Rampage feature, which increases your critical hit chance at every chained Meltdown, as well as the companion Meltdown feature, among other tweaks.
+
+> ℹ️ I personally suggest disabling both of these features using the mod's ini, but your mileage may vary.
+
+[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709?)  
+Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
+
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
+
+[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
+Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 ## GAMEPLAY
 
@@ -50,22 +61,11 @@ Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
 [**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
 Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
 
-[**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718?)  
-Overhauls the Meltdown perk to bring its workings under control and actually work as described. Includes configurable options for its Rampage feature, which increases your critical hit chance at every chained Meltdown, as well as the companion Meltdown feature, among other tweaks.
-
-> ℹ️ I personally suggest disabling both of these features using the mod's ini, but your mileage may vary.
-
-[**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709?)  
-Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
-
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
 
 [**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
 Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite, then ask Jane in the Penthouse about the snow globe collection. Only then will you be able to sell snow globes. DLCs snow globes now need to be sold to Jane, they won't disappear out of thin air anymore (the Dead Money snow globe now reward 2000 caps instead of 2000 Sierra Madre chips).
-
-[**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
-Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
 ## CONTENT
 
