@@ -296,7 +296,8 @@ Compilation of minor visual, gameplay, and immersion mods.
 
 Additional files to install:
 - **Follower Formula Redone Patch** (Optional files)
-- **Sawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
+- **JSawyer Ultimate Patch** (Optional files)
+- **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
 
 [**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847)    
 Collection of gameplay and balance tweaks.
