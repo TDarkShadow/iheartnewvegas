@@ -44,63 +44,9 @@ Makes the Pyromaniac perk affect all the lingering fire damage effects from weap
 [**Well Rested Overhaul**](https://www.nexusmods.com/newvegas/mods/64628)  
 Expands how the Well Rested effect works. Effect duration is now in actual game hours, gives a few more buffs aside from increased XP, and patches all the game prostitutes' scripts to also grant the buff for purchasing their services.
 
-## GAMEPLAY
-
-[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
-Adds melee attacks for non-melee weapons.
-
-[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
-Balanced cannibalism overhaul with immersive gore effects.
-
-Files to install:
-- **Cannibal Reborn** (Main files)
-
-[**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
-Expands Cannibal Reborn to also cover the Ghastly Scavenger perk.
-
-[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
-Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
-
-[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
-Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
-
-[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
-Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite, then ask Jane in the Penthouse about the snow globe collection. Only then will you be able to sell snow globes. DLCs snow globes now need to be sold to Jane, they won't disappear out of thin air anymore (the Dead Money snow globe now reward 2000 caps instead of 2000 Sierra Madre chips).
-
-## CONTENT
-
-[**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
-Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
-
-Additional files to install:
-- **Strapless Update** (Optional files)  
-
-[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for JSawyer Ultimate.
-
-## AUDIO
-
-[**No Cocking Sound on Rifle Equip**](https://www.nexusmods.com/newvegas/mods/66698)  
-Removes the cocking sound that plays every time you equip a rifle.
-
-[**Even More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/74901)  
-Increases the Pip-Boy Geiger clicking beyond the vanilla default. Increases the accuracy of the radiation meter. Forces the speed effects of the Atomic! perk to apply immediately.
-
-Files to install:
-- **Even More Accurate Geiger Clicking** (Main files)
-
-[**Immersive Pickup Sounds FNV Edition**](https://www.nexusmods.com/newvegas/mods/61815)  
-Adds custom pickup sounds when looting an item.
-
-Files to install:
-- **Immersive Pickup Sounds - Compatibility Version** (Main files)
-
 ## VISUALS
 
 ### Animations
-
-[**B42 Inspect - aka Animated Ammo and Weapon Condition Checking**](https://www.nexusmods.com/newvegas/mods/71624)  
-Adds a fully animated ammunition and weapon condition checking system to the game, complete with scratch made animations and a custom HUD element.
 
 [**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
 Adds diagonal movement.
@@ -130,13 +76,13 @@ Files to install:
 [**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons functional. Mod by **AleksMarch**.
 
-[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
-Gives the Pip-Boy 2000 Mk VI a grittier texture.
-
 [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 
-### Environment
+[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
+Gives the Pip-Boy 2000 Mk VI a grittier texture.
+
+### The Strip
 
 [**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
 Retextures and cleanups the interior of the Lucky 38.
@@ -247,30 +193,6 @@ Now all that's left is to install our generated LOD.
 
 - Navigate to your **Fallout New Vegas Mods\FNVLODGen Output** folder, and make an archive out of the **textures** and **meshes** folder. Name it **FNVLODGen Output**.
 - Install **FNVLODGen Output** with MO2.
-
-### MCM config
-
-The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
-
-**Enhanced Vision**:
-- Set **Vision mode hotkey** to **N**.
-
-**RAD**:
-- Enable **Hardcore**.
-- Enable **Alternate**.
-- Enable **Incremental**.
-- Enable **JSawyer Incremental**.
-
-> ℹ️ Sleep deprivation affects max AP; makes all needs affect max AP, with sleep deprivation setting in later than hunger and thirst; makes needs affect max AP at rates similar to how needs cause stat penalties; makes the former setting follow JSawyer's stat penalties progression.
-
-# MOD KEYBINDINGS
-
-This is a handy reference table which will hopefully help you have a better idea of what new hotkeys are available to you, having followed this guide from beginning to end.
-
-Key | Function | Added by
------------- | ------------- | -------------
-X | Melee weapon bash | B42 Melee Bash
-N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 [<< Back to Readme](https://github.com/Sigourn/iheartnewvegas/blob/main/readme.md)  
 [<< Back to Setup](https://github.com/Sigourn/iheartnewvegas/blob/main/setup.md)  
