@@ -294,7 +294,8 @@ Compatibility patch for Yukichigai Unofficial Patch.
 [**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
 Compilation of minor visual, gameplay, and immersion mods.
 
-Additional files to install:
+Files to install:
+- **Misc Immersion Merge** (Main files)
 - **Follower Formula Redone Patch** (Optional files)
 - **JSawyer Ultimate Patch** (Optional files)
 - **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) Patch** (Optional files)
