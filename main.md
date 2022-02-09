@@ -253,6 +253,12 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 ## GAMEPLAY
 
+[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
+Adds melee attacks for non-melee weapons.
+
+[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
+Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
@@ -317,6 +323,9 @@ Makes radiation work like in Fallout 4, by damaging your max health.
 
 [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
 Rewrites the entire UI portion of RAD and makes major changes to the script, including rebalancing and bugfixes.
+
+[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202/)  
+Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing. The slowed movement speed and slower turning speed also makes enemies less likely to bolt out suddenly from around a corner in a jerky way.
 
 [**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
 Fixes issues with Agility and Strength modifiers for reloading and throwing weapons; makes sneak critical hit damage scale with Sneak; allows grenade throwing range to be affected by Strength.
@@ -434,6 +443,15 @@ Adds hundreds more leveled, vanilla-friendly creature spawn points throughout th
 
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
+
+[**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
+Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
+
+Additional files to install:
+- **Strapless Update** (Optional files)  
+
+[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
+Compatibility patch for JSawyer Ultimate.
 
 ## AUDIO
 
@@ -711,6 +729,9 @@ The following settings need to be configured after you've already started a new 
 
 The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
 
+**Enhanced Vision**:
+- Set **Vision mode hotkey** to **N**.
+
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
@@ -803,8 +824,24 @@ C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
 V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
+X | Melee weapon bash | B42 Melee Bash
+N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-09-2022
+All the removed mods in this update are compatible with the gudie.
+- Moved **B42 Melee Bash** to the main guide (Gameplay). Updated Mod Keybindings section.
+- Moved **Enhanced Vision** to the main guide (Gameplay). Updated Mod Keybindings section and MCM Config section.
+- Moved **Realistic Movement** to the main guide (Gameplay).
+- Moved **Canvas Backpacks - Remade** to the main guide (Content).
+- Removed **B42 Inspect - aka Animated Ammo and Weapon Condition Checking** (Addendum).
+- Removed **Cannibal Reborn** (Addendum).
+- Removed **Cannibal Reborn Expanded** (Addendum).
+- Removed **Even More Accurate Geiger Clicking** (Addendum).
+- Removed **Immersive Pickup Sounds** (Addendum). For an updated version of the mod, check out [**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552).
+- Removed **No Cocking Sound on Rifle Equip** (Addendum).
+- Removed **Snowglobe Tweaks Fix** (Addendum).
 
 02-07-2022
 - Added **Misc Immersion Merge** (Gameplay).
