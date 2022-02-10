@@ -142,9 +142,6 @@ Files to install:
 - **Lucky 38 Lights Redone - Full Model** (Main files)
 - **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)
 
-[**FNV Realistic Wasteland Lighting Worldspace and Region Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-All-in-one patch for Better Strip View and Lucky 38 Lights Redone.
-
 [**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
 
