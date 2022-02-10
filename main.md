@@ -625,14 +625,11 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 Files to install:
 - **Slightly Brighter** (Main files)
 
-[**FNV Realistic Wasteland Lighting**](https://www.nexusmods.com/newvegas/mods/52037)  
-Complete weather overhaul designed to make the game look more realistic. Improves lighting, weather, clouds, stars, moon and the overall look and feel of the wasteland.
+[**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
+Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much. Performance-friendly, using no scripts or weather effects.
 
-Files to install:
-- **FNV Realistic Wasteland Lighting - All DLC** (Main files)
-
-[**FNV Realistic Wasteland Lighting ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
-ESP replacer that includes Yukichigai Unofficial Patch fixes, brighter nights, no overcast weather, and ambient music in the Zion Valley.
+Additional files to install:
+- **Altitude - Zion Ambient Music** (Optional files)
 
 [**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
 High quality retexture for night sky and moon.
@@ -640,17 +637,26 @@ High quality retexture for night sky and moon.
 Files to install:
 - **Mojave Nights FOMOD** (Main files)
   - FOMOD options to install:
-    - [X] 80% Moon size.
-    - [X] Enhanced Night Sky.
+    - [X] 100% Moon size.
     - [X] Low-glow Moon.
-- Copy the **textures\sky\skystars.dds** file and paste it inside the **textures\NVDLC02\sky** folder.
 
-> ℹ️ This will also apply the new night sky texture to Zion.
+> ℹ️ This omits the night sky retexture.
+
+[**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
+Replacement for the sun and sun-glare textures, for a simple, visually appealing style. Helps remove sky grain. 
+
+[**Enhanced Vanilla Stars 2K**](https://www.nexusmods.com/newvegas/mods/70247)  
+Seamless high resolution texture of the vanilla night sky.
+
+Files to install:
+- **Vanilla weather - Clarity - Fellout - Yellow Goodbye Version** (Main files)
+
+> ℹ️ Despite what the name of the file may imply, it is also compatible with **Altitude**.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
-## LOD
+## LOD RESOURCES
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
 Vastly improves the LOD noise texture used on distant land.
@@ -681,6 +687,8 @@ Adds extra meshes for LOD generation.
 
 [**Much Needed LOD YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Yukichigai Unofficial Patch.
+
+## GENERATED LOD
 
 [**FNVLODGen Output**](https://drive.google.com/file/d/12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
@@ -829,8 +837,13 @@ N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
 
+02-10-2022
+- Added **Altitude** (Visuals). Replaces **FNV Realistic Wasteland Lighting**. It also requires no region or worldspace patch.
+- Added **Elegant Sunglare Retexture** (Visuals).
+- Added **Enhanced Vanilla Stars 2K** (Visuals). Replaces the Enhanced Night Sky option from **Mojave Nights**.
+
 02-09-2022
-All the removed mods in this update are compatible with the gudie.
+All the removed mods in this update are compatible with the guide.
 - Moved **B42 Melee Bash** to the main guide (Gameplay). Updated Mod Keybindings section.
 - Moved **Enhanced Vision** to the main guide (Gameplay). Updated Mod Keybindings section and MCM Config section.
 - Moved **Realistic Movement** to the main guide (Gameplay).
