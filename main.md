@@ -631,17 +631,6 @@ Vastly improves all the weathers in the game, without stepping on the toes of va
 Additional files to install:
 - **Altitude - Zion Ambient Music** (Optional files)
 
-[**Mojave Nights - A Moon and Stars Replacer**](https://www.nexusmods.com/newvegas/mods/44381)  
-High quality retexture for night sky and moon.
-
-Files to install:
-- **Mojave Nights FOMOD** (Main files)
-  - FOMOD options to install:
-    - [X] 100% Moon size.
-    - [X] Low-glow Moon.
-
-> ℹ️ This omits the night sky retexture.
-
 [**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
 Replacement for the sun and sun-glare textures, for a simple, visually appealing style. Helps remove sky grain. 
 
@@ -652,6 +641,9 @@ Files to install:
 - **Vanilla weather - Clarity - Fellout - Yellow Goodbye Version** (Main files)
 
 > ℹ️ Despite what the name of the file may imply, it is also compatible with **Altitude**.
+
+[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/44381)  
+High quality retexture of the moon using NASA satellite images.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
@@ -840,7 +832,9 @@ N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 02-10-2022
 - Added **Altitude** (Visuals). Replaces **FNV Realistic Wasteland Lighting**. It also requires no region or worldspace patch.
 - Added **Elegant Sunglare Retexture** (Visuals).
-- Added **Enhanced Vanilla Stars 2K** (Visuals). Replaces the Enhanced Night Sky option from **Mojave Nights**.
+- Added **Enhanced Vanilla Stars 2K** (Visuals).
+- Added **HD Moon 2K - NASA Satellite Images** (Visuals).
+- Removed **Mojave Nights**.
 
 02-09-2022
 All the removed mods in this update are compatible with the guide.
