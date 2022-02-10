@@ -111,7 +111,7 @@ Fixes the planters on the Strip.
 [**Ultra-Luxe Fountain Expanded**](https://www.nexusmods.com/newvegas/mods/69781)  
 Improves the Ultra-Luxe fountain by adding additional water streams with accompanying sound effects as well as eight new light beams above the embedded lights in the base of the fountain.
 
-## LOD
+## LOD RESOURCES
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
 Adds visible Strip signs and moves the Strip buildings to where they should be.
@@ -141,6 +141,8 @@ Modifies the Lucky 38 lights before and after they have been turned on during th
 Files to install:
 - **Lucky 38 Lights Redone - Full Model** (Main files)
 - **Lucky 38 Lights Redone - Full Model - Better Strip View** (Optional files)
+
+## GENERATED LOD
 
 [**FNVLODGen Output Extended**](https://drive.google.com/file/d/1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT/view?usp=sharing)  
 Generated LOD for users who have followed the guide from beginning to bottom. Uses vanilla textures.
