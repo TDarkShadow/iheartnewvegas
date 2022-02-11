@@ -271,6 +271,11 @@ Compatibility patch for Yukichigai Unofficial Patch.
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
+[**Helmet Armor Rebalance (JIP)**](https://www.nexusmods.com/newvegas/mods/72028)  
+Scripted rebalance of all helmet armors in the game for users of JIP's bLocalizedDTDR feature. This raises their DT to the level of their associated or equivalent body armors in order to compensate for protective headwear being rendered practically useless with the setting enabled.
+
+> ℹ️ This mod requires a specific JIP LN Plugin feature to be enabled, which we will enable in the **INI config** section.
+
 [**Jamming Fix and Optional Tweaks**](https://www.nexusmods.com/newvegas/mods/66293)  
 Fixes the on-fire jamming for automatic weapons and adds an option for how often weapons jam.
 
@@ -560,6 +565,21 @@ Retextures the gore assets to give them a severely detailed look with attention 
 [**Gore Overhaul Optimized Textures**](https://www.nexusmods.com/newvegas/mods/75268)  
 Optimizes the very high resolution textures, without noticeably sacrificing quality.
 
+[**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
+Improves the gas leak refraction effect, making it easier to spot.
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+High resolution retexture for mist.
+
+Files to install:
+- **HD Mist 2K** (Main files)
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+High resolution retexture for dust storms.
+
+[**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
+Tones down the dust storm effect near the Hidden Valley bunkers.
+
 ### Characters
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
@@ -691,7 +711,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Mod order and load order
 
-[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
+[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegas/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
 Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
 - Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
 
@@ -828,6 +848,18 @@ X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-11-2022
+- Added **Better Gas Leak Effect** (Visuals).
+- Added **HD Mist** (Visuals).
+- Added **HQ Dust Storm FX** (Visuals).
+- Added **More Subtle Hidden Valley Dust Storm** (Visuals).
+- Added **Helmet Armor Rebalance** (Gameplay).
+- Added **Equip Reload and Movement Speed Fix** (Addendum).
+- Added **Melee VATS Animation Restoration** (Addendum).
+- Added **Mine and Explosion Tweaks** (Addendum).
+- Added **Spore Plant Melee Attack and Tweaks** (Addendum).
+- Added Body Replacers sub-section (Addendum).
 
 02-10-2022
 - Added **Altitude** (Visuals). Replaces **FNV Realistic Wasteland Lighting**. It also requires no region or worldspace patch.
