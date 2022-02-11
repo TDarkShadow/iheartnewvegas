@@ -10,7 +10,7 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 # LEFT MY HEART IN NEW VEGAS ADDENDUM
 
-## PATCHES
+## PATCHES A.K.A. MIGCK
 
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
