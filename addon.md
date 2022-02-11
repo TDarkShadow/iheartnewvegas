@@ -24,19 +24,34 @@ Makes the idle animations for crippled limbs come through in situations where th
 [**Critical and Effects - Fixes and Tweaks**](https://www.nexusmods.com/newvegas/mods/69200)  
 Fixes the damage dealing critical effects of most vanilla weapons so that they cannot cause you to miss "killcounts" and other proc effects such as crime responsibility. Includes other gameplay tweaks.
 
+[**Equip Reload and Movement Speed Fix**](https://www.nexusmods.com/newvegas/mods/71774)  
+Fixes animation speed not updating correctly while in-game for weapon reloading, drawing and holstering, and for running.
+
 [**Gauss Rifle VATS Fix - JIP**](https://www.nexusmods.com/newvegas/mods/69136)  
 Fixes the Gauss Rifle not dealing headshots or critical damage in VATS.
+
+[**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
+Brings VATS melee animations back from Fallout 3.
 
 [**Meltdown NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/65718?)  
 Overhauls the Meltdown perk to bring its workings under control and actually work as described. Includes configurable options for its Rampage feature, which increases your critical hit chance at every chained Meltdown, as well as the companion Meltdown feature, among other tweaks.
 
 > ℹ️ I personally suggest disabling both of these features using the mod's ini, but your mileage may vary.
 
+[**Mine and Explosion Tweaks**](https://www.nexusmods.com/newvegas/mods/71730)  
+Allows mines to be triggered by flying creatures; makes EMP Mines triggerable only by robots and NPCs clad in power armor; fixes exploding pants on NPCs when done with grenades that explode on impact; makes mines denotate instantly when triggered if an actor steps on them directly; explosions that cause lingering effects can now keep applying them to actors that walk through the explosion's visual effects, even after it has already detonated.
+
 [**Miss Fortune NVSE Upgrade**](https://www.nexusmods.com/newvegas/mods/64709?)  
 Makes Miss Fortune's wacky effects more consistent. It will avoid affecting non-hostile targets, can now recognize and detonate all kinds of weapons, but won't detonate them near the player or companions. 
 
 [**Mostly Unarmed Tweaks**](https://www.nexusmods.com/newvegas/mods/69283)  
 Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. Includes other gameplay tweaks.
+
+[**Spore Plant Melee Attack and Tweaks**](https://www.nexusmods.com/newvegas/mods/73796)  
+Enables the melee attack of Spore Plants; makes their melee and spit attacks poisonous; makes them unable to be locked down; allows them to rotate to face the player.
+
+[**Spore Plant Melee Attack and Tweaks YUP Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Spore%20Plant%20Melee%20YUP%20Patch.7z)  
+Compatibility patch for Yukichigai Unofficial Patch.
 
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
@@ -58,16 +73,82 @@ Adds 360 degrees movements with procedural leaning, and auto vanity mode to make
 [**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
 Enables headtracking for the player character.
 
+### Body replacers
+
+[**Improved Vanilla Male Body**](https://www.nexusmods.com/newvegas/mods/70160)  
+High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
+
+Files to install:
+- **01 - Improved Male Body - FOMOD Installer** (Main files)
+  - FOMOD options to install:
+    - [X] 00 - Main
+    - [X] 05 - Underwear Options
+      - [X] 08 - Legacy Underwear
+- **00 - Outfit Conversions - Hotfix** (Update files)
+
+[**TYPE4 - Body and Armors**](https://www.nexusmods.com/newvegas/mods/66903)  
+Female body replacer featuring no neckseams and much improved arms and upperbody. Complete set of armor and clothing with support for all DLCs.
+- Hide the **meshes\characters\ _male\locomotion** folder.
+- Delete **meshes\characters\_male\femaleupperbody.nif**. Remove the underscore from the similarly named **_femaleupperbody.nif** found in the same folder.
+
+> ℹ️ This fixes compatibility issues with animation mods, and replaces the default nude body with an underwear version.
+
+[**TYPE4 - Armor Fixes**](https://www.nexusmods.com/newvegas/mods/73885)  
+Fixes a glitch that caused light reflections to flicker with TYPE4 armors.
+  
+Files to install:
+- **T4 Armor Mesh Fixes (Vanilla)** (Main files)
+
+[**TYPE4 Patches**](https://www.nexusmods.com/newvegas/mods/74893)  
+Patches **TYPE4** for a variety of mods.
+- BAIN options to install:
+  - [X] 00 YUP Patch
+  - [X] 01 Vanilla Radiation Suits
+  - [X] 02 JSUE Patch
+  - [X] 03 PA Gloves Patch
+  - [X] 04 Eyelashes FNV Patch
+
+[**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
+High resolution textures for Type-based female bodies.
+
+Files to install:
+- **00 - Default Version - CORE** (Main files)
+- **00b - Raider Textures** (Main files)
+- **00 - Dead Money DLC - Christine face** (Update files)
+- **01 - Old Female** (Update files)  
+- **01 - Detailed Face Normalmap** (Optional files)  
+- **03 - Body Hairy Clean** (Optional files)  
+- **05 - Face Vanilla Feel** (Optional files)  
+
+> ⚠️ The following are outfit replacers to address some rather skimpy outfits in **TYPE4**. As such, they are entirely optional.
+
+[**More Modest TYPE4 Body and Armor**](https://www.nexusmods.com/newvegas/mods/69642)  
+Less skimpy outfits for many TYPE4 outfits.
+- Hide **jumpsuit fix.esp**
+
+[**More Modest TYPE4 Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/More%20Modest%20T4%20Fixes.7z)  
+Fixes mismatching textures on a number of More Modest TYPE4 outfits.
+
+[**TYPE4 Alternative Outfits**](https://www.nexusmods.com/newvegas/mods/66993)  
+Less skimpy Wasteland Wanderer and Raider outfits.
+  
+Files to install:
+- **Raider armors** (Main files)
+- **Wasteland Wanderer** (Main files)
+
+[**T6M Prostitute Outfits and Combat Armor**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/T6M%20Prostitute%20Outfits%20and%20Combat%20Armor.7z)  
+Less skimpy Prostitute outfits and less goofy Reinforced Combat Armors.
+- BAIN options to install:
+  - [X] 00 Prostitute Outfits
+  - [X] 01 Combat Armor
+
 ### Pip-Boy
 
 [**No Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
-Removes the completely useless Pip-Boy glove from player and NPCs.
-
-Files to install:
-- **No Pip-Boy Glove - No ESP** (Main files)
+Removes the completely useless and ugly Pip-Boy glove from the player.
 
 [**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
-New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+Pip-Boy replacer with custom scratch-made meshes, textures and working clock like in Fallout 76.
 
 Files to install:
 - **Pip-Boy 2000 Mk VI replacer version** (Main files)
@@ -155,7 +236,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Mod order and load order
 
-[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
+[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegas/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
 Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
 - Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
 
