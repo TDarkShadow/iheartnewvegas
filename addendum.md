@@ -108,6 +108,9 @@ Patches **TYPE4** for a variety of mods.
   - [X] 03 PA Gloves Patch
   - [X] 04 Eyelashes FNV Patch
 
+[**TYPE4 Misc Gameplay Merge Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE4%20Misc%20Gameplay%20Merge%20Patch.7z)  
+Omits the armor fixes related to Legion armors in the mod's script to prevent it from overriden TYPE4's Legion armor meshes.
+
 [**Body and Face Textures Workshop**](https://www.nexusmods.com/newvegas/mods/55174)  
 High resolution textures for Type-based female bodies.
 
