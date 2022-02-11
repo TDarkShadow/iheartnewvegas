@@ -896,7 +896,7 @@ All the removed mods in this update are compatible with the guide.
 
 # ADDITIONAL MODS
 
-For additional mods that tackle more specific aspects of the game, [**check out the addendum guide**](https://github.com/Sigourn/iheartnewvegas/blob/main/addon.md).
+For additional mods that tackle more specific aspects of the game, [**check out the addendum guide**](https://github.com/Sigourn/iheartnewvegas/blob/main/addendum.md).
 
 [<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md#left-my-heart-in-new-vegas)  
 [<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup)
