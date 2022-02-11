@@ -58,7 +58,7 @@ Implements structured exception handling and sanity checking to reduce frequency
 [**OneTweak**](https://www.nexusmods.com/skyrim/mods/40706)  
 Enables borderless window mode for safe alt-tabbing.
 - Manually download the **OneTweak** main file.
-- Extract the contents of the archive. Rename the **SKSE** folder to **NVSE**, and merge the folder with your **Fallout New Vegas\Data\NVSE** folder.
+- Extract the contents of the archive. Inside, rename the **SKSE** folder to **NVSE**, and copy this NVSE folder into your **Fallout New Vegas\Data** folder, merging both NVSE folders into one.
 - Launch Mod Organizer 2.
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Select the **FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
