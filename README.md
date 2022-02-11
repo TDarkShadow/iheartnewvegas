@@ -1,6 +1,6 @@
 # LEFT MY HEART IN NEW VEGAS: A Fallout: New Vegas Modding Guide
 
-Last updated: February 9th, 2022.
+Last updated: February 11th, 2022.
 
 ![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/MainBanner.jpg)
 
@@ -68,7 +68,7 @@ I can only try to give an educated guess. At the end of the day, there's no subs
 
 ### How many plugins and mods are there?
 
-There are roughly 130 mods and 110 plugins total.
+There are roughly 140 mods and 110 plugins total.
 
 Unfortunately a lot of patching is required since many mods do not include fixes from the unofficial patch and conflicts between mods are a common occurrence, drastically increasing the amount oF plugins required to solve issues.
 
