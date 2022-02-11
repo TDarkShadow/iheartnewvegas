@@ -1,14 +1,6 @@
-[<< Back to Readme](https://github.com/Sigourn/newvegas-sharp/blob/main/README.md)  
-[<< Back to Setup](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md)  
-[<< Back to Main](https://github.com/Sigourn/iheartnewvegas/blob/main/main.md)
+## BODY REPLACERS
 
-> PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
-
-# DISCLAIMER
-
-The guide presented here assumes you have already followed all instructions found in **Left My Heart In New Vegas**. Please abstain from using this guide until you've correctly set up Fallout: New Vegas.
-
-## PRELIMINARY STEPS
+### Preliminary steps
 
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)
 - Open **NVSE\plugins\scripts\gr_MiscEquipmentChanges.txt** using a text editor, and delete the following lines:
@@ -21,7 +13,7 @@ The guide presented here assumes you have already followed all instructions foun
   - SetBipedModelPathAlt ArmorNVCLCenturion 1 "FIXforLegionArmors\CenturionFemale.nif"
   - SetBipedModelPathAlt ArmorNVCaesar 1 "FIXforLegionArmors\CaesarFemale.nif"
 
-## BODY REPLACERS
+### Body replacers
 
 [**Improved Vanilla Male Body - Seamless - 4k**](https://www.nexusmods.com/newvegas/mods/70160)  
 High poly, improved and seamless version of the male body. Compatible with vanilla outfits.
