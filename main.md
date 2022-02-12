@@ -117,7 +117,6 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Guns require enough ammo to fire a full round (clip size matters).
 - Holding the attack button for grenades decreases their detonation timer.
 - Throwables can be held and released, like grenades.
-- Capping of level up menu max skill values based on SPECIAL. At a SPECIAL value of 1, a skill is capped to 55.
 - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
 - Can't steal caps after paying for repairs.
 - Increased XP for discovering locations. Meant to be used alongside **Less Map Markers** (Overhauls section).
@@ -431,6 +430,7 @@ Restores some cut but fully-functional NPCs to the Strip.
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
 Additional files to install:
+- **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
@@ -590,7 +590,7 @@ Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Un
 - BAIN options to install:
   - [X] 00 All in One
 
-[**FaceGen Tint Fixes for Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/75268)  
+[**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
 - [**Visual comparison.**](https://imgsli.com/ODY2MzE)
 
@@ -851,6 +851,11 @@ X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-12-2022
+- Updated **Character Expansions Revised - FaceGen Tint Fix**. It includes BSA compression thanks to **doodlez**. Make sure to reinstall the mod using this name.
+- Updated **Mojave Raiders** installation instructions. Now the additional **Nipton Takeover Disabled** optional file is recommended for installation.
+- Updated **lStewieAl's Tweaks Custom INI**. The capping of skills based on SPECIAL has been disabled.
 
 02-11-2022
 - Added **Better Gas Leak Effect** (Visuals).
