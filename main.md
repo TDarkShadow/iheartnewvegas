@@ -668,6 +668,9 @@ High quality retexture of the moon using NASA satellite images.
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
 
+Files to install:
+- **Night Sky Tweaks (Script Runner)** (Main files)
+
 ## LOD RESOURCES
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
