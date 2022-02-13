@@ -662,7 +662,7 @@ Files to install:
 
 > ℹ️ Despite what the name of the file may imply, it is also compatible with **Altitude**.
 
-[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/44381)  
+[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022)  
 High quality retexture of the moon using NASA satellite images.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
