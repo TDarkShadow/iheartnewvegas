@@ -143,10 +143,10 @@ Custom configuration that enables many quality of life improvements, as well as 
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
-[**Weapon Mesh Improvement Mod**](https://drive.google.com/file/d/1BesRVoLMjNyG5tvXjH09fGkZ5F7ll1Cn/view?usp=sharing)  
+[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?tab=files&file_id=1000048235&nmm=1)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-> ℹ️ Links to the much better supported 1.3 version, hidden from Nexus.
+> ℹ️ Link to the hidden 1.3 version, which most mesh and animation mods rely on.
 
 [**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
 Removes unnecessary, non-bugfix edits.
