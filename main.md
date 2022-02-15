@@ -143,12 +143,10 @@ Custom configuration that enables many quality of life improvements, as well as 
 [**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLC.
 
-[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?tab=files&file_id=1000048235&nmm=1)  
+[**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-> ℹ️ Link to the hidden 1.3 version, which most mesh and animation mods rely on.
-
-[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/WMIM%20ESP%20Replacer.7z)  
+[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.4.7z)  
 Removes unnecessary, non-bugfix edits.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
@@ -349,8 +347,11 @@ Additional files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
-[**JSawyer Ultimate Edition - Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20-%20Tweaks.7z)  
-Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes. Disables the out of place Wasteland Adventurer.
+[**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(WMIM%201.4).7z)  
+Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
+
+[**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z)  
+Small balance and consistency tweaks by **Qolore**.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -404,14 +405,15 @@ Collection of upscaled icons for a variety of mods.
   - [X] Mojave Arsenal
 
 [**JSawyer Ultimate Edition Patches**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Patches.7z)  
-Collection of compatibility patches for a variety of mods installed so far.
+Collection of compatibility patches for mods installed so far.
 - BAIN options to install:
   - [X] 00 Misc Gameplay Merge
   - [X] 01 Push's Tweaks + Miscellaneous Tweaks
   - [X] 02 Push's Tweaks + Mojave Arsenal
-  - [X] 03 Mojave Arsenal (GRA Merged) + Miscellaneous Tweaks
-  - [X] 04 FNV Opposite Traits
-  - [X] 05 Improved Traits
+  - [X] 03 Mojave Arsenal (GRA Merged) + WMIM
+  - [X] 04 Mojave Arsenal (GRA Merged) + Miscellaneous Tweaks
+  - [X] 05 Opposite Traits
+  - [X] 06 Improved Traits
 
 ## CONTENT
 
@@ -853,6 +855,12 @@ X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-15-2022
+- Updated **WMIM ESP Replacer** for the latest Weapon Mesh Improvement Mod release (1.4).
+- Updated **JSawyer Ultimate Edition Patches**. Added WMIM patch.
+- Added **JSawyer Ultimate Edition Tweaks** and **JSawyer Ultimate Edition Fixes**. These replaces **JSawyer Ultimate Edition - Tweaks**. The former is Qolore's original mod (JSUE Tweaks.esp), while the latter is my all-in-one compatibility patch for YUP, WMIM and Throwable Weapon Fixes (JSUE Fixes.esp). This was done to improve compatibility with the Viva New Vegas guide.
+- Load order properly reflects the latest version of **Famine - A Loot Rarity Mod** (was missing Famine - Flora.esp).
 
 02-12-2022
 - Updated **Character Expansions Revised - FaceGen Tint Fix**. It includes BSA compression thanks to **doodlez**. Make sure to reinstall the mod using this name.
