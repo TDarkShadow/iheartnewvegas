@@ -350,7 +350,7 @@ Additional files to install:
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
 
-[**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes%20(WMIM%201.4).7z)  
+[**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
 
 [**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z)  
