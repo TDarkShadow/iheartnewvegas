@@ -152,6 +152,9 @@ Removes unnecessary, non-bugfix edits.
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
 
+[**Throwable Weapon Fixes - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Throwable%20Weapon%20Fixes%20-%20WMIM%20Patch.7z)  
+Compatibility patch for Weapon Mesh Improvement Mod. Includes the latter's fixes to projectiles.
+
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
@@ -436,6 +439,9 @@ Overhaul of New Vegas's raider factions, balancing their loot and adding more of
 Additional files to install:
 - **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
+
+[**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
+Compatibility patch for Weapon Mesh Improvement Mod. Includes the latter's sound fixes.
 
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
@@ -855,6 +861,12 @@ X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-16-2022
+- Updated **JSawyer Ultimate Edition Fixes**. Missed a few changes regarding the pre-order Broad Machete.
+- Updated **WMIM ESP Replacer**. Removed records relating to the unimplemented Weathered 10mm Pistol (Tale of Two Wastelands left-over). These were overwriting the fixed pre-order Weathered 10mm Pistol from Yukichigai Unofficial Patch.
+- Added **Throwable Weapon Fixes - WMIM Patch**.
+- Added **No NPC Throwing Weapon Consumption - WMIM Patch**.
 
 02-15-2022
 - Updated **WMIM ESP Replacer** for the latest Weapon Mesh Improvement Mod release (1.4).
