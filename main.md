@@ -235,15 +235,6 @@ Increases the speed of the Pip-Boy animation.
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
 
-[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
-Adds iron sights to a variety of laser and plasma weapons which lacked any.
-
-Files to install:
-- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
-
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
 
@@ -503,25 +494,6 @@ Files to install:
 ## VISUALS
 
 ### Animations
-
-[**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
-Merge of many animation mods by the same author, improving the game's overall look and feel when it comes to gunplay.
-
-Additional files to install:
-- **Weapon Mesh Improvement Mod Patch** (Optional files)
-
-[**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
-Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
-  
-Files to install:
-- **AnniAnimPack_BugFix 1.3** (Main files)  
-- **Bonus Patch** (Main files)
-
-[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
-Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
-
-Additional files to install:
-- **FNV Clean Animations - Update 2.2.2** (Update files)
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -861,6 +833,13 @@ X | Melee weapon bash | B42 Melee Bash
 N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
+
+02-16-2022 Hotfix  
+In lieu of **Weapon Mesh Improvement Mod**'s update, which includes iron sights for energy weapons, and which makes it incompatible with many other mods present in this guide, the following have been removed.
+- Removed **Laser Weapon Iron Sights** (Gameplay QOL)
+- Removed **Anniversary Anim Pack** (Visuals)
+- Removed **Anniversary Anim Pack - General Bugfix** (Visuals)
+- Removed **FNV Clean Animations** (Visuals)
 
 02-16-2022
 - Updated **JSawyer Ultimate Edition Fixes**. Missed a few changes regarding the pre-order Broad Machete.
