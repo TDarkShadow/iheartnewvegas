@@ -545,7 +545,7 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-[**Character Expansions Revised - YUP - JSU - UW- MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR.7z)  
+[**Character Expansions Revised - YUP - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR.7z)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, and Mojave Raiders.
 
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
