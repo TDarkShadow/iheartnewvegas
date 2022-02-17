@@ -10,7 +10,7 @@ The guide presented here is an extension to the [**Main**](https://github.com/Si
 
 # LEFT MY HEART IN NEW VEGAS ADDENDUM
 
-## PATCHES A.K.A. MIGCK
+## PATCHES
 
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
@@ -31,18 +31,6 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. I
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
 ## VISUALS
-
-### Animations
-
-[**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
-Adds diagonal movement.
-
-[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
-Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
-- Also install the **Diagonal Movement Patch** in the FOMOD installer.
-
-[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
-Enables headtracking for the player character.
 
 ### Body replacers
 
