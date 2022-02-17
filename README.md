@@ -16,6 +16,8 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
 
+![TriggerWarning](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/pushthetriggerbutton.png)
+
 ## About
 
 **Left My Heart In New Vegas** is a modular modding guide for **Fallout: New Vegas**. It addresses a number of significant issues with the game:
