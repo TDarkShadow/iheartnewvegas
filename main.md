@@ -146,8 +146,11 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.4.7z)  
-Removes unnecessary, non-bugfix edits.
+Files to install:
+- **Weapon Mesh Improvement Mod** (Old files)
+
+[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.3.7z)  
+Omits ITM records and removes unnecessary tweaks to Ammunition, Object Effect, Explosion, FormID List, and Recipe recorts.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Visual and audio fixes for thrown projectiles.
@@ -234,6 +237,15 @@ Increases the speed of the Pip-Boy animation.
 
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
+
+[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
+Adds iron sights to a variety of laser and plasma weapons which lacked any.
+
+Files to install:
+- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
+- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
+- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -425,9 +437,6 @@ Additional files to install:
 - **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 
-[**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
-Compatibility patch for Weapon Mesh Improvement Mod. Includes the latter's sound fixes.
-
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
@@ -472,6 +481,25 @@ Files to install:
 ## VISUALS
 
 ### Animations
+
+[**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
+Merge of many animation mods by the same author, improving the game's overall look and feel when it comes to gunplay.
+
+Additional files to install:
+- **Weapon Mesh Improvement Mod Patch** (Optional files)
+
+[**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
+Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
+
+Files to install:
+- **AnniAnimPack_BugFix 1.3** (Main files)  
+- **Bonus Patch** (Main files)
+
+[**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
+Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
+
+Additional files to install:
+- **FNV Clean Animations - Update 2.2.2** (Update files)
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -814,6 +842,19 @@ V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+02-17-2022
+After careful consideration of the pros and cons, the guide now recommends the 1.3 version of **Weapon Mesh Improvement Mod**. The following changes are made with this in mind.
+- Updated **WMIM ESP Replacer** (Patches)
+- Updated **Throwable Weapon Fixes - WMIM Patch** (Patches)
+- Updated **JSUE Fixes** (Overhauls)
+- Updated **JSawyer Ultimate Edition Patches** (Overhauls)
+- Re-added **Laser Weapon Iron Sights** (Gameplay QOL)
+- Re-added **Anniversary Anim Pack** (Visuals)
+- Re-added **Anniversary Anim Pack - General Bugfix** (Visuals)
+- Re-added **FNV Clean Animations** (Visuals)
+- Removed **No NPC Throwing Weapon Consumption - WMIM Patch** (Content), as it is no longer needed.
+In addition, the modlist and loadorder files now contemplate for the recommended mods in my **Misc Immersion Merge** page.
 
 02-16-2022 Hotfix  
 In lieu of **Weapon Mesh Improvement Mod**'s update, which includes iron sights for energy weapons, and which makes it incompatible with many other mods present in this guide, the following have been removed.
