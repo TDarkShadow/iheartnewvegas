@@ -246,12 +246,6 @@ Delays DLC pop-ups until you meet certain level requirements or discover the ent
 
 ## GAMEPLAY
 
-[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
-Adds melee attacks for non-melee weapons.
-
-[**Enhanced Vision**](https://eddoursul.win/mods/enhanced-vision/)  
-Power Armor helmets and other high-tech gear now enable enhanced vision modes like Night Vision, Heat Vision and EM Vision. If there’s no Power Armor equipped as a power source, energy cells are required while these modes are active. Upgrades for other kinds of helmets and eyeglasses can be purchased through the MCM panel.
-
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
@@ -437,27 +431,11 @@ Compatibility patch for Weapon Mesh Improvement Mod. Includes the latter's sound
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
-[**Khans Friendly to Fiends**](https://www.nexusmods.com/newvegas/mods/72381)  
-Makes Fiends passive to the player when using a Great Khan outfit, and makes Fiends passive to Great Khans. Additionally restores fully functional cut dialogue when talking to Cook-Cook, Violet, and Driver Nephi. 
-
-Files to install:
-- **Khans Friendly to Fiends** (Main files)  
-- **Mojave Raiders Patch** (Main files)
-
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 
 Files to install:
 - **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files)
-
-[**Canvas Backpacks - Remade**](https://www.nexusmods.com/newvegas/mods/71510)  
-Adds backpacks to the game, with different colors and faction options. Most can be bought, some can only be found.
-
-Additional files to install:
-- **Strapless Update** (Optional files)  
-
-[**Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for JSawyer Ultimate.
 
 ## AUDIO
 
@@ -567,10 +545,8 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-[**Character Expansions Revised Patches**](https://www.nexusmods.com/newvegas/mods/75268)  
-Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, Mojave Raiders, and Khans Friendly to Fiends.
-- BAIN options to install:
-  - [X] 00 All in One
+[**Character Expansions Revised - YUP - JSU - UW- MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR.7z)  
+Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, and Mojave Raiders.
 
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
@@ -734,9 +710,6 @@ The following settings need to be configured after you've already started a new 
 
 The following settings need to be configured after you've already started a new save, using the in-game **Mod Configuration** option.
 
-**Enhanced Vision**:
-- Set **Vision mode hotkey** to **N**.
-
 **Quick Grenade Hotkey**:
 - Set **Grenade Hotkey** to **G**.
 - Set **Grenade Swap Hotkey** to **C**.
@@ -829,8 +802,6 @@ C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
 V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
-X | Melee weapon bash | B42 Melee Bash
-N | Enable enhanced vision/scroll through vision modes | Enhanced Vision
 
 # CHANGELOG
 
@@ -840,6 +811,21 @@ In lieu of **Weapon Mesh Improvement Mod**'s update, which includes iron sights 
 - Removed **Anniversary Anim Pack** (Visuals)
 - Removed **Anniversary Anim Pack - General Bugfix** (Visuals)
 - Removed **FNV Clean Animations** (Visuals)
+And since we are at it, the following mods have also been removed for simplicity:
+- Removed **B42 Melee Bash** (Gameplay)
+- Removed **Enhanced Vision** (Gameplay)
+- Removed **Khans Friendly to Fiends** (Content)
+- Removed **Canvas Backpacks - Remade** (Content)
+- Removed **Canvas Backpacks - Remade - JSawyer Ultimate Edition Patch** (Content)
+- Removed **Crippled Limb Reaction Enforcer** (Addendum)
+- Removed **Equip Reload and Movement Speed Fix** (Addendum)
+- Removed **Gauss Rifle VATS Fix - JIP** (Addendum)
+- Removed **Meltdown NVSE Upgrade** (Addendum)
+- Removed **Mine and Explosion Tweaks** (Addendum)
+- Removed **Miss Fortune NVSE Upgrade** (Addendum)
+- Removed **Spore Plant Melee Attack and Tweaks** (Addendum)
+- Removed **Spore Plant Melee Attack and Tweaks YUP Patch** (Addendum)
+- Removed **Well Rested Overhaul** (Addendum)
 
 02-16-2022
 - Updated **JSawyer Ultimate Edition Fixes**. Missed a few changes regarding the pre-order Broad Machete.
