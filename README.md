@@ -16,6 +16,8 @@ You can find me in the [Morrowind Modding Community](https://discord.me/mwmods) 
 
 I want to thank all users who have supported my [**Morrowind Sharp**](https://github.com/Sigourn/morrowind-sharp/blob/master/readme.md) modding guide. Their feedback, criticisms and insights have all been very valuable to me.
 
+I've also taken their criticism to my New Vegas modding guide to heart.
+
 ![TriggerWarning](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/pushthetriggerbutton.png)
 
 ## About
