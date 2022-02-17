@@ -497,6 +497,16 @@ Compatibility patch for Yukichigai Unofficial Patch.
 [**Ragdolls DLC Enhancements Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
 Compatibility patch for Essential DLC Enhancements.
 
+[**Diagonal movement**](https://www.nexusmods.com/newvegas/mods/64333)  
+Adds diagonal movement.
+
+[**360 Movement**](https://www.nexusmods.com/newvegas/mods/71940)  
+Adds 360 degrees movements with procedural leaning, and auto vanity mode to make the game feel more like later Bethesda games.
+- Also install the **Diagonal Movement Patch** in the FOMOD installer.
+
+[**Player Headtracking**](https://www.nexusmods.com/newvegas/mods/66741?)  
+Enables headtracking for the player character.
+
 [**NV Compatibility Skeleton**](https://www.nexusmods.com/newvegas/mods/68776)  
 A compatible skeleton for many animation mods.
 - FOMOD options to install:
