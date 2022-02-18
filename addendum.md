@@ -125,35 +125,6 @@ Makes NPCs wear the new Pip-Boy 2000 Mk VI.
 [**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
 Gives the Pip-Boy 2000 Mk VI a grittier texture.
 
-### The Strip
-
-[**Clean Lucky 38**](https://www.nexusmods.com/newvegas/mods/74796)  
-Retextures and cleanups the interior of the Lucky 38.
-
-Files to install:
-- **Clean Lucky 38 Mesh Fix** (Update files)
-
-> ℹ️ This file is not an update, but the latest version of the mod.
-
-[**LSO - A Lightweight Strip Overhaul**](https://www.nexusmods.com/newvegas/mods/65665)  
-Turns walls from junk to brick, cleans the litter up off of the street, and buffs out the cracked marble and peeling wallpaper as well as much more, making the Strip far more pleasing to the eye.
-
-Files to install:
-- **Lightweight Strip Overhaul - No Walls** (Main files)
-- **Lightweight Strip Overhaul - Uncut Wasteland Patch** (Optional files)
-
-[**Strip Lighting Overhaul LSO Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Lightweight Strip Overhaul.
-
-[**Palm Tree Replacer**](https://www.nexusmods.com/newvegas/mods/72917)  
-Replaces the dated palm trees seen on the Strip with way better custom models. Installed for consistency with The Strip Planters Fixed.
-
-[**The Strip Planters Fixed**](https://www.nexusmods.com/newvegas/mods/73406/)  
-Fixes the planters on the Strip.
-
-[**Ultra-Luxe Fountain Expanded**](https://www.nexusmods.com/newvegas/mods/69781)  
-Improves the Ultra-Luxe fountain by adding additional water streams with accompanying sound effects as well as eight new light beams above the embedded lights in the base of the fountain.
-
 ## LOD RESOURCES
 
 [**Better Strip View**](https://www.nexusmods.com/newvegas/mods/73261)  
