@@ -119,7 +119,6 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Throwables can be held and released, like grenades.
 - Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
 - Can't steal caps after paying for repairs.
-- Increased XP for discovering locations. Meant to be used alongside **Less Map Markers** (Overhauls section).
 - Binoculars can zoom in and out.
 - Entering VATS costs AP.
 - Opening Pip-Boy in combat costs AP.
@@ -289,9 +288,6 @@ Custom configuration that disables Visual Objectives and Hold Breath. Sets 1st P
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
-[**Less Map Markers**](https://www.nexusmods.com/newvegas/mods/73472)  
-Removes many map markers to make exploration more interesting.
-
 [**Melee Cleave (a.k.a. Sweep)**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies.
 
@@ -314,7 +310,7 @@ Files to install:
 Collection of gameplay and balance tweaks.
 
 [**Miscellaneous Tweaks Collection Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Miscellaneous%20Tweaks%20Collection%20Tweaks.7z)  
-Nerfs Feral Ghoul Reavers, removes most new map markers for consistency with Less Map Markers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
+Nerfs Feral Ghoul Reavers, ties Honest Hearts recipes to reaching Zion (mirroring how other DLC recipes work), and adds a new Mojave Express dropbox outside Camp McCarran.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
@@ -842,6 +838,11 @@ V | Enable bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+02-18-2022
+- Removed **Less Map Markers**.
+- Updated **lStewieAl's Tweaks Custom INI** to remove increased XP gain for discovering locations.
+- Updated **Miscellaneous Tweaks Collection Tweaks** to restore removed map markers.
 
 02-17-2022
 After careful consideration of the pros and cons, the guide now recommends the 1.3 version of **Weapon Mesh Improvement Mod**. The following changes are made with this in mind.
