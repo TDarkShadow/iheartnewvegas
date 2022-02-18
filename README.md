@@ -43,6 +43,8 @@ This guide is split in two sections:
 
 I've worked on this modlist for a few years already, but only recently decided to make a guide out of it. All I ask in return is your patience when it comes to following instructions. If I took the time to write them, you *should* take the time to read them.
 
+This is *not* a modding guide for beginners. If you've never played Fallout: New Vegas before, I recommend following the [**Viva New Vegas**](https://vivanewvegas.github.io/) modding guide. It has a fraction of the mods present here, and will take you considerably less time to follow and install appropriately.
+
 ## My setup
 
 When installing all mods in this guide, as well as the recommended shaders, my framerate ranges anywhere from 30fps (at worst) to 60fps. For reference, here is a my setup.
