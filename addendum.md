@@ -203,13 +203,15 @@ Compatibility patch for More Subtle New Vegas Light Pollution.
 [**Hoover Dam Jets Restored and Distant**](https://www.nexusmods.com/newvegas/mods/72135)  
 Restores the cut outflow jets to Hoover Dam and makes them visible up and down the Colorado.
 
-Additional files to install:
+Files to install:
+- **Hoover Dam Jets Restored and Distant** (Main files)
 - **HDJRaD - Much Needed LOD Patch** (Optional files)  
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
 
-Additional files to install:
+Files to install:
+- **Strip Lights Region Fix** (Main files)
 - **Strip Lights Region Fix - Hoover Dam Jets Restored and Distant** (Optional files)
 - **Strip Lights Region Fix - Uncut Wasteland** (Optional files)
 
