@@ -3,25 +3,23 @@
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
-# DISCLAIMER
+# PREAMBLE
+
+## Disclaimer
 
 The guide presented here assumes you have already followed all instructions found in the [**Setup**](https://github.com/Sigourn/newvegas-sharp/blob/main/setup.md#new-vegas-setup) page, and are familiar with Mod Organizer 2, which we will be using to install the mods in this document. Please abstain from using this guide until you've correctly set up Fallout: New Vegas and the recommended tools.
 
+## Installing mods appropriately
+
+When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**. This example is taken from my Morrowind Sharp guide.
+
+![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+
 Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
 
-This guide is organized so that whenever you are asked to install a mod from any source, or multiple mods from the same Nexus page, the name should be the one **highlighted in blue** which leads you to their respective pages. This is the default name I was referring to back in the previous paragraph. All files installed from a Nexus page should thus be merged with each other using Mod Organizer 2's merge feature, and always merged in the order they are listed in this guide.
+All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
 
-An example of how the guide structures its mods is as follows.
-
-[**The Name Under Which You Should Install Me**]()  
-My description, what I do as a mod. By default, you should always install the main file from my Nexus page.
-
-Additional files to install (found in the same Nexus page):
-- **Install Me And Merge Me With The Main File** (Where you can find me in the Nexus page)
-- **Install Me Second And Merge Me Too**
-- **Install Me Third And Merge Me Too**
-
-> ℹ️ When in doubt, refer back to this section.
+By default, this guide will always require you to download the main file. On the occasion more specific instructions are required (e.g. multiple main files are present and you need directions, or additional files need to be installed) they will be provided.
 
 # LEFT MY HEART IN NEW VEGAS
 
