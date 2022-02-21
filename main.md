@@ -36,6 +36,9 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
+[**JIP LN NVSE Plugin Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JIP%20LN%20NVSE%20Plugin%20Custom%20INI.7z)  
+Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
+
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
 
@@ -51,6 +54,9 @@ Aims to fix UI bugs and add new UI features.
 
 Additional files to install:
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
+
+[**yUI - User Ynterface Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/yUI%20-%20User%20Ynterface%20Custom%20INI.7z)  
+Matches cursor color to HUD color,  required for the Matched Cursor - Fallout New Vegas file we installed earlier.
 
 [**NVAC - New Vegas Anti Crash**](https://www.nexusmods.com/newvegas/mods/53635)  
 Implements structured exception handling and sanity checking to reduce frequency of game crashes.
@@ -117,7 +123,7 @@ Custom configuration that enables many quality of life improvements, as well as 
 - Guns require enough ammo to fire a full round (clip size matters).
 - Holding the attack button for grenades decreases their detonation timer.
 - Throwables can be held and released, like grenades.
-- Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside **Misc Gameplay Merge** (Gameplay section).
+- Vendors obey their Buy/Sell flags, restricting which items they accept. Meant to be used alongside Misc Gameplay Merge (Gameplay section).
 - Can't steal caps after paying for repairs.
 - Binoculars can zoom in and out.
 - Entering VATS costs AP.
@@ -180,14 +186,20 @@ Additional files to install:
 Greatly improves the user interface without compromising the original style.
 - Download the mod using the **DOWNLOAD NOW!** button.
 - FOMOD options to install:
-  - [X] Default Font Tweaks
+  - [X] Classic Pip-Boy Font
   - [X] Plugin
   - [X] WASD Compatible 
 
-> ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and is a matter of preference. I personally use it alongside a tweaked Pip-Boy color for that classic Fallout feel (this tweak is present in the **INI Config** section.
+> ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
+
+[**Vanilla UI Plus (New Vegas) Custom Settings**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Vanilla%20UI%20Plus%20(New%20Vegas)%20Custom%20Settings.7z)  
+Increases the amount of visible dialogue topics, and displays numbers next to dialogue topics (intended to be used alongside my lStewieAl's Tweaks Custom INI).
 
 [**JIP Improved Recipe Menu**](https://www.nexusmods.com/newvegas/mods/59638)  
 Makes the crafting interface easier, more efficient and less tedious to use. 
+
+[**ySI - Sorting Ycons**](https://www.nexusmods.com/newvegas/mods/74358?)  
+Sorting mod, using features of yUI to make inventory management a better experience. Each item gets assigned one of the 140+ included custom icons, representing different categories of items.
 
 [**FOV Slider**](https://www.nexusmods.com/newvegas/mods/55085)  
 Adds an MCM menu that allows for adjusting the Fields of View for all of the game's camera views.
@@ -785,47 +797,6 @@ The following settings need to be configured after you've already started a new 
 
 ### INI config
 
-**JIP LN NVSE Plugin**:
-- Double-click the installed mod to open the **Information...** window.
-- Click the **INI Files** tab, and make the following adjustments in **jip_nvse.ini**.
-- Click on the diskette icon to save your changes.
-
-```
-bEnableFO3Repair=1
-
-bLocalizedDTDR=1
-
-bVoiceModulationFix=0
-
-bNPCWeaponMods=1
-uWMChanceMin=5
-uWMChanceMax=15
-```
-
-> ℹ️ Enables Fallout 3-style repair, localized damage (allowing headshots to be more powerful when the enemy has no helmet), and a chance for random NPCs to have weapon mods. Disables the voice modulation fix, which could cause noticeable audio popping, particularly in Elijah's dialogue.
-
-**yUI - User Ynterface**:
-- Double-click the installed mod to open the **Information...** window.
-- Click the **INI Files** tab, and make the following adjustments in **jip_nvse.ini**.
-- Click on the diskette icon to save your changes.
-
-```
-bMatchingCursor = 1
-```
-
-> ℹ️ Matches cursor color to HUD color.
-
-**Vanilla UI Plus**:
-- Open **Menus\Prefabs\VUI+\settings.xml** using a text editor and make the following adjustments.
-
-```
-<_VUI+DialogMaxTopics> 6 </_VUI+DialogMaxTopics>
-
-<_VUI+NumberedTopics> 1 </_VUI+NumberedTopics>
-```
-
-> ℹ️ Increases the amount of visible dialogue topics; displays numbers next to dialogue topics (intended to be used alongside my **lStewieAl's Tweaks Custom INI**).
-
 **falloutcustom.ini (Optional)**:
 - Click the **Tools** ![Tools](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/MO_ini.png) button, and click **INI Editor**. Paste the following into **falloutcustom.ini**.
 
@@ -861,10 +832,32 @@ Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 G | Equip/unequip grenade/mine | Quick Grenade Hotkey
 C + Scroll wheel | Scroll through grenades/mines | Quick Grenade Hotkey
 H | Open weapon wheel | Just Assorted Mods
-V | Enable bullet time | Just Assorted Mods
+V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+02-21-2022
+- Modified **Vanilla UI Plus (New Vegas)** to use the Classic Pip-Boy Font option instead of Default Font Tweaks (User Interface).
+- Added **JIP LN NVSE Plugin Custom INI** (xNVSE Plugins)
+- Added **yUI - User Ynterface Custom INI** (xNVSE Plugins)
+- Added **Vanilla UI Plus (New Vegas) Custom Settings** (User Interface)
+- Added **yUI - Sorting Ycons** (User Interface)
+- Added **Barton Thorn Acts Normally** (Addendum)
+- Added **Cannibal Reborn** (Addendum)
+- Added **Cannibal Reborn Expanded** (Addendum)
+- Added **Empty Clicks - Improved Dry Fire Sounds** (Addendum)
+- Added **Even More Accurate Geiger Clicking** (Addendum)
+- Added **Gun Runners Kiosk Glass Fix** (Addendum)
+- Added **High-Quality Classic Music** (Addendum)
+- Added **Immersive Pickup Sounds Patched** (Addendum)
+- Added **Improved Duster Coats - YUP Edition** (Addendum)
+- Added **Lower-sitting Ranger Hat** (Addendum)
+- Added **Lucky 38 Mainframe No Fingerprints** (Addendum)
+- Added **Red Vault 19 Jumpsuits** (Addendum)
+- Added **Securitrons in CRT** (Addendum)
+- Added **Simple Glowing Ranger Visors** (Addendum)
+- Added **Snowglobe Tweaks Fix** (Addendum)
 
 02-18-2022
 - Removed **Less Map Markers**.
