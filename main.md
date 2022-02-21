@@ -890,7 +890,8 @@ In lieu of **Weapon Mesh Improvement Mod**'s update, which includes iron sights 
 - Removed **Anniversary Anim Pack** (Visuals)
 - Removed **Anniversary Anim Pack - General Bugfix** (Visuals)
 - Removed **FNV Clean Animations** (Visuals)
-And since we are at it, the following mods have also been removed for simplicity:
+
+And, since we are at it, the following mods have also been removed for simplicity:
 - Removed **B42 Melee Bash** (Gameplay)
 - Removed **Enhanced Vision** (Gameplay)
 - Removed **Khans Friendly to Fiends** (Content)
