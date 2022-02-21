@@ -30,6 +30,69 @@ Fixes the fatigue-dealing weapons to deal correct and damage-adjusted fatigue. I
 [**Universal Pyromaniac Buff for Fire Effects**](https://www.nexusmods.com/newvegas/mods/71505)  
 Makes the Pyromaniac perk affect all the lingering fire damage effects from weapons and ammo.
 
+## MISC IMMERSION MERGE ADD-ON
+
+[**Barton Thorn Acts Normally**](https://ln4.sync.com/dl/4834e2030/eay934pu-bvhzmi6f-iub53fi8-4p6cxtan/view/default/1982540082010)  
+Barton Thorn will run up to the player to initiate his scheme, instead of waiting for them to talk to him. At the end of the quest, he will approach the player with his weapon drawn.
+
+[**Cannibal Reborn**](https://www.nexusmods.com/newvegas/mods/64789)  
+Adds gore effects when devouring corpses, makes health and hunger restored from cannibalism scale with Survival, and adds numerous quality of life improvements.
+
+Files to install:
+- **Cannibal Reborn** (Main files)
+
+[**Cannibal Reborn Expanded**](https://www.nexusmods.com/newvegas/mods/75054)  
+Applies the cannibalism effects and quality of life improvements from Cannibal Reborn to the Ghastly Scavenger perk.
+
+[**Empty Clicks - Improved Dry Fire Sounds**](https://www.nexusmods.com/newvegas/mods/68941)  
+Different dry fire (empty magazine) sounds depending on a weapon type and some other improvements.
+
+[**Even More Accurate Geiger Clicking**](https://www.nexusmods.com/newvegas/mods/74901)  
+Increases the Pip-Boy Geiger clicking beyond the vanilla default. Increases the accuracy of the radiation meter. Forces the speed effects of the Atomic! perk to apply immediately.
+
+Files to install:
+- **Even More Accurate Geiger Clicking** (Main files)
+
+[**Gun Runners Kiosk Glass Fix**](https://www.nexusmods.com/newvegas/mods/70293)  
+Fixes the glass texture in the Gun Runners' kiosk.
+
+Files to install:
+- **Gun Runners Kiosk Glass Fix Alternate Version** (Optional files)
+
+[**High-Quality Classic Music**](https://www.nexusmods.com/newvegas/mods/72150)  
+Replaces the low-quality soundtrack from the classic Fallout games with high-quality versions.
+
+[**Immersive Pickup Sounds Patched**](https://www.nexusmods.com/newvegas/mods/70552)  
+Adds a variety of sound effects for picking up numerous items.
+
+[**Improved Duster Coats - YUP Edition**](https://www.nexusmods.com/newvegas/mods/66629)  
+Modifies the overcoats on the NCR Ranger and Desert Ranger armors so they hang straight rather than flaring out at the base. Includes mesh fixes from Yukichigai Unofficial Patch.
+
+[**Lower-sitting Ranger Hat**](https://www.nexusmods.com/newvegas/mods/68799)  
+Modifies the Ranger Hat and the Park Ranger Hat so they sit slightly lower on the head. 
+
+[**Lucky 38 Mainframe No Fingerprints**](https://www.nexusmods.com/newvegas/mods/74055)  
+Gets rid of the big fingerprint on Mr. House/Yes Man's screen. 
+
+[**Red Vault 19 Jumpsuits**](https://www.nexusmods.com/newvegas/mods/67135)  
+Adds red versions of the Vault 19 jumpsuit to the red sections of the vault.
+
+[**Securitrons in CRT**](https://www.nexusmods.com/newvegas/mods/63258)  
+Adds CRT lines to the monitors of Securitrons.
+
+Files to install:
+- **Securitrons in CRT 1.0** (Main files)
+- **OWB in CRT** (Optional files)
+
+[**Simple Glowing Ranger Visors**](https://www.nexusmods.com/newvegas/mods/66628)  
+Makes the visors of all the Ranger Helmets (NCR, Desert, Riot, Advanced Riot, Elite Riot) have a neat glowing effect.
+
+Files to install:
+- **Simple Glowing Ranger Visors (No Neck Covers)** (Main files)
+
+[**Snowglobe Tweaks Fix**](https://www.nexusmods.com/newvegas/mods/67466)  
+Makes it so you need to first discover the snow globe display in the Lucky 38 Presidential Suite then ask Jane in the Penthouse about the snow globe collection in order to sell them. DLCs snow globes now need to be sold to Jane, instead of automatically rewarding the player. If Mr. House is dead, you can place the snow globes on the display yourself (you won't get the caps reward, however).
+
 ## VISUALS
 
 ### Body replacers
@@ -66,6 +129,7 @@ Patches **TYPE4** for a variety of mods.
   - [X] 02 JSUE Patch
   - [X] 03 PA Gloves Patch
   - [X] 04 Eyelashes FNV Patch
+  - [X] 05 Red Vault 19 Jumpsuits Patch
 
 [**TYPE4 Misc Gameplay Merge Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/TYPE4%20Misc%20Gameplay%20Merge%20Patch.7z)  
 Omits the armor fixes related to Legion armors in Misc Gameplay Merge's script to prevent it from overriding TYPE4's Legion armor meshes.
