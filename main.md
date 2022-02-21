@@ -52,7 +52,8 @@ Enables having custom animations for weapons and actors. Also fixes the engine-b
 [**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
 Aims to fix UI bugs and add new UI features. 
 
-Additional files to install:
+Files to install:
+- **yUI** (Main files)
 - **Matched Cursor - Fallout New Vegas** (Optional files)  
 
 [**yUI - User Ynterface Custom INI**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/yUI%20-%20User%20Ynterface%20Custom%20INI.7z)  
@@ -179,7 +180,8 @@ An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions add
 [**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
 Allows any number of mods to be configured from a single menu, accessible through the Pause menu.
 
-Additional files to install:
+Files to install:
+- **The Mod Configuration Menu** (Main files)
 - **MCM BugFix 2** (Optional files)  
 
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
@@ -350,7 +352,8 @@ Allows the player to use explosives to bypass locks. Items have a chance of bein
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 Completely reconstructed version of Josh Sawyer's mod, made from the ground up. Tweaks inconsistencies, expands compatibility, re-adds some elements of cut content, and covers additional balance issues which were missed.
 
-Additional files to install:
+Files to install:
+- **JSawyer Ultimate Edition** (Main files)
 - **JSawyer Ultimate Edition - Push's Tweaks** (Optional files)
 
 > ℹ️ It is recommended that you play New Vegas at **Hard** difficulty or lower when using this mod.
@@ -385,7 +388,8 @@ Makes enemies more likely to target the player in combat rather than companions.
 [**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
 Makes repairing more difficult by making each repair require a consumable Repair Tools item.
 
-Additional files to install:
+Files to install:
+- **Repair Tools** (Main files)
 - **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files)
 
 [**FNV Opposite Traits**](https://www.nexusmods.com/newvegas/mods/69141?)  
@@ -441,7 +445,8 @@ Restores some cut but fully-functional NPCs to the Strip.
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 
-Additional files to install:
+Files to install:
+- **Mojave Raiders** (Main files)
 - **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
 
@@ -468,7 +473,8 @@ Compatibility patch for Weapon Mesh Improvement Mod.
 [**All Explosion Sounds Overhaul**](https://www.nexusmods.com/newvegas/mods/66946)  
 Replaces every explosion sound in the game.
 
-Additional files to install:
+Files to install:
+- **All Explosion Sounds Overhaul BSA and YUP Patch** (Main files)
 - **All Explosion Sounds Overhaul SCRIPT Version** (Optional files)
 
 [**Immersive Primary Needs**](https://eddoursul.win/mods/immersive-primary-needs/)  
@@ -493,7 +499,8 @@ Files to install:
 [**Anniversary Anim Pack**](https://www.nexusmods.com/newvegas/mods/70158)  
 Merge of many animation mods by the same author, improving the game's overall look and feel when it comes to gunplay.
 
-Additional files to install:
+Files to install:
+- **Anniversary Anim Pack** (Main files)
 - **Weapon Mesh Improvement Mod Patch** (Optional files)
 
 [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
@@ -506,7 +513,8 @@ Files to install:
 [**FNV Clean Animations**](https://www.nexusmods.com/newvegas/mods/70599)  
 Clean first person animations. No new idles, no bugs, no reload cancelling from shooting early or crouching, no compatibility issues.
 
-Additional files to install:
+Files to install:
+- **FNV Clean Animations** (Main files)
 - **FNV Clean Animations - Update 2.2.2** (Update files)
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
@@ -679,7 +687,8 @@ Files to install:
 [**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
 Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much. Performance-friendly, using no scripts or weather effects.
 
-Additional files to install:
+Files to install:
+- **Altitude** (Main files)
 - **Altitude - Zion Ambient Music** (Optional files)
 
 [**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
