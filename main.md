@@ -11,11 +11,11 @@ The guide presented here assumes you have already followed all instructions foun
 
 ## Installing mods appropriately
 
-When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Graphic Herbalism - MWSE and OpenMW Edition**. This example is taken from my Morrowind Sharp guide.
+When installing a mod, use the name provided for it in the guide's hyperlink. For example, the guide lists the following mod's name as **Yukichigai Unofficial Patch - YUP**.
 
-![Example](https://raw.githubusercontent.com/Sigourn/morrowind-sharp/master/modexample.png)
+![Example](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/modExample.png)
 
-Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, or, when manually installing a mod, the name of the file.
+Whenever you install a mod in Mod Organizer 2, the mod manager assigns it a default name, which is either the name of the Nexus page from where it is being downloaded from, the name of the file, or a complete filename. When manually installing a mod, Mod Organizer 2 will always resort to its filename.
 
 All files installed from a same Nexus page should be merged into a single mod when using Mod Organizer 2. They should also be merged in the order they are listed in this guide, to avoid potential problems (such as update files being overwritten by older files from a same mod). The rule of thumb to use is that one hyperlink in the guide = one single mod on your MO2's left pane.
 
