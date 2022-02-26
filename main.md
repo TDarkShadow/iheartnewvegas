@@ -683,6 +683,9 @@ Files to install:
 - **Desert Natural Weathers 2.3** (Main files)
 - **Restore fake interior godrays.** (Optional files)
 
+[**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
+Adds vanilla ambient music to the Zion worldspace.
+
 [**HD Moon 2K - Dark Side of the Moon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/HD%20Moon%202K%20-%20Dark%20Side%20of%20the%20Moon.7z)  
 High quality retexture of the moon using NASA satellite images.
 
@@ -843,43 +846,44 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>Click to expand</summary>
 
 02-26-2022
-- Added **Food Effect Tweaks - Custom Food Healing** (Overhauls)
-- Added **Uncut Extra Collection** file to **Uncut Wasteland**'s installation instructions (Content)
+- Added **Food Effect Tweaks - Custom Food Healing** (Overhauls).
+- Added **Uncut Extra Collection** file to **Uncut Wasteland**'s installation instructions (Content).
 - Added **Desert Natural Weathers** (Visuals). HD Mist and HQ Dust Storm FX have been moved after it in the mod order.
-- Added **HD Moon 2K - Dark Side of the Moon** (Visuals)
-- Added **Simple Interior Lighting Overhaul** (Visuals)
+- Added **Desert Natural Weathers - Zion Ambient Music** (Visuals).
+- Added **HD Moon 2K - Dark Side of the Moon** (Visuals).
+- Added **Simple Interior Lighting Overhaul** (Visuals).
 - Removed **Altitude** (Visuals). Replaced by Desert Natural Weathers.
 - Removed **Elegant Sunglare Retexture** (Visuals). Included in Desert Natural Weathers.
 - Removed **HD Moon 2K - NASA Satellite Images** (Visuals). Replaced by HD Moon 2K - Dark Side of the Moon.
 - Removed **Enhanced Vanilla Stars 2K** (Visuals). Included in Desert Natural Weathers.
 
 02-25-2022
-- Added **ISControl Enabler** (Visuals)
-- Removed **Misc Gameplay Merge YUP Patch** (Gameplay)
-- Removed **JSawyer Ultimate Tweaks** (Overhauls)
-- Removed **Weapon Mesh Improvement Mod Patch** from **Anniversary Anim Pack** (Visuals)
+- Added **ISControl Enabler** (Visuals).
+- Removed **Misc Gameplay Merge YUP Patch** (Gameplay).
+- Removed **JSawyer Ultimate Tweaks** (Overhauls).
+- Removed **Weapon Mesh Improvement Mod Patch** from **Anniversary Anim Pack** (Visuals).
 	
 02-21-2022
 - Modified **Vanilla UI Plus (New Vegas)** to use the Classic Pip-Boy Font option instead of Default Font Tweaks (User Interface).
-- Added **JIP LN NVSE Plugin Custom INI** (xNVSE Plugins)
-- Added **yUI - User Ynterface Custom INI** (xNVSE Plugins)
-- Added **Vanilla UI Plus (New Vegas) Custom Settings** (User Interface)
-- Added **yUI - Sorting Ycons** (User Interface)
-- Added **Barton Thorn Acts Normally** (Addendum)
-- Added **Cannibal Reborn** (Addendum)
-- Added **Cannibal Reborn Expanded** (Addendum)
-- Added **Empty Clicks - Improved Dry Fire Sounds** (Addendum)
-- Added **Even More Accurate Geiger Clicking** (Addendum)
-- Added **Gun Runners Kiosk Glass Fix** (Addendum)
-- Added **High-Quality Classic Music** (Addendum)
-- Added **Immersive Pickup Sounds Patched** (Addendum)
-- Added **Improved Duster Coats - YUP Edition** (Addendum)
-- Added **Lower-sitting Ranger Hat** (Addendum)
-- Added **Lucky 38 Mainframe No Fingerprints** (Addendum)
-- Added **Red Vault 19 Jumpsuits** (Addendum)
-- Added **Securitrons in CRT** (Addendum)
-- Added **Simple Glowing Ranger Visors** (Addendum)
-- Added **Snowglobe Tweaks Fix** (Addendum)
+- Added **JIP LN NVSE Plugin Custom INI** (xNVSE Plugins).
+- Added **yUI - User Ynterface Custom INI** (xNVSE Plugins).
+- Added **Vanilla UI Plus (New Vegas) Custom Settings** (User Interface).
+- Added **yUI - Sorting Ycons** (User Interface).
+- Added **Barton Thorn Acts Normally** (Addendum).
+- Added **Cannibal Reborn** (Addendum).
+- Added **Cannibal Reborn Expanded** (Addendum).
+- Added **Empty Clicks - Improved Dry Fire Sounds** (Addendum).
+- Added **Even More Accurate Geiger Clicking** (Addendum).
+- Added **Gun Runners Kiosk Glass Fix** (Addendum).
+- Added **High-Quality Classic Music** (Addendum).
+- Added **Immersive Pickup Sounds Patched** (Addendum).
+- Added **Improved Duster Coats - YUP Edition** (Addendum).
+- Added **Lower-sitting Ranger Hat** (Addendum).
+- Added **Lucky 38 Mainframe No Fingerprints** (Addendum).
+- Added **Red Vault 19 Jumpsuits** (Addendum).
+- Added **Securitrons in CRT** (Addendum).
+- Added **Simple Glowing Ranger Visors** (Addendum).
+- Added **Snowglobe Tweaks Fix** (Addendum).
 
 02-18-2022
 - Removed **Less Map Markers**.
