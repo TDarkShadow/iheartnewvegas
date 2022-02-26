@@ -153,6 +153,8 @@ Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, p
 Files to install:
 - **Weapon Mesh Improvement Mod** (Old files)
 
+> ℹ️ This version omits the new energy weapon iron sights. We will install a different mod that adds them.
+
 [**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.3.7z)  
 Omits ITM records and removes unnecessary tweaks to Ammunition, Object Effect, Explosion, FormID List, and Recipe recorts.
 
@@ -356,6 +358,9 @@ Files to install:
 [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
 
+[**Food Effect Tweaks - Custom Food Healing**](https://www.nexusmods.com/newvegas/mods/75103)  
+Reduces food healing effects to help balance Survival versus Medicine. Affects all items, including from other mods.
+
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
 
@@ -427,6 +432,7 @@ Restores a huge amount of cut content from the game, from scenery and little ran
 Files to install:
 - **Uncut Wasteland plus NPCs** (Main files)
 - **Uncut Wasteland Pole Remover** (Optional files)
+- **Uncut Extra Collection** (Optional files)
 
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
@@ -668,7 +674,7 @@ Improves the Ultra-Luxe fountain by adding additional water streams with accompa
 [**Wasteland Flora Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20Grass.7z)  
 Improves grass textures.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. All non-grass related meshes and textures were removed.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
 
 [**Windows of the Mojave**](https://www.nexusmods.com/newvegas/mods/67247)  
 Improves interior atmosphere, fixing inconsistencies with cell interiors where the buildings had outside windows but no interior windows whatsoever.
@@ -679,25 +685,14 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 Files to install:
 - **Slightly Brighter** (Main files)
 
-[**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
-Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much. Performance-friendly, using no scripts or weather effects.
+[**Desert Natural Weathers**](https://www.nexusmods.com/newvegas/mods/75437)  
+An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Altitude** (Main files)
-- **Altitude - Zion Ambient Music** (Optional files)
+- **Desert Natural Weathers 2.3** (Main files)
+- **Restore fake interior godrays.** (Optional files)
 
-[**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
-Replacement for the sun and sun-glare textures, for a simple, visually appealing style. Helps remove sky grain. 
-
-[**Enhanced Vanilla Stars 2K**](https://www.nexusmods.com/newvegas/mods/70247)  
-Seamless high resolution texture of the vanilla night sky.
-
-Files to install:
-- **Vanilla weather - Clarity - Fellout - Yellow Goodbye Version** (Main files)
-
-> ℹ️ Despite what the name of the file may imply, it is also compatible with **Altitude**.
-
-[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022)  
+[**HD Moon 2K - Dark Side of the Moon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/HD%20Moon%202K%20-%20Dark%20Side%20of%20the%20Moon.7z)  
 High quality retexture of the moon using NASA satellite images.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
@@ -705,6 +700,9 @@ Fixes the bright night sky horizons.
 
 Files to install:
 - **Night Sky Tweaks (Script Runner)** (Main files)
+
+[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
+Scripted interior lighting overhaul that darkens interiors for immersion.
 
 ## LOD RESOURCES
 
@@ -843,6 +841,17 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 <details>
 	<summary>Click to expand</summary>
+
+02-26-2022
+- Added **Food Effect Tweaks - Custom Food Healing** (Overhauls)
+- Added **Uncut Extra Collection** file to **Uncut Wasteland**'s installation instructions (Content)
+- Added **Desert Natural Weathers** (Visuals)
+- Added **HD Moon 2K - Dark Side of the Moon** (Visuals)
+- Added **Simple Interior Lighting Overhaul** (Visuals)
+- Removed **Altitude** (Visuals). Replaced by Desert Natural Weathers.
+- Removed **Elegant Sunglare Retexture** (Visuals). Included in Desert Natural Weathers.
+- Removed **HD Moon 2K - NASA Satellite Images** (Visuals). Replaced by HD Moon 2K - Dark Side of the Moon.
+- Removed **Enhanced Vanilla Stars 2K** (Visuals). Included in Desert Natural Weathers.
 
 02-25-2022
 - Added **ISControl Enabler** (Visuals)
