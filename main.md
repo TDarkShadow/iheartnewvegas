@@ -583,15 +583,6 @@ Optimizes the very high resolution textures, without noticeably sacrificing qual
 [**Better Gas Leak Effect**](https://www.nexusmods.com/newvegas/mods/55606)  
 Improves the gas leak refraction effect, making it easier to spot.
 
-[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
-High resolution retexture for mist.
-
-Files to install:
-- **HD Mist 2K** (Main files)
-
-[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
-High resolution retexture for dust storms.
-
 [**More Subtle Hidden Valley Dust Storm**](https://www.nexusmods.com/newvegas/mods/70275)  
 Tones down the dust storm effect near the Hidden Valley bunkers.
 
@@ -694,6 +685,15 @@ Files to install:
 
 [**HD Moon 2K - Dark Side of the Moon**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/HD%20Moon%202K%20-%20Dark%20Side%20of%20the%20Moon.7z)  
 High quality retexture of the moon using NASA satellite images.
+
+[**HD Mist**](https://www.nexusmods.com/newvegas/mods/58955)  
+High resolution retexture for mist.
+
+Files to install:
+- **HD Mist 2K** (Main files)
+
+[**HQ Dust Storm FX**](https://www.nexusmods.com/newvegas/mods/53863)  
+High resolution retexture for dust storms.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
@@ -845,7 +845,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 02-26-2022
 - Added **Food Effect Tweaks - Custom Food Healing** (Overhauls)
 - Added **Uncut Extra Collection** file to **Uncut Wasteland**'s installation instructions (Content)
-- Added **Desert Natural Weathers** (Visuals)
+- Added **Desert Natural Weathers** (Visuals). HD Mist and HQ Dust Storm FX have been moved after it in the mod order.
 - Added **HD Moon 2K - Dark Side of the Moon** (Visuals)
 - Added **Simple Interior Lighting Overhaul** (Visuals)
 - Removed **Altitude** (Visuals). Replaced by Desert Natural Weathers.
