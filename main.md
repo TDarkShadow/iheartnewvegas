@@ -306,9 +306,6 @@ Makes melee attacks hit multiple enemies.
 [**Misc Gameplay Merge**](https://www.nexusmods.com/newvegas/mods/73921)  
 Compilation of small gameplay mods, fully fixed, optimized, and updated, ranging from quality of life improvements, gameplay and balance tweaks, and visual tweaks.
 
-[**Misc Gameplay Merge YUP Patch**](https://www.nexusmods.com/newvegas/mods/75268)  
-Compatibility patch for Yukichigai Unofficial Patch.
-
 [**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
 Compilation of minor visual, gameplay, and immersion mods.
 
@@ -358,9 +355,6 @@ Files to install:
 
 [**JSawyer Ultimate Edition Fixes**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Fixes.7z)  
 Incorporates Yukichigai Unofficial Patch, Weapon Mesh Improvement Mod, and Throwable Weapon Fixes fixes.
-
-[**JSawyer Ultimate Edition Tweaks**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/JSawyer%20Ultimate%20Edition%20Tweaks.7z)  
-Small balance and consistency tweaks by **Qolore**.
 
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941)  
 Adds ammo variants, reloading parts, and weapon mods as loot, fixes item naming conventions, improves recipes, and adds options for configuring Gun Runners' Arsenal.
@@ -499,7 +493,7 @@ Merge of many animation mods by the same author, improving the game's overall lo
 
 Files to install:
 - **Anniversary Anim Pack** (Main files)
-- **Weapon Mesh Improvement Mod Patch** (Optional files)
+  - Hide/delete all folders inside **Meshes** minus the **Meshes\Characters** folder.
 
 [**Anniversary Anim Pack - General Bugfix**](https://www.nexusmods.com/newvegas/mods/72320)  
 Fixes camera jumps, animation snapping, movement lock, and broken aim in 3rd person when using Anniversary Anim Pack.
@@ -514,6 +508,9 @@ Clean first person animations. No new idles, no bugs, no reload cancelling from 
 Files to install:
 - **FNV Clean Animations** (Main files)
 - **FNV Clean Animations - Update 2.2.2** (Update files)
+
+[**ISControl Enabler**](https://www.nexusmods.com/newvegas/mods/75417)  
+Removes the need to manually patch weapons for animations using the ISControl node system, used in most kNVSE sets by New Vegas animators. Works with every weapon and every mod, instantly.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -844,6 +841,15 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
+<details>
+	<summary>Click to expand</summary>
+
+02-25-2022
+- Added **ISControl Enabler** (Visuals)
+- Removed **Misc Gameplay Merge YUP Patch** (Gameplay)
+- Removed **JSawyer Ultimate Tweaks** (Overhauls)
+- Removed **Weapon Mesh Improvement Mod Patch** from **Anniversary Anim Pack** (Visuals)
+	
 02-21-2022
 - Modified **Vanilla UI Plus (New Vegas)** to use the Classic Pip-Boy Font option instead of Default Font Tweaks (User Interface).
 - Added **JIP LN NVSE Plugin Custom INI** (xNVSE Plugins)
@@ -968,6 +974,7 @@ All the removed mods in this update are compatible with the guide.
 - **No Stealing After Repair** is now included in **lStewieAl's Tweaks Custom INI**.
 - **FNVLODGen Output** has been updated to reflect the removal of many LOD mods.
 - Added **Much Needed LOD YUP Patch**.
+</details>
 
 # ADDITIONAL MODS
 
