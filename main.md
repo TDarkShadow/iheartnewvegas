@@ -676,6 +676,7 @@ An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC 
 
 Files to install:
 - **Desert Natural Weathers 2.3** (Main files)
+- **Desert Natural Weathers 2.5** (Update files)
 - **Restore fake interior godrays.** (Optional files)
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
