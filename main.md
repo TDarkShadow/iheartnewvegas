@@ -437,6 +437,9 @@ Files to install:
 [**Uncut Wasteland Tweaks**](https://github.com/VivaNewVegas/Viva-New-Vegas-Patch-Emporium/blob/main/Uncut%20Wasteland%20Tweaks.7z)  
 Includes YUP fixes; omits the NPC restorations at the Ultra-Luxe Bathhouse and replaces static Destitute Travelers with leveled, random NPCs.
 
+[**Uncut Extra Collection - JSawyer Ultimate Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Uncut%20Extra%20Collection%20-%20JSawyer%20Ultimate%20Patch.7z)  
+Patches Uncut Extra Collection for compatibility with JSawyer Ultimate Edition.
+
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip.
 
@@ -593,6 +596,9 @@ Visual overhaul of characters' faces, following vanilla aesthetics.
 
 [**Character Expansions Revised - YUP - JSU - UW - MR**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20YUP%20-%20JSU%20-%20UW%20-%20MR.7z)  
 Merged compatibility patch for Yukichigai Unofficial Patch, JSawyer Ultimate, Uncut Wasteland, and Mojave Raiders.
+
+[**Character Expansions Revised - UW Extra Collection**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Character%20Expansions%20Revised%20-%20UW%20Extra%20Collection.7z)  
+Addendum compatibility patch for Uncut Wasteland Extra Collection.
 
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces.
@@ -843,8 +849,11 @@ Shift+Movement | Sprint | Just Assorted Mods
 	<summary>Click to expand</summary>
 
 02-26-2022
+- Renamed text files to **I Heart New Vegas MO2 Profile Files**.
 - Added **Food Effect Tweaks - Custom Food Healing** (Overhauls).
 - Added **Uncut Extra Collection** file to **Uncut Wasteland**'s installation instructions (Content).
+- Added **Uncut Extra Collection - JSawyer Ultimate Patch** (Content).
+- Added **Character Expansions Revised - UW Extra Collection** (Visuals).
 - Added **Desert Natural Weathers** (Visuals). HD Mist and HQ Dust Storm FX have been moved after it in the mod order.
 - Added **Desert Natural Weathers - Zion Ambient Music** (Visuals).
 - Added **HD Moon 2K - Dark Side of the Moon** (Visuals).
