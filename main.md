@@ -150,12 +150,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 [**Weapon Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/65052?)  
 Fixes mesh errors, UV errors, incorrect flags, missing extra data, form lists, projectiles, and other weapon related bugs and errors.
 
-Files to install:
-- **Weapon Mesh Improvement Mod** (Old files)
-
-> ℹ️ This version omits the new energy weapon iron sights. We will install a different mod that adds them.
-
-[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.3.7z)  
+[**Weapon Mesh Improvement Mod ESP Replacer**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/WMIM%20ESP%20Replacer%201.4.7z)  
 Omits ITM records and removes unnecessary tweaks to Ammunition, Object Effect, Explosion, FormID List, and Recipe recorts.
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
@@ -250,15 +245,6 @@ Increases the speed of the Pip-Boy animation.
 
 Files to install:
 - **Faster Pip-Boy Animation (2x)** (Main files)
-
-[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
-Adds iron sights to a variety of laser and plasma weapons which lacked any.
-
-Files to install:
-- **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files)
-- **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
-- **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files)
 
 [**Quick Grenade Hotkey**](https://www.nexusmods.com/newvegas/mods/64874)  
 Adds a hotkey to automatically select the currently selected grenade/mine, as well as a hotkey to scroll through your available grenades/mines. Read the description for instructions on how these features work.
@@ -450,6 +436,9 @@ Files to install:
 - **Mojave Raiders** (Main files)
 - **Mojave Raiders - Nipton Takeover Disabled** (Optional files)
 - **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files)
+
+[**No NPC Throwing Weapon Consumption - WMIM Patch**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/No%20NPC%20Throwing%20Weapon%20Consumption%20-%20WMIM%20Patch.7z)  
+Compatibility patch for Weapon Mesh Improvement Mod.
 
 [**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
@@ -851,6 +840,14 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>Click to expand</summary>
 
+02-27-2022
+- Updated **Weapon Mesh Improvement Mod** install instructions (Patches).
+- Updated **Weapon Mesh Improvement Mod ESP Replacer** (Patches).
+- Updated **JSawyer Ultimate Edition Fixes** with latest WMIM fixes, and renamed the .esp (Overhauls).
+- Updated **JSawyer Ultimate Edition Patches** with latest WMIM fixes (Overhauls).
+- Added **No NPC Throwing Weapon Consumption - WMIM Patch** (Content).
+- Removed **Laser Weapon Iron Sights** (Gameplay QOL).
+	
 02-26-2022
 - Renamed text files to **I Heart New Vegas MO2 Profile Files**.
 - Added **Food Effect Tweaks - Custom Food Healing** (Overhauls).
