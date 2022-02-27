@@ -815,9 +815,12 @@ bDoDepthOfField=0
 [Interface]
 fDlgFocus=5.0000
 uPipboyColor=1022886143
+
+[Grass]
+iMinGrassSize=40
 ```
 
-> ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout.
+> ℹ️ Disables vanilla depth of field effect seen during dialogue; reduces the amount of zoom when engaging in dialogue; tweaks the Pip-Boy HUD color to match that of classic Fallout; increases grass density.
 
 # MOD KEYBINDINGS
 
@@ -857,6 +860,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Added **Desert Natural Weathers** (Visuals). HD Mist and HQ Dust Storm FX have been moved after it in the mod order.
 - Added **Desert Natural Weathers - Zion Ambient Music** (Visuals).
 - Added **HD Moon 2K - Dark Side of the Moon** (Visuals).
+- Added grass density tweaks (INI Config).
 - Removed **Altitude** (Visuals). Replaced by Desert Natural Weathers.
 - Removed **Elegant Sunglare Retexture** (Visuals). Included in Desert Natural Weathers.
 - Removed **HD Moon 2K - NASA Satellite Images** (Visuals). Replaced by HD Moon 2K - Dark Side of the Moon.
