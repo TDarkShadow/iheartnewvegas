@@ -753,7 +753,7 @@ Generated LOD for users who have followed the guide from beginning to bottom. Us
 
 ### Mod order and load order
 
-[**Left My Heart In New Vegas Modlist and Loadorder**](https://github.com/Sigourn/iheartnewvegas/blob/main/Left%20My%20Heart%20In%20New%20Vegas%20Modlist%20and%20Loadorder.7z)  
+[**I Heart New Vegas MO2 Profile Files**](https://github.com/Sigourn/iheartnewvegas/blob/main/I%20Heart%20New%20Vegas%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for Left My Heart In New Vegas to work as intended.
 - Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\Left My Heart In New Vegas**, overwriting when prompted.
 
