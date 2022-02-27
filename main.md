@@ -704,9 +704,6 @@ Fixes the bright night sky horizons.
 Files to install:
 - **Night Sky Tweaks (Script Runner)** (Main files)
 
-[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
-Scripted interior lighting overhaul that darkens interiors for immersion.
-
 ## LOD RESOURCES
 
 [**Improved LOD Noise Texture**](https://www.nexusmods.com/newvegas/mods/46451)  
@@ -851,7 +848,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Added **Desert Natural Weathers** (Visuals). HD Mist and HQ Dust Storm FX have been moved after it in the mod order.
 - Added **Desert Natural Weathers - Zion Ambient Music** (Visuals).
 - Added **HD Moon 2K - Dark Side of the Moon** (Visuals).
-- Added **Simple Interior Lighting Overhaul** (Visuals).
 - Removed **Altitude** (Visuals). Replaced by Desert Natural Weathers.
 - Removed **Elegant Sunglare Retexture** (Visuals). Included in Desert Natural Weathers.
 - Removed **HD Moon 2K - NASA Satellite Images** (Visuals). Replaced by HD Moon 2K - Dark Side of the Moon.
