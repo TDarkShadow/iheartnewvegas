@@ -356,6 +356,9 @@ Custom configuration that disables most GRA features.
 [**JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)**](https://www.nexusmods.com/newvegas/mods/62933)  
 Compatibility patch for JSawyer Ultimate.
 
+Files to install:
+- **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files)
+
 [**Famine - A Loot Rarity Mod**](https://www.nexusmods.com/newvegas/mods/74985)  
 Simple and comprehensive loot scarcity mod using event-based scripting.
 
@@ -675,8 +678,8 @@ Files to install:
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, DLC support, and optional presets for Reshade and ENB.
 
 Files to install:
-- **Desert Natural Weathers 2.3** (Main files)
-- **Desert Natural Weathers 2.5** (Update files)
+- **Desert Natural Weathers 2.6** (Main files)
+- **Desert Natural Weathers 2.7** (Update files)
 - **Restore fake interior godrays.** (Optional files)
 
 [**Desert Natural Weathers - Zion Ambient Music**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Desert%20Natural%20Weathers%20-%20Zion%20Ambient%20Music.7z)  
@@ -841,6 +844,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 <details>
 	<summary>Click to expand</summary>
 
+02-28-2022
+- Updated **Desert Natural Weathers** installation instructions.
+- Removed **JSawyer Ultimate - Mojave Arsenal Patch (GRA Merged) - Hunting Revolver Iron Sights Patch** from modlist.txt (the plugin was removed in an earlier update).
+	
 02-27-2022
 - Updated **Weapon Mesh Improvement Mod** install instructions (Patches).
 - Updated **Weapon Mesh Improvement Mod ESP Replacer** (Patches).
