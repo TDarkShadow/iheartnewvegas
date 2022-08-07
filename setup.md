@@ -1,10 +1,10 @@
-[<< Back to Readme](main/README.md)
+[<< Back to Readme](readme.md)
 
 > PROTIP: Click on the list icon on the upper left corner of this document to see the index for this guide.
 
 # FALLOUT: NEW VEGAS SETUP
 
-![Banner](https://raw.githubusercontent.com/Sigourn/iheartnewvegas/main/8064e94210b0914d6edbf0790d145e40d0c1890da78130c3d3c28f18bdae483e_bg_crop_1920x655.jpg)
+![Banner](images/gog_banner.jpg)
 
 ## REQUIREMENTS
 
@@ -204,4 +204,5 @@ From now on, you should avoid running the game through **nvse_loader.exe**. You 
 
 # MOVING ON TO THE NEXT SECTION
 
-[<< Back to Readme](main/README.md)
+[To New Vegas Sharp >>](main.md)  
+[<< Back to Readme](readme.md)
