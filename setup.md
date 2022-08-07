@@ -173,7 +173,8 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
   - [X] Use profile-specific Game INI files.
   - [X] Automatic Archive Invalidation.
 - With the **Default** profile selected, click **Copy**. Type in **New Vegas Sharp** and click **OK**.
-- With the **New Vegas Sharp** profile highlighted, click **Select**. The window will now close.
+- With the **New Vegas Sharp** profile highlighted, click **Select**.
+- The **INI file is read-only** window will appear. Select **Remember my choice** from the dropdown menu, and click **Clear the read-only flag**.
 
 New Vegas Sharp is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
