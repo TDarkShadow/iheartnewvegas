@@ -221,8 +221,10 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 
 ## QOL IMPROVEMENTS
 
-[**Better Caravan Game Limit for Merchants**](https://www.nexusmods.com/newvegas/mods/41147)  
+[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
 Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes.
 
 [**Casino Exchange All**](https://www.nexusmods.com/newvegas/mods/35701)  
 Allows you to trade in all your chips at once in the casino, for different types of currency.
@@ -258,10 +260,10 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 [**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
-[**Clean Just Weapons Wheel**]()  
+[**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
 Cleans up the Just Weapons Wheel textures.
 
-[**Shut Up DLC Companions YUPdated**]()  
+[**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
@@ -297,9 +299,11 @@ A compatible skeleton for many animation mods.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
-- Install **Character Expansions Revised** (Main files).
-- Install **Character Expansions Revised - YUP** (Optional files). Merge when prompted.
-- Install **Character Expansions Revised - UW** (Optional files). Merge when prompted.
+
+[**Character Expansions Revised Patches**]()  
+Addresses NPC conflicts between Character Expansions Revised, Yukichigai Unofficial Patch, Uncut Wasteland Plus NPCs, and SawyerBatty FNV.
+- Check the following option in the FOMOD installer:
+  - [X] SB + YUP + UW
 
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces. Visual comparison [**available here**](https://imgsli.com/ODY2MzE).
@@ -333,7 +337,7 @@ Enhances the shoddy work on the vanilla functional streetlamps and lights of Out
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
-[**Wasteland Flora Overhaul Grass**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Wasteland%20Flora%20Overhaul%20Grass.7z)  
+[**Wasteland Grass Overhaul**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Wasteland%20Grass%20Overhaul.7z)  
 Improves grass textures.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
@@ -409,8 +413,16 @@ Makes enemies more likely to target the player in combat rather than companions.
 [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436)  
 An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
 
+[**SawyerBatty FNV - Uncut Wasteland Patch**]()  
+Addresses NPC conflicts between SawyerBatty FNV and Uncut Wasteland Plus NPCs.
+
+> ℹ️ You can skip this patch if you've installed the Character Expansions Revised patch for SawyerBatty FNV and Uncut Wasteland Plus NPCs.
+
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Edits some vanilla traits and adds two new ones.
+
+[**Improved Traits - SawyerBatty FNV Patch**]()  
+Incorporates SawyerBatty FNV carry weight tweaks to the Hoarder Trait.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
