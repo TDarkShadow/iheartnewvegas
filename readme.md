@@ -22,7 +22,7 @@ Last updated: August 7th, 2022.
 
 Because this modlist is offered "as is" and to be considered complete, I won't be answering compatibility questions.
 
-[**Click here to get started.**](main/setup.md)
+[**Click here to get started.**](setup.md)
 
 ## My setup
 
