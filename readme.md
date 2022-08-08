@@ -39,4 +39,4 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How much space do I need to install these mods?
 
-Roughly 5GB.
+Roughly 3.5GB.
