@@ -46,6 +46,11 @@ Almost completely fixes the exterior lighting bug, and allows up to four times t
 
 [**JIP LN NVSE Plugin**](https://www.nexusmods.com/newvegas/mods/58277)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
+- After installation, double-click the mod and select the **INI Files** tab.
+- Select **jip_nvse.ini**, and set **bEnableFO3Repair** to 1.
+- Click the **Save** icon and close the window.
+
+> ℹ️ This caps how much an item can be repaired based on the player's Repair skill.
 
 [**JohnnyGuitar NVSE**](https://www.nexusmods.com/newvegas/mods/66927)  
 Adds new functions, engine bug fixes and tweaks, and restored broken game features.
@@ -67,7 +72,7 @@ Aims to fix UI bugs and add new UI features.
 - Install **Matched Cursor - Fallout New Vegas** (Optional files). Merge when prompted.
 - After installation, double-click the mod and select the **INI Files** tab.
 - Select **yUI.ini**, and set **bMatchingCursor** to 1.
-- Click **Save** and close the window.
+- Click the **Save** icon and close the window.
 
 > ℹ️ This matches the in-game cursor to the current HUD color.
 
@@ -382,7 +387,6 @@ Fixes moonlight, making the moon the light caster instead of the sun.
 [**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
 Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much.
 - Install **Altitude** (Main files).
-- Install **Altitude - Alternate Nights** (Optional files). Merge when prompted.
 - Install **Altitude - Zion Ambient Music** (Optional files). Merge when prompted.
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
