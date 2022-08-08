@@ -172,6 +172,32 @@ Engine bugfixes, optional tweaks and new features with no performance impact. Fu
 [**Stewie Tweaks Custom INI**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Stewie%20Tweaks%20Custom%20INI.7z)  
 Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl, as well as a number of gameplay tweaks. Based off [**Stewie Tweaks Essentials INI**](https://www.nexusmods.com/newvegas/mods/76522).
 
+<details>
+<summary>Enabled gameplay tweaks</summary>
+
+```
+bAdjustableScopeZoom = 1
+bBinocularsOnly = 1
+bClipSizeMatters = 1
+bCookableGrenades = 1
+bDoubleTapReloadToChangeAmmoType = 1
+bHoldAndReleaseThrowables = 1
+bManualReload = 1
+bNoExitHacking = 1
+bNoGrabOwnedItems = 1
+bNoSkillTags = 1
+iRemoveTags = 2
+bNumberedDialogHotkeys = 1
+bPickpocketOverhaul = 1
+bPreventStealingCapsAfterRepair = 1
+bQuickUse = 1
+bRestore2Hotkey = 1
+bShowInventorySortButton = 1
+iOpenMapKey = 1
+iOpenQuestsKey = 1
+```
+</details>
+
 ## USER INTERFACE
 
 [**The Mod Configuration Menu**](https://www.nexusmods.com/newvegas/mods/42507)  
