@@ -69,6 +69,8 @@ Aims to fix UI bugs and add new UI features.
 - Select **yUI.ini**, and set **bMatchingCursor** to 1.
 - Click **Save** and close the window.
 
+> ℹ️ This matches the in-game cursor to the current HUD color.
+
 ## PATCHES
 
 ### General fixes
@@ -140,7 +142,8 @@ Addresses first-person clipping for a variety of outfits, particularly noticeabl
 [**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
 Fixes the White Glove Society Mask mesh for female characters.
 
-[**Fix for the Caesar Legion Armors YUPdated**]()  
+[**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
+Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65004) to original mod by **YanL**. The featured version includes YUP fixes and omits unnecessary edits.
 
@@ -166,8 +169,8 @@ Brings back the VATS melee animations from Fallout 3.
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
 
-[**Stewie Tweaks Essentials INI**](https://www.nexusmods.com/newvegas/mods/76522)  
-Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl.
+[**Stewie Tweaks Custom INI**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Stewie%20Tweaks%20Custom%20INI.7z)  
+Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl, as well as a number of gameplay tweaks. Based off [**Stewie Tweaks Essentials INI**](https://www.nexusmods.com/newvegas/mods/76522).
 
 ## USER INTERFACE
 
@@ -186,8 +189,13 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ The **Classic Pip-Boy Font** option includes the **Default Font Tweaks** option, and only enables said font exclusively in the Pip-Boy screen.
 
-[**Vanilla UI Plus (New Vegas) Custom Settings**](https://github.com/Sigourn/iheartnewvegasrepository/blob/main/Vanilla%20UI%20Plus%20(New%20Vegas)%20Custom%20Settings.7z)  
-Increases the amount of visible dialogue topics, and displays numbers next to dialogue topics (requires **lStewieAl's Tweaks and Engine Fixes**).
+- After installation, double-click the mod and select the **Filetree** tab.
+- Expand the **Menus\Prefabs\VUI+** folder, and double-click **settings.xml**.
+- Set **VUI+DialogMaxHeight** to 276.
+- Set **VUI+NumberedTopics** to 1.
+- Save and close the file.
+
+> ℹ️ This increases the amount of visible dialogue options and enables numbered dialogue options.
 
 [**Clean Vanilla HUD**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
@@ -300,11 +308,6 @@ A compatible skeleton for many animation mods.
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
-[**Character Expansions Revised Patches**]()  
-Addresses NPC conflicts between Character Expansions Revised, Yukichigai Unofficial Patch, Uncut Wasteland Plus NPCs, and SawyerBatty FNV.
-- Check the following option in the FOMOD installer:
-  - [X] SB + YUP + UW
-
 [**Character Expansions Revised - FaceGen Tint Fix**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes colored tints on character faces. Visual comparison [**available here**](https://imgsli.com/ODY2MzE).
 - Install as **Character Expansions Revised - FaceGen Tint Fix**.
@@ -413,39 +416,23 @@ Makes enemies more likely to target the player in combat rather than companions.
 [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436)  
 An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
 
-[**SawyerBatty FNV - Uncut Wasteland Patch**]()  
-Addresses NPC conflicts between SawyerBatty FNV and Uncut Wasteland Plus NPCs.
-
-> ℹ️ You can skip this patch if you've installed the Character Expansions Revised patch for SawyerBatty FNV and Uncut Wasteland Plus NPCs.
-
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Edits some vanilla traits and adds two new ones.
-
-[**Improved Traits - SawyerBatty FNV Patch**]()  
-Incorporates SawyerBatty FNV carry weight tweaks to the Hoarder Trait.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
 ## FINISHING TOUCHES
 
+[**New Vegas Sharp Mod Setup**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20Mod%20Setup.7z)  
+Includes configuration files and patches for mods included in the guide.
+- Check the corresponding options in the FOMOD installer based on the mods you have installed.
+
 ### Adjusting mod order and load order
 
 [**New Vegas Sharp MO2 Profile Files**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20MO2%20Profile%20Files.7z)  
 Adjusts mod order and load order for New Vegas Sharp to work as intended.
 - Extract the files into **C:\Games\Fallout New Vegas Mods\MO2\profiles\New Vegas Sharp**, overwriting when prompted.
-
-### Settings config
-
-The following settings need to be configured after you've already started a new save, using the in-game **Settings** option.
-
-**Gameplay**:
-- Set **Killcam Mode** to None.
-- Set **Difficulty** to Hard.
-
-**Controls -> Action Mapping**:
-- Set **VATS** to Esc in order to disable the keybinding.
-- Set **Ammo Swap** to Esc in order to disable the keybinding.
 
 ### INI config
 
@@ -468,23 +455,45 @@ uPipboyColor=1022886143
 iMinGrassSize=40
 ```
 
+### Settings config
+
+The following settings need to be configured after you've already started a new game, using the in-game **Settings** option.
+
+**Gameplay**:
+- Set **Killcam Mode** to None.
+- Set **Difficulty** to Hard.
+
+**Controls -> Action Mapping**:
+- Set **VATS** to Esc in order to disable the keybinding.
+- Set **Ammo Swap** to Esc in order to disable the keybinding.
+
+### MCM config
+
+The following settings need to be configured after you've already started a new game, using the in-game **Mod Configuration** option.
+
+**FOV Slider**:
+- Set **Player Field of View** to 65.
+- Set **Pipboy Field of View** to 55.
+
+**Just Mods**:
+- Disable **Visual Objectives**.
+- Disable **Hold Breath**.
+- Disable **Bullet Time**.
+- Set **Crosshair 1st Sighting Mode** to Nothing.
+
 # MOD KEYBINDINGS
 
 Key | Function | Added by
 ------------ | ------------- | -------------
 F6 | Create full save | lStewieAl's Tweaks
 F10 | Reload current loaded save | lStewieAl's Tweaks
-Left ALT | Skip player deathcam when dying | lStewieAl's Tweaks
 R (double tap) | Switch ammunition | lStewieAl's Tweaks
-I | Toggle HUD | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
-Shift+E | Pick locked door even if you have the key | lStewieAl's Tweaks
 Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 H | Open weapon wheel | Just Assorted Mods
-V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
