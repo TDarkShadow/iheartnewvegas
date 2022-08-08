@@ -443,7 +443,7 @@ Makes enemies more likely to target the player in combat rather than companions.
 An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
-Edits some vanilla traits and adds two new ones.
+Completely overhauls the vanilla traits to effectively remove all SPECIAL buffs and debuffs, replacing them with effects that simulate what was replaced, as well as adds two new traits.
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
