@@ -181,25 +181,51 @@ Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl,
 <summary>Enabled gameplay tweaks</summary>
 
 ```
+; allows scroll-wheel to zoom while using a scope
 bAdjustableScopeZoom = 1
+; only allow zooming with binoculars
 bBinocularsOnly = 1
+; prevents firing if you don't have enough ammo for one burst
 bClipSizeMatters = 1
+; holding the attack button for grenades decreases their detonation timer
 bCookableGrenades = 1
+; change ammo types when reload is pressed twice in quick succession
 bDoubleTapReloadToChangeAmmoType = 1
+; allow hold/releasing for throwables similar to grenades
 bHoldAndReleaseThrowables = 1
+; makes sneaking holdable rather than toggleable
+bHoldCrouchToSneak = 1
+; stop the player's automatic reloading when the clip is emptied
 bManualReload = 1
+; don't allow exiting the hacking menu if an attempt has been made
 bNoExitHacking = 1
+; disallows grabbing of owned items
 bNoGrabOwnedItems = 1
+; remove the skill requirement prefix from dialog topics
 bNoSkillTags = 1
+; setting: 0 keeps the entire skill tag, 1 removes the tag, and 2 keeps the skill but not the number, i.e. [Speech]
 iRemoveTags = 2
+; adds hotkeys 0-9 to select options in the dialog menu (recommended use with VUI+'s numbered topics setting)
 bNumberedDialogHotkeys = 1
+; alters the pickpocket formula to take into account item weight, target perception and detection value
 bPickpocketOverhaul = 1
+; place caps in merchant containers instead of their inventory when using repair services
 bPreventStealingCapsAfterRepair = 1
+; add hotkeys to instantly equip the cross-hair and container selections
 bQuickUse = 1
+; restore the '2' weapon hotkey
 bRestore2Hotkey = 1
+; add a button to sort/filter the inventory
 bShowInventorySortButton = 1
-iOpenMapKey = 1
-iOpenQuestsKey = 1
+; open the PipBoy world map
+iOpenMapKey = 50
+; open the PipBoy quests tab
+iOpenQuestsKey = 36
+[GameSettings]
+; mirrors Action Camera
+fOverShoulderPosZ = 1.0
+fOverShoulderPosX = 28.0
+fOverShoulderRotMult = 0.3
 ```
 </details>
 
@@ -301,6 +327,9 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 
 [**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
 Cleans up the Just Weapons Wheel textures.
+
+[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
+Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
@@ -424,6 +453,11 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 ## GAMEPLAY
 
+[**Follower Formula Redone YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Follower%20Formula%20Redone%20YUPdated.7z)  
+Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
+
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
@@ -442,6 +476,9 @@ Combat music will only start when the player or an enemy start combat with each 
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Makes enemies more likely to target the player in combat rather than companions.
+
+[**Precise VATS (and Actually Useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
+Reworked VATS mechanics to be more engaging/stat-based and less exploitable. Now activating VATS requires you to aim at your enemy or keep your crosshair on it, and makes VATS activation range dependant on a number of factors (Perception, weapon scope, Power Armor, Enhanced Sensors and Spotter perks).
 
 [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436)  
 An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
@@ -515,8 +552,6 @@ The following settings need to be configured after you've already started a new 
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-F6 | Create full save | lStewieAl's Tweaks
-F10 | Reload current loaded save | lStewieAl's Tweaks
 R (double tap) | Switch ammunition | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
@@ -527,6 +562,13 @@ H | Open weapon wheel | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+08-08-2022
+- Updated **Stewie Tweaks Custom INI** with [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) and Hold Crouch To Sneak.
+- Added **Stars Turned Face Up** (QOL Improvements).
+- Added **Follower Formula Redone YUPdated** (Gameplay).
+- Added **Precise VATS** (Gameplay).
+- Updated **New Vegas Sharp MO2 Profile Files**.
 
 08-07-2022
 - Full rewrite.
