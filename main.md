@@ -573,7 +573,7 @@ The following settings need to be configured after you've already started a new 
 
 **FOV Slider**:
 - Set **Player Field of View** to 65.
-- Set **Pipboy Field of View** to 55.
+- Set **Pipboy Field of View** to 50.
 
 **Just Mods**:
 - Disable **Visual Objectives**.
