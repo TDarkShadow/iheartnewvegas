@@ -479,10 +479,8 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 ## GAMEPLAY
 
-[**Follower Formula Redone YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Follower%20Formula%20Redone%20YUPdated.7z)  
+[**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/71490) to original mod by **Qolore**. The featured version includes YUP fixes.
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
@@ -595,6 +593,10 @@ H | Open weapon wheel | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+08-10-2022
+- Updated **Follower Formula Redone** to use the Nexus link. The mod has been updated with YUP fixes.
+- Updated **SawyerBatty - UPNVSEP** patch. Was missing a fix to a FormID list.
 
 08-09-2022
 - Added **Different PipBoy Animations** (Visuals).
