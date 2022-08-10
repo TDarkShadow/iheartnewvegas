@@ -365,6 +365,14 @@ A compatible skeleton for many animation mods.
 - Check the following option in the FOMOD installer:
   - [X] Vanilla Weights
 
+[**Different PipBoy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
+Detail-focused animation, meant to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
+- Install **Female Anim B** (Main files).
+- Install **Male Anim B** (Main files). Merge when prompted.
+
+[**Hit - Locomotion**](https://www.nexusmods.com/newvegas/mods/76097)  
+Improved movement animations with subtle headbob, inertia and leaning.
+
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
@@ -393,6 +401,24 @@ Improves eye textures.
 
 [**Vanilla Hair - No Shine**](https://www.nexusmods.com/newvegas/mods/50285)  
 Removes shine from vanilla hairs.
+
+[**No More Pip-Boy Glove**](https://www.nexusmods.com/newvegas/mods/69258)  
+Removes the Pip-Boy glove from the player and NPCs.
+- Install **No More Pip-Boy Glove (No Plugin)** (Main files).
+
+[**Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/65980)  
+New Pip-Boy 2000 Mk VI with custom scratch-made meshes, textures and working clock like in Fallout 76.
+- Install **Pip-Boy 2000 Mk VI replacer version** (Main files).
+- Install **Working date and clock for replacer** (Optional files). Merge when prompted.
+
+[**Pip-Boy 2000 MK VI (Wasteland Edition) Retexture**](https://www.nexusmods.com/newvegas/mods/65999)  
+A grittier retexture for the Pip-Boy 2000 Mk VI.
+
+[**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
+Makes the Pip-Boy 2000 Mk VI's buttons fully functional. Requires the original mod to be installed.
+
+[**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
+Makes NPCs wear the new Pip-Boy 2000 Mk VI. Requires the original mod to be installed.
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
@@ -463,6 +489,13 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
+
+[**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
+Adds iron sights to numerous Energy Weapons that were lacking them.
+- Install **Laser Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files).
+- Install **Plasma Weapon Iron Sights - Gun Runner's Arsenal Merged** (Main files). Merge when prompted.
+- Install **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
+- Install **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 
 [**Mass Ownership Tweaks**](https://www.nexusmods.com/newvegas/mods/74031)  
 Logical fixes/improvements to ownership for certain cells/items, as well as adding dynamic ownership to many cells.
@@ -562,6 +595,13 @@ H | Open weapon wheel | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+08-09-2022
+- Added **Different PipBoy Animations** (Visuals).
+- Added **Hit - Locomotion** (Visuals).
+- Added **No More Pip-Boy Glove** (Visuals).
+- Added **Pip-Boy 2000 Mk VI** (Visuals).
+- Added **Laser Weapons Iron Sights** (Gameplay).
 
 08-08-2022
 - Updated **Stewie Tweaks Custom INI** with [**Action Camera**](https://www.nexusmods.com/newvegas/mods/66006) and Hold Crouch To Sneak.
