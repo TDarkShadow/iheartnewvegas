@@ -19,7 +19,7 @@
 
 ## INSTALLATION
 
-You should install New Vegas outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+During installation of the game, make sure you select **English** as the game's language before proceeding with installation.
 
 By default, GOG will install New Vegas to the next directory:
 ```
@@ -29,15 +29,13 @@ This will create a folder in the following path, which we will refer to as our *
 ```
 C:\Games\Fallout New Vegas
 ```
-Additional, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
-```
-C:\Games\Fallout New Vegas Mods
-```
-> ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallout New Vegas folder. Mod Organizer 2 will fail to register your installed mods.
+Should you decide to install New Vegas someplace else, install it outside all default Windows folders (Program Files, Program Files (x86), Desktop, and Documents for example). Windows User Account Control monitors these folders, which can cause problems later on.
+
+## POST-INSTALLATION
 
 The GOG release of New Vegas ships with a language plugin we do not need. Delete **FalloutNV_lang.esp** from the **Fallout New Vegas\Data** folder.
 
-### Generating fresh .INI files
+In addition to this, we need to generate fresh .INI files, responsible for the configuration of our game.
 
 - Run **FalloutNVLauncher.exe** from the game's **Root** folder.
 - Click **OK** to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then run **FalloutNVLauncher.exe** again.
@@ -45,6 +43,12 @@ The GOG release of New Vegas ships with a language plugin we do not need. Delete
 - Set **Resolution** to your preference.
 - Set **Antialiasing** to **8 Samples**. 
 - Click **OK**, then **EXIT**.
+
+Last but not least, you will need a folder where to install our mod manager and keep your mods. I recommend the following path:
+```
+C:\Games\Fallout New Vegas Mods
+```
+> ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallout New Vegas folder. Mod Organizer 2 will fail to register your installed mods.
 
 ## UTILITIES AND TOOLS
 
@@ -84,7 +88,7 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 
 The New Vegas Script Extender expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
 - Click **nvse_6_2_8.7z** under **Assets** to download the file.
-- Extract the contents of the archive to the game's **Root** folder. Merge and overwrite if prompted.
+- Extract the contents of the archive to the game's **Root** folder. Merge when prompted.
 
 ### [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
 
@@ -100,7 +104,8 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 - When prompted to choose an install location, choose **C:\Games\Fallout New Vegas Mods\MO2**.
 - When installation has finished, click **Finish**.
 - The **Instance manager** window will appear. Click the **Create a new instance** button on the upper left.
-- Choose **Create a portable instance**. You will be asked to select a game to manage. Click **Browse...** and choose your game's **Root** folder.
+- Choose **Create a portable instance**. You will be asked to select a game to manage.
+  - If **New Vegas** is available using the correct filepath (**C:\Games\Fallout New Vegas**), select it. Otherwise, click **Browse...** at the bottom and choose your game's **Root** folder.
 - You will be asked to select a folder where data will be stored. The default MO2 folder (**C:\Games\Fallout New Vegas Mods\MO2**) is fine.
 - Click **Next** and then **Finish**. Mod Organizer 2 will now launch.
 
@@ -109,6 +114,8 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
 > ⚠️ From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
+You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting mod and load order
 
@@ -129,9 +136,6 @@ MercenaryPack.esm
 TribalPack.esm
 CaravanPack.esm
 ```
-
-> ℹ️ You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
-
 ### Adjusting falloutcustom.ini
 
 - Click the **Tools** ![Tools](MO2/MO_ini.png) button, and click **INI Editor**. Select the **falloutcustom.ini** tab.
@@ -194,7 +198,7 @@ For **FNVEdit** to work in Mod Organizer 2, we need to register it.
 - Click **Apply**.
 - Click **OK** to close the window.
 
-# Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
+### Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
 
 From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
