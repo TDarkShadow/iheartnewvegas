@@ -85,10 +85,10 @@ Optimizes and cleans the esms, as well as fixes some hard errors in the landscap
 - Manually download **Ultimate Edition ESM Fixes** (Main files).
 - Extract the contents of the archive.
 - Run **Installer.exe**.
-- Under the **ESM Fixes** header, navigate to **C:\Games\Fallout New Vegas Mods\MO2\mods**. Create an empty folder named **Ultimate ESM Fixes**. Select the folder.
+- Under the **ESM Fixes** header, navigate to **C:\Games\Fallout New Vegas Mods\MO2\mods**. Create an empty folder named **Ultimate Edition ESM Fixes**. Select the folder.
 - Click **INSTALL**.
 - **EXIT** the program once the process is finished.
-- In Mod Organizer 2, press **F5** to refresh the window. Activate the **Ultimate ESM Fixes** mod.
+- In Mod Organizer 2, press **F5** to refresh the window. Activate the **Ultimate Edition ESM Fixes** mod.
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs, combined into one ESM.
@@ -129,7 +129,7 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 
 ### Mesh fixes
 
-[**New Vegas Mesh Improvement Mod**](https://www.nexusmods.com/newvegas/mods/74295)  
+[**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
 
 [**Skinned Mesh Improvement Mod - SMIM - Creatures**](https://www.nexusmods.com/newvegas/mods/77477)  
@@ -322,7 +322,7 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, check out the [**Just Weapon Wheel**](https://www.nexusmods.com/newvegas/mods/67460) page.
 
-[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
+[**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 [**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
@@ -351,7 +351,7 @@ Clean first person animations. No new idles, no bugs, no reload cancelling from 
 - Install **FNV Clean Animations** (Main files).
 - Install **FNV Clean Animations - Update 2.2.2** (Update files). Merge when prompted.
 
-[**Viewmodel Recoil 0.308**](https://www.nexusmods.com/newvegas/mods/71852)  
+[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
@@ -365,7 +365,7 @@ A compatible skeleton for many animation mods.
 - Check the following option in the FOMOD installer:
   - [X] Vanilla Weights
 
-[**Different PipBoy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
+[**Different Pip-Boy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
 Detail-focused animation, meant to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
 - Install **Female Anim B** (Main files).
 - Install **Male Anim B** (Main files). Merge when prompted.
@@ -387,7 +387,7 @@ Adds animated eyelashes to NPCs and the player character.
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
-- Install as **Eyelashes New Vegas**. Merge when prompted.
+- Install as **Eyelashes New Vegas ESP Replacer**.
 
 [**HD Teeth and Natural Eyelashes and Eyebrows**](https://www.nexusmods.com/newvegas/mods/53695)  
 Improves teeth, eyelashes, and eyebrow textures.
@@ -416,9 +416,11 @@ A grittier retexture for the Pip-Boy 2000 Mk VI.
 
 [**Pip-Boy 2000 Mk VI Working Buttons**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes the Pip-Boy 2000 Mk VI's buttons fully functional. Requires the original mod to be installed.
+- Install as **Pip-Boy 2000 Mk VI Working Buttons**.
 
 [**NPC Arm Mounted Pip-Boy 2000 Mk VI**](https://www.nexusmods.com/newvegas/mods/75268)  
 Makes NPCs wear the new Pip-Boy 2000 Mk VI. Requires the original mod to be installed.
+- Install as **NPC Arm Mounted Pip-Boy 2000 Mk VI**.
 
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
