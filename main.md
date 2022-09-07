@@ -567,6 +567,14 @@ uPipboyColor=1022886143
 iMinGrassSize=40
 ```
 
+## RUNNING THE GAME
+
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
+To launch the game, make sure to have the **New Vegas** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+
+![Executables](MO2/MO_Vegas.png)
+
 ### Settings config
 
 The following settings need to be configured after you've already started a new game, using the in-game **Settings** option.
