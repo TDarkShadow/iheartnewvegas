@@ -113,8 +113,6 @@ An excellent mod manager, offering lots of quality of life conveniences that mak
 
 > ℹ️ If you get a pop-up called **Show tutorial?**, choose **No**.
 
-> ⚠️ From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
-
 You can hide unnecessary information in Mod Organizer 2 by right clicking on the headers above the installed mods, and unchecking the tabs you don't want to see. I suggest unchecking everything but the **Conflicts**, **Flags**, and **Priority** boxes. You can also click on the **X** to the bottom right of the **load order** panel, hiding unnecessary background information seen on the pane below.
 
 ### Adjusting mod and load order
@@ -206,6 +204,14 @@ From now on, you should avoid running the game through **nvse_loader.exe**. You 
 - Select **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**.
 - Click **OK** to close the window.
+
+## RUNNING THE GAME
+
+From this point on, *always* use Mod Organizer 2 to run the game and to launch any tools you use. Mod Organizer 2 uses a Virtual Files folder, which is kept separate from your New Vegas installation. Failing to run the game through Mod Organizer 2 will mean the game won't register any of the installed mods.
+
+To launch the game, make sure to have the **New Vegas** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
+
+![Executables](MO2/MO_Vegas.png)
 
 # MOVING ON TO THE NEXT SECTION
 
