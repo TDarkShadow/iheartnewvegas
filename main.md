@@ -384,6 +384,10 @@ Fixes colored tints on character faces. Visual comparison [**available here**](h
 Adds animated eyelashes to NPCs and the player character.
 - Install **tkEyelashesFNV** (Main files).
 - After installation, hide the mod's **tkEyelashesFNV_FemalesOnly.esp** plugin.
+  - Right-click **Eyelashes New Vegas** on the left pane, and click **Information...**. Alternatively, double-click on the mod to open the same window.
+  - Click the **Filetree** tab.
+  - Right-click **tkEyelashesFNV_FemalesOnly.esp**, and click **Hide**.
+  - Close the window.
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
@@ -526,7 +530,15 @@ Improves the character creation by speeding up the process, adding specialized g
 
 [**New Vegas Sharp Mod Setup**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20Mod%20Setup.7z)  
 Includes configuration files and patches for mods included in the guide.
-- Check the corresponding options in the FOMOD installer based on the mods you have installed.
+- Check the following options in the FOMOD installer:  
+  - SawyerBatty FNV
+    - [X] Yukichigai Unofficial Patch
+    - [X] Uncut Wasteland Plus NPCs
+    - [X] Fix for the Caesar Legion Armors
+    - [X] Unofficial Patch NVSE Plus
+    - [X] Improved Traits  
+  - Character Expansions Revised - All-in-one
+    - [X] YUP + UW + SawyerBatty FNV
 
 ### Adjusting mod order and load order
 
