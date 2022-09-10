@@ -211,7 +211,7 @@ From this point on, *always* use Mod Organizer 2 to run the game and to launch a
 
 To launch the game, make sure to have the **New Vegas** executable selected from the dropdown menu on the right pane. Then, click on the **Run** button to launch the game.
 
-![Executables](MO2/MO_Vegas.png)
+![Executables](MO2/MO_NewVegas.png)
 
 # MOVING ON TO THE NEXT SECTION
 
