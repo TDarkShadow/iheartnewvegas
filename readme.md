@@ -40,3 +40,12 @@ Monitor | Samsung 24" 1080p @ 60Hz
 ### How much space do I need to install these mods?
 
 Roughly 3.5GB.
+
+### Why SawyerBatty FNV?
+
+At the momement, there are two alternatives to Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod.
+
+- The most popular, by far, is PushTheWinButton's [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592?). It is the author's own take on Josh Sawyer's mod, attempting to address inconsistencies and expand the scope of the mod.
+- The newest, least popular but more purist-friendly, is RoyBatty's [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436). It is, for all intents and purposes, the "true" ultimate edition of **jsawyer**, as it addresses bugs and inconsistencies, and makes several improvements to the implementation of a number of edits.
+
+Which one you choose to use is up to you. But to answer the question: I prefer **SawyerBatty FNV** solely because, if the original mod was good enough for Josh Sawyer, then it is good enough for me.
