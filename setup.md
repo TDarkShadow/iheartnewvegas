@@ -81,9 +81,7 @@ Makes Fallout New Vegas 4GB Aware. Automatically loads NVSE if present.
 
 Replaces the in-game heap with a faster, more optimized version. It should decrease load times, remove some stutter and slightly improve frame rate. 
 - Manually download **NVHR** (Main files).
-- Extract the contents of the archive.
-- Run **cpu_info.exe**.
-- Place the **d3dx9_38.dll** file from the corresponding folder, indicated by **cpu_info.exe**, in the game's **Root** folder.
+- Extract the contents of the archive to the game's **Root** folder. Merge when prompted.
 
 ### [**xNVSE**](https://github.com/xNVSE/NVSE/releases)
 
