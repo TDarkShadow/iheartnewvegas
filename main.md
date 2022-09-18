@@ -68,13 +68,11 @@ An NVSE-powered plugin designed to manage and maintain all UI/HUD extensions add
 
 [**yUI - User Ynterface**](https://www.nexusmods.com/newvegas/mods/74357)  
 Aims to fix UI bugs and add new UI features. 
-- Install **yUI** (Main files).
-- Install **Matched Cursor - Fallout New Vegas** (Optional files). Merge when prompted.
 - After installation, double-click the mod and select the **INI Files** tab.
 - Select **yUI.ini**, and set **bMatchingCursor** to 1.
 - Click the **Save** icon and close the window.
 
-> ℹ️ This matches the in-game cursor to the current HUD color.
+> ℹ️ This matches the in-game cursor to the current HUD color, required for **Simple Cursor (YUI)** which we will install in the **User Interface** section.
 
 ## PATCHES
 
@@ -86,8 +84,7 @@ Optimizes and cleans the esms, as well as fixes some hard errors in the landscap
 - Extract the contents of the archive.
 - Run **Installer.exe**.
 - Under the **ESM Fixes** header, navigate to **C:\Games\Fallout New Vegas Mods\MO2\mods**. Create an empty folder named **Ultimate Edition ESM Fixes**. Select the folder.
-- Click **INSTALL**.
-- **EXIT** the program once the process is finished.
+- Click **INSTALL**. **EXIT** the program once the process is finished.
 - In Mod Organizer 2, press **F5** to refresh the window. Activate the **Ultimate Edition ESM Fixes** mod.
 
 [**Yukichigai Unofficial Patch - YUP**](https://www.nexusmods.com/newvegas/mods/51664)  
@@ -135,7 +132,7 @@ Optimizations and fixes for a large selection of meshes in the base game and DLC
 [**Skinned Mesh Improvement Mod - SMIM - Creatures**](https://www.nexusmods.com/newvegas/mods/77477)  
 Optimizations and fixes for a large selection of creature meshes in the base game and DLCs.
 
-[**ISControl Enabler and Ironsights Adjuster**](https://www.nexusmods.com/newvegas/mods/75417)  
+[**ISControl Enabler and Ironsights Adjuster (now ESPless)**](https://www.nexusmods.com/newvegas/mods/75417)  
 Dynamically adds ISControl node system animation support plus easy per-weapon sights adjustment.
 
 [**Vanilla Iron Sights Realligned**](https://www.nexusmods.com/newvegas/mods/77672)  
@@ -156,6 +153,7 @@ Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets
 
 [**Elijah Voice Audio Files Fix**](https://www.nexusmods.com/newvegas/mods/73526)  
 Fixes Elijah's voice loudness and clipping issues in Dead Money. 
+- Install **Elijah Voice Files Fix - WAV Encoding** (Main files).
 
 [**High-Quality Classic Music**](https://www.nexusmods.com/newvegas/mods/72150)  
 Replaces the low-quality soundtrack from the classic Fallout games with high-quality versions.
@@ -168,8 +166,25 @@ Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
 [**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
 Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
+[**Climate Control NVSE**](https://www.nexusmods.com/newvegas/mods/77205)  
+NVSE plugin which fixes bugs and adds utilities for weather mods.
+- Install **Climate Control NVSE** (Main files).
+- Install **Longer Weather Transitions** (Optional files). Merge when prompted.
+
+[**High Resolution Bloom NVSE**](https://www.nexusmods.com/newvegas/mods/77933)  
+Allows for customizable bloom resolution, making it possible to use resolutions other than vanilla's quarter one.
+
+[**High Resolution Water Fog**](https://www.nexusmods.com/newvegas/mods/78400)  
+Increases resolution of water depth render target, thus significantly reducing aliasing.
+
 [**Melee VATS Animation Restoration**](https://www.nexusmods.com/newvegas/mods/73480)  
 Brings back the VATS melee animations from Fallout 3.
+
+[**MoonlightNVSE**](https://www.nexusmods.com/newvegas/mods/77683)  
+Fixes moonlight, making the moon the light caster instead of the sun.
+
+[**Pip-Boy Shading Fix NVSE**](https://www.nexusmods.com/newvegas/mods/77957)  
+Fixes the Pip-Boy's shading, making it not ignore lights around it.
 
 [**lStewieAl's Tweaks and Engine Fixes**](https://www.nexusmods.com/newvegas/mods/66347)  
 Engine bugfixes, optional tweaks and new features with no performance impact. Fully customisable via in-game menu and INIs.
@@ -274,6 +289,15 @@ Bug fixes and consistency tweaks for icons in terms of coloring and transparency
 Cleans up the Vault Boy pop up message icons.
 - Stick to the default options in the FOMOD installer.
 
+[**Simple Cursor YUI**](https://www.nexusmods.com/newvegas/mods/78340)  
+A simple and clean cursor replacer to be used with yUI and matching Clean Vanilla HUD's visual design.
+
+[**High Res Local Maps**](https://www.nexusmods.com/newvegas/mods/77963)  
+Increases the resolution of local maps from 128 to 512, optionally you can change it to 256 or 1024.
+
+[**High Resolution Screens**](https://www.nexusmods.com/newvegas/mods/77989)  
+Increases the render resolution of in-game screens to match game's screen resolution. 
+
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
 - Install **Satellite World Map** (Main files).
@@ -295,6 +319,10 @@ Limits games of Caravan against merchants to one game every 3 days, rather than 
 Allows you to trade in all your chips at once in the casino, for different types of currency.
 - Install **Casino Exchange All 1-5a** (Main files).
 - Stick to the default options in the FOMOD installer.
+
+[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
+Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
+- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
 
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
@@ -322,11 +350,18 @@ A collection of toggleable mods, including dynamic crosshair, hit marker, hit in
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, check out the [**Just Weapon Wheel**](https://www.nexusmods.com/newvegas/mods/67460) page.
 
-[**JAM Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
+[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 [**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
 Cleans up the Just Weapons Wheel textures.
+
+[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847?)  
+Various random mods, ranging from gameplay tweaks to quality of life improvements.
+- Install **Better Hollowed-Out Rock Loot** (Optional files).
+- Install **Better OWB Scaling** (Optional files). Merge when prompted.
+- Install **Convenient Map Markers** (Optional files). Merge when prompted.
+- Install **Vendors Have Throwables** (Optional files). Merge when prompted.
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
 Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
@@ -383,11 +418,9 @@ Fixes colored tints on character faces. Visual comparison [**available here**](h
 [**Eyelashes New Vegas**](https://www.nexusmods.com/newvegas/mods/34790)  
 Adds animated eyelashes to NPCs and the player character.
 - Install **tkEyelashesFNV** (Main files).
-- After installation, hide the mod's **tkEyelashesFNV_FemalesOnly.esp** plugin.
-  - Right-click **Eyelashes New Vegas** on the left pane, and click **Information...**. Alternatively, double-click on the mod to open the same window.
-  - Click the **Filetree** tab.
-  - Right-click **tkEyelashesFNV_FemalesOnly.esp**, and click **Hide**.
-  - Close the window.
+- After installation, double-click the mod and select the **Filetree** tab.
+- Right-click **tkEyelashesFNV_FemalesOnly.esp**, and click **Hide**.
+- Close the window.
 
 [**Eyelashes New Vegas ESP Replacer**](https://www.nexusmods.com/newvegas/mods/75268)  
 Fixes issues with the plugin, and extends support to Honest Hearts' tribals and Dead Money's Christine.
@@ -436,14 +469,6 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 Improves grass textures.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
-
-[**Climate Control NVSE**](https://www.nexusmods.com/newvegas/mods/77205)  
-NVSE plugin which fixes bugs and adds utilities for weather mods.
-- Install **Climate Control NVSE** (Main files).
-- Install **Longer Weather Transitions** (Optional files). Merge when prompted.
-
-[**MoonlightNVSE**](https://www.nexusmods.com/newvegas/mods/77683)  
-Fixes moonlight, making the moon the light caster instead of the sun.
 
 [**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
 Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much.
@@ -615,6 +640,20 @@ H | Open weapon wheel | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+09-18-2022
+- Added **High Resolution Bloom NVSE**.
+- Added **High Resolution Water Fog - Water Aliasing Fix**.
+- Added **Pip-Boy Shading Fix NVSE**.
+- Added **Simple Cursor (YUI)**. Updated **yUI** instructions to remove installation of the optional file.
+- Added **High Res Local Maps**.
+- Added **High Resolution Screens**.
+- Added **Clean Crafting Menu**.
+- Added **Better Hollowed-Out Rock Loot**.
+- Added **Better OWB Scaling**.
+- Added **Convenient Map Markers**.
+- Added **Vendors Have Throwables**.
+- Load and mod order files pending update.
 
 08-10-2022
 - Updated **Follower Formula Redone** to use the Nexus link. The mod has been updated with YUP fixes.
