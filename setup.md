@@ -37,8 +37,9 @@ The GOG release of New Vegas ships with a language plugin we do not need. Delete
 
 In addition to this, we need to generate fresh .INI files, responsible for the configuration of our game.
 
+- Navigate to **Documents\My Games**, and delete the **FalloutNV** folder, if present.
 - Run **FalloutNVLauncher.exe** from the game's **Root** folder.
-- Click **OK** to both pop-ups that say **Detecting Video Hardware**. If there aren't any pop-ups, navigate to **Documents\My Games\FalloutNV** and delete all the files ending in .INI, then run **FalloutNVLauncher.exe** again.
+- Click **OK** to both pop-ups that say **Detecting Video Hardware**.
 - Click **Options**, then select the **Ultra** preset option.
 - Set **Resolution** to your preference.
 - Set **Antialiasing** to **8 Samples**. 
