@@ -93,7 +93,7 @@ The New Vegas Script Extender expands the engine and scripting capabilities of F
 
 An advanced graphical module viewer/editor and conflict detector. While not required for **New Vegas Sharp**, it is a valuable tool for anyone looking to detect and solve conflicts in their setup.
 - Manually download **FNVEdit 4.0.4** (Main files).
-- Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit**.
+- Extract the contents of the archive to **Fallout New Vegas Mods\FNVEdit 4.0.4**.
 
 ### [**Mod Organizer 2**](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 
