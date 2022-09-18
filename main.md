@@ -386,7 +386,7 @@ Clean first person animations. No new idles, no bugs, no reload cancelling from 
 - Install **FNV Clean Animations** (Main files).
 - Install **FNV Clean Animations - Update 2.2.2** (Update files). Merge when prompted.
 
-[**Viewmodel Recoil**](https://www.nexusmods.com/newvegas/mods/71852)  
+[**Viewmodel Recoil 0.308**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
@@ -400,7 +400,7 @@ A compatible skeleton for many animation mods.
 - Check the following option in the FOMOD installer:
   - [X] Vanilla Weights
 
-[**Different Pip-Boy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
+[**Different PipBoy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
 Detail-focused animation, meant to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
 - Install **Female Anim B** (Main files).
 - Install **Male Anim B** (Main files). Merge when prompted.
@@ -432,7 +432,7 @@ Improves teeth, eyelashes, and eyebrow textures.
 - Install **HD teeth 3.0** (Main files). Merge when prompted.
 - Install **HQ eyebrows** (Main files). Merge when prompted.
 
-[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
+[**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
 - Install **00 - Natural Eyes - Shadow** (Main files).
 
@@ -653,7 +653,6 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Added **Better OWB Scaling**.
 - Added **Convenient Map Markers**.
 - Added **Vendors Have Throwables**.
-- Load and mod order files pending update.
 
 08-10-2022
 - Updated **Follower Formula Redone** to use the Nexus link. The mod has been updated with YUP fixes.
