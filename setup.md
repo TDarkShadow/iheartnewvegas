@@ -58,7 +58,7 @@ C:\Games\Fallout New Vegas Mods
 Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance. Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
 - Manually download **FNV BSA Decompressor** (Main files).
 - Extract the contents of the archive, and run **FNV BSA Decompressor.exe**.
-- Under **Path to the Fallout: New Vegas installation**, select the game's **Root** folder.
+- Under **Path to the Fallout: New Vegas installation**, select the game's **Root** folder. It's possible that it is detected by default.
 - Click **Decompress**.
 - **Exit** the program once the process is finished.
 
