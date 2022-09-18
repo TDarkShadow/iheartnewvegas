@@ -459,6 +459,9 @@ Makes the Pip-Boy 2000 Mk VI's buttons fully functional. Requires the original m
 Makes NPCs wear the new Pip-Boy 2000 Mk VI. Requires the original mod to be installed.
 - Install as **NPC Arm Mounted Pip-Boy 2000 Mk VI**.
 
+[**Vanilla Underwear Replacer**](https://www.nexusmods.com/newvegas/mods/64006?)  
+A simple replacer for the default underwear, removing the shirt for males and tweaking the shape of the female top.
+
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
@@ -623,8 +626,8 @@ The following settings need to be configured after you've already started a new 
 **Just Mods**:
 - Disable **Visual Objectives**.
 - Disable **Hold Breath**.
-- Disable **Bullet Time**.
-- Set **Crosshair 1st Sighting Mode** to Nothing.
+- Under **Crosshair**, set **Crosshair 1st Sighting Mode** to Nothing.
+- Under **Hit Indicator**, set **Self Damage Mode** and **No Attacker Mode** to Nothing.
 
 # MOD KEYBINDINGS
 
@@ -648,6 +651,7 @@ Shift+Movement | Sprint | Just Assorted Mods
 - Added **Simple Cursor (YUI)**. Updated **yUI** instructions to remove installation of the optional file.
 - Added **High Res Local Maps**.
 - Added **High Resolution Screens**.
+- Added **Vanilla Underwear Replacer**.
 - Added **Clean Crafting Menu**.
 - Added **Better Hollowed-Out Rock Loot**.
 - Added **Better OWB Scaling**.
