@@ -484,10 +484,6 @@ Limits games of Caravan against merchants to one game every 3 days, rather than 
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes.
 
-[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
-Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
-- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
-
 [**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
 - Install **Delay DLC Redux** (Main files).
@@ -531,6 +527,10 @@ Various random mods, ranging from gameplay tweaks to quality of life improvement
 - Install **Better OWB Scaling** (Optional files). Merge when prompted.
 - Install **Convenient Map Markers** (Optional files). Merge when prompted.
 - Install **Vendors Have Throwables** (Optional files). Merge when prompted.
+
+[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
+Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
+- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
