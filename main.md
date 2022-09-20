@@ -497,6 +497,9 @@ Changes the amount of followers for you can have to your Charisma stat/2, rounde
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
+[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
+Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
+
 [**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
@@ -507,9 +510,6 @@ Improves animation transitions when going from idle to sprint, plus allows the p
 
 [**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
 Cleans up the Just Weapons Wheel textures.
-
-[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
-Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to numerous Energy Weapons that were lacking them.
