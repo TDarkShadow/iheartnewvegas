@@ -310,32 +310,16 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 
 ## QOL IMPROVEMENTS
 
-[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
-Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes.
-
 [**Casino Exchange All**](https://www.nexusmods.com/newvegas/mods/35701)  
 Allows you to trade in all your chips at once in the casino, for different types of currency.
 - Install **Casino Exchange All 1-5a** (Main files).
 - Stick to the default options in the FOMOD installer.
 
-[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
-Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
-- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
-
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
-[**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
-Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
-- Install **Delay DLC Redux** (Main files).
-
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
-
-[**Faction Armor Redone YUPdated**](https://www.nexusmods.com/newvegas/mods/71415)  
-Adjusts faction armor to only affect infamy, allowing positive reputation to be maintained while wearing faction armor.
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
@@ -344,24 +328,6 @@ Increases the speed of the Pip-Boy animation.
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 - Install as **Immersive Primary Needs**.
-
-[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
-A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
-
-> ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, check out the [**Just Weapon Wheel**](https://www.nexusmods.com/newvegas/mods/67460) page.
-
-[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
-Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
-
-[**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
-Cleans up the Just Weapons Wheel textures.
-
-[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847?)  
-Various random mods, ranging from gameplay tweaks to quality of life improvements.
-- Install **Better Hollowed-Out Rock Loot** (Optional files).
-- Install **Better OWB Scaling** (Optional files). Merge when prompted.
-- Install **Convenient Map Markers** (Optional files). Merge when prompted.
-- Install **Vendors Have Throwables** (Optional files). Merge when prompted.
 
 [**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
 Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
@@ -513,11 +479,38 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 ## GAMEPLAY
 
+[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
+Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes.
+
+[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
+Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
+- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
+
+[**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
+Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
+- Install **Delay DLC Redux** (Main files).
+
+[**Faction Armor Redone YUPdated**](https://www.nexusmods.com/newvegas/mods/71415)  
+Adjusts faction armor to only affect infamy, allowing positive reputation to be maintained while wearing faction armor.
+
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
+
+[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
+A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
+
+> ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, check out the [**Just Weapon Wheel**](https://www.nexusmods.com/newvegas/mods/67460) page.
+
+[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
+Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
+
+[**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
+Cleans up the Just Weapons Wheel textures.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -531,6 +524,13 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 
 [**Mass Ownership Tweaks**](https://www.nexusmods.com/newvegas/mods/74031)  
 Logical fixes/improvements to ownership for certain cells/items, as well as adding dynamic ownership to many cells.
+
+[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847?)  
+Various random mods, ranging from gameplay tweaks to quality of life improvements.
+- Install **Better Hollowed-Out Rock Loot** (Optional files).
+- Install **Better OWB Scaling** (Optional files). Merge when prompted.
+- Install **Convenient Map Markers** (Optional files). Merge when prompted.
+- Install **Vendors Have Throwables** (Optional files). Merge when prompted.
 
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
