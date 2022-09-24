@@ -111,6 +111,12 @@ Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
  
+[**The Moon Comes Over The Tower - Restored with YUP Fixes**](https://www.nexusmods.com/newvegas/mods/74409?)  
+Restores The Moon Comes Over The Tower's quest stages that were cut late in development, which added more steps involving a number of locations.
+
+[**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
+Restores some cut but fully-functional NPCs to the Strip, increasing the Strip's population by 32.
+
 [**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
 - Install **Uncut Wasteland plus NPCs** (Main files).
@@ -148,6 +154,9 @@ Fixes the White Glove Society Mask mesh for female characters.
 Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65004) to original mod by **YanL**. The featured version includes YUP fixes and omits unnecessary edits.
+
+[**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
+Collection of visual and audio fixes to throwable weapons, including all types of throwable explosive devices, throwable knives, hatchets, tomahawks, inversal/proton axes, and more.
 
 ### Audio fixes
 
@@ -310,32 +319,49 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 
 ## QOL IMPROVEMENTS
 
+[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
+Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+
 [**Casino Exchange All**](https://www.nexusmods.com/newvegas/mods/35701)  
 Allows you to trade in all your chips at once in the casino, for different types of currency.
 - Install **Casino Exchange All 1-5a** (Main files).
 - Stick to the default options in the FOMOD installer.
 
+[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
+Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
+- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
+
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
+[**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
+Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
+- Install **Delay DLC Redux** (Main files).
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
+
+[**Faction Armor Redone YUPdated**](https://www.nexusmods.com/newvegas/mods/71415)  
+Adjusts faction armor to only affect infamy, allowing positive reputation to be maintained while wearing faction armor.
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
 
+[**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
+Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
+
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 - Install as **Immersive Primary Needs**.
-
-[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
-Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
+
+[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
+Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
 
 ## VISUALS
 
@@ -439,20 +465,20 @@ Improves grass textures.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
 
-[**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
-Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much.
-- Install **Altitude** (Main files).
-- Install **Altitude - Zion Ambient Music** (Optional files). Merge when prompted.
+[**Desert Natural Weathers - NV - TTW**](https://www.nexusmods.com/newvegas/mods/75437)  
+An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, improved lighting, and DLC support.
+- Install **Desert Natural Weathers NV** (Main files).
+- After installation, double-click the mod and select the **INI Files** tab.
+- Select **HDRWeatherAndColor.ini**, and set **bInteriorColorFix** to 0.
+- Click the **Save** icon and close the window.
+
+> ℹ️ This restores the vanilla interior color tint, which in my opinion is rather atmospheric.
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
 New star texture and mesh using NASA satellite images to create a real-world accurate starfield for New Vegas.
 - Install **Accurate Stars 4k** (Main files).
 
-[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022)  
-HD retexture of the in game moon using NASA satellite images.
-
-[**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
-A replacement for the sun and sun-glare textures, for a simple, visually appealing style. Helps remove sky grain.
+> ℹ️ This mod is a fitting companion to the **HD Moon 2K - NASA Satellite Images** mod included in Desert Natural Weathers.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
@@ -479,23 +505,8 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 ## GAMEPLAY
 
-[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
-Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes.
-
-[**Delay DLC Redux**](https://www.nexusmods.com/newvegas/mods/75851)  
-Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
-- Install **Delay DLC Redux** (Main files).
-
-[**Faction Armor Redone YUPdated**](https://www.nexusmods.com/newvegas/mods/71415)  
-Adjusts faction armor to only affect infamy, allowing positive reputation to be maintained while wearing faction armor.
-
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
-
-[**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
-Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
 [**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
@@ -528,10 +539,6 @@ Various random mods, ranging from gameplay tweaks to quality of life improvement
 - Install **Convenient Map Markers** (Optional files). Merge when prompted.
 - Install **Vendors Have Throwables** (Optional files). Merge when prompted.
 
-[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
-Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
-- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
-
 [**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
 NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
@@ -539,34 +546,34 @@ NPCs will now sprint in melee combat instead of casually jogging. Uses custom sp
 Combat music will only start when the player or an enemy start combat with each other.
 - Install **New and Improved** (Main files).
 
-[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
-Makes enemies more likely to target the player in combat rather than companions.
-
-[**Precise VATS (and Actually Useful Perception)**](https://www.nexusmods.com/newvegas/mods/69202)  
-Reworked VATS mechanics to be more engaging/stat-based and less exploitable. Now activating VATS requires you to aim at your enemy or keep your crosshair on it, and makes VATS activation range dependant on a number of factors (Perception, weapon scope, Power Armor, Enhanced Sensors and Spotter perks).
+## SAWYERBATTY
 
 [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436)  
 An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
 
-[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
-Completely overhauls the vanilla traits to effectively remove all SPECIAL buffs and debuffs, replacing them with effects that simulate what was replaced, as well as adds two new traits.
+[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
+Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
 
-[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
-Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes. This mod is already included in [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592), and is listed here for those who'd rather use that mod instead.
 
 ## FINISHING TOUCHES
 
-[**New Vegas Sharp Mod Setup**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20Mod%20Setup.7z)  
-Includes configuration files and patches for mods included in the guide.
+[**Character Expansions Revised Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Character%20Expansions%20Revised%20Patches.7z)  
+Includes patches for **Character Expansions Revised**.
+- Check the following options in the FOMOD installer:  
+  - All-in-one patches
+    - [X] YUP + Uncut Wasteland + SawyerBatty
+
+[**JSawyer Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/JSawyer%20Patches.7z)  
+Includes patches for **SawyerBatty FNV** and **JSawyer Ultimate Edition**.
 - Check the following options in the FOMOD installer:  
   - SawyerBatty FNV
     - [X] Yukichigai Unofficial Patch
     - [X] Uncut Wasteland Plus NPCs
     - [X] Fix for the Caesar Legion Armors
+    - [X] Throwable Weapon Fixes
     - [X] Unofficial Patch NVSE Plus
     - [X] Improved Traits  
-  - Character Expansions Revised - All-in-one
-    - [X] YUP + UW + SawyerBatty FNV
 
 ### Adjusting mod order and load order
 
@@ -628,6 +635,7 @@ The following settings need to be configured after you've already started a new 
 - Disable **Hold Breath**.
 - Under **Crosshair**, set **Crosshair 1st Sighting Mode** to Nothing.
 - Under **Hit Indicator**, set **Self Damage Mode** and **No Attacker Mode** to Nothing.
+- Under **Bullet Time**, set **Key** to V. Optionally, you can set it to your Aim button (by default, right-click) and disable toggling. This will trigger VATS whenever you aim your weapon, however, do note that this will also trigger VATS whenever you zoom in (e.g. to look at items).
 
 # MOD KEYBINDINGS
 
@@ -640,9 +648,25 @@ Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
 Shift+E | Pick up and equip | lStewieAl's Tweaks
 Scroll wheel | Adjust binocular zoom | lStewieAl's Tweaks
 H | Open weapon wheel | Just Assorted Mods
+V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+09-24-2022
+- Added **The Moon Comes Over The Tower - Restored With YUP Fixes**.
+- Added **The Strip NPCs Uncut - Content Restoration**.
+- Added **Throwable Weapon Fixes**.
+- Added **Desert Natural Weathers - NV - TTW**.
+- Removed **Altitude - A Vanilla Plus Weather Mod**.
+- Removed **HD Moon 2K - NASA Satellite Images** (included in Desert Natural Weathers).
+- Removed **Elegant Sunglare Retexture** (included in Desert Natural Weathers).
+- Removed **Improved Traits** (for consistency with the vanilla-friendly spirit of the guide).
+- Removed **Player Combat Priority** (for consistency with the vanilla-friendly spirit of the guide).
+- Removed **Precise VATS (and Actually Useful Perception)** (as we already have Bullet Time with Just Mods Assorted).
+- Moved many **Gameplay** mods to the **QOL Improvements** section.
+- Moved **SawyerBatty FNV** to its own section.
+- Updated and split **New Vegas Sharp Mod Setup** into **JSawyer Patches** and **Character Expansions Revised Patches**, and added support for **JSawyer Ultimate Edition**. Numerous patches have been renamed so make sure to reinstall them and use the MO2 Profile Files to correct your mod and load order.
 
 09-18-2022
 - Added **High Resolution Bloom NVSE**.
