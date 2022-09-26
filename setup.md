@@ -51,6 +51,20 @@ C:\Games\Fallout New Vegas Mods
 ```
 > ⚠️ Make sure you *don't* create your Fallout New Vegas Mods folder *inside* your Fallout New Vegas folder. Mod Organizer 2 will fail to register your installed mods.
 
+## NEXUS DOWNLOADS
+
+Most mods downloaded for New Vegas will be acquired through [**Nexus**](https://www.nexusmods.com/newvegas). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
+
+![Mod manager download](images/mod_manager_download.png)
+
+This option downloads the archive to your mod manager, from which you can install it. Most mods have this download option available, as the vast majority don't require specific installation instructions.
+
+![Manual download](images/manual_download.png)
+
+This option downloads the archive straight to your computer. To install it, you will need to add it to your mod manager, or follow the installation instructions provided by the mod author. For the most part, mods that should be installed *without* the use of a mod manager will have this download option as the only available method.
+
+For this first part of the guide, files will be downloaded using the manual download option exclusively. For the second part of the guide, files will be downloaded using the mod manager download option. All in all, this makes the first part of the guide more tedious in spite of its smaller size.
+
 ## UTILITIES AND TOOLS
 
 ### [**FNV BSA Decompressor**](https://www.nexusmods.com/newvegas/mods/65854?)
