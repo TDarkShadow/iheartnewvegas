@@ -55,11 +55,11 @@ C:\Games\Fallout New Vegas Mods
 
 Most mods downloaded for New Vegas will be acquired through [**Nexus**](https://www.nexusmods.com/newvegas). Nexus often provides two types of downloads, accessible through a mod page's **Files** tab.
 
-![Mod manager download](images/mod_manager_download.png)
+![Mod manager download](MO2/mod_manager_download.png)
 
 This option downloads the archive to your mod manager, from which you can install it. Most mods have this download option available, as the vast majority don't require specific installation instructions.
 
-![Manual download](images/manual_download.png)
+![Manual download](MO2/manual_download.png)
 
 This option downloads the archive straight to your computer. To install it, you will need to add it to your mod manager, or follow the installation instructions provided by the mod author. For the most part, mods that should be installed *without* the use of a mod manager will have this download option as the only available method.
 
