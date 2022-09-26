@@ -24,7 +24,7 @@ To create a separator, follow these stpes:
 
 In part one of the guide, we installed mods manually, outside **Mod Organizer 2**. In part two, the vast majority of mods will be installed through our mod manager.
 
-- To install mods that were downloaded manually, be it from **Nexus** or from other sources lacking a mod manager download option, click the [!Install](MO2/MO_Archive.png) installation button in Mod Organizer 2. Browse to the location of the downloaded file, and double-click on it to add it to MO2. On the left pane, click the empty checkbox next to the mod to activate it.
+- To install mods that were downloaded manually, be it from **Nexus** or from other sources lacking a mod manager download option, click the ![Install](MO2/MO_Archive.png) button in Mod Organizer 2. Browse to the location of the downloaded file, and double-click on it to add it to MO2. On the left pane, click the empty checkbox next to the mod to activate it.
 - To install mods downloaded through your mod manager, click the **Downloads** tab on the right pane of Mod Organizer 2. Right-click the downloaded mod, and select **Install**. On the left pane, click the empty checkbox next to the mod to activate it.
 
 ## xNVSE PLUGINS
