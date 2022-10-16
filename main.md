@@ -27,7 +27,7 @@ In part one of the guide, we installed mods manually, outside **Mod Organizer 2*
 - To install mods that were downloaded manually, be it from **Nexus** or from other sources lacking a mod manager download option, click the ![Install](MO2/MO_Archive.png) button in Mod Organizer 2. Browse to the location of the downloaded file, and double-click on it to add it to MO2. On the left pane, click the empty checkbox next to the mod to activate it.
 - To install mods downloaded through your mod manager, click the **Downloads** tab on the right pane of Mod Organizer 2. Right-click the downloaded mod, and select **Install**. On the left pane, click the empty checkbox next to the mod to activate it.
 
-> ℹ️ By default, use the name provided by Mod Organizer 2 when installing a mod, unless stated otherwise. These names are required for the last step in our installation, that of sorting mods according to a provided text file, to work correctly.
+> ℹ️ By default, use the name provided by Mod Organizer 2 when installing a mod, unless stated otherwise. These names are required for the last step in our installation (that of sorting mods according to a provided text file) to work correctly.
 
 ## xNVSE PLUGINS
 
@@ -119,7 +119,10 @@ Gives map markers of various faction-controlled locations the reputation of thei
 Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
- 
+
+[**Strip Performance Fix**](https://www.nexusmods.com/newvegas/mods/78617)  
+Drastically improves performance on The Strip by getting rid of water LOD.
+
 [**The Moon Comes Over The Tower - Restored with YUP Fixes**](https://www.nexusmods.com/newvegas/mods/74409?)  
 Restores The Moon Comes Over The Tower's quest stages that were cut late in development, which added more steps involving a number of locations.
 
@@ -141,23 +144,20 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 
 ### Mesh fixes
 
+[**Armor and Clothing First Person Clipping Fixes**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Armor%20and%20Clothing%20First%20Person%20Clipping%20Fixes.7z)  
+Addresses first-person clipping for a variety of outfits, particularly noticeable when moving with a weapon drawn. Mostly (but not totally) superseded by **Skinned Mesh Improvement Mod - SMIM - Outfits**, listed further below.
+
 [**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
 
 [**Skinned Mesh Improvement Mod - SMIM - Creatures**](https://www.nexusmods.com/newvegas/mods/77477)  
 Optimizations and fixes for a large selection of creature meshes in the base game and DLCs.
 
-[**ISControl Enabler and Ironsights Adjuster (now ESPless)**](https://www.nexusmods.com/newvegas/mods/75417)  
-Dynamically adds ISControl node system animation support plus easy per-weapon sights adjustment.
+[**Skinned Mesh Improvement Mod - SMIM - Outfits**](https://www.nexusmods.com/newvegas/mods/78663)  
+Optimizations and fixes for a large selection of outfit meshes in the base game and DLCs.
 
-[**Vanilla Iron Sights Realligned**](https://www.nexusmods.com/newvegas/mods/77672)  
-Fixes all the iron sights on vanilla weapon meshes using ISControl Enabler. No meshes and no ESP.
-
-[**Armor and Clothing First Person Clipping Fixes**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Armor%20and%20Clothing%20First%20Person%20Clipping%20Fixes.7z)  
-Addresses first-person clipping for a variety of outfits, particularly noticeable when moving with a weapon drawn.
-
-[**Female White Glove Society Mask Fix**](https://www.nexusmods.com/newvegas/mods/66940)  
-Fixes the White Glove Society Mask mesh for female characters.
+[**SMIM - Outfits - YUP Patch**]()  
+Forwards YUP fixes to the mod.
 
 [**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
 Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
@@ -166,6 +166,12 @@ Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets
 
 [**Throwable Weapon Fixes**](https://www.nexusmods.com/newvegas/mods/62767)  
 Collection of visual and audio fixes to throwable weapons, including all types of throwable explosive devices, throwable knives, hatchets, tomahawks, inversal/proton axes, and more.
+
+[**ISControl Enabler and Ironsights Adjuster (now ESPless)**](https://www.nexusmods.com/newvegas/mods/75417)  
+Dynamically adds ISControl node system animation support plus easy per-weapon sights adjustment.
+
+[**Vanilla Iron Sights Realligned**](https://www.nexusmods.com/newvegas/mods/77672)  
+Fixes all the iron sights on vanilla weapon meshes using ISControl Enabler. No meshes and no ESP.
 
 ### Audio fixes
 
@@ -360,6 +366,9 @@ Increases the speed of the Pip-Boy animation.
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
 
+[**Harvestable Cave Fungus**](https://www.nexusmods.com/newvegas/mods/62182)  
+Allows you to harvest Cave Fungus and Mutant Cave Fungus from a variety of previously static objects. Covers all DLC.
+
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 - Install as **Immersive Primary Needs**.
@@ -401,7 +410,7 @@ A compatible skeleton for many animation mods.
 - Check the following option in the FOMOD installer:
   - [X] Vanilla Weights
 
-[**Different PipBoy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
+[**Different Pip-Boy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
 Detail-focused animation, meant to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
 - Install **Female Anim B** (Main files).
 - Install **Male Anim B** (Main files). Merge when prompted.
@@ -433,7 +442,7 @@ Improves teeth, eyelashes, and eyebrow textures.
 - Install **HD teeth 3.0** (Main files). Merge when prompted.
 - Install **HQ eyebrows** (Main files). Merge when prompted.
 
-[**Natural Eyes by zzjay**](https://www.nexusmods.com/newvegas/mods/62811)  
+[**Natural Eyes**](https://www.nexusmods.com/newvegas/mods/62811)  
 Improves eye textures.
 - Install **00 - Natural Eyes - Shadow** (Main files).
 
@@ -477,6 +486,7 @@ Improves grass textures.
 [**Desert Natural Weathers - NV - TTW**](https://www.nexusmods.com/newvegas/mods/75437)  
 An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, improved lighting, and DLC support.
 - Install **Desert Natural Weathers NV** (Main files).
+- Install **Alternate Atmosphere Mesh from RWLE** (Optional files). Merge when prompted.
 - After installation, double-click the mod and select the **INI Files** tab.
 - Select **HDRWeatherAndColor.ini**, and set **bInteriorColorFix** to 0.
 - Click the **Save** icon and close the window.
@@ -514,22 +524,34 @@ Reduces the distant glow of New Vegas for the sake of darker nights.
 
 ## GAMEPLAY
 
+[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
+Adds melee attacks for non-melee weapons, similar to melee hits and buttstrokes in modern FPS games.
+
+[**Charisma Matters**](https://www.nexusmods.com/newvegas/mods/78448)  
+Makes Charisma scale the amount of Reputation received when helping or harming a faction. High Charisma will make it easier to become liked and harder to be hated, whereas low Charisma will make it harder to become liked and easier to be hated.
+
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
 
-[**Immersive Recoil 2.0**](https://www.nexusmods.com/newvegas/mods/61973)  
+[**Immersive Recoil**](https://www.nexusmods.com/newvegas/mods/61973)  
 Adds recoil animations to player and NPCs. Recoil strength is calculated based on weapon base damage, requirements, condition and weight, and the character's skill and strength. Aiming down sights and crouching also reduces recoil.
 
-[**JAM - Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
+[**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
+Overhauls the vanilla traits to effectively remove all SPECIAL buffs and debuffs, replacing them with effects that simulate what was replaced, as well as adds 2 new traits.
+
+[**Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
 
 > ℹ️ For detailed instructions on how the **Weapon Wheel** feature works, check out the [**Just Weapon Wheel**](https://www.nexusmods.com/newvegas/mods/67460) page.
 
-[**JAM or Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
+[**Just Sprint Animation Replacers**](https://www.nexusmods.com/newvegas/mods/74839)  
 Improves animation transitions when going from idle to sprint, plus allows the player to reload their weapons when sprinting.
 
 [**Clean Just Weapons Wheel**](https://www.nexusmods.com/newvegas/mods/76357)  
 Cleans up the Just Weapons Wheel textures.
+
+[**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
+NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
 
 [**Laser Weapon Iron Sights**](https://www.nexusmods.com/newvegas/mods/70790)  
 Adds iron sights to numerous Energy Weapons that were lacking them.
@@ -541,29 +563,64 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 [**Mass Ownership Tweaks**](https://www.nexusmods.com/newvegas/mods/74031)  
 Logical fixes/improvements to ownership for certain cells/items, as well as adding dynamic ownership to many cells.
 
-[**Miscellaneous Tweaks Collection**](https://www.nexusmods.com/newvegas/mods/71847?)  
-Various random mods, ranging from gameplay tweaks to quality of life improvements.
-- Install **Better Hollowed-Out Rock Loot** (Optional files).
-- Install **Better OWB Scaling** (Optional files). Merge when prompted.
-- Install **Convenient Map Markers** (Optional files). Merge when prompted.
-- Install **Vendors Have Throwables** (Optional files). Merge when prompted.
+[**Melee Cleave**](https://www.nexusmods.com/newvegas/mods/66187)  
+Makes melee attacks hit multiple enemies for a more satisfying melee gameplay.
 
-[**NPCs Sprint In Combat**](https://www.nexusmods.com/newvegas/mods/68179)  
-NPCs will now sprint in melee combat instead of casually jogging. Uses custom sprint animations.
+[**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
+NPCs will now "use" Stimpacks and other aid items to recover health and buff their stats. The chems they use are based on if they are carrying them or if they will drop them on death.
 
 [**Passive Combat Music Tweaked**](https://www.nexusmods.com/newvegas/mods/69424)  
 Combat music will only start when the player or an enemy start combat with each other.
 - Install **New and Improved** (Main files).
 
-## SAWYERBATTY
+[**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
+Prevents the game becoming too easy by making enemies more likely to target the player in combat rather than companions.
 
-[**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436)  
-An edited version of Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod, intended to be an exact compatible-only version with the bugs and inconsistencies fixed.
+[**Progressive Sneak Attack Damage**](https://www.nexusmods.com/newvegas/mods/77571)  
+Makes sneak attack critical damage scale with the player's Sneak skill.
 
-[**Better Caravan Game Limit for Merchants YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Better%20Caravan%20Game%20Limit%20for%20Merchants%20YUPdated.7z)  
-Limits games of Caravan against merchants to one game every 3 days, rather than 5 games total.
+[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
+Causes radiation to damage your health until it is removed. Every 10 points of radiation reduces your maximum health by 1%. With Hardcore mode enabled, your primary needs will reduce your AP as well.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/41147) to original mod by **Yukichigai**. The featured version includes YUP fixes. This mod is already included in [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592), and is listed here for those who'd rather use that mod instead.
+[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202)  
+Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing.
+
+[**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
+Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
+
+[**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
+Allows you to bypass locks with explosives, as long as your Explosives skill matches or exceeds the difficulty of the lock. Equip an explosive, crouch, then activate the locked door or chest as normal, and select Explosive Entry. Includes optional item destruction.
+
+## JSAWYER ULTIMATE
+
+[**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
+JSawyer's popular mod, fully re-implemented from the ground up. Compatibility has been greatly improved, errors have been fixed, and balance corrections have been expanded - all whilst trying to maintain the original mod's vision.
+- Install **JSawyer Ultimate Edition** (Main files).
+- Install **JSawyer Ultimate Edition - Push's Tweaks** (Optional files). Merge when prompted.
+
+[**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941/?)  
+Adds ammo variants, reloading parts, and weapon mods as loot; fixes item naming conventions; improves recipes; and adds options for configuring GRA. Compatible with mods which add new weapons and weapon mods, without the need for a patch.
+- Install **Mojave Arsenal** (Main files).
+- Install **Mojave Arsenal - Push's INI** (Optional files). Merge when prompted.
+
+[**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
+Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
+- Install **Mojave Raiders** (Main files).
+- Install **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files). Merge when prompted.
+
+[**JSawyer Ultimate Edition Patches**](https://www.nexusmods.com/newvegas/mods/62933)  
+Patches for using several popular mods alongside JSawyer Ultimate Edition.
+- Install **JSawyer Ultimate - Mojave Raiders Patch** (Main files).
+- Install **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files). Merge when prompted.
+
+[**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
+Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
+- Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
+
+[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
+Makes repairing more difficult by making each repair require a consumable Repair Tools item. Also replaces Weapon Repair Kits, with patches for JSawyer Ultimate's Armor Repair Kits. 
+- Install **Repair Tools** (Main files).
+- Install **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
 
 ## FINISHING TOUCHES
 
@@ -572,17 +629,20 @@ Includes patches for **Character Expansions Revised**.
 - Check the following options in the FOMOD installer:  
   - All-in-one patches
     - [X] YUP + Uncut Wasteland + SawyerBatty
+  - Bonus patches
+    - [X] Mojave Raiders Classic Scorpions
 
-[**JSawyer Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/JSawyer%20Patches.7z)  
-Includes patches for **SawyerBatty FNV** and **JSawyer Ultimate Edition**.
+[**JSawyer Ultimate Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/JSawyer%20Ultimate%20Patches.7z)  
+Includes patches for **JSawyer Ultimate Edition**.
 - Check the following options in the FOMOD installer:  
-  - SawyerBatty FNV
+  - JSawyer Ultimate
     - [X] Yukichigai Unofficial Patch
-    - [X] Uncut Wasteland Plus NPCs
+    - [X] Skinned Weapon Mesh Improvement Mod - SMIM - Outfits
     - [X] Fix for the Caesar Legion Armors
     - [X] Throwable Weapon Fixes
-    - [X] Unofficial Patch NVSE Plus
-    - [X] Improved Traits  
+    - [X] Improved Traits
+    - [X] Miscellaneous Tweaks
+    - [X] JSUE Balance Tweaks
 
 ### Adjusting mod order and load order
 
@@ -661,6 +721,31 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+10-16-2022
+- Added **Strip Performance Fix**.
+- Added **Skinned Mesh Improvement Mod - SMIM - Outfits**.
+- Added **Harvestable Cave Fungus**.
+- Added **B42 Melee Bash**.
+- Added **Charisma Matters**.
+- Added **Melee Cleave**.
+- Added **NPCs Use Aid Items**.
+- Added **Player Combat Priority**.
+- Added **Progressive Sneak Attack Damage**.
+- Added **RAD - Radiation (is) Actually Dangerous - Overhaul**.
+- Added **Realistic Movement**.
+- Added **Reload Reloaded**.
+- Added **Simple Explosive Entry**.
+- Added **JSawyer Ultimate Edition**.
+- Added **JSawyer Ultimate Edition Patches**.
+- Added **Mojave Arsenal**.
+- Added **Mojave Raiders**.
+- Added **Mojave Wildlife**.
+- Added **Repair Tools**.
+- Added instructions to install the optional **Alternate Atmosphere Mesh from RWLE** from **Desert Natural Weathers**.
+- Removed **Female White Glove Society Mask Fix**, as it is already included in SMIM - Outfits.
+- Removed **Miscellaneous Tweaks Collection**. A New Vegas Sharp-compatible version is included in the **JSawyer Patches** installer.
+- Removed **SawyerBatty FNV** and dropped support for it.
 
 09-24-2022
 - Added **The Moon Comes Over The Tower - Restored With YUP Fixes**.
