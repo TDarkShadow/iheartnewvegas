@@ -55,4 +55,4 @@ Which one you choose to use is up to you. But to answer the question: I prefer *
 It boils down to two differences:
 
 - My guide is more extensive, as I believe anyone looking to mod Bethesda games shouldn't worry about the length of a mod list. If you are willing to install 50 compatible mods, you are probably willing to install a hundred.
-- I don't remove mods based on people being unable to read. I'd rather have people learn to read than babysitting them.
+- I don't remove mods based on people being unable to read. I'd rather have people learn to read than babysit them.
