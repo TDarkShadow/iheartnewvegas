@@ -43,9 +43,16 @@ Roughly 3.5GB.
 
 ### Why SawyerBatty FNV?
 
-At the momement, there are two alternatives to Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod.
+At the moment, there are two alternatives to Josh Sawyer's [**jsawyer**](https://fallout.fandom.com/wiki/JSawyer) mod.
 
 - The most popular, by far, is PushTheWinButton's [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592?). It is the author's own take on Josh Sawyer's mod, attempting to address inconsistencies and expand the scope of the mod.
 - The newest, least popular but more purist-friendly, is RoyBatty's [**SawyerBatty FNV**](https://www.nexusmods.com/newvegas/mods/76436). It is, for all intents and purposes, the "true" ultimate edition of **jsawyer**, as it addresses bugs and inconsistencies, and makes several improvements to the implementation of a number of edits.
 
 Which one you choose to use is up to you. But to answer the question: I prefer **SawyerBatty FNV** solely because, if the original mod was good enough for Josh Sawyer, then it is good enough for me. That said, both mods are fully supported by the guide thanks to patches.
+
+### What are the major differences between New Vegas Sharp and Viva New Vegas?
+
+It boils down to two differences:
+
+- My guide is more extensive, as I believe anyone looking to mod Bethesda games shouldn't worry about the length of a mod list. If you are willing to install 50 compatible mods, you are probably willing to install a hundred.
+- I don't remove mods based on people being unable to read. I'd rather have people learn to read than babysitting them.
