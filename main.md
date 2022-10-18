@@ -688,15 +688,16 @@ The following settings need to be configured after you've already started a new 
 - Set **Difficulty** to Hard.
 
 **Controls -> Action Mapping**:
-- Set **VATS** to Esc in order to disable the keybinding.
-- Set **Ammo Swap** to Esc in order to disable the keybinding.
+- Set **VATS** to Esc to disable the keybinding. Using **Just Assorted Mods**, the V key will now toggle bullet time.
+- Set **Ammo Swap** to Esc to disable the keybinding. Using **lStewieAl's Tweaks**, double-tap the reload key to swap ammunition.
+- Set **Auto Move** to Esc to disable the keybinding. Using **B42 Melee Bash**, this key is used to attack.
 
 ### MCM config
 
 The following settings need to be configured after you've already started a new game, using the in-game **Mod Configuration** option.
 
 **FOV Slider**:
-- Set **Player Field of View** to 65.
+- Set **Player Field of View** to 60.
 - Set **Pipboy Field of View** to 50.
 
 **Just Mods**:
@@ -710,7 +711,8 @@ The following settings need to be configured after you've already started a new 
 
 Key | Function | Added by
 ------------ | ------------- | -------------
-R (double tap) | Switch ammunition | lStewieAl's Tweaks
+Q | Melee bash | B42 Melee Bash
+R (double tap) | Swap ammunition | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
 Ctrl-F | Apply filter for searching in Pip-Boy | lStewieAl's Tweaks
