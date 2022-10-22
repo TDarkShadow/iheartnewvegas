@@ -697,7 +697,7 @@ The following settings need to be configured after you've already started a new 
 The following settings need to be configured after you've already started a new game, using the in-game **Mod Configuration** option.
 
 **FOV Slider**:
-- Set **Player Field of View** to 60.
+- Set **Player Field of View** to 55.
 - Set **Pipboy Field of View** to 50.
 
 **Just Mods**:
@@ -706,6 +706,11 @@ The following settings need to be configured after you've already started a new 
 - Under **Crosshair**, set **Crosshair 1st Sighting Mode** to Nothing.
 - Under **Hit Indicator**, set **Self Damage Mode** and **No Attacker Mode** to Nothing.
 - Under **Bullet Time**, set **Key** to V. Optionally, you can set it to your Aim button (by default, right-click) and disable toggling. This will trigger VATS whenever you aim your weapon, however, do note that this will also trigger VATS whenever you zoom in (e.g. to look at items).
+
+**RAD**:
+- Enable **Hardcore**.
+- Enable **JSawyer Increments**.
+- Enable **Nonscaled**.
 
 # MOD KEYBINDINGS
 
