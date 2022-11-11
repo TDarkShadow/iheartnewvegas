@@ -107,14 +107,6 @@ Small mod fixing several hundred vanilla floating objects, underground or above 
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles. Also makes improvements to the majority of the affected navmeshes.
 - Install **Navmesh Fixes and Improvements - Base Game and ALL DLC** (Main files).
 
-[**Enslaving Arcade Fix YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Enslaving%20Arcade%20Fix%20YUPdated.7z)  
-Adds an option to offer to enslave Arcade at any point before Caesar goes into his coma, as hinted by the game's quest journal.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/62923) to original mod by **Whyareall**. The featured version includes YUP fixes.
-
-[**Map Marker Reputation Fix**](https://www.nexusmods.com/newvegas/mods/75816)  
-Gives map markers of various faction-controlled locations the reputation of their respective faction.
-
 [**Melee Reach Fixed YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Melee%20Reach%20Fixed%20YUPdated.7z)  
 Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
@@ -122,9 +114,6 @@ Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
 [**Strip Performance Fix**](https://www.nexusmods.com/newvegas/mods/78617)  
 Drastically improves performance on The Strip by getting rid of water LOD.
-
-[**The Moon Comes Over The Tower - Restored with YUP Fixes**](https://www.nexusmods.com/newvegas/mods/74409?)  
-Restores The Moon Comes Over The Tower's quest stages that were cut late in development, which added more steps involving a number of locations.
 
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip, increasing the Strip's population by 32.
@@ -337,11 +326,6 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
-[**Casino Exchange All**](https://www.nexusmods.com/newvegas/mods/35701)  
-Allows you to trade in all your chips at once in the casino, for different types of currency.
-- Install **Casino Exchange All 1-5a** (Main files).
-- Stick to the default options in the FOMOD installer.
-
 [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
 Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
 - Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
@@ -356,18 +340,12 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 
-[**Faction Armor Redone YUPdated**](https://www.nexusmods.com/newvegas/mods/71415)  
-Adjusts faction armor to only affect infamy, allowing positive reputation to be maintained while wearing faction armor.
-
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
 - Install **Faster Pip-Boy Animation (2x)** (Main files).
 
 [**Follower Tweaks**](https://www.nexusmods.com/newvegas/mods/62180)  
 Removes annoying features from some followers. Changes the effects of the Enhanced Sensors, Spotter, and Search and Mark perks. ED-Es no longer 'whirs' whilst moving.
-
-[**Harvestable Cave Fungus**](https://www.nexusmods.com/newvegas/mods/62182)  
-Allows you to harvest Cave Fungus and Mutant Cave Fungus from a variety of previously static objects. Covers all DLC.
 
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
@@ -377,9 +355,6 @@ As hunger, thirst or sleep deprivation increase, the player is notified by perio
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
-
-[**Stars Turned Face Up**](https://www.nexusmods.com/newvegas/mods/70419)  
-Makes Sunset Sarsaparilla star bottle caps easier to spot by turning them face up.
 
 ## VISUALS
 
@@ -560,9 +535,6 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 - Install **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 - Install **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 
-[**Mass Ownership Tweaks**](https://www.nexusmods.com/newvegas/mods/74031)  
-Logical fixes/improvements to ownership for certain cells/items, as well as adding dynamic ownership to many cells.
-
 [**Melee Cleave**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies for a more satisfying melee gameplay.
 
@@ -728,6 +700,17 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-11-2022
+- Removed **Enslaving Arcade Fix YUPdated**.
+- Removed **Map Marker Reputation Fix**.
+- Removed **The Moon Comes Over The Tower - Restored with YUP Fixes**.
+- Removed **Casino Exchange All**.
+- Removed **Faction Armor Redone YUPdated**.
+- Removed **Harvestable Cave Fungus**.
+- Removed **Stars Turned Face Up**.
+- Removed **Mass Ownership Tweaks**.
+- All the above mods (and more!) can be found included in [**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877). This mod has yet to be included in the guide.
 
 10-16-2022
 - Added **Strip Performance Fix**.
