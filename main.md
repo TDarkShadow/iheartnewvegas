@@ -145,7 +145,7 @@ Optimizations and fixes for a large selection of creature meshes in the base gam
 [**Skinned Mesh Improvement Mod - SMIM - Outfits**](https://www.nexusmods.com/newvegas/mods/78663)  
 Optimizations and fixes for a large selection of outfit meshes in the base game and DLCs.
 
-[**SMIM - Outfits - YUP Patch**]()  
+[**SMIM - Outfits - YUP Patch**](https://github.com/Sigourn/newvegassharp/raw/main/mods/SMIM%20-%20Outfits%20-%20YUP%20Patch.7z)  
 Forwards YUP fixes to the mod.
 
 [**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
