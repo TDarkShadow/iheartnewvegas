@@ -42,7 +42,7 @@ Fixes the tick count bug (which creates noticable micro stutter), optimizes hash
 [**FNV Mod Limit Fix**](https://www.nexusmods.com/newvegas/mods/68714)  
 Allows a maximum of 255 plugins to be loaded, as well as improving FPS, removing game stutter, and allowing for faster loading times (particularly when using a large number of mods).
 
-[**OneTweak**](https://www.nexusmods.com/newvegas/mods/75685)  
+[**OneTweak**](https://github.com/Sigourn/newvegassharp/raw/main/mods/OneTweak%202.1.0.2.7z)  
 Enables borderless window mode for safe alt-tabbing.
 - After installation, click the **Tools** ![Tools](MO2/MO_ini.png) button, and click **INI Editor**. Select the **FalloutCustom.ini** tab.
 - Set **bFull Screen** to 0.
@@ -129,7 +129,7 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 ### Mesh fixes
 
 [**Armor and Clothing First Person Clipping Fixes**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Armor%20and%20Clothing%20First%20Person%20Clipping%20Fixes.7z)  
-Addresses first-person clipping for a variety of outfits, particularly noticeable when moving with a weapon drawn. Mostly (but not totally) superseded by **Skinned Mesh Improvement Mod - SMIM - Outfits**, listed further below.
+Addresses first-person clipping for a variety of outfits, particularly noticeable when moving with a weapon drawn.
 
 [**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
@@ -161,9 +161,6 @@ Replaces the low-quality soundtrack from the classic Fallout games with high-qua
 
 [**Unofficial Patch NVSE Plus**](https://www.nexusmods.com/newvegas/mods/71239?)  
 Collection of bug fixes for Fallout: New Vegas and its DLCs which require NVSE.
-
-[**Ammo Burst Case Count Fix**](https://www.nexusmods.com/newvegas/mods/69175)  
-Fixes the game only giving you one ammo case when your weapon uses more than one ammo count in a shot, for you and companions.
 
 [**Climate Control NVSE**](https://www.nexusmods.com/newvegas/mods/77205)  
 NVSE plugin which fixes bugs and adds utilities for weather mods.
@@ -346,6 +343,9 @@ As hunger, thirst or sleep deprivation increase, the player is notified by perio
 Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
+
+[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
+Compilation of minor visual and gameplay mods intended for a more immersive experience.
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
@@ -696,6 +696,12 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-12-2022
+- Added **Essential Vanilla Enhancements Merged**.
+- Added **Misc Immersion Merge**.
+- Removed **Ammo Burst Case Count Fix**. Now included in **lStewieAl's Tweaks**.
+- Partial update.
 
 11-11-2022
 - Removed **Skinned Mesh Improvement Mod - SMIM - Creatures**.
