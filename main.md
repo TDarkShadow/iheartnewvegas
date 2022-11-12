@@ -139,15 +139,6 @@ Addresses first-person clipping for a variety of outfits, particularly noticeabl
 [**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
 
-[**Skinned Mesh Improvement Mod - SMIM - Creatures**](https://www.nexusmods.com/newvegas/mods/77477)  
-Optimizations and fixes for a large selection of creature meshes in the base game and DLCs.
-
-[**Skinned Mesh Improvement Mod - SMIM - Outfits**](https://www.nexusmods.com/newvegas/mods/78663)  
-Optimizations and fixes for a large selection of outfit meshes in the base game and DLCs.
-
-[**SMIM - Outfits - YUP Patch**](https://github.com/Sigourn/newvegassharp/raw/main/mods/SMIM%20-%20Outfits%20-%20YUP%20Patch.7z)  
-Forwards YUP fixes to the mod.
-
 [**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
 Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
 
@@ -700,6 +691,11 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-11-2022
+- Removed **Skinned Mesh Improvement Mod - SMIM - Creatures**.
+- Removed **Skinned Mesh Improvement Mod - SMIM - Outfits**.
+- Of course this community is full of whiny bitches that delete their mods for no reason at all.
 
 11-11-2022
 - Removed **Enslaving Arcade Fix YUPdated**.
