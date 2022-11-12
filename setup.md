@@ -33,7 +33,9 @@ Should you decide to install New Vegas someplace else, install it outside all de
 
 ## POST-INSTALLATION
 
-The GOG release of New Vegas ships with a language plugin we do not need. Delete **FalloutNV_lang.esp** from the **Fallout New Vegas\Data** folder.
+The GOG release of New Vegas ships with a language plugin we do not need.
+
+- Delete **FalloutNV_lang.esp** from the **Fallout New Vegas\Data** folder.
 
 In addition to this, we need to generate fresh .INI files, responsible for the configuration of our game.
 
@@ -72,7 +74,7 @@ For this first part of the guide, files will be downloaded using the manual down
 Decompresses the Fallout New Vegas BSAs and repacks them without zlib compression for performance. Also transcodes the .ogg sounds effects to .wav so they work. It also extracts any mp3 files to loose files because they will not play when in a BSA.
 - Manually download **FNV BSA Decompressor** (Main files).
 - Extract the contents of the archive, and run **FNV BSA Decompressor.exe**.
-- Under **Path to the Fallout: New Vegas installation**, select the game's **Root** folder. It's possible that it is detected by default.
+- Under **Path to the Fallout: New Vegas installation**, select the game's **Root** folder, if not already selected by default.
 - Click **Decompress**.
 - **Exit** the program once the process is finished.
 
@@ -100,7 +102,7 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 ### [**xNVSE**](https://github.com/xNVSE/NVSE/releases)
 
 The New Vegas Script Extender expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click **nvse_6_2_8.7z** under **Assets** to download the file.
+- Click **nvse_6_2_9.7z** under **Assets** to download the file.
 - Extract the contents of the archive to the game's **Root** folder. Merge when prompted.
 
 ### [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
@@ -114,7 +116,8 @@ An advanced graphical module viewer/editor and conflict detector. While not requ
 An excellent mod manager, offering lots of quality of life conveniences that make modding an easy and quick process.
 - Manually download **Mod Organizer 2** (Main files).
 - Run the downloaded **Mod Organizer 2** executable.
-- When prompted to choose an install location, choose **C:\Games\Fallout New Vegas Mods\MO2**.
+- When prompted to choose an install location, choose **C:\Games\Fallout New Vegas Mods\MO2**. You will have to create this MO2 folder.
+- Stick to the **Recommended Install** options.
 - When installation has finished, click **Finish**.
 - The **Instance manager** window will appear. Click the **Create a new instance** button on the upper left.
 - Choose **Create a portable instance**. You will be asked to select a game to manage.
@@ -134,7 +137,7 @@ Your installed mods are listed on the pane to the left. This is the order in whi
 
 Your plugins are listed on the pane to the right. This is the order in which New Vegas loads its plugins, with plugins closer to the bottom overwriting the records of plugins closer to the top (if conflicting records are present). We will refer to it as our **load order**.
 
-Reorganize it to read as follows using drag and drop, and enable the plugins.
+Reorganize it to read as follows using drag and drop, and enable the plugins by checking the empty boxes next to them. You can also right-click on any of them and select **Enable all**.
 ```
 FalloutNV.esm
 DeadMoney.esm
@@ -193,12 +196,20 @@ Mod Organizer 2 has a feature called **Profiles**, which lets you quickly change
 
 New Vegas Sharp is the profile we will be modding. You can always revert to the **Default** profile to quickly deactivate all installed mods.
 
-### Registering tools in Mod Organizer 2
+### Managing tools in Mod Organizer 2
+
+From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
+
+- Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
+- Select **Fallout Launcher**, and tick **Hide in user interface**.
+- Select **NVSE**, and tick **Hide in user interface**.
+- Click **OK** to close the window.
 
 For **FNVEdit** to work in Mod Organizer 2, we need to register it.
+
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Click the **Add an executable** ![AddExe](MO2/MO_Add_File.png) button and choose **Add from file...**.
-- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit**) and double click **FNVEdit.exe**.
+- Navigate to FNVEdit's folder (**C:\Games\Fallout New Vegas Mods\FNVEdit 4.0.4**) and double click **FNVEdit.exe**.
 - In the **Start In** field, choose the game's **Root** folder (**C:\Games\Fallout New Vegas**).
 - In the **Arguments** field, paste in the following line.
 
@@ -206,15 +217,6 @@ For **FNVEdit** to work in Mod Organizer 2, we need to register it.
 -IKnowWhatImDoing
 ```
 
-- Click **Apply**.
-- Click **OK** to close the window.
-
-### Hiding NVSE and FalloutNVLauncher in Mod Organizer 2
-
-From now on, you should avoid running the game through **nvse_loader.exe**. You should also avoid accidentally running **FalloutNVLauncher.exe**. We can hide both of these from Mod Organizer 2's list of executables.
-- Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
-- Select **Fallout Launcher**, and tick **Hide in user interface**.
-- Select **NVSE**, and tick **Hide in user interface**.
 - Click **Apply**.
 - Click **OK** to close the window.
 
