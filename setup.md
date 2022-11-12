@@ -203,7 +203,7 @@ From now on, you should avoid running the game through **nvse_loader.exe**. You 
 - Click the **Modify Executables** ![Executables](MO2/MO_Executables.png) button.
 - Select **Fallout Launcher**, and tick **Hide in user interface**.
 - Select **NVSE**, and tick **Hide in user interface**.
-- Click **OK** to close the window.
+- Click **Apply**.
 
 For **FNVEdit** to work in Mod Organizer 2, we need to register it.
 
