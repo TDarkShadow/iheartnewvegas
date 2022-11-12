@@ -10,6 +10,10 @@ Last updated: November 11th, 2022.
 - Reddit: [**Sigourn**](https://www.reddit.com/user/Sigourn)
 - RPG Codex: [**Sigourn**](https://rpgcodex.net/forums/index.php?members/sigourn.21476/)
 
+## Disclaimer
+
+The New Vegas modding community is full of drama queens and little bitches. If you see a modder speaking in memes, beware.
+
 ## About
 
 **New Vegas Sharp** is a modular modlist for Fallout: New Vegas. It addresses a number of significant issues with the game:
