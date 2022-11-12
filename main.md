@@ -107,11 +107,6 @@ Small mod fixing several hundred vanilla floating objects, underground or above 
 Fixes virtually every navmesh where the edge connections were missing or pointing at misplaced or invalid triangles. Also makes improvements to the majority of the affected navmeshes.
 - Install **Navmesh Fixes and Improvements - Base Game and ALL DLC** (Main files).
 
-[**Melee Reach Fixed YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Melee%20Reach%20Fixed%20YUPdated.7z)  
-Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
-
 [**Strip Performance Fix**](https://www.nexusmods.com/newvegas/mods/78617)  
 Drastically improves performance on The Strip by getting rid of water LOD.
 
@@ -328,8 +323,13 @@ Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 Prevents the game's DLC from spamming the new game startup messages and requires you be near a given DLC's starting location to receive its quest, in addition to requiring the player to listen to the respective DLC's radio broadcast before the quest will start.
 - Install **Delay DLC Redux** (Main files).
 
+[**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877)  
+A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned.
+
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
+- Install **Vanilla Enhancements Merged** (Main files).
+- Install **Vanilla Enhancements Merged - JSawyer Ultimate Push's Tweaks Patch** (Optional files). Merge when prompted.
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
@@ -341,6 +341,11 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
 - Install as **Immersive Primary Needs**.
+
+[**Melee Reach Fixed YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Melee%20Reach%20Fixed%20YUPdated.7z)  
+Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
