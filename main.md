@@ -278,7 +278,7 @@ Cleans up the Vault Boy paper doll textures.
 
 [**Consistent Pip-Boy Icons**](https://www.nexusmods.com/newvegas/mods/65046)  
 Bug fixes and consistency tweaks for icons in terms of coloring and transparency.
-- Install **1. Consistent Pip-boy Icons** (Main files).
+- Install **1. Consistent Pip-boy Icons** (Main files) as **Consistent Pip-Boy Icons**. This Ukraine shit is driving me up the wall.
 - Install **4. Vanilla UI Plus Patch** (Optional files). Merge when prompted.
 
 [**Pop-Up Message Icons**](https://www.nexusmods.com/newvegas/mods/76516)  
@@ -287,6 +287,7 @@ Cleans up the Vault Boy pop up message icons.
 
 [**Simple Cursor YUI**](https://www.nexusmods.com/newvegas/mods/78340)  
 A simple and clean cursor replacer to be used with yUI and matching Clean Vanilla HUD's visual design.
+- Install **Simple Cursor (SMALL)** (Main files).
 
 [**High Res Local Maps**](https://www.nexusmods.com/newvegas/mods/77963)  
 Increases the resolution of local maps from 128 to 512, optionally you can change it to 256 or 1024.
@@ -306,13 +307,6 @@ Adds an MCM menu that allows for adjusting the Fields of View for all of the gam
 
 ## QOL IMPROVEMENTS
 
-[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
-Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
-
-[**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/75283?)  
-Hides recipes that require items from DLCs until you start said DLC. Expanded version of Qolore's [**Clean Crafting Menu**](https://www.nexusmods.com/newvegas/mods/71847?) mod.
-- Install **Clean Crafting Menu** (Optional files). Install as **Clean Crafting Menu**.
-
 [**Console Paste Support**](https://www.nexusmods.com/newvegas/mods/65906)  
 Enables hotkeys for pasting and enhanced movement/deletion of console commands.
 
@@ -327,6 +321,17 @@ A collection of small vanilla-friendly gameplay improvements that have been full
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
 - Install **Vanilla Enhancements Merged** (Main files).
 - Install **Vanilla Enhancements Merged - JSawyer Ultimate Push's Tweaks Patch** (Optional files). Merge when prompted.
+
+[**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
+Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
+
+> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
+
+[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
+Compilation of minor visual and gameplay mods intended for a more immersive experience.
+
+[**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
+Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
 
 [**Faster Pip-Boy Animation**](https://www.nexusmods.com/newvegas/mods/67761)  
 Increases the speed of the Pip-Boy animation.
@@ -343,14 +348,6 @@ As hunger, thirst or sleep deprivation increase, the player is notified by perio
 Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
-
-[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
-Compilation of minor visual and gameplay mods intended for a more immersive experience.
-
-[**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
-Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
-
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
 
 ## VISUALS
 
@@ -696,6 +693,9 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-13-2022
+- Removed **Clean Crafting Menu**. Included in **Misc Immersion Merge**.
 
 11-12-2022
 - Added **Essential Vanilla Enhancements Merged**.
