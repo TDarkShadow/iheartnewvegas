@@ -99,10 +99,10 @@ Replaces the in-game heap with a faster, more optimized version. It should decre
 - Manually download **NVHR** (Main files).
 - Extract the contents of the archive to the game's **Root** folder. Merge when prompted.
 
-### [**xNVSE**](https://github.com/xNVSE/NVSE/releases)
+### [**New Vegas Script Extender (NVSE xNVSE)**](https://www.nexusmods.com/newvegas/mods/67883?)
 
 The New Vegas Script Extender expands the engine and scripting capabilities of Fallout New Vegas. This framework is required by many modern mods.
-- Click **nvse_6_2_9.7z** under **Assets** to download the file.
+- Manually download **New Vegas Script Extender (NVSE)** (Main files).
 - Extract the contents of the archive to the game's **Root** folder. Merge when prompted.
 
 ### [**FNVEdit**](https://www.nexusmods.com/newvegas/mods/34703)  
