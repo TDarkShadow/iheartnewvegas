@@ -316,19 +316,21 @@ Prevents the game's DLC from spamming the new game startup messages and requires
 
 [**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877)  
 A collection of small vanilla-friendly gameplay improvements that have been fully merged, updated, and cleaned.
+- Install **Vanilla Enhancements Merged** (Main files).
+- Install **Vanilla Enhancements Merged - JSawyer Ultimate Push's Tweaks Patch** (Optional files). Merge when prompted.
 
 [**Essential DLC Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/73803)  
 A collection of small essential gameplay improvements for the official DLCs that have been fully merged, updated, and cleaned.
-- Install **Vanilla Enhancements Merged** (Main files).
-- Install **Vanilla Enhancements Merged - JSawyer Ultimate Push's Tweaks Patch** (Optional files). Merge when prompted.
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
 
-[**Misc Immersion Merge**](https://www.nexusmods.com/newvegas/mods/75283)  
+[**Immersion Mods Merged**](https://www.nexusmods.com/newvegas/mods/75283)  
 Compilation of minor visual and gameplay mods intended for a more immersive experience.
+- Check the following option in the FOMOD installer:
+  - [X] Follower Formula Redone
 
 [**Better Character Creation**](https://www.nexusmods.com/newvegas/mods/70973)  
 Improves the character creation by speeding up the process, adding specialized gear based on your tag skills, and making Wild Wasteland an opt-in feature rather than a trait.
