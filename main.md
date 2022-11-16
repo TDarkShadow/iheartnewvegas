@@ -189,6 +189,8 @@ Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl,
 ```
 ; allows scroll-wheel to zoom while using a scope
 bAdjustableScopeZoom = 1
+; give a chance to earn multiple ammo casings from weapons that use more than 1 ammo per shot
+bAmmoBurstCaseCountFix = 1
 ; only allow zooming with binoculars
 bBinocularsOnly = 1
 ; prevents firing if you don't have enough ammo for one burst
@@ -687,6 +689,9 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-16-2022
+- Updated **Stewie Custom INI** with Ammo Burst Case Count Fix.
 
 11-15-2022
 - Added **Essential Vanilla Enhancements Merged**.
