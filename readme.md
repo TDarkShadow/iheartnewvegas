@@ -1,6 +1,6 @@
 # NEW VEGAS S#ARP – A Fallout: New Vegas Modlist
 
-Last updated: November 11th, 2022.
+Last updated: November 15th, 2022.
 
 ![Banner](images/readme_banner.jpg)
 
