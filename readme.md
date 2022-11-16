@@ -1,6 +1,6 @@
 # NEW VEGAS S#ARP – A Fallout: New Vegas Modlist
 
-Last updated: November 15th, 2022.
+Last updated: November 16th, 2022.
 
 ![Banner](images/readme_banner.jpg)
 
@@ -43,13 +43,8 @@ Monitor | Samsung 24" 1080p @ 60Hz
 
 ### How much space do I need to install these mods?
 
-Roughly 4.0GB.
+Roughly 5.0GB.
 
 ### What are the major differences between New Vegas Sharp and Viva New Vegas?
 
-It boils down to two differences:
-
-- My guide is more extensive, as I believe anyone looking to mod Bethesda games shouldn't worry about the length of a mod list. If you are willing to install 50 compatible mods, you are probably willing to install a hundred.
-- I don't remove mods based on people being unable to read. I'd rather have people learn to read than babysit them.
-
-That's pretty much it.
+My guide is more extensive. I love giving Bethesda games a good modding, within reasonable limits. I also don't handhold users as much, so it's a very rare occurrence when I remove a mod because it's complicated to install.
