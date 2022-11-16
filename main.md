@@ -113,13 +113,8 @@ Drastically improves performance on The Strip by getting rid of water LOD.
 [**The Strip NPCs Uncut - Content Restoration**](https://www.nexusmods.com/newvegas/mods/71503)  
 Restores some cut but fully-functional NPCs to the Strip, increasing the Strip's population by 32.
 
-[**Uncut Wasteland**](https://www.nexusmods.com/newvegas/mods/56625)  
+[**Uncut Wasteland**](https://github.com/VivaNewVegas/vivanewvegas.github.io/raw/master/files/Uncut%20Wasteland.7z)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
-- Install **Uncut Wasteland plus NPCs** (Main files).
-- Install **Uncut Wasteland Pole Remover** (Optional files). Merge when prompted.
-
-[**Uncut Wasteland Tweaks**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Uncut%20Wasteland%20Tweaks.7z)  
-Includes YUP fixes, omits NPC restorations at the Ultra-Luxe Bathhouse, and replaces static Destitute Travelers with leveled, random NPCs.
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596?)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
@@ -381,12 +376,12 @@ A compatible skeleton for many animation mods.
   - [X] Vanilla Weights
 
 [**Different Pip-Boy Animations**](https://www.nexusmods.com/newvegas/mods/75420)  
-Detail-focused animation, meant to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
+Detail-focused animation, intended to look natural and immersive. Takes just a little longer to access the Pip-Boy but has detail in the animation itself with more "inertia".
 - Install **Female Anim B** (Main files).
 - Install **Male Anim B** (Main files). Merge when prompted.
 
 [**Hit - Locomotion**](https://www.nexusmods.com/newvegas/mods/76097)  
-Improved movement animations with subtle headbob, inertia and leaning.
+New movement animations, intended to look natural and immersive.
 
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
@@ -558,7 +553,7 @@ Replacements for agility modifiers to reload and draw speed, strength modifiers 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows you to bypass locks with explosives, as long as your Explosives skill matches or exceeds the difficulty of the lock. Equip an explosive, crouch, then activate the locked door or chest as normal, and select Explosive Entry. Includes optional item destruction.
 
-## JSAWYER ULTIMATE
+## OVERHAULS
 
 [**JSawyer Ultimate Edition**](https://www.nexusmods.com/newvegas/mods/61592)  
 JSawyer's popular mod, fully re-implemented from the ground up. Compatibility has been greatly improved, errors have been fixed, and balance corrections have been expanded - all whilst trying to maintain the original mod's vision.
@@ -568,17 +563,20 @@ JSawyer's popular mod, fully re-implemented from the ground up. Compatibility ha
 [**Mojave Arsenal**](https://www.nexusmods.com/newvegas/mods/62941/?)  
 Adds ammo variants, reloading parts, and weapon mods as loot; fixes item naming conventions; improves recipes; and adds options for configuring GRA. Compatible with mods which add new weapons and weapon mods, without the need for a patch.
 - Install **Mojave Arsenal** (Main files).
-- Install **Mojave Arsenal - Push's INI** (Optional files). Merge when prompted.
+- Install **INI Config - Gun Runners' Arsenal Merged** (Optional files). Merge when prompted.
 
 [**Mojave Raiders**](https://www.nexusmods.com/newvegas/mods/64660)  
 Overhaul of New Vegas's raider factions, balancing their loot and adding more of them to fight.
 - Install **Mojave Raiders** (Main files).
+- Install **Mojave Raiders - Vanilla Outfits** (Optional files). Merged when prompted.
 - Install **Mojave Raiders - No NPC Throwing Weapon Consumption** (Optional files). Merge when prompted.
 
-[**JSawyer Ultimate Edition Patches**](https://www.nexusmods.com/newvegas/mods/62933)  
+[**JSawyer Ultimate - Mojave Raiders Patch**](https://www.nexusmods.com/newvegas/mods/62933)  
 Patches for using several popular mods alongside JSawyer Ultimate Edition.
-- Install **JSawyer Ultimate - Mojave Raiders Patch** (Main files).
-- Install **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (Main files). Merge when prompted.
+- Install as **JSawyer Ultimate - Mojave Raiders Patch**.
+
+[**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/vivanewvegas.github.io/raw/master/files/Mojave%20Raiders%20Tweaks.7z)  
+Lowers the occurrence of high ordnance weaponry in raider spawns and addresses currency carried by raiders.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -591,25 +589,19 @@ Makes repairing more difficult by making each repair require a consumable Repair
 
 ## FINISHING TOUCHES
 
-[**Character Expansions Revised Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Character%20Expansions%20Revised%20Patches.7z)  
-Includes patches for **Character Expansions Revised**.
-- Check the following options in the FOMOD installer:  
-  - All-in-one patches
-    - [X] YUP + Uncut Wasteland + SawyerBatty
-  - Bonus patches
-    - [X] Mojave Raiders Classic Scorpions
-
-[**JSawyer Ultimate Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/JSawyer%20Ultimate%20Patches.7z)  
+[**New Vegas Sharp Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20Patches.7z)  
 Includes patches for **JSawyer Ultimate Edition**.
 - Check the following options in the FOMOD installer:  
   - JSawyer Ultimate
     - [X] Yukichigai Unofficial Patch
-    - [X] Skinned Weapon Mesh Improvement Mod - SMIM - Outfits
     - [X] Fix for the Caesar Legion Armors
     - [X] Throwable Weapon Fixes
     - [X] Improved Traits
     - [X] Miscellaneous Tweaks
     - [X] JSUE Balance Tweaks
+    - [X] Vanilla Enhancements JSUE Patch
+    - [X] Vanilla Enhancements Mojave Arsenal Patch
+    - [X] YUP + Uncut Wasteland + Mojave Raiders + JSawyer Ultimate
 
 ### Adjusting mod order and load order
 
@@ -696,30 +688,28 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
-11-13-2022
-- Removed **Clean Crafting Menu**. Included in **Misc Immersion Merge**.
-
-11-12-2022
+11-15-2022
 - Added **Essential Vanilla Enhancements Merged**.
 - Added **Misc Immersion Merge**.
-- Removed **Ammo Burst Case Count Fix**. Now included in **lStewieAl's Tweaks**.
-- Partial update.
-
-11-11-2022
-- Removed **Skinned Mesh Improvement Mod - SMIM - Creatures**.
-- Removed **Skinned Mesh Improvement Mod - SMIM - Outfits**.
-- Of course this community is full of whiny bitches that delete their mods for no reason at all.
-
-11-11-2022
-- Removed **Enslaving Arcade Fix YUPdated**.
-- Removed **Map Marker Reputation Fix**.
-- Removed **The Moon Comes Over The Tower - Restored with YUP Fixes**.
-- Removed **Casino Exchange All**.
-- Removed **Faction Armor Redone YUPdated**.
-- Removed **Harvestable Cave Fungus**.
-- Removed **Stars Turned Face Up**.
-- Removed **Mass Ownership Tweaks**.
-- All the above mods (and more!) can be found included in [**Essential Vanilla Enhancements Merged**](https://www.nexusmods.com/newvegas/mods/78877). This mod has yet to be included in the guide.
+- Added **Mojave Raiders - Vanilla Outfits**.
+- Added **Mojave Raiders Tweaks**.
+- Updated **Uncut Wasteland** with the version from Viva New Vegas.
+- Updated **Character Expansions Revised Patches**.
+- Updated **JSawyer Ultimate Patches**.
+- Removed **Skinned Mesh Improvement Mod - SMIM - Creatures** (no longer available in Nexus).
+- Removed **Skinned Mesh Improvement Mod - SMIM - Outfits** (no longer available in Nexus).
+- Removed **Ammo Burst Case Count Fix**. Now included in lStewieAl's Tweaks.
+- Removed **Hit - Locomotion** (these movement animations can be a real hit or miss).
+- Removed **JSawyer Ultimate Edition - Mojave Arsenal Patch (GRA Merged)** (obsolete with the current release of Mojave Arsenal).
+- Removed **Clean Crafting Menu** (included in Misc Immersion Merge).
+- Removed **Enslaving Arcade Fix YUPdated** (included in Essential Vanilla Enhancements Merged).
+- Removed **Map Marker Reputation Fix** (included in Essential Vanilla Enhancements Merged).
+- Removed **The Moon Comes Over The Tower - Restored with YUP Fixes** (included in Essential Vanilla Enhancements Merged).
+- Removed **Casino Exchange All** (included in Essential Vanilla Enhancements Merged).
+- Removed **Faction Armor Redone YUPdated** (included in Essential Vanilla Enhancements Merged).
+- Removed **Harvestable Cave Fungus** (included in Essential Vanilla Enhancements Merged).
+- Removed **Stars Turned Face Up** (included in Essential Vanilla Enhancements Merged).
+- Removed **Mass Ownership Tweaks** (included in Essential Vanilla Enhancements Merged).
 
 10-16-2022
 - Added **Strip Performance Fix**.
