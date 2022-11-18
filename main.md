@@ -527,6 +527,9 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 - Install **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 - Install **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 
+[**Less Accurate NPC's NVSE**](https://www.nexusmods.com/newvegas/mods/78566)  
+Makes NPCs less accurate by editing the fNPCMaxGunWobbleAngle game setting.
+
 [**Melee Cleave**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies for a more satisfying melee gameplay.
 
@@ -548,6 +551,9 @@ Causes radiation to damage your health until it is removed. Every 10 points of r
 
 [**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202)  
 Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing.
+
+[**Reduced Vendor Discounts**](https://www.nexusmods.com/newvegas/mods/78505)  
+Reduces discounts given by vendors and merchants upon earning reputation, completing quests, etc.
 
 [**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
 Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
@@ -578,7 +584,7 @@ Patches for using several popular mods alongside JSawyer Ultimate Edition.
 - Install as **JSawyer Ultimate - Mojave Raiders Patch**.
 
 [**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/vivanewvegas.github.io/raw/master/files/Mojave%20Raiders%20Tweaks.7z)  
-Lowers the occurrence of high ordnance weaponry in raider spawns and addresses currency carried by raiders.
+Incorporates YUP fixes and Uncut Wasteland restorations; lowers the occurrence of high ordnance weaponry in raider spawns and omits NCR and Legion currency from raider loot.
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -689,6 +695,12 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-18-2022
+- Dropped **JSawyer Ultimate - YUP Patch** (no longer needed with JSawyer Ultimate update 5.4.6).
+- Added **No NPC Throwing Weapon Consumption - Push's Tweaks Patch** to New Vegas Sharp Patches.
+- Added **Less Accurate NPCs**.
+- Added **Reduced Vendor Discounts**.
 
 11-16-2022
 - Updated **Stewie Custom INI** with Ammo Burst Case Count Fix.
