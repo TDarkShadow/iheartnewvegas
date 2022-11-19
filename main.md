@@ -115,6 +115,7 @@ Restores some cut but fully-functional NPCs to the Strip, increasing the Strip's
 
 [**Uncut Wasteland**](https://github.com/VivaNewVegas/vivanewvegas.github.io/raw/master/files/Uncut%20Wasteland.7z)  
 Restores a huge amount of cut content from the game, from scenery and little random things, to NPCs and creatures.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 [**Strip Lights Region Fix**](https://www.nexusmods.com/newvegas/mods/73596?)  
 Fixes a vanilla issue about the Strip lights not showing in certain parts of the map.
@@ -125,12 +126,14 @@ Fixes a vanilla issue about the Strip lights not showing in certain parts of the
 
 [**Armor and Clothing First Person Clipping Fixes**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Armor%20and%20Clothing%20First%20Person%20Clipping%20Fixes.7z)  
 Addresses first-person clipping for a variety of outfits, particularly noticeable when moving with a weapon drawn.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 [**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
 
 [**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
 Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/65004) to original mod by **YanL**. The featured version includes YUP fixes and omits unnecessary edits.
 
@@ -184,6 +187,7 @@ Engine bugfixes, optional tweaks and new features with no performance impact. Fu
 
 [**Stewie Tweaks Custom INI**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Stewie%20Tweaks%20Custom%20INI.7z)  
 Enables essential bugfix and quality-of-life settings, hand-picked by lStewieAl, as well as a number of gameplay tweaks. Based off [**Stewie Tweaks Essentials INI**](https://www.nexusmods.com/newvegas/mods/76522).
+- Install manually ![Install](MO2/MO_Archive.png).
 
 <details>
 <summary>Enabled gameplay tweaks</summary>
@@ -249,6 +253,7 @@ Allows any number of mods to be configured from a single menu, accessible throug
 [**Vanilla UI Plus (New Vegas)**](https://www.moddb.com/mods/vanilla-ui-plus/downloads/vanilla-ui-plus-nv)  
 Greatly improves the user interface without compromising the original style.
 - Download the mod using the **DOWNLOAD NOW!** button.
+- Install manually ![Install](MO2/MO_Archive.png).
 - Check the following options in the FOMOD installer:
   - [X] Classic Pip-Boy Font
   - [X] Plugin
@@ -323,6 +328,7 @@ A collection of small essential gameplay improvements for the official DLCs that
 
 [**Shut Up DLC Companions YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Shut%20Up%20DLC%20Companions%20YUPdated.7z)  
 Stops the companions from Dead Money and Honest Hearts from constantly saying all sorts of idle chatter.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/63082) to original mod by **ZuTheSkunk**. The featured version includes YUP fixes.
 
@@ -343,10 +349,11 @@ Removes annoying features from some followers. Changes the effects of the Enhanc
 
 [**Immersive Primary Needs**](https://eddoursul.win/download/228)  
 As hunger, thirst or sleep deprivation increase, the player is notified by periodic sound effects. These effects kick in shortly before the first penalties occur, so the player is given a chance to eat, drink or sleep in time.
-- Install as **Immersive Primary Needs**.
+- Install manually ![Install](MO2/MO_Archive.png) as **Immersive Primary Needs**.
 
 [**Melee Reach Fixed YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Melee%20Reach%20Fixed%20YUPdated.7z)  
 Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
 
@@ -367,6 +374,7 @@ Clean first person animations. No new idles, no bugs, no reload cancelling from 
 
 [**Viewmodel Recoil 0.308**](https://www.nexusmods.com/newvegas/mods/71852)  
 Adds a visual recoil mod that affects first person model only and doesn't move the camera at all.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 [**B42 Weapon Inertia**](https://www.nexusmods.com/newvegas/mods/64335)  
 Adds weapon inertia, causing weapons to slightly lag behind camera movement to give a feeling of weight to them.
@@ -449,6 +457,7 @@ Adds lights to the Strip where lights existed but where not producing light. Als
 
 [**Wasteland Grass Overhaul**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Wasteland%20Grass%20Overhaul.7z)  
 Improves grass textures.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
 
@@ -587,6 +596,7 @@ Patches for using several popular mods alongside JSawyer Ultimate Edition.
 
 [**Mojave Raiders Tweaks**](https://github.com/VivaNewVegas/vivanewvegas.github.io/raw/master/files/Mojave%20Raiders%20Tweaks.7z)  
 Incorporates YUP fixes and Uncut Wasteland restorations; lowers the occurrence of high ordnance weaponry in raider spawns and omits NCR and Legion currency from raider loot.
+- Install manually ![Install](MO2/MO_Archive.png).
 
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
@@ -601,6 +611,7 @@ Makes repairing more difficult by making each repair require a consumable Repair
 
 [**New Vegas Sharp Patches**](https://github.com/Sigourn/newvegassharp/raw/main/mods/New%20Vegas%20Sharp%20Patches.7z)  
 Includes patches for **JSawyer Ultimate Edition**.
+- Install manually ![Install](MO2/MO_Archive.png).
 - Check the following options in the FOMOD installer:  
   - JSawyer Ultimate
     - [X] Yukichigai Unofficial Patch
