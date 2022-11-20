@@ -152,6 +152,9 @@ Fixes all the iron sights on vanilla weapon meshes using ISControl Enabler. No m
 Fixes Elijah's voice loudness and clipping issues in Dead Money. 
 - Install **Elijah Voice Files Fix - WAV Encoding** (Main files).
 
+[**Female Nuka-Cola Drinking Sound Replacer**](https://www.nexusmods.com/newvegas/mods/68476)  
+For female characters ONLY. Replaces the drinking sound from a male voice to a female voice.
+
 [**High-Quality Classic Music**](https://www.nexusmods.com/newvegas/mods/72150)  
 Replaces the low-quality soundtrack from the classic Fallout games with high-quality versions.
 
@@ -227,6 +230,8 @@ bPickpocketOverhaul = 1
 bPreventStealingCapsAfterRepair = 1
 ; add hotkeys to instantly equip the cross-hair and container selections
 bQuickUse = 1
+; remember ammo type and count for all player weapons
+bRememberWeaponAmmos =1  
 ; restore the '2' weapon hotkey
 bRestore2Hotkey = 1
 ; add a button to sort/filter the inventory
@@ -269,6 +274,9 @@ Greatly improves the user interface without compromising the original style.
 
 > ℹ️ This increases the amount of visible dialogue options and enables numbered dialogue options.
 
+[**Character Preset Menu**](https://www.nexusmods.com/newvegas/mods/72789)  
+Integrates character import and export into the character creation menu, allowing you to save and load your character's preset.
+
 [**Clean Vanilla HUD**](https://www.nexusmods.com/newvegas/mods/70001)  
 Cleans up HUD textures (such as the compass ticks or other arrows) that have went unnoticed.
 - Stick to the default options in the FOMOD installer.
@@ -287,7 +295,10 @@ Bug fixes and consistency tweaks for icons in terms of coloring and transparency
 
 [**Pop-Up Message Icons**](https://www.nexusmods.com/newvegas/mods/76516)  
 Cleans up the Vault Boy pop up message icons.
-- Stick to the default options in the FOMOD installer.
+- Check the following options in the FOMOD installer:
+  - [X] Main Mod
+  - [X] Extension - Hunger, Dehydration, Sleep and Radiation
+  - [X] Extension - Reputation
 
 [**Simple Cursor YUI**](https://www.nexusmods.com/newvegas/mods/78340)  
 A simple and clean cursor replacer to be used with yUI and matching Clean Vanilla HUD's visual design.
@@ -298,6 +309,9 @@ Increases the resolution of local maps from 128 to 512, optionally you can chang
 
 [**High Resolution Screens**](https://www.nexusmods.com/newvegas/mods/77989)  
 Increases the render resolution of in-game screens to match game's screen resolution. 
+
+[**Pause Menu HD**](https://www.nexusmods.com/newvegas/mods/63934)  
+HD remake of the vanilla pause background, created from scratch and faithful to the original.
 
 [**Satellite World Map**](https://www.nexusmods.com/newvegas/mods/58602)  
 High-res satellite map for the Mojave Wasteland.
@@ -356,6 +370,9 @@ Fixes the horribly inconsistent vanilla weapon reach for melee weapons.
 - Install manually ![Install](MO2/MO_Archive.png).
 
 > ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/57729?) to original mod by **naugrim04**. The featured version omits outdated fixes.
+
+[**Uncluttered Challenge List**](https://www.nexusmods.com/newvegas/mods/69240)  
+Hides many dummy and one-off challenges from the DLC so that they don't clutter up your list right from the start of the game.
 
 ## VISUALS
 
@@ -452,30 +469,34 @@ A simple replacer for the default underwear, removing the shirt for males and tw
 [**A Little More Lamplight**](https://www.nexusmods.com/newvegas/mods/69226)  
 Enhances the shoddy work on the vanilla functional streetlamps and lights of Outer Vegas, Camp McCarran, Camp Golf, and the NCRCF. 
 
+[**Lucky 38 Lights Redone**](https://www.nexusmods.com/newvegas/mods/73273)  
+Overhauls the Lucky 38 lights to account for storyline changes.
+- Install **Lucky 38 Lights Redone** (Main files).
+
+[**Simple Interior Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/71390)  
+Scripted simple solution for more immersive interiors.
+
 [**Strip Lighting Overhaul**](https://www.nexusmods.com/newvegas/mods/73324)  
 Adds lights to the Strip where lights existed but where not producing light. Also fixes a number of vanilla bugs via editing the environment and certain meshes.
 
-[**Wasteland Grass Overhaul**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Wasteland%20Grass%20Overhaul.7z)  
-Improves grass textures.
-- Install manually ![Install](MO2/MO_Archive.png).
+[**Altitude - A Vanilla Plus Weather Mod**](https://www.nexusmods.com/newvegas/mods/71404)  
+Vastly improves all the weathers in the game, without stepping on the toes of vanilla New Vegas's design too much.
+- Install **Altitude** (Main files).
+- Install **Altitude - Zion Ambient Music** (Optional files). Merge when prompted.
+- (Optional) Install **Altitude - Alternate Nights** (Optional files). Merge when prompted.
 
-> ℹ️ [**Link**](https://www.nexusmods.com/newvegas/mods/39856) to original mod by **vurt**. The featured version omits non-grass related meshes and textures.
+[**Pip-Boy Light Tweaks**](https://github.com/Sigourn/newvegassharp/raw/main/mods/PipBoy%20Light%20Tweaks.7z)  
+Adjustments to Pip-Boy light color and radius for a more natural look.
 
-[**Desert Natural Weathers - NV - TTW**](https://www.nexusmods.com/newvegas/mods/75437)  
-An overhaul of the weathers in New Vegas with 360 panoramic cloud textures, improved lighting, and DLC support.
-- Install **Desert Natural Weathers NV** (Main files).
-- Install **Alternate Atmosphere Mesh from RWLE** (Optional files). Merge when prompted.
-- After installation, double-click the mod and select the **INI Files** tab.
-- Select **HDRWeatherAndColor.ini**, and set **bInteriorColorFix** to 0.
-- Click the **Save** icon and close the window.
-
-> ℹ️ This restores the vanilla interior color tint, which in my opinion is rather atmospheric.
+[**Elegant Sunglare Retexture**](https://www.nexusmods.com/newvegas/mods/75086)  
+A replacement for the sun and sun-glare textures, for a simple, visually appealing style. Helps remove sky grain.
 
 [**Accurate NASA Stars**](https://www.nexusmods.com/newvegas/mods/75522)  
 New star texture and mesh using NASA satellite images to create a real-world accurate starfield for New Vegas.
-- Install **Accurate Stars 4k** (Main files).
+- Install **Accurate Stars 8K** (Main files).
 
-> ℹ️ This mod is a fitting companion to the **HD Moon 2K - NASA Satellite Images** mod included in Desert Natural Weathers.
+[**HD Moon 2K - NASA Satellite Images**](https://www.nexusmods.com/newvegas/mods/74022)  
+Retexture of the in game moon using NASA satellite images.
 
 [**Night Sky Tweaks**](https://www.nexusmods.com/newvegas/mods/73529)  
 Fixes the bright night sky horizons.
@@ -500,6 +521,11 @@ Tones down the dust storm effect near the Hidden Valley bunkers.
 Reduces the distant glow of New Vegas for the sake of darker nights.
 - Install **Slightly Brighter** (Main files).
 
+[**Nut's Natural Grass**](https://www.nexusmods.com/newvegas/mods/73774)  
+A grass overhaul to all the main grasses you see in the wasteland. 
+- Check the following option in the FOMOD installer:
+  - [X] 2K Version
+
 ## GAMEPLAY
 
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
@@ -516,6 +542,9 @@ Adds recoil animations to player and NPCs. Recoil strength is calculated based o
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls the vanilla traits to effectively remove all SPECIAL buffs and debuffs, replacing them with effects that simulate what was replaced, as well as adds 2 new traits.
+
+[**Burden to Bear - Original**](https://www.nexusmods.com/newvegas/mods/66637)  
+Medium and heavy armor will no longer slow you down, removes the perk's carry weight buff, and increases STR requirement from 6 to 8.
 
 [**Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -553,9 +582,6 @@ Combat music will only start when the player or an enemy start combat with each 
 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game becoming too easy by making enemies more likely to target the player in combat rather than companions.
-
-[**Progressive Sneak Attack Damage**](https://www.nexusmods.com/newvegas/mods/77571)  
-Makes sneak attack critical damage scale with the player's Sneak skill.
 
 [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
 Causes radiation to damage your health until it is removed. Every 10 points of radiation reduces your maximum health by 1%. With Hardcore mode enabled, your primary needs will reduce your AP as well.
@@ -708,6 +734,24 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-20-2022
+- Added **Female Nuka-Cola Drinking Sound Replacer**.
+- Added **Character Preset Menu**.
+- Added **Pause Menu HD**.
+- Added **Uncluttered Challenge List**.
+- Added **Lucky 38 Lights Redone**.
+- Added **Simple Interior Lighting Overhaul**.
+- Added **Altitude - A Vanilla Plus Weather Mod**.
+- Added **Pip-Boy Light Tweaks**.
+- Added **Elegant Sunglare Retexture**.
+- Added **HD Moon 2K - NASA Satellite Images**.
+- Added **Nut's Natural Grass**.
+- Updated **Pop-Up Message Icons** instructions (now recommends the additional Hardcore needs and reputation icons).
+- Updated **Stewie Tweaks Custom INI** (now includes remembering ammo count for weapons).
+- Removed **Wasteland Grass Overhaul** (replaced with Nut's Natural Grass).
+- Removed **Desert Natural Weathers - NV - TTW** (the lighting edits are a hit or miss, and DLCs in particular don't look very well).
+- Removed **Progressive Sneak Attack Damage** (made sneak criticals far too weak).
 
 11-18-2022
 - Dropped **JSawyer Ultimate - YUP Patch** (no longer needed with JSawyer Ultimate update 5.4.6).
