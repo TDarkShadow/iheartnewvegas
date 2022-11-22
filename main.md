@@ -631,7 +631,6 @@ Includes patches for **JSawyer Ultimate Edition**.
 - Install manually ![Install](MO2/MO_Archive.png).
 - Check the following options in the FOMOD installer:  
   - JSawyer Ultimate
-    - [X] Yukichigai Unofficial Patch
     - [X] Fix for the Caesar Legion Armors
     - [X] Throwable Weapon Fixes
     - [X] Improved Traits
@@ -639,6 +638,7 @@ Includes patches for **JSawyer Ultimate Edition**.
     - [X] JSUE Balance Tweaks
     - [X] Vanilla Enhancements JSUE Patch
     - [X] Vanilla Enhancements Mojave Arsenal Patch
+    - [X] No NPC Throwing Weapon Consumption - Push Tweaks Patch
     - [X] YUP + Uncut Wasteland + Mojave Raiders + JSawyer Ultimate
 
 ### Adjusting mod order and load order
