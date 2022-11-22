@@ -130,6 +130,9 @@ Addresses first-person clipping for a variety of outfits, particularly noticeabl
 
 [**New Vegas Mesh Improvement Mod - NVMIM**](https://www.nexusmods.com/newvegas/mods/74295)  
 Optimizations and fixes for a large selection of meshes in the base game and DLCs.
+- Install **New Vegas Mesh Improvement Mod** (Main files).
+- Install **Plugin That Should Have Been In The Main File** (Main files). Merge when prompted.
+- Install **Strip Collision Fix** (Update files). Merge when prompted.
 
 [**Fix for the Caesar Legion Armors YUPdated**](https://github.com/Sigourn/newvegassharp/raw/main/mods/Fix%20for%20the%20Caesar%20Legion%20Armors%20YUPdated.7z)  
 Fixes numerous issues with the Caesar Legion armor meshes, and flags the helmets appropriately so you can no longer equip inadequate headgear along with them.
@@ -531,8 +534,8 @@ A grass overhaul to all the main grasses you see in the wasteland.
 [**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
 Adds melee attacks for non-melee weapons, similar to melee hits and buttstrokes in modern FPS games.
 
-[**Charisma Matters**](https://www.nexusmods.com/newvegas/mods/78448)  
-Makes Charisma scale the amount of Reputation received when helping or harming a faction. High Charisma will make it easier to become liked and harder to be hated, whereas low Charisma will make it harder to become liked and easier to be hated.
+[**B42 Retrievable Throwables Reforged**](https://www.nexusmods.com/newvegas/mods/66461)  
+Throwable melee weapons can now be retrieved, both from the scenery and NPCs/creatures. Includes optional retrieval chance adjustment and retrievables highlighting.
 
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
 Changes the amount of followers for you can have to your Charisma stat/2, rounded down (configurable).
@@ -542,9 +545,6 @@ Adds recoil animations to player and NPCs. Recoil strength is calculated based o
 
 [**Improved Traits**](https://www.nexusmods.com/newvegas/mods/65403)  
 Overhauls the vanilla traits to effectively remove all SPECIAL buffs and debuffs, replacing them with effects that simulate what was replaced, as well as adds 2 new traits.
-
-[**Burden to Bear - Original**](https://www.nexusmods.com/newvegas/mods/66637)  
-Medium and heavy armor will no longer slow you down, removes the perk's carry weight buff, and increases STR requirement from 6 to 8.
 
 [**Just Assorted Mods**](https://www.nexusmods.com/newvegas/mods/66666)  
 A collection of toggleable mods, including dynamic crosshair, hit marker, hit indicator, visual objectives, hold breath, vanilla sprint, bullet time, weapon wheel, and loot menu.
@@ -567,14 +567,8 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 - Install **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 - Install **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 
-[**Less Accurate NPC's NVSE**](https://www.nexusmods.com/newvegas/mods/78566)  
-Makes NPCs less accurate by editing the fNPCMaxGunWobbleAngle game setting.
-
 [**Melee Cleave**](https://www.nexusmods.com/newvegas/mods/66187)  
 Makes melee attacks hit multiple enemies for a more satisfying melee gameplay.
-
-[**NPCs Use Aid Items**](https://www.nexusmods.com/newvegas/mods/68742)  
-NPCs will now "use" Stimpacks and other aid items to recover health and buff their stats. The chems they use are based on if they are carrying them or if they will drop them on death.
 
 [**Passive Combat Music Tweaked**](https://www.nexusmods.com/newvegas/mods/69424)  
 Combat music will only start when the player or an enemy start combat with each other.
@@ -586,14 +580,16 @@ Prevents the game becoming too easy by making enemies more likely to target the 
 [**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
 Causes radiation to damage your health until it is removed. Every 10 points of radiation reduces your maximum health by 1%. With Hardcore mode enabled, your primary needs will reduce your AP as well.
 
-[**Realistic Movement**](https://www.nexusmods.com/newvegas/mods/64202)  
-Movement is slowed for all actors, and their turning speed is also reduced, forcing them to make parabolic turns instead of sharp ones. Movement speed is especially slower for actors who have their weapon out. This makes combat targets less likely to dodge your bullets while strafing.
-
 [**Reduced Vendor Discounts**](https://www.nexusmods.com/newvegas/mods/78505)  
 Reduces discounts given by vendors and merchants upon earning reputation, completing quests, etc.
 
 [**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
 Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
+
+[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
+Makes repairing more difficult by making each repair require a consumable Repair Tools item. Also replaces Weapon Repair Kits, with patches for JSawyer Ultimate's Armor Repair Kits. 
+- Install **Repair Tools** (Main files).
+- Install **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
 
 [**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
 Allows you to bypass locks with explosives, as long as your Explosives skill matches or exceeds the difficulty of the lock. Equip an explosive, crouch, then activate the locked door or chest as normal, and select Explosive Entry. Includes optional item destruction.
@@ -627,11 +623,6 @@ Incorporates YUP fixes and Uncut Wasteland restorations; lowers the occurrence o
 [**Mojave Wildlife**](https://www.nexusmods.com/newvegas/mods/64638)  
 Adds hundreds more leveled, vanilla-friendly creature spawn points throughout the whole Mojave, based off unused vanilla leveled lists. All spawn points are meticulously hand-placed and distributed as evenly and fairly as possible.
 - Install **Mojave Wildlife - Vanilla No Chanced Spawns Version** (Main files).
-
-[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
-Makes repairing more difficult by making each repair require a consumable Repair Tools item. Also replaces Weapon Repair Kits, with patches for JSawyer Ultimate's Armor Repair Kits. 
-- Install **Repair Tools** (Main files).
-- Install **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
 
 ## FINISHING TOUCHES
 
@@ -734,6 +725,16 @@ V | Toggle bullet time | Just Assorted Mods
 Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
+
+11-22-2022
+- Updated **New Vegas Mesh Improvement Mod - NVMIM** installation instructions.
+- Added **B42 Retrievable Throwables Reforged**.
+- Removed **Charisma Matters** (had an annoying bug where reputation would continuously update itself with no changes; a band-aid fix would be to disable reputation messages in lStewieAl's Tweaks).
+- Removed **Burden to Bear - Original** (now included in Essential Vanilla Enhancements).
+- Removed **Less Accurate NPC's NVSE** (as the difference is hardly noticeable).
+- Removed **NPCs Use Aid Items** (as a challenge mod it works, for regular gameplay it makes encounters infuriating however).
+- Removed **Realistic Movement** (makes gameplay more sluggish that it needs to be, plus movement animations look slow-mo with it).
+- For users of **Desert Natural Weathers**, listed it in the MO2 profile files so it automatically places the mod where it belongs.
 
 11-20-2022
 - Added **Female Nuka-Cola Drinking Sound Replacer**.
