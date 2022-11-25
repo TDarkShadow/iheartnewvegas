@@ -412,9 +412,6 @@ Detail-focused animation, intended to look natural and immersive. Takes just a l
 - Install **Female Anim B** (Main files).
 - Install **Male Anim B** (Main files). Merge when prompted.
 
-[**Hit - Locomotion**](https://www.nexusmods.com/newvegas/mods/76097)  
-New movement animations, intended to look natural and immersive.
-
 [**Character Expansions Revised**](https://www.nexusmods.com/newvegas/mods/64862)  
 Visual overhaul of characters' faces, following vanilla aesthetics. 
 
@@ -531,7 +528,10 @@ A grass overhaul to all the main grasses you see in the wasteland.
 
 ## GAMEPLAY
 
-[**Retrievable Throwables Reforged**](https://www.nexusmods.com/newvegas/mods/66461)  
+[**B42 Melee Bash**](https://www.nexusmods.com/newvegas/mods/68055)  
+Adds melee attacks for non-melee weapons, similar to melee hits and buttstrokes in modern FPS games.
+
+[**B42 Retrievable Throwables Reforged**](https://www.nexusmods.com/newvegas/mods/66461)  
 Throwable melee weapons can now be retrieved, both from the scenery and NPCs/creatures. Includes optional retrieval chance adjustment and retrievables highlighting.
 
 [**Follower Formula Redone**](https://www.nexusmods.com/newvegas/mods/71490)  
@@ -561,6 +561,9 @@ Adds iron sights to numerous Energy Weapons that were lacking them.
 - Install **Laser Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 - Install **Plasma Weapon Iron Sights - Iron Sight Recoil Animations** (Optional files). Merge when prompted.
 
+[**Melee Cleave**](https://www.nexusmods.com/newvegas/mods/66187)  
+Makes melee attacks hit multiple enemies for a more satisfying melee gameplay.
+
 [**Passive Combat Music Tweaked**](https://www.nexusmods.com/newvegas/mods/69424)  
 Combat music will only start when the player or an enemy start combat with each other.
 - Install **New and Improved** (Main files).
@@ -568,11 +571,22 @@ Combat music will only start when the player or an enemy start combat with each 
 [**Player Combat Priority**](https://www.nexusmods.com/newvegas/mods/71699)  
 Prevents the game becoming too easy by making enemies more likely to target the player in combat rather than companions.
 
+[**RAD - Radiation (is) Actually Dangerous - Overhaul**](https://www.nexusmods.com/newvegas/mods/71541)  
+Causes radiation to damage your health until it is removed. Every 10 points of radiation reduces your maximum health by 1%. With Hardcore mode enabled, your primary needs will reduce your AP as well.
+
 [**Reduced Vendor Discounts**](https://www.nexusmods.com/newvegas/mods/78505)  
 Reduces discounts given by vendors and merchants upon earning reputation, completing quests, etc.
 
 [**Reload Reloaded**](https://www.nexusmods.com/newvegas/mods/62266)  
 Replacements for agility modifiers to reload and draw speed, strength modifiers to throwing range, and custom sneak attack damage multipliers.
+
+[**Repair Tools**](https://www.nexusmods.com/newvegas/mods/74884)  
+Makes repairing more difficult by making each repair require a consumable Repair Tools item. Also replaces Weapon Repair Kits, with patches for JSawyer Ultimate's Armor Repair Kits. 
+- Install **Repair Tools** (Main files).
+- Install **Repair Tools - JSawyer Ultimate Push's Tweaks Patch** (Optional files).
+
+[**Simple Explosive Entry**](https://www.nexusmods.com/newvegas/mods/66992)  
+Allows you to bypass locks with explosives, as long as your Explosives skill matches or exceeds the difficulty of the lock. Equip an explosive, crouch, then activate the locked door or chest as normal, and select Explosive Entry. Includes optional item destruction.
 
 ## OVERHAULS
 
@@ -612,6 +626,7 @@ Includes patches for **JSawyer Ultimate Edition**.
   - JSawyer Ultimate
     - [X] Fix for the Caesar Legion Armors
     - [X] Throwable Weapon Fixes
+    - [X] Improved Traits
     - [X] Miscellaneous Tweaks
     - [X] JSUE Balance Tweaks
     - [X] Vanilla Enhancements JSUE Patch
@@ -690,6 +705,7 @@ The following settings need to be configured after you've already started a new 
 
 Key | Function | Added by
 ------------ | ------------- | -------------
+Q | Melee bash | B42 Melee Bash
 R (double tap) | Swap ammunition | lStewieAl's Tweaks
 J | Open Pip-Boy quests tab | lStewieAl's Tweaks
 M | Open Pip-Boy world map tab | lStewieAl's Tweaks
@@ -702,15 +718,10 @@ Shift+Movement | Sprint | Just Assorted Mods
 
 # CHANGELOG
 
-11-24-2022
-- Opted for a more conservative gameplay experience with this update.
-- Updated **Mojave Raiders** installation instructions.
-- Removed **B42 Melee Bash**.
+11-25-2022
+- Removed **Hit - Locomotion**.
 - Removed **Improved Traits**.
-- Removed **Melee Cleave**.
-- Removed **RAD - Radiation (is) Actually Dangerous - Overhaul**.
-- Removed **Repair Tools**.
-- Removed **Simple Explosive Entry**.
+- Removed **No NPC Throwing Weapon Consumption**.
 
 11-22-2022
 - Updated **New Vegas Mesh Improvement Mod - NVMIM** installation instructions.
